@@ -14,6 +14,21 @@ Don't forget to:
 - 👉 ...give this repo a star so it become trending on Black Friday! ⭐ 🤩
 - 👉 ...bookmark this page to come back here next year 2023! 📆
 
+## Table of Contents
+
+- [👨‍💻 Developer Tools](#-developer-tools)
+- [🚀 Productivity](#-productivity)
+- [🌈 Marketing Tools](#-marketing-tools)
+- [🌅 Design Apps](#-design-apps)
+- [🌏 Social Media Tools](#-social-media-tools)
+- [🛟 Customer Support Tools](#-customer-support-tools)
+- [📗 Books](#-books)
+- [💅 Templates, Themes, Plugins](#-templates-themes-plugins)
+- [📹 Courses](#-courses)
+- [🍻 Paid Communities, Memberships](#-paid-communities-memberships)
+- [👨‍🎨 Miscellaneous](#-miscellaneous)
+
+
 ## 👨‍💻 Developer Tools
 
 |  | Name | Description | Discount Code & Terms |
@@ -60,11 +75,6 @@ Don't forget to:
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
 |  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 
-## 💅 Templates, Themes, Plugins
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
-
 ## 🛟 Customer Support Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -78,7 +88,10 @@ Don't forget to:
 |  🤑 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer. | 50% OFF, automatically applied |
 |  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
 
-
+## 💅 Templates, Themes, Plugins
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
