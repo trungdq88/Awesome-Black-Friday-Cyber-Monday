@@ -62,6 +62,8 @@ Don't forget to:
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
+|  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
+
 
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
