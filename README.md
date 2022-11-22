@@ -52,7 +52,6 @@ Don't forget to:
 | 💰 | [HEAVYPAINT](https://heavypaint.com/) | HEAVYPAINT is a painting app beloved by users for it's delightfully brutal approach. | 40% OFF with code **ITISADISCOUNTCANHAZ** |
 | 🤑 | [Logology](https://www.logology.co/) | Get a designer-quality logo for your startup in 5 minutes. | 50% OFF with code **BF22** |
 
-
 ## 🚀 Productivity Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -65,8 +64,8 @@ Don't forget to:
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
+|  💰 | [Grace](https://grace-app.com) | Powerful and easy-to use parental control app for iPhone and iPad. Get your children's screen time under control. | 20% OFF with code **BF22** |
 |  🤑 | [Reading Time for iOS](https://apps.apple.com/app/id1561460485) | Book reading companion app. Lets you clock your reading sessions and tells you time left to complete a book. What would you do if you knew a book can be finished in about 90 minutes? | 50% OFF for Unlock forever in-app purchase, no code necessary |
-
 
 
 ## 🌈 Marketing Tools
@@ -89,6 +88,7 @@ Don't forget to:
 |  🤑 | [Tryxie](https://tryxie.app) | Visual monitoring for websites. Get notified for every change in a url through Slack, Email or a custom webhook! | 50% OFF with code **BLACKFRIDAY** on first invoice |
 | 💰 | [Qualitycs.dev](https://qualitycs.dev) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website monthly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
 | 🤑  | [RemixFast](https://remixfast.com) | Build SaaS Apps, Internal Tools and lot more using Visual Editor. Jump start your next project with a generated codebase and only code what matters! Choice of RemixRun or Node.js stack with React, TailwindCSS and Prisma. | 50% OFF first year Advanced Annual Plan |
+| 💰  | [SecurityInfinity](https://securityinfinity.com) | Secure your website in 10 minutes in one click. AI enabled cybersecurity suite for vulnerability assessment and realtime analytics. Assess your website, cloud platform and identify vulnerabilities now. | 40% OFF on all plans with code **BLACKFRIDAY** |
 
 ## 🌏 Social Media Tools
 |  | Name | Description | Discount Code & Terms |
@@ -96,6 +96,7 @@ Don't forget to:
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
 |  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 |  🤑 | [Birdfeeder](https://getbirdfeeder.com) | Twitter Bookmark Manager. Full-text search, weekly summary emails and backup for your Twitter bookmarks | 50% OFF - BLACKFRIDAY22 |
+|  💰 | [PostFlow](https://postflow.app) | Social media scheduler and manager in your ClickUp workspace! (Twitter, LinkedIn, Instagram, Facebook) | 30% OFF (lifetime) with code __BLACKFRIDAY__ |
 
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
@@ -106,6 +107,7 @@ Don't forget to:
 |  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
 |  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins |
+|  🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The Django-powered SaaS boilerplate with built-in teams, billing, a modern front end, instant deployment and more | 50% OFF lifetime unlimited license auto applied all week |
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
@@ -126,6 +128,7 @@ Don't forget to:
 |  💵 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | Learn how to build a SaaS product from scratch with 25+ hours of video | 15% OFF auto applied on Fri |
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
 |  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
+|  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 
 ## 🍻 Paid Communities, Memberships
 |  | Name | Description | Discount Code & Terms |
@@ -137,3 +140,4 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Beautiful 100+ AI generated Images](https://shivamrathore.gumroad.com/l/beautiful-100-plus-ai-generated-images) | Get hold of **_astonishingly beautiful 100+ AI generated Images_**, that you have not even imagined... | **_100% OFF using BLACKFRIDAY_** |
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
+|  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
