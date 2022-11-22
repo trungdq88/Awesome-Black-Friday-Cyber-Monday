@@ -22,6 +22,7 @@ Don't forget to:
 - [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
 - [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
 - [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
+- [💸 Finance Tools](#-finance-tools)
 - [🌈 Marketing Tools](#-marketing-tools)
 - [🤖 AI Writing Tools](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools](#-startup-saastools)
@@ -94,7 +95,7 @@ Don't forget to:
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
 |  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
 
-## 🌈 Finance Tools
+## 💸 Finance Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Moonitor](https://moonitor.io) | Fully private cryptocurrency Portfolio tracker for Desktop. Moonitor gives you a clear overview of your cryptocurrencies assets in real time. | 50% OFF, automatically applied |
