@@ -176,6 +176,7 @@ Don't forget to:
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
+|  🤑 | [Flutter App Monetization: The Complete Guide](https://courses.1manstartup.com/flutter-monetization-course?coupon=BLACKFRIDAY)| 50% off The complete guide to setting up ads, in-app purchases, and subscriptions in a flutter app. | 50% off use code BLACKFRIDAY |
 
 
 ## 👨‍🎨 Miscellaneous
