@@ -16,20 +16,22 @@ Don't forget to:
 
 ## Table of Contents
 
-- [👨‍💻 Developer Tools](#-developer-tools)
-- [🌅 Design Tools](#-design-tools)
-- [🎛 Utility Tools](#-utility-tools)
-- [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
-- [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
-- [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
-- [🌈 Marketing Tools](#-marketing-tools)
-- [🤖 AI Writing Tools](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools](#-startup-saastools)
-- [🌏 Social Media Tools](#-social-media-tools)
-- [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
-- [📗 Books](#-books)
-- [📹 Courses](#-courses)
-- [👨‍🎨 Miscellaneous](#-miscellaneous)
+- [💵 Awesome Black Friday / Cyber Monday Deals - 2022 🤑](#-awesome-black-friday--cyber-monday-deals---2022-)
+  - [Table of Contents](#table-of-contents)
+  - [👨‍💻 Developer Tools](#-developer-tools)
+  - [🌅 Design Tools](#-design-tools)
+  - [🎛 Utility Tools](#-utility-tools)
+  - [🖥️ Productivity Desktop Apps](#️-productivity-desktop-apps)
+  - [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
+  - [🛠️ Productivity Tools \& Services](#️-productivity-tools--services)
+  - [🌈 Marketing Tools](#-marketing-tools)
+  - [🤖 AI Writing Tools](#-ai-writing-tools)
+  - [🚀 Startup SaaS/Tools](#-startup-saastools)
+  - [🌏 Social Media Tools](#-social-media-tools)
+  - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
+  - [📗 Books](#-books)
+  - [📹 Courses](#-courses)
+  - [👨‍🎨 Miscellaneous](#-miscellaneous)
 
 
 ## 👨‍💻 Developer Tools
@@ -110,7 +112,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Mark Copy AI](https://markcopy.ai) | Mark Copy helps you write marketing content 10x faster. Generate your SEO-opitmized blog post draft in 5 min. Also provides tools to create social media posts, ads, emails, and more. | **50% OFF on all plans for 3 months**, only on Friday Nov. 25 |
-|  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |  
+|  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |
 |  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 
 
@@ -138,7 +140,7 @@ Don't forget to:
 |  💰 | [PostFlow](https://postflow.app) | Social media scheduler and manager in your ClickUp workspace! (Twitter, LinkedIn, Instagram, Facebook) | 30% OFF (lifetime) with code __BLACKFRIDAY__ |
 |  💰 | [Tweet Tribe](https://tweettribe.com) | Engage with people on Twitter faster than ever before. Fuel your growth and boost your engagement rate | 40% OFF first year or month - BF2022 |
 |  💰 | [PocketTube](https://yousub.info) | Youtube Subscriptions & Playlists Manager, Video Deck, Auto Tags, Filter and Sort your videos | **30% OFF** first year, automatically applied |
-|  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |  
+|  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |
 | 🤑 | [Octomata](https://octomata.app) | Easily Turn a Reddit post into a video. Automate video generation including music, text to speech and transitions by just pasting a URL. | **50%** OFF using the code **BLACKFRIDAY22** at checkout |
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
@@ -176,6 +178,7 @@ Don't forget to:
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
+| 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | 30% OFF on Annual Subscription with code **THANKS2022** |
 
 
 ## 👨‍🎨 Miscellaneous
