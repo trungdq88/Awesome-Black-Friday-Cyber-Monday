@@ -53,6 +53,11 @@ Don't forget to give this repo a star! ⭐ 🤩
 | -- | ---| ------ | ------ |
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
 
+## 🛟 Customer Support Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a fully professional help center or documentation page. HelpKit helps you deliver instant help to your customers – without ever leaving Notion. It has built-in analytics, an embeddable widget, full text search, customizable themes and much more. | 40% off on all plans for the first year with code **BLACKFRIDAY_2022** |
+
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
