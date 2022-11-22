@@ -52,6 +52,7 @@ Don't forget to give this repo a star! ⭐ 🤩
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
+|  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
