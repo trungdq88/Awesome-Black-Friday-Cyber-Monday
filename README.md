@@ -74,6 +74,7 @@ Don't forget to:
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
 | 💰 | [Horcrux Email Backup](https://thehorcrux.com) | A mac app that lets you easily backup your emails as well as moves your emails between different providers when crisis strikes. | 30% OFF with code **BLACKFRIDAY** |
 | 💰 | [StopTheMadness](https://underpassapp.com/StopTheMadness/) | Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! | $3 off in the iOS App Store and Mac App Store |
+| 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
 
 
 ## ⌨️ Code Libraries
