@@ -54,6 +54,7 @@ Don't forget to:
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
 |  🤑 | [Dubble](https://dubble.so) | Documentation done while you work. Dubble watches how you work and translates your actions into written step-by-step guides, videos and screenshots - so you don’t have to. | 75% OFF Pro, applied automatically on checkout |
 | 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
+| 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
 
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
