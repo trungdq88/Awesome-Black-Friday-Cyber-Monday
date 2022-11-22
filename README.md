@@ -2,7 +2,7 @@
 
 Curated list of deals on Black Friday 2022. Feel free to add your app's deal below with a Pull Request. First come, first merged.
 
-Follow the discount emoji as below
+Follow the discount emoji as below:
 
 | Emoji | Discount Percentage |
 | :---: | ------: |
@@ -10,6 +10,7 @@ Follow the discount emoji as below
 |  💰   |  20% → 50% |
 |  🤑   |  >= 50% |
 
+Don't forget to give this repo a star! ⭐ 🤩
 
 ## 👨‍💻 Developer Tools
 
