@@ -37,7 +37,7 @@ Follow the discount emoji as below
 ## 🌅 Design Apps
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | **BLACK22** | Expiration date: 30-11-2022 |
+| 💰 | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | 30% OFF with code **BLACK22** | 
 |  🤑  | [Mediamodifier](https://mediamodifier.com) | Mediamodifier makes it easier for you to succeed in digital marketing and build a professional presence for your brand with astonishingly easy-to-use online tools. | **50% OFF for Annual Subscription** | Expiration date: 04-12-2022 |
 
 ## 📗 Books
@@ -49,9 +49,7 @@ Follow the discount emoji as below
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS. | 50% OFF, automatically applied |
-|  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers
-|  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
- | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $ 100, with an annual subscription of Composables. |
+|  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $100, with an annual subscription of Composables.|
 
 
 ## 🌏 Social Media
