@@ -103,6 +103,7 @@ Don't forget to:
 |  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
 |  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins |
+|  🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The Django-powered SaaS boilerplate with built-in teams, billing, a modern front end, instant deployment and more | 50% OFF lifetime unlimited license auto applied all week |
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
