@@ -22,7 +22,9 @@ Follow the discount emoji as below
 |  💰 | [Pulsetic](https://pulsetic.com/) | Get notified by phone calls, SMS, email, Telegram, or Slack when a website goes down. Enhance your company's transparency in the eyes of your customers by creating appealing status pages, badges, and issue management reports. | 30% OFF with code **BLACK22** |
 | 🤑 | [lightGallery](https://www.lightgalleryjs.com/) | A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. | 50% OFF with code **P89HB39LR7** |
 |  🤑 | [LaunchBuddy](https://apple.co/3iFcjjW) | Manage your Indie Apps, Projects, Releases and Tasks. | >50% OFF for LaunchBuddy Pro (Small) |
- 
+|  🤑 | [BladeMail.app](https://blademail.app) | Desktop app for email testing locally. | 50% OFF with code **BLACKFRIDAY** |
+|  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
+
 ## 🚀 Productivity
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
