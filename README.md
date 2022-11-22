@@ -127,6 +127,7 @@ Don't forget to:
 | 💰  | [SecurityInfinity](https://securityinfinity.com) | Secure your website in 10 minutes in one click. AI enabled cybersecurity suite for vulnerability assessment and realtime analytics. Assess your website, cloud platform and identify vulnerabilities now. | 40% OFF on all plans with code **BLACKFRIDAY** |
 | 💰 | [Dewstack](https://www.dewstack.com) | Dewstack helps you build and host your documentation on your own domain with no technical knowledge. It can be a knowledge base, user manual, product doc or anything you need to host as a guide to your end users, Dewstack helps you do that in a Quick & Easy way.  | 40% off for LIFE on Scale plan with code **BFCMScale40** & 30% off for LIFE on Launch plan with code **BFCMLaunch30** |
 | 💰 | [hirevire](https://hirevire.com) | Hirevire can help you automate the first round of interviews. Get answers for basic screening questions via video, file uploads or text. Great for building teams when you have a short staffed HR Team. | **BF50** for 50% off on all plans |
+|  🤑 | [UserGuiding](https://userguiding.com) | User onboarding made easy, for less. | 50% OFF with code **BLACKFRIDAY22** |
 
 
 ## 🌏 Social Media Tools
