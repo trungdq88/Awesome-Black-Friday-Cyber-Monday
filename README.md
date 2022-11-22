@@ -21,6 +21,7 @@ Don't forget to:
 - [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
 - [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
 - [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
+- [🎛 Utility Tools](#-utility-tools)
 - [🌈 Marketing Tools](#-marketing-tools)
 - [🚀 Startup SaaS/Tools](#-startup-saastools)
 - [🌏 Social Media Tools](#-social-media-tools)
@@ -42,7 +43,6 @@ Don't forget to:
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
-
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
@@ -85,6 +85,11 @@ Don't forget to:
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
 |  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
 
+
+## 🎛 Utility Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
 
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
