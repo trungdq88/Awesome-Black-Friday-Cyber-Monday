@@ -40,6 +40,7 @@ Don't forget to:
 |  🤑 | [BladeMail.app](https://blademail.app) | Desktop app for email testing locally. | 50% OFF with code **BLACKFRIDAY** |
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
+|  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
 
 
 ## 🌅 Design Tools
@@ -71,7 +72,7 @@ Don't forget to:
 |  💰 | [Typing](https://typinghero.app) [Hero](https://play.google.com/store/apps/details?id=sen.typinghero) | Summon your custom messages and instantly send them in 2 taps on your Android device—no matter if it's 10 or 1000 characters long. It has helped businesses and professionals worldwide collectively saved 350K+ hours. | 20-40% OFF Lifetime License. No code required. |
 |  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
 |  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
-
+|  💰 | [Expense Buddy](https://expensebuddy.app) | Your personal expense & budget tracking app | 20% OFF all plans |
 
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
