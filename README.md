@@ -67,6 +67,7 @@ Don't forget to:
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
 |  💰 | [Grace](https://grace-app.com) | Powerful and easy-to use parental control app for iPhone and iPad. Get your children's screen time under control. | 20% OFF with code **BF22** |
 |  🤑 | [Reading Time for iOS](https://apps.apple.com/app/id1561460485) | Book reading companion app. Lets you clock your reading sessions and tells you time left to complete a book. What would you do if you knew a book can be finished in about 90 minutes? | 50% OFF for Unlock forever in-app purchase, no code necessary |
+|  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 
 
 ## 🌈 Marketing Tools
