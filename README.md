@@ -104,6 +104,7 @@ Don't forget to:
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
 |  💰 | [Growform](https://www.growform.co) | Growform is the form builder that gets you more leads. Build beautiful, responsive forms in minutes. | Get **40%** off all plans **forever** - sign up, then use code **BLACKFRI40** at upgrade page|
 |  🤑 | [Mailway Mail Merge](https://mailway.in) | Mailway Mail Merge is a Google Sheets add-on that lets you send personalized mass email campaigns from your Gmail account. Privacy-first & easy-to-use tool to achieve higher deliverability and open rates. | **50% off** on all plans (automatically applied) |
+|  🔎 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
 
 
 ## 🤖 AI Writing Tools
