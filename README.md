@@ -140,6 +140,7 @@ Don't forget to:
 |  💰 | [PocketTube](https://yousub.info) | Youtube Subscriptions & Playlists Manager, Video Deck, Auto Tags, Filter and Sort your videos | **30% OFF** first year, automatically applied |
 |  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |  
 | 🤑 | [Octomata](https://octomata.app) | Easily Turn a Reddit post into a video. Automate video generation including music, text to speech and transitions by just pasting a URL. | **50%** OFF using the code **BLACKFRIDAY22** at checkout |
+|  💰 | [Feedhive](https://feedhive.io) | Create, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform | **20% OFF** lifetime, automatically applied |
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
 |  | Name | Description | Discount Code & Terms |
