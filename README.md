@@ -44,6 +44,8 @@ Don't forget to:
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
 
 ## 🎛 Utility Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS) | 50% off (automatic) |
 
 ## 🌅 Design Tools
