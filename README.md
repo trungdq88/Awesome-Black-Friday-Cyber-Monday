@@ -56,6 +56,7 @@ Don't forget to:
 |  🤑 | [Dubble](https://dubble.so) | Documentation done while you work. Dubble watches how you work and translates your actions into written step-by-step guides, videos and screenshots - so you don’t have to. | 75% OFF Pro, applied automatically on checkout |
 | 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
+| 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
 
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
@@ -77,6 +78,7 @@ Don't forget to:
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
 |  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 |  🤑 | [Birdfeeder](https://getbirdfeeder.com) | Twitter Bookmark Manager. Full-text search, weekly summary emails and backup for your Twitter bookmarks | 50% OFF - BLACKFRIDAY22 |
+
 
 
 ## 🛟 Customer Support Tools
