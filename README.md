@@ -18,9 +18,11 @@ Don't forget to:
 
 - [👨‍💻 Developer Tools](#-developer-tools)
 - [🌅 Design Tools](#-design-tools)
-- [🚀 Productivity Tools](#-productivity-tools)
+- [🖥️ Productivity Desktop Apps](#-productivity-desktop-apps)
+- [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
+- [🛠️ Productivity Tools & Services](#-productivity-tools--services)
 - [🌈 Marketing Tools](#-marketing-tools)
-- [🛟 Startup SaaS/Tools](#-startup-saastools)
+- [🚀 Startup SaaS/Tools](#-startup-saastools)
 - [🌏 Social Media Tools](#-social-media-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
 - [📗 Books](#-books)
@@ -54,25 +56,35 @@ Don't forget to:
 | 🤑 | [Logology](https://www.logology.co/) | Get a designer-quality logo for your startup in 5 minutes. | 50% OFF with code **BF22** |
 | 🤑 | [Icons8](https://icons8.com/l/blackfriday2022/) | icons, illustrations, photos, and music. | Up to 55% off subscription |
 
-## 🚀 Productivity Tools
+
+## 🖥️ Productivity Desktop Apps
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
+| 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
+| 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
+| 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
+|  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
+|  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
+
+
+## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Timelog](https://timelog.link) | Time & Goal tracker app for Android and iOS. Understand how you spend your time and achieve your goals. | 30% OFF Timelog Plus (lifetime) with code **BLACKFRIDAY22** |
-| 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
-| 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
-|  🤑 | [Dubble](https://dubble.so) | Documentation done while you work. Dubble watches how you work and translates your actions into written step-by-step guides, videos and screenshots - so you don’t have to. | 75% OFF Pro, applied automatically on checkout |
-| 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
-| 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
-| 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
-|  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
-|  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
 |  💰 | [Grace](https://grace-app.com) | Powerful and easy-to use parental control app for iPhone and iPad. Get your children's screen time under control. | 20% OFF with code **BF22** |
 |  🤑 | [Reading Time for iOS](https://apps.apple.com/app/id1561460485) | Book reading companion app. Lets you clock your reading sessions and tells you time left to complete a book. What would you do if you knew a book can be finished in about 90 minutes? | 50% OFF for Unlock forever in-app purchase, no code necessary |
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 |  💰 | [Typing](https://typinghero.app) [Hero](https://play.google.com/store/apps/details?id=sen.typinghero) | Summon your custom messages and instantly send them in 2 taps on your Android device—no matter if it's 10 or 1000 characters long. It has helped businesses and professionals worldwide collectively saved 350K+ hours. | 20-40% OFF Lifetime License. No code required. |
-|  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
-|  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
 |  💰 | [Expense Buddy](https://expensebuddy.app) | Your personal expense & budget tracking app | 20% OFF all plans |
+
+## 🛠️ Productivity Tools & Services
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Dubble](https://dubble.so) | Documentation done while you work. Dubble watches how you work and translates your actions into written step-by-step guides, videos and screenshots - so you don’t have to. | 75% OFF Pro, applied automatically on checkout |
+| 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
+|  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
+|  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
 
 
 ## 🌈 Marketing Tools
@@ -86,7 +98,7 @@ Don't forget to:
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
 |  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 
-## 🛟 Startup SaaS/Tools
+## 🚀 Startup SaaS/Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [Static.app](https://static.app/) | Static.app is the easiest way to host a static HTML website online. Drag-and-drop an archive with your page or an entire website and we will take care of the rest. Everything is included: SSL certificate, code editor, forms and media storage all in one place. | 30% OFF with code **BLACK22** |
