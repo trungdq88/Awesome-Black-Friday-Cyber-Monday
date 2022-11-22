@@ -177,6 +177,7 @@ Don't forget to:
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
 |  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
+|  💰 | [AlgoExpert](https://www.algoexpert.io) | The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. | Get all 4 AlgoExpert products in one $99 bundle |
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
