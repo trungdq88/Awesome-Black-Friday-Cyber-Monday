@@ -36,6 +36,7 @@ Don't forget to:
 | 💰 | [Timelog](https://timelog.link) | Time & Goal tracker app for Android and iOS. Understand how you spend your time and achieve your goals. | 30% OFF Timelog Plus (lifetime) with code **BLACKFRIDAY22** |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
+| 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
 
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
