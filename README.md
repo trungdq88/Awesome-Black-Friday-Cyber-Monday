@@ -65,6 +65,7 @@ Don't forget to:
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
+|  💰 | [Grace](https://grace-app.com) | Powerful and easy-to use parental control app for iPhone and iPad. Get your children's screen time under control. | 20% OFF with code **BF22** |
 
 
 ## 🌈 Marketing Tools
