@@ -30,10 +30,15 @@ Follow the discount emoji as below
 | -- | ---| ------ | ------ |
 |  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2022** |
 
+## 🌈 Marketing Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Origits](https://origits.com) | Origits is a video platform that combines integrated marketing tools with one-click video player installation. One tag manages everything, making it extremely easy to manage any video inventory on the website and helping to turn video views on your website into customers.| 50% OFF on any plan with code **BLACKFRIDAY2022** |
+
 ## 🌅 Design Apps
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | **BLACK22** | Expiration date: 30-11-2022 |
+| 💰 | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | 30% OFF with code **BLACK22** |
 |  🤑  | [Mediamodifier](https://mediamodifier.com) | Mediamodifier makes it easier for you to succeed in digital marketing and build a professional presence for your brand with astonishingly easy-to-use online tools. | **50% OFF for Annual Subscription** | Expiration date: 04-12-2022 |
 
 ## 📗 Books
