@@ -6,8 +6,6 @@ Feel free to add your app's deal below with a Pull Request. First come, first me
 
 Please follow the discount emoji as below
 
-**Discount **
-
 | Emoji | Discount Percentage |
 | :---: | ------: |
 |  💵   |   < 20% |
