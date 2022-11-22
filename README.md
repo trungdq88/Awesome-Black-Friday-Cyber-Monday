@@ -17,6 +17,7 @@ Don't forget to:
 ## Table of Contents
 
 - [👨‍💻 Developer Tools](#-developer-tools)
+- [🎛 Utility Tools](#-utility-tools)
 - [🌅 Design Tools](#-design-tools)
 - [🚀 Productivity Tools](#-productivity-tools)
 - [🌈 Marketing Tools](#-marketing-tools)
@@ -42,6 +43,8 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
 
+## 🎛 Utility Tools
+| 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS) | 50% off (automatic) |
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
