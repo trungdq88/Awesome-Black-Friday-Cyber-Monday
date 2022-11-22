@@ -36,7 +36,7 @@ Follow the discount emoji as below
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS. | 50% OFF for 7 days |
+|  🤑 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS. | 50% OFF, automatically applied |
 
 ## 🌏 Social Media
 |  | Name | Description | Discount Code & Terms |
