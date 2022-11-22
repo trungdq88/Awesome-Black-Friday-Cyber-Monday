@@ -33,11 +33,12 @@ Follow the discount emoji as below
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Origits](https://origits.com) | Origits is a video platform that combines integrated marketing tools with one-click video player installation. One tag manages everything, making it extremely easy to manage any video inventory on the website and helping to turn video views on your website into customers.| 50% OFF on any plan with code **BLACKFRIDAY2022** |
+|  🤑 | [Mark Copy AI](https://markcopy.ai) | Mark Copy helps you write marketing content 10x faster. Generate your SEO-opitmized blog post draft in 5 min. Also provides tools to create social media posts, ads, emails, and more. | **50% OFF on all plans for 3 months**, only on Friday Nov. 25 |
 
 ## 🌅 Design Apps
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💰 | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | 30% OFF with code **BLACK22** | 
+|  | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | **BLACK22** | Expiration date: 30-11-2022 |
 |  🤑  | [Mediamodifier](https://mediamodifier.com) | Mediamodifier makes it easier for you to succeed in digital marketing and build a professional presence for your brand with astonishingly easy-to-use online tools. | **50% OFF for Annual Subscription** | Expiration date: 04-12-2022 |
 
 ## 📗 Books
