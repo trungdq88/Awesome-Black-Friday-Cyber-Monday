@@ -104,7 +104,7 @@ Don't forget to:
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
 |  💰 | [Growform](https://www.growform.co) | Growform is the form builder that gets you more leads. Build beautiful, responsive forms in minutes. | Get **40%** off all plans **forever** - sign up, then use code **BLACKFRI40** at upgrade page|
 |  🤑 | [Mailway Mail Merge](https://mailway.in) | Mailway Mail Merge is a Google Sheets add-on that lets you send personalized mass email campaigns from your Gmail account. Privacy-first & easy-to-use tool to achieve higher deliverability and open rates. | **50% off** on all plans (automatically applied) |
-
+|  🤑 | [Speetals](https://speetals.com) | Speetals is a customer-centric site speed monitoring tool. It helps website owners improve their user's experiences. Monitor Web Vitals + 3 other standard metrics. | **50% off** on all plans for one year. Use this code **SpeetalsBF2022** 
 
 ## 🤖 AI Writing Tools
 |  | Name | Description | Discount Code & Terms |
