@@ -101,6 +101,7 @@ Don't forget to:
 |  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 |  🤑 | [Birdfeeder](https://getbirdfeeder.com) | Twitter Bookmark Manager. Full-text search, weekly summary emails and backup for your Twitter bookmarks | 50% OFF - BLACKFRIDAY22 |
 |  💰 | [PostFlow](https://postflow.app) | Social media scheduler and manager in your ClickUp workspace! (Twitter, LinkedIn, Instagram, Facebook) | 30% OFF (lifetime) with code __BLACKFRIDAY__ |
+|  💰 | [Tweet Tribe](https://tweettribe.com) | Engage with people on Twitter faster than ever before. Fuel your growth and boost your engagement rate | 40% OFF first year or month - BF2022 |
 
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
