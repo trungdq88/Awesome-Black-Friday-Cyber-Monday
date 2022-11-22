@@ -105,6 +105,9 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
 |  💰 | [Cruip](https://cruip.com?ref=tony) | Beautifully designed Tailwind CSS landing page templates | >50% OFF, automatically applied at the checkout 🔥 |
+|  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
+
+
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
