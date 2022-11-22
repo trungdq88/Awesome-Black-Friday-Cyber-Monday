@@ -16,17 +16,17 @@ Don't forget to:
 
 ## Table of Contents
 
-- [👨‍💻 Developer Tools](#------developer-tools)
-- [🚀 Productivity](#---productivity)
-- [🌈 Marketing Tools](#---marketing-tools)
-- [🌅 Design Apps](#---design-apps)
-- [🌏 Social Media Tools](#---social-media-tools)
-- [🛟 Customer Support Tools](#---customer-support-tools)
-- [📗 Books](#---books)
-- [💅 Templates, Themes, Plugins](#---templates--themes--plugins)
-- [📹 Courses](#---courses)
-- [🍻 Paid Communities, Memberships](#---paid-communities--memberships)
-- [👨‍🎨 Miscellaneous](#------miscellaneous)
+- [👨‍💻 Developer Tools](#-developer-tools)
+- [🚀 Productivity](#-productivity)
+- [🌈 Marketing Tools](#-marketing-tools)
+- [🌅 Design Apps](#-design-apps)
+- [🌏 Social Media Tools](#-social-media-tools)
+- [🛟 Customer Support Tools](#-customer-support-tools)
+- [📗 Books](#-books)
+- [💅 Templates, Themes, Plugins](#-templates-themes-plugins)
+- [📹 Courses](#-courses)
+- [🍻 Paid Communities, Memberships](#-paid-communities-memberships)
+- [👨‍🎨 Miscellaneous](#-miscellaneous)
 
 
 ## 👨‍💻 Developer Tools
