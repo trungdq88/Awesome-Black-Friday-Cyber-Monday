@@ -46,6 +46,8 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 |  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
 |  🤑 | [Tryxie](https://tryxie.app) | Visual monitoring for websites. Get notified for every change in a url through Slack, Email or a custom webhook! | 50% OFF with code **BLACKFRIDAY** on first invoice |
+| 💰 | [Qualitycs.dev](https://qualitycs.dev) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website monthly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
+| 🤑  | [RemixFast](https://remixfast.com) | Build SaaS Apps, Internal Tools and lot more using Visual Editor. Jump start your next project with a generated codebase and only code what matters! Choice of RemixRun or Node.js stack with React, TailwindCSS and Prisma. | 50% OFF first year Advanced Annual Plan |
 
 ## 🚀 Productivity
 |  | Name | Description | Discount Code & Terms |
@@ -67,7 +69,9 @@ Don't forget to:
 |  🤑 | [Mark Copy AI](https://markcopy.ai) | Mark Copy helps you write marketing content 10x faster. Generate your SEO-opitmized blog post draft in 5 min. Also provides tools to create social media posts, ads, emails, and more. | **50% OFF on all plans for 3 months**, only on Friday Nov. 25 |
 |  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |  
 |  💰 | [Logspot](https://logspot.io) | Logspot is a customizable web analytics which can be used by you and by your customers thanks to embeddable analytics and Analytics API | **30% OFF on all plans** with code **BLACKFRIDAY** |
+|  💰 | [NowButtons](https://nowbuttons.com?utm_source=tdinh) | NowButtons is the tool for creating floating action buttons for your website. Pick from popular communication channels such as phone, sms, WhatsApp, etc. With our slide-in Content Windows you easily embed 3rd party booking forms or other content into your web pages. Schedule your buttons to appear at the right times and use geo and page rules to show the right button to the right audience. | 40% OFF the annual plan for the first year. Use code *BLACKFRIDAY* |
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
+
 
 ## 🌅 Design Apps
 |  | Name | Description | Discount Code & Terms |
@@ -104,6 +108,9 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
 |  💰 | [Cruip](https://cruip.com?ref=tony) | Beautifully designed Tailwind CSS landing page templates | >50% OFF, automatically applied at the checkout 🔥 |
+|  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
+
+
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
@@ -112,7 +119,7 @@ Don't forget to:
 |  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $100, with an annual subscription of Composables.|
 |  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 |  💵 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | Learn how to build a SaaS product from scratch with 25+ hours of video | 15% OFF auto applied on Fri |
-
+|  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
 
 ## 🍻 Paid Communities, Memberships
 |  | Name | Description | Discount Code & Terms |
