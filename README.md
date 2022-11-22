@@ -98,7 +98,6 @@ Don't forget to:
 | 🤑  | [RemixFast](https://remixfast.com) | Build SaaS Apps, Internal Tools and lot more using Visual Editor. Jump start your next project with a generated codebase and only code what matters! Choice of RemixRun or Node.js stack with React, TailwindCSS and Prisma. | 50% OFF first year Advanced Annual Plan |
 | 💰  | [SecurityInfinity](https://securityinfinity.com) | Secure your website in 10 minutes in one click. AI enabled cybersecurity suite for vulnerability assessment and realtime analytics. Assess your website, cloud platform and identify vulnerabilities now. | 40% OFF on all plans with code **BLACKFRIDAY** |
 | 💰 | [Dewstack](https://www.dewstack.com) | Dewstack helps you build and host your documentation on your own domain with no technical knowledge. It can be a knowledge base, user manual, product doc or anything you need to host as a guide to your end users, Dewstack helps you do that in a Quick & Easy way.  | 40% off for LIFE on Scale plan with code **BFCMScale40** & 30% off for LIFE on Launch plan with code **BFCMLaunch30** |
-|  🤑 | [Nestajs](https://nestajs.com) | Starter kit for your next great SaaS application | 50% OFF with code **50OFF** |
 
 
 ## 🌏 Social Media Tools
@@ -122,6 +121,7 @@ Don't forget to:
 |  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins |
 |  🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The Django-powered SaaS boilerplate with built-in teams, billing, a modern front end, instant deployment and more | 50% OFF lifetime unlimited license auto applied all week |
+|  🤑 | [Nestajs](https://nestajs.com) | Starter kit for your next great SaaS application | 50% OFF with code **50OFF** |
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
