@@ -94,6 +94,10 @@ Don't forget to:
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
 |  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
 
+## 🌈 Finance Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Moonitor](https://moonitor.io) | Fully private cryptocurrency Portfolio tracker for Desktop. Moonitor gives you a clear overview of your cryptocurrencies assets in real time. | 50% OFF, automatically applied |
 
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
