@@ -34,6 +34,7 @@ Follow the discount emoji as below
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🤑 | [View to Composable](https://viewtocomposable.com) | Transfer your Android View knowledge to Jetpack Compose and use Jetpack Compose straight away. | **BLACK_FRIDAY** for 50% off |
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
