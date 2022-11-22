@@ -27,6 +27,7 @@ Don't forget to:
 |  🤑 | [LaunchBuddy](https://apple.co/3iFcjjW) | Manage your Indie Apps, Projects, Releases and Tasks. | >50% OFF for LaunchBuddy Pro (Small) |
 |  🤑 | [BladeMail.app](https://blademail.app) | Desktop app for email testing locally. | 50% OFF with code **BLACKFRIDAY** |
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
+|  💰 | [Web3Forms](https://web3forms.com) | Contact Form API for static websites. | 30% OFF on Pro upgrade with code **BLACKFRIDAY** |
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 
 ## 🚀 Productivity
@@ -57,6 +58,11 @@ Don't forget to:
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
 |  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 
+## 💅 Templates, Themes, Plugins
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
+
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -70,6 +76,11 @@ Don't forget to:
 |  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $100, with an annual subscription of Composables.|
 |  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 
+
+## 🍻 Paid Communities, Memberships
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Indie Worldwide](https://indieworldwide.com/#membership) | Join a community of 500+ Indie Hackers, Founders & Makers obsessed with building profitable bootstrapped startups 🚀 | **_70% Anti-Sale, no code required. Prices increase by 70% on Nov 29th.** |
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
