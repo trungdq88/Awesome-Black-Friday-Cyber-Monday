@@ -14,6 +14,21 @@ Don't forget to:
 - 👉 ...give this repo a star so it become trending on Black Friday! ⭐ 🤩
 - 👉 ...bookmark this page to come back here next year 2023! 📆
 
+## Table of Contents
+
+- [👨‍💻 Developer Tools](#-developer-tools)
+- [🚀 Productivity](#-productivity)
+- [🌈 Marketing Tools](#-marketing-tools)
+- [🌅 Design Apps](#-design-apps)
+- [🌏 Social Media Tools](#-social-media-tools)
+- [🛟 Customer Support Tools](#-customer-support-tools)
+- [📗 Books](#-books)
+- [💅 Templates, Themes, Plugins](#-templates-themes-plugins)
+- [📹 Courses](#-courses)
+- [🍻 Paid Communities, Memberships](#-paid-communities-memberships)
+- [👨‍🎨 Miscellaneous](#-miscellaneous)
+
+
 ## 👨‍💻 Developer Tools
 
 |  | Name | Description | Discount Code & Terms |
@@ -28,6 +43,7 @@ Don't forget to:
 |  🤑 | [BladeMail.app](https://blademail.app) | Desktop app for email testing locally. | 50% OFF with code **BLACKFRIDAY** |
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
 |  💰 | [Web3Forms](https://web3forms.com) | Contact Form API for static websites. | 30% OFF on Pro upgrade with code **BLACKFRIDAY** |
+|  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 
 ## 🚀 Productivity
 |  | Name | Description | Discount Code & Terms |
@@ -36,6 +52,7 @@ Don't forget to:
 | 💰 | [Timelog](https://timelog.link) | Time & Goal tracker app for Android and iOS. Understand how you spend your time and achieve your goals. | 30% OFF Timelog Plus (lifetime) with code **BLACKFRIDAY22** |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
+|  🤑 | [Dubble](https://dubble.so) | Documentation done while you work. Dubble watches how you work and translates your actions into written step-by-step guides, videos and screenshots - so you don’t have to. | 75% OFF Pro, applied automatically on checkout |
 | 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
 
 ## 🌈 Marketing Tools
@@ -58,16 +75,23 @@ Don't forget to:
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
 |  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 
-## 💅 Templates, Themes, Plugins
+## 🛟 Customer Support Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
+| 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a fully professional help center or documentation page. HelpKit helps you deliver instant help to your customers – without ever leaving Notion. It has built-in analytics, an embeddable widget, full text search, customizable themes and much more. | 40% off on all plans for the first year with code **BLACKFRIDAY_2022** |
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [View to Composable](https://viewtocomposable.com) | Transfer your Android View knowledge to Jetpack Compose and use Jetpack Compose straight away. | **BLACK_FRIDAY** for 50% off |
 |  🤑 | ["Ten++ Ways to Make Money as a Developer" eBook](https://florinpop17.gumroad.com/l/makemoneydev/blackfriday2022) | Learn how to monetize your coding skills in 10 different ways! | **BLACKFRIDAY2022** for 50% off |
+|  🤑 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer. | 50% OFF, automatically applied |
+|  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
+
+## 💅 Templates, Themes, Plugins
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
