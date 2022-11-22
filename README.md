@@ -10,7 +10,9 @@ Follow the discount emoji as below:
 |  💰   |  20% → 50% |
 |  🤑   |  >= 50% |
 
-Don't forget to give this repo a star! ⭐ 🤩
+Don't forget to:
+- 👉 ...give this repo a star so it become trending on Black Friday! ⭐ 🤩
+- 👉 ...bookmark this page to come back here next year 2023! 📆
 
 ## 👨‍💻 Developer Tools
 
