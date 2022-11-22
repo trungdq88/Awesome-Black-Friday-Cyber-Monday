@@ -51,6 +51,7 @@ Don't forget to:
 |  🤑  | [Mediamodifier](https://mediamodifier.com) | Mediamodifier makes it easier for you to succeed in digital marketing and build a professional presence for your brand with astonishingly easy-to-use online tools. | **50% OFF for Annual Subscription** | Expiration date: 04-12-2022 |
 | 💰 | [HEAVYPAINT](https://heavypaint.com/) | HEAVYPAINT is a painting app beloved by users for it's delightfully brutal approach. | 40% OFF with code **ITISADISCOUNTCANHAZ** |
 | 🤑 | [Logology](https://www.logology.co/) | Get a designer-quality logo for your startup in 5 minutes. | 50% OFF with code **BF22** |
+| 🤑 | [Icons8](https://icons8.com/l/blackfriday2022/) | icons, illustrations, photos, and music. | Up to 55% off subscription |
 
 
 ## 🚀 Productivity Tools
