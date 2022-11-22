@@ -18,6 +18,7 @@ Don't forget to:
 
 - [👨‍💻 Developer Tools](#-developer-tools)
 - [🌅 Design Tools](#-design-tools)
+- [🎛 Utility Tools](#-utility-tools)
 - [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
 - [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
 - [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
@@ -43,7 +44,6 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
 
-
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -57,10 +57,15 @@ Don't forget to:
 | 🤑 | [CandyIcons.com](https://www.candyicons.com/) | Thousands of AI-generated app icons. One click to get custom favicon packages and all required app icon sizes of multi-platforms (iOS & macOS, android). | 70$ OFF per icon |
 
 
-## 🖥️ Productivity Desktop Apps
+## 🎛 Utility Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
+| 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
+
+## 🖥️ Productivity Desktop Apps
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
 | 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
@@ -145,7 +150,7 @@ Don't forget to:
 |  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | A guide to auditing, testing, fixing, and improving your Laravel applications! | **BLACKFRIDAY30** for 30% off |
 |  🤑 | [Zero to Sold](https://zerotosold.com) | A no-fluff guide to starting, running, and selling a bootstrapped business | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
 |  🤑 | [The Embedded Entrepreneur](https://embeddedentrepreneur.com) | Learn how to build an audience-first business from day one with this step-by-step blueprint. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
-
+| 🤑 | [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Take control of your First 90 days, Learn How to Lead a Team & Achieve Business Results! | **BLACKFRIDAY50** for 50% off |
 
 
 ## 📹 Courses
