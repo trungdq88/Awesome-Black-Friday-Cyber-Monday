@@ -135,3 +135,4 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Beautiful 100+ AI generated Images](https://shivamrathore.gumroad.com/l/beautiful-100-plus-ai-generated-images) | Get hold of **_astonishingly beautiful 100+ AI generated Images_**, that you have not even imagined... | **_100% OFF using BLACKFRIDAY_** |
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
+|  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
