@@ -20,6 +20,7 @@ Follow the discount emoji as below
 |  💰 | [Static.app](https://static.app/) | Static.app is the easiest way to host a static HTML website online. Drag-and-drop an archive with your page or an entire website and we will take care of the rest. Everything is included: SSL certificate, code editor, forms and media storage all in one place. | 30% OFF with code **BLACK22** |
 |  💰 | [Tailscan](https://tailscan.com) | Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built. | 20% OFF, automatically applied |
 |  💰 | [Pulsetic](https://pulsetic.com/) | Get notified by phone calls, SMS, email, Telegram, or Slack when a website goes down. Enhance your company's transparency in the eyes of your customers by creating appealing status pages, badges, and issue management reports. | 30% OFF with code **BLACK22** |
+| 🤑 | [lightGallery](https://www.lightgalleryjs.com/) | A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. | 50% OFF with code **P89HB39LR7** |
 |  🤑 | [LaunchBuddy](https://apple.co/3iFcjjW) | Manage your Indie Apps, Projects, Releases and Tasks. | >50% OFF for LaunchBuddy Pro (Small) |
  
 ## 🚀 Productivity
