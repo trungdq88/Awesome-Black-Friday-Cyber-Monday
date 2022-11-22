@@ -121,6 +121,7 @@ Don't forget to:
 |  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 |  💵 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | Learn how to build a SaaS product from scratch with 25+ hours of video | 15% OFF auto applied on Fri |
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
+|  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
 
 ## 🍻 Paid Communities, Memberships
 |  | Name | Description | Discount Code & Terms |
