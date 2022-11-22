@@ -22,8 +22,8 @@ Don't forget to:
 - [🌈 Marketing Tools](#-marketing-tools)
 - [🌏 Social Media Tools](#-social-media-tools)
 - [🛟 Startup SaaS/Tools](#-startup-saastools)
-- [📗 Books](#-books)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
+- [📗 Books](#-books)
 - [📹 Courses](#-courses)
 - [🍻 Paid Communities, Memberships](#-paid-communities-memberships)
 - [👨‍🎨 Miscellaneous](#-miscellaneous)
@@ -92,15 +92,6 @@ Don't forget to:
 | 💰 | [Qualitycs.dev](https://qualitycs.dev) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website monthly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
 | 🤑  | [RemixFast](https://remixfast.com) | Build SaaS Apps, Internal Tools and lot more using Visual Editor. Jump start your next project with a generated codebase and only code what matters! Choice of RemixRun or Node.js stack with React, TailwindCSS and Prisma. | 50% OFF first year Advanced Annual Plan |
 
-## 📗 Books
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  🤑 | [View to Composable](https://viewtocomposable.com) | Transfer your Android View knowledge to Jetpack Compose and use Jetpack Compose straight away. | **BLACK_FRIDAY** for 50% off |
-|  🤑 | ["Ten++ Ways to Make Money as a Developer" eBook](https://florinpop17.gumroad.com/l/makemoneydev/blackfriday2022) | Learn how to monetize your coding skills in 10 different ways! | **BLACKFRIDAY2022** for 50% off |
-|  🤑 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer. | 50% OFF, automatically applied |
-|  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
-|  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | A guide to auditing, testing, fixing, and improving your Laravel applications! | **BLACKFRIDAY30** for 30% off |
-
 ## 💅 Boilerplates, Templates, Themes, Plugins
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -109,6 +100,15 @@ Don't forget to:
 |  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
 |  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins |
+
+## 📗 Books
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [View to Composable](https://viewtocomposable.com) | Transfer your Android View knowledge to Jetpack Compose and use Jetpack Compose straight away. | **BLACK_FRIDAY** for 50% off |
+|  🤑 | ["Ten++ Ways to Make Money as a Developer" eBook](https://florinpop17.gumroad.com/l/makemoneydev/blackfriday2022) | Learn how to monetize your coding skills in 10 different ways! | **BLACKFRIDAY2022** for 50% off |
+|  🤑 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer. | 50% OFF, automatically applied |
+|  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
+|  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | A guide to auditing, testing, fixing, and improving your Laravel applications! | **BLACKFRIDAY30** for 30% off |
 
 
 ## 📹 Courses
