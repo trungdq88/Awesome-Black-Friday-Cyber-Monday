@@ -20,8 +20,8 @@ Don't forget to:
 - [🌅 Design Tools](#-design-tools)
 - [🚀 Productivity Tools](#-productivity-tools)
 - [🌈 Marketing Tools](#-marketing-tools)
-- [🌏 Social Media Tools](#-social-media-tools)
 - [🛟 Startup SaaS/Tools](#-startup-saastools)
+- [🌏 Social Media Tools](#-social-media-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
 - [📗 Books](#-books)
 - [📹 Courses](#-courses)
@@ -34,7 +34,6 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2022** |
-|  💰 | [Static.app](https://static.app/) | Static.app is the easiest way to host a static HTML website online. Drag-and-drop an archive with your page or an entire website and we will take care of the rest. Everything is included: SSL certificate, code editor, forms and media storage all in one place. | 30% OFF with code **BLACK22** |
 |  💰 | [Tailscan](https://tailscan.com) | Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built. | 20% OFF, automatically applied |
 | 🤑 | [lightGallery](https://www.lightgalleryjs.com/) | A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. | 50% OFF with code **P89HB39LR7** |
 |  🤑 | [LaunchBuddy](https://apple.co/3iFcjjW) | Manage your Indie Apps, Projects, Releases and Tasks. | >50% OFF for LaunchBuddy Pro (Small) |
@@ -74,6 +73,17 @@ Don't forget to:
 |  💰 | [NowButtons](https://nowbuttons.com?utm_source=tdinh) | NowButtons is the tool for creating floating action buttons for your website. Pick from popular communication channels such as phone, sms, WhatsApp, etc. With our slide-in Content Windows you easily embed 3rd party booking forms or other content into your web pages. Schedule your buttons to appear at the right times and use geo and page rules to show the right button to the right audience. | 40% OFF the annual plan for the first year. Use code *BLACKFRIDAY* |
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
 
+## 🛟 Startup SaaS/Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Static.app](https://static.app/) | Static.app is the easiest way to host a static HTML website online. Drag-and-drop an archive with your page or an entire website and we will take care of the rest. Everything is included: SSL certificate, code editor, forms and media storage all in one place. | 30% OFF with code **BLACK22** |
+|  💰 | [Pulsetic](https://pulsetic.com/) | Get notified by phone calls, SMS, email, Telegram, or Slack when a website goes down. Enhance your company's transparency in the eyes of your customers by creating appealing status pages, badges, and issue management reports. | 30% OFF with code **BLACK22** |
+| 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a fully professional help center or documentation page. HelpKit helps you deliver instant help to your customers – without ever leaving Notion. It has built-in analytics, an embeddable widget, full text search, customizable themes and much more. | 40% off on all plans for the first year with code **BLACKFRIDAY_2022** |
+|  💰 | [Web3Forms](https://web3forms.com) | Contact Form API for static websites. | 30% OFF on Pro upgrade with code **BLACKFRIDAY** |
+|  🤑 | [Tryxie](https://tryxie.app) | Visual monitoring for websites. Get notified for every change in a url through Slack, Email or a custom webhook! | 50% OFF with code **BLACKFRIDAY** on first invoice |
+| 💰 | [Qualitycs.dev](https://qualitycs.dev) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website monthly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
+| 🤑  | [RemixFast](https://remixfast.com) | Build SaaS Apps, Internal Tools and lot more using Visual Editor. Jump start your next project with a generated codebase and only code what matters! Choice of RemixRun or Node.js stack with React, TailwindCSS and Prisma. | 50% OFF first year Advanced Annual Plan |
+
 ## 🌏 Social Media Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -81,16 +91,6 @@ Don't forget to:
 |  🤑 | [Bird search](https://birdsearch.carrd.co) | Advanced search app for Twitter - unlocks all the hidden fields and let you search the way you always wanted | 60% OFF - BLACKFRIDAY_2022 |
 |  🤑 | [Birdfeeder](https://getbirdfeeder.com) | Twitter Bookmark Manager. Full-text search, weekly summary emails and backup for your Twitter bookmarks | 50% OFF - BLACKFRIDAY22 |
 
-
-## 🛟 Startup SaaS/Tools
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  💰 | [Pulsetic](https://pulsetic.com/) | Get notified by phone calls, SMS, email, Telegram, or Slack when a website goes down. Enhance your company's transparency in the eyes of your customers by creating appealing status pages, badges, and issue management reports. | 30% OFF with code **BLACK22** |
-| 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a fully professional help center or documentation page. HelpKit helps you deliver instant help to your customers – without ever leaving Notion. It has built-in analytics, an embeddable widget, full text search, customizable themes and much more. | 40% off on all plans for the first year with code **BLACKFRIDAY_2022** |
-|  💰 | [Web3Forms](https://web3forms.com) | Contact Form API for static websites. | 30% OFF on Pro upgrade with code **BLACKFRIDAY** |
-|  🤑 | [Tryxie](https://tryxie.app) | Visual monitoring for websites. Get notified for every change in a url through Slack, Email or a custom webhook! | 50% OFF with code **BLACKFRIDAY** on first invoice |
-| 💰 | [Qualitycs.dev](https://qualitycs.dev) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website monthly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
-| 🤑  | [RemixFast](https://remixfast.com) | Build SaaS Apps, Internal Tools and lot more using Visual Editor. Jump start your next project with a generated codebase and only code what matters! Choice of RemixRun or Node.js stack with React, TailwindCSS and Prisma. | 50% OFF first year Advanced Annual Plan |
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
 |  | Name | Description | Discount Code & Terms |
