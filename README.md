@@ -64,6 +64,7 @@ Don't forget to:
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
+|  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 
 
 ## 🌈 Marketing Tools
