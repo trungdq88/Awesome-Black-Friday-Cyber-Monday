@@ -151,6 +151,7 @@ Don't forget to:
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins |
 |  🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The Django-powered SaaS boilerplate with built-in teams, billing, a modern front end, instant deployment and more | 50% OFF lifetime unlimited license auto applied all week |
 |  🤑 | [Nestajs](https://nestajs.com) | Starter kit for your next great SaaS application | 50% OFF with code **50OFF** |
+|  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
