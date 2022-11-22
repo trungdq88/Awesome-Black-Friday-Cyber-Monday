@@ -27,7 +27,6 @@ Don't forget to:
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
 - [📗 Books](#-books)
 - [📹 Courses](#-courses)
-- [🍻 Paid Communities, Memberships](#-paid-communities-memberships)
 - [👨‍🎨 Miscellaneous](#-miscellaneous)
 
 
@@ -155,11 +154,6 @@ Don't forget to:
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
 |  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
-
-## 🍻 Paid Communities, Memberships
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  🤑 | [Indie Worldwide](https://indieworldwide.com/#membership) | Join a community of 500+ Indie Hackers, Founders & Makers obsessed with building profitable bootstrapped startups 🚀 | **_70% Anti-Sale, no code required. Prices increase by 70% on Nov 29th.** |
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
