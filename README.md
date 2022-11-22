@@ -92,7 +92,8 @@ Don't forget to:
 |  🤑 | [Dubble](https://dubble.so) | Documentation done while you work. Dubble watches how you work and translates your actions into written step-by-step guides, videos and screenshots - so you don’t have to. | 75% OFF Pro, applied automatically on checkout |
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
-|  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
+|  🤑 | [Timestripe](https://timestripe.com/) | Unique 
+er with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
 
 
 ## 🌈 Marketing Tools
@@ -140,6 +141,7 @@ Don't forget to:
 |  💰 | [PocketTube](https://yousub.info) | Youtube Subscriptions & Playlists Manager, Video Deck, Auto Tags, Filter and Sort your videos | **30% OFF** first year, automatically applied |
 |  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |  
 | 🤑 | [Octomata](https://octomata.app) | Easily Turn a Reddit post into a video. Automate video generation including music, text to speech and transitions by just pasting a URL. | **50%** OFF using the code **BLACKFRIDAY22** at checkout |
+| 💰 | [Plann](https://plannthat.com) | Visualize, plan, schedule or auto post your Instagram, Facebook, LinkedIn, TikTok & Pinterest social posts right from your desktop. | **40%** OFF - BLACKFRIDAY |
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
 |  | Name | Description | Discount Code & Terms |
