@@ -76,6 +76,11 @@ Don't forget to:
 |  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 
 
+## 🍻 Paid Communities, Memberships
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Indie Worldwide](https://indieworldwide.com/#membership) | Join a community of 500+ Indie Hackers, Founders & Makers obsessed with building profitable bootstrapped startups 🚀 | **_70% Anti-Sale, no code required. Prices increase by 70% on Nov 29th.** |
+
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
