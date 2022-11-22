@@ -23,7 +23,7 @@ Don't forget to:
 - [🌏 Social Media Tools](#-social-media-tools)
 - [🛟 Customer Support Tools](#-customer-support-tools)
 - [📗 Books](#-books)
-- [💅 Templates, Themes, Plugins](#-templates-themes-plugins)
+- [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
 - [📹 Courses](#-courses)
 - [🍻 Paid Communities, Memberships](#-paid-communities-memberships)
 - [👨‍🎨 Miscellaneous](#-miscellaneous)
@@ -44,7 +44,6 @@ Don't forget to:
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
 |  💰 | [Web3Forms](https://web3forms.com) | Contact Form API for static websites. | 30% OFF on Pro upgrade with code **BLACKFRIDAY** |
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
-|  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
 |  🤑 | [Tryxie](https://tryxie.app) | Visual monitoring for websites. Get notified for every change in a url through Slack, Email or a custom webhook! | 50% OFF with code **BLACKFRIDAY** on first invoice |
 | 💰 | [Qualitycs.dev](https://qualitycs.dev) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website monthly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
 | 🤑  | [RemixFast](https://remixfast.com) | Build SaaS Apps, Internal Tools and lot more using Visual Editor. Jump start your next project with a generated codebase and only code what matters! Choice of RemixRun or Node.js stack with React, TailwindCSS and Prisma. | 50% OFF first year Advanced Annual Plan |
@@ -103,12 +102,13 @@ Don't forget to:
 |  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
 |  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | A guide to auditing, testing, fixing, and improving your Laravel applications! | **BLACKFRIDAY30** for 30% off |
 
-## 💅 Templates, Themes, Plugins
+## 💅 Boilerplates, Templates, Themes, Plugins
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [Web3Templates](https://web3templates.com) | Premium Website Templates built with Next.js, Tailwind CSS, Sanity CMS, Astro | 40% OFF with code **BLACKFRIDAY** |
 |  💰 | [Cruip](https://cruip.com?ref=tony) | Beautifully designed Tailwind CSS landing page templates | >50% OFF, automatically applied at the checkout 🔥 |
 |  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
+|  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins |
 
 
