@@ -57,7 +57,9 @@ Don't forget to give this repo a star! ⭐ 🤩
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [View to Composable](https://viewtocomposable.com) | Transfer your Android View knowledge to Jetpack Compose and use Jetpack Compose straight away. | **BLACK_FRIDAY** for 50% off |
-|  🤑 | ["Ten++ Ways to Make Money as a Developer" eBook](https://florinpop17.gumroad.com/l/makemoneydev/blackfriday2022) | Learn how to monetize your coding skills in 10 different ways! | **BLACKFRIDAY2022** for 50% off |
+|  🤑 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer. | 50% OFF, automatically applied |
+|  🤑 | [Getting Started in Technical Writing.
+](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
