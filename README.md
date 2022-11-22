@@ -46,7 +46,7 @@ Don't forget to:
 ## 🎛 Utility Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, app uninstaller, status bar performance monitor & more. | 50% off (automatic) |
+| 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
