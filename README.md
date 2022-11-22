@@ -23,6 +23,7 @@ Don't forget to:
 - [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
 - [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
 - [🌈 Marketing Tools](#-marketing-tools)
+- [🤖 AI Writing Tools](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools](#-startup-saastools)
 - [🌏 Social Media Tools](#-social-media-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
@@ -97,14 +98,19 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Origits](https://origits.com) | Origits is a video platform that combines integrated marketing tools with one-click video player installation. One tag manages everything, making it extremely easy to manage any video inventory on the website and helping to turn video views on your website into customers.| 50% OFF on any plan with code **BLACKFRIDAY2022** |
-|  🤑 | [Mark Copy AI](https://markcopy.ai) | Mark Copy helps you write marketing content 10x faster. Generate your SEO-opitmized blog post draft in 5 min. Also provides tools to create social media posts, ads, emails, and more. | **50% OFF on all plans for 3 months**, only on Friday Nov. 25 |
-|  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |  
 |  💰 | [Logspot](https://logspot.io) | Logspot is a customizable web analytics which can be used by you and by your customers thanks to embeddable analytics and Analytics API | **30% OFF on all plans** with code **BLACKFRIDAY** |
 |  💰 | [NowButtons](https://nowbuttons.com?utm_source=tdinh) | NowButtons is the tool for creating floating action buttons for your website. Pick from popular communication channels such as phone, sms, WhatsApp, etc. With our slide-in Content Windows you easily embed 3rd party booking forms or other content into your web pages. Schedule your buttons to appear at the right times and use geo and page rules to show the right button to the right audience. | 40% OFF the annual plan for the first year. Use code *BLACKFRIDAY* |
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
-|  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 |  💰 | [Growform](https://www.growform.co) | Growform is the form builder that gets you more leads. Build beautiful, responsive forms in minutes. | Get **40%** off all plans **forever** - sign up, then use code **BLACKFRI40** at upgrade page|
 |  🤑 | [Mailway Mail Merge](https://mailway.in) | Mailway Mail Merge is a Google Sheets add-on that lets you send personalized mass email campaigns from your Gmail account. Privacy-first & easy-to-use tool to achieve higher deliverability and open rates. | **50% off** on all plans (automatically applied) |
+
+
+## 🤖 AI Writing Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Mark Copy AI](https://markcopy.ai) | Mark Copy helps you write marketing content 10x faster. Generate your SEO-opitmized blog post draft in 5 min. Also provides tools to create social media posts, ads, emails, and more. | **50% OFF on all plans for 3 months**, only on Friday Nov. 25 |
+|  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |  
+|  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 
 
 ## 🚀 Startup SaaS/Tools
