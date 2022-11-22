@@ -109,6 +109,8 @@ Don't forget to:
 |  🤑 | [Birdfeeder](https://getbirdfeeder.com) | Twitter Bookmark Manager. Full-text search, weekly summary emails and backup for your Twitter bookmarks | 50% OFF - BLACKFRIDAY22 |
 |  💰 | [PostFlow](https://postflow.app) | Social media scheduler and manager in your ClickUp workspace! (Twitter, LinkedIn, Instagram, Facebook) | 30% OFF (lifetime) with code __BLACKFRIDAY__ |
 |  💰 | [Tweet Tribe](https://tweettribe.com) | Engage with people on Twitter faster than ever before. Fuel your growth and boost your engagement rate | 40% OFF first year or month - BF2022 |
+|  💰 | [PocketTube](https://yousub.info) | Youtube Subscriptions & Playlists Manager, Video Deck, Auto Tags, Filter and Sort your videos | **30% OFF** first year, automatically applied |
+|  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |  
 
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
