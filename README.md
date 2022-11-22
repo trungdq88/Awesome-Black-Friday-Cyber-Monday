@@ -42,7 +42,7 @@ Follow the discount emoji as below
 | -- | ---| ------ | ------ |
 | 💰 | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | 30% OFF with code **BLACK22** |
 |  🤑  | [Mediamodifier](https://mediamodifier.com) | Mediamodifier makes it easier for you to succeed in digital marketing and build a professional presence for your brand with astonishingly easy-to-use online tools. | **50% OFF for Annual Subscription** | Expiration date: 04-12-2022 |
-| 💰 | [HEAVYPAINT.com](https://heavypaint.com/) | HEAVYPAINT is a painting app beloved by users for it's delightfully brutal approach. | 40% OFF with code **ITISADISCOUNTCANHAZ** |
+| 🎨 | [HEAVYPAINT](https://heavypaint.com/) | HEAVYPAINT is a painting app beloved by users for it's delightfully brutal approach. | 40% OFF with code **ITISADISCOUNTCANHAZ** |
 
 ## 🌏 Social Media Tools
 |  | Name | Description | Discount Code & Terms |
