@@ -18,9 +18,9 @@ Don't forget to:
 
 - [👨‍💻 Developer Tools](#-developer-tools)
 - [🌅 Design Tools](#-design-tools)
-- [🖥️ Productivity Desktop Apps](#-productivity-desktop-apps)
+- [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
 - [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
-- [🛠️ Productivity Tools & Services](#-productivity-tools--services)
+- [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
 - [🌈 Marketing Tools](#-marketing-tools)
 - [🚀 Startup SaaS/Tools](#-startup-saastools)
 - [🌏 Social Media Tools](#-social-media-tools)
