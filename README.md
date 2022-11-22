@@ -45,6 +45,7 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
 |  💰 | [Polypane](https://polypane.app/) | Build better websites in less time with a stand-alone browser that makes your site more responsive, more accessible and faster. Save hours on each project, love every minute of it. | 30% OFF ends Nov. 30th |
+|  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
