@@ -1,10 +1,8 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2022 🤑
 
-Curated list of deals on Black Friday 2022.
+Curated list of deals on Black Friday 2022. Feel free to add your app's deal below with a Pull Request. First come, first merged.
 
-Feel free to add your app's deal below with a Pull Request. First come, first merged.
-
-Please follow the discount emoji as below
+Follow the discount emoji as below
 
 | Emoji | Discount Percentage |
 | :---: | ------: |
