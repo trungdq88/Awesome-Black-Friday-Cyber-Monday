@@ -163,6 +163,7 @@ Don't forget to:
 |  🤑 | [Zero to Sold](https://zerotosold.com) | A no-fluff guide to starting, running, and selling a bootstrapped business | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
 |  🤑 | [The Embedded Entrepreneur](https://embeddedentrepreneur.com) | Learn how to build an audience-first business from day one with this step-by-step blueprint. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
 | 🤑 | [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Take control of your First 90 days, Learn How to Lead a Team & Achieve Business Results! | **BLACKFRIDAY50** for 50% off |
+| 🤑 | [Validate First: Use real customer data to validate and refind your business idea *before* you launch](https://crowdtamers.gumroad.com/l/validate/blackFriday2022) | A guide to both the strategy of how to test your business idea  and the tactics, from someone who's done it 14x. | 50% off automatically applied |
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
