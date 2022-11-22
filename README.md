@@ -1,4 +1,4 @@
-# 💵 Awesome Black Friday Deals - 2022 🤑
+# 💵 Awesome Black Friday / Cyber Monday Deals - 2022 🤑
 
 Curated list of deals on Black Friday 2022.
 
