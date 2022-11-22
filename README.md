@@ -25,6 +25,7 @@ Follow the discount emoji as below
 ## 🌅 Design Apps
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | **BLACK22** | Expiration date: 30-11-2022 |
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
