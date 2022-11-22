@@ -34,6 +34,7 @@ Follow the discount emoji as below
 | -- | ---| ------ | ------ |
 |  🤑 | [Origits](https://origits.com) | Origits is a video platform that combines integrated marketing tools with one-click video player installation. One tag manages everything, making it extremely easy to manage any video inventory on the website and helping to turn video views on your website into customers.| 50% OFF on any plan with code **BLACKFRIDAY2022** |
 |  🤑 | [Mark Copy AI](https://markcopy.ai) | Mark Copy helps you write marketing content 10x faster. Generate your SEO-opitmized blog post draft in 5 min. Also provides tools to create social media posts, ads, emails, and more. | **50% OFF on all plans for 3 months**, only on Friday Nov. 25 |
+|  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan **, until Monday Nov. 28 |
 
 ## 🌅 Design Apps
 |  | Name | Description | Discount Code & Terms |
