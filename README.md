@@ -17,9 +17,9 @@ Don't forget to:
 ## Table of Contents
 
 - [👨‍💻 Developer Tools](#-developer-tools)
-- [🚀 Productivity](#-productivity)
-- [🌈 Marketing Tools](#-marketing-tools)
 - [🌅 Design Tools](#-design-tools)
+- [🚀 Productivity Tools](#-productivity-tools)
+- [🌈 Marketing Tools](#-marketing-tools)
 - [🌏 Social Media Tools](#-social-media-tools)
 - [🛟 Startup SaaS/Tools](#-startup-saastools)
 - [📗 Books](#-books)
@@ -42,10 +42,19 @@ Don't forget to:
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 
-## 🚀 Productivity
+
+## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2022** |
+|  💰 | [Slides](https://designmodo.com/slides/) | Generate beautiful, animated, static websites with your creative direction in a matter of minutes. | 40% OFF with code **BLACK** |
+| 💰 | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | 30% OFF with code **BLACK22** |
+|  🤑  | [Mediamodifier](https://mediamodifier.com) | Mediamodifier makes it easier for you to succeed in digital marketing and build a professional presence for your brand with astonishingly easy-to-use online tools. | **50% OFF for Annual Subscription** | Expiration date: 04-12-2022 |
+| 💰 | [HEAVYPAINT](https://heavypaint.com/) | HEAVYPAINT is a painting app beloved by users for it's delightfully brutal approach. | 40% OFF with code **ITISADISCOUNTCANHAZ** |
+
+## 🚀 Productivity Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 | 💰 | [Timelog](https://timelog.link) | Time & Goal tracker app for Android and iOS. Understand how you spend your time and achieve your goals. | 30% OFF Timelog Plus (lifetime) with code **BLACKFRIDAY22** |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
@@ -64,15 +73,6 @@ Don't forget to:
 |  💰 | [Logspot](https://logspot.io) | Logspot is a customizable web analytics which can be used by you and by your customers thanks to embeddable analytics and Analytics API | **30% OFF on all plans** with code **BLACKFRIDAY** |
 |  💰 | [NowButtons](https://nowbuttons.com?utm_source=tdinh) | NowButtons is the tool for creating floating action buttons for your website. Pick from popular communication channels such as phone, sms, WhatsApp, etc. With our slide-in Content Windows you easily embed 3rd party booking forms or other content into your web pages. Schedule your buttons to appear at the right times and use geo and page rules to show the right button to the right audience. | 40% OFF the annual plan for the first year. Use code *BLACKFRIDAY* |
 |  🤑 | [Validate.run](https://validate.run?ref=black-friday-repo) | Is your idea worth building? - Create high-converting landing pages with design templates and our in-app copywriting guide in minutes and find out | Get **50%** off the monthly plan **forever** - apply **BLACK-FRIDAY-22** at checkout when upgrading to paid|
-
-
-## 🌅 Design Tools
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  💰 | [Slides](https://designmodo.com/slides/) | Generate beautiful, animated, static websites with your creative direction in a matter of minutes. | 40% OFF with code **BLACK** |
-| 💰 | [Siter.io](https://siter.io/) | Siter.io is a website builder that lets you create and publish websites without any coding at all. It works by designing directly in browser, freehand. | 30% OFF with code **BLACK22** |
-|  🤑  | [Mediamodifier](https://mediamodifier.com) | Mediamodifier makes it easier for you to succeed in digital marketing and build a professional presence for your brand with astonishingly easy-to-use online tools. | **50% OFF for Annual Subscription** | Expiration date: 04-12-2022 |
-| 💰 | [HEAVYPAINT](https://heavypaint.com/) | HEAVYPAINT is a painting app beloved by users for it's delightfully brutal approach. | 40% OFF with code **ITISADISCOUNTCANHAZ** |
 
 ## 🌏 Social Media Tools
 |  | Name | Description | Discount Code & Terms |
