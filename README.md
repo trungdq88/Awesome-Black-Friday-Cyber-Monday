@@ -68,6 +68,7 @@ Don't forget to:
 |  💰 | [Grace](https://grace-app.com) | Powerful and easy-to use parental control app for iPhone and iPad. Get your children's screen time under control. | 20% OFF with code **BF22** |
 |  🤑 | [Reading Time for iOS](https://apps.apple.com/app/id1561460485) | Book reading companion app. Lets you clock your reading sessions and tells you time left to complete a book. What would you do if you knew a book can be finished in about 90 minutes? | 50% OFF for Unlock forever in-app purchase, no code necessary |
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
+|  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
 
 
 ## 🌈 Marketing Tools
