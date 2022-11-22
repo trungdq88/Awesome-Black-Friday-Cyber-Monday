@@ -57,3 +57,9 @@ Follow the discount emoji as below
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
+
+## 👨‍🎨 Miscellaneous
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Beautiful 100+ AI generated Images](https://shivamrathore.gumroad.com/l/beautiful-100-plus-ai-generated-images) | Get hold of **_astonishingly beautiful 100+ AI generated Images_**, that you have not even imagined... | **_100% OFF using BLACKFRIDAY_** |
+
