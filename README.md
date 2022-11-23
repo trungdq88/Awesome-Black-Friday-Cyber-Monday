@@ -29,7 +29,9 @@ Don't forget to:
 - [🌏 Social Media Tools](#-social-media-tools)
 - [💸 Finance Tools](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
-- [📗 Books](#-books)
+- [📗 Programming Books](#-programming-books)
+- [📘 Startup & Career Books](#-startup--career-books)
+- [📕 Marketing Books](#-marketing-books)
 - [📹 Programming Courses](#-programming-courses)
 - [🎢 Career Courses](#-career-courses)
 - [📈 Marketing Courses](#-marketing-courses)
@@ -194,27 +196,32 @@ Don't forget to:
 |  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
 
 
-## 📗 Books
+## 📗 Programming Books
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [View to Composable](https://viewtocomposable.com) | Transfer your Android View knowledge to Jetpack Compose and use Jetpack Compose straight away. | **BLACK_FRIDAY** for 50% off |
+|  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | A guide to auditing, testing, fixing, and improving your Laravel applications! | **BLACKFRIDAY30** for 30% off |
+| 💰 | [Legacy Code: First Aid Kit](https://understandlegacycode.ck.page/products/legacy-code-first-aid-kit?promo=REFACTOR) | 14 techniques to rescue any Legacy codebase out there! | 30% OFF, automatically applied |
+| 🤑 | [Deploying Elixir: Advanced Topics](https://miguelcoba.gumroad.com/l/advancedtopics)) | Deploy Elixir like a PRO | 50% OFF, automatically applied |
+|  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
+
+## 📘 Startup & Career Books
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 |  🤑 | ["Ten++ Ways to Make Money as a Developer" eBook](https://florinpop17.gumroad.com/l/makemoneydev/blackfriday2022) | Learn how to monetize your coding skills in 10 different ways! | **BLACKFRIDAY2022** for 50% off |
 |  🤑 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer. | 50% OFF, automatically applied |
-|  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
-|  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | A guide to auditing, testing, fixing, and improving your Laravel applications! | **BLACKFRIDAY30** for 30% off |
 |  🤑 | [Zero to Sold](https://zerotosold.com) | A no-fluff guide to starting, running, and selling a bootstrapped business | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
 |  🤑 | [The Embedded Entrepreneur](https://embeddedentrepreneur.com) | Learn how to build an audience-first business from day one with this step-by-step blueprint. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
 | 🤑 | [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Take control of your First 90 days, Learn How to Lead a Team & Achieve Business Results! | **BLACKFRIDAY50** for 50% off |
 | 💰  | [The Pragmatic Programmers](https://pragprog.com/) | Entire catalog of ebooks and audio books on sale for 40% | **turkeysale2022** for 40% off |
-| 💰 | [Legacy Code: First Aid Kit](https://understandlegacycode.ck.page/products/legacy-code-first-aid-kit?promo=REFACTOR) | 14 techniques to rescue any Legacy codebase out there! | 30% OFF, automatically applied |
-| 🤑 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLCKFRIDAY50?_gl=1*dc01gi*_ga*MTc2OTg2OTI4Ni4xNjU5MzgxNjU3*_ga_6LJN6D94N6*MTY2OTEzOTU5OC41Ni4xLjE2NjkxNDAwNjQuMC4wLjA.) | Learn to make a portfolio project that will get you hired. | **BLCKFRIDAY50** for 50% off |
-| 🤑 | [Deploying Elixir: Advanced Topics](https://miguelcoba.gumroad.com/l/advancedtopics)) | Deploy Elixir like a PRO | 50% OFF, automatically applied |
-| 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
 | 🤑 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/blackfriday50) | A tiny book about how candidates can outperform in coding interviews, from the lenses of interviewers | **BLACKFRIDAY50** for 50% off |
+| 🤑 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLCKFRIDAY50?_gl=1*dc01gi*_ga*MTc2OTg2OTI4Ni4xNjU5MzgxNjU3*_ga_6LJN6D94N6*MTY2OTEzOTU5OC41Ni4xLjE2NjkxNDAwNjQuMC4wLjA.) | Learn to make a portfolio project that will get you hired. | **BLCKFRIDAY50** for 50% off |
 | 🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/blackfriday50) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/blackfriday50) | This tiny book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | **BLACKFRIDAY50** for 50% off |
-|  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
 
+## 📕 Marketing Books
+|  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
+| 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
 
 ## 📹 Programming Courses
 |  | Name | Description | Discount Code & Terms |
