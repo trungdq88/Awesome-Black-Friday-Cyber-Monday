@@ -221,6 +221,7 @@ Don't forget to:
 |  💰 | [Setary](https://setary.com) | WooCommerce inventory management and bulk editor for products and variations in a lightning-fast spreadsheet environment. | 40% OFF with code **bf2022** |
 |  💰 | [IconicWP](https://iconicwp.com/black-friday/) | Sales-Boosting WooCommerce Plugins and bundles | UP TO 62% OFF with code **bf2022** |
 |  💰 | [Orderable](https://orderable.com/pricing/) | Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees! | 40% OFF with code **bf2022** |
+| 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
 
 
 ## 📗 Programming Books
