@@ -81,6 +81,7 @@ Don't forget to:
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 |  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
+|  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
 
 
 ## ⌨️ Code Libraries
