@@ -187,7 +187,7 @@ Don't forget to:
 |  💰 | [PocketTube](https://yousub.info) | Youtube Subscriptions & Playlists Manager, Video Deck, Auto Tags, Filter and Sort your videos | **30% OFF** first year, automatically applied |
 |  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |
 | 🤑 | [Octomata](https://octomata.app) | Easily Turn a Reddit post into a video. Automate video generation including music, text to speech and transitions by just pasting a URL. | **50%** OFF using the code **BLACKFRIDAY22** at checkout |
-|  💰 | [FeedHive](https://feedhive.io) | Create, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform | **20% OFF** lifetime, automatically applied |
+|  💰 | [Feedhive](https://feedhive.io) | Create, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform | **20% OFF** lifetime, automatically applied |
 | 💰 | [Birdy](https://birdy.so) | Get more Twitter followers. Get more website clicks. Twitter Profile A/B Testing 🤓 | **30%** OFF using the code **BLACKFRIDAY30** at checkout |
 |  📢 | [tweetstreak](https://tweetstreak.com) | tweetstreak is a Twitter audience building tool helping you to sustainably grow your followers.  | Get **50% off** using **BLACKFRIDAY22** when subscribing.|
 | 💰 | [Plann](https://plannthat.com) | Visualize, plan, schedule or auto post your Instagram, Facebook, LinkedIn, TikTok & Pinterest social posts right from your desktop. | **40%** OFF - BLACKFRIDAY |
@@ -279,6 +279,7 @@ Don't forget to:
 | 🤑 | [VSCode.pro - VS Code Power User!](https://vscode.pro) | After 10 yrs with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Devs Expert) switched to VSCode. He spent over a 1,000 hrs perfecting his setup to help you switch today. Bring all your custom settings and learn the power user workflows. | FLAT 80% OFF and PPP - $34 |
 | 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
 |  💰 | [Codely](https://codely.com/blackfriday) | Full Year Access to all its courses. DDD, Hexagonal Architecture, Typescript, Testing best practices, Figma plugins development, SOLID Principles and many more| 100€ discount at checkout |
+| 💰 | [Platzi](https://platzi.com/blackfriday/) | Full year access to all its courses: Engineering, Design, Marqueting, Soft Skills, Bussiness, Startups, English | 45% Discount at checkout |
 
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
