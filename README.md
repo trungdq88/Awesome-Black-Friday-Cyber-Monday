@@ -163,6 +163,7 @@ Don't forget to:
 |  🤑 | [Zero to Sold](https://zerotosold.com) | A no-fluff guide to starting, running, and selling a bootstrapped business | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
 |  🤑 | [The Embedded Entrepreneur](https://embeddedentrepreneur.com) | Learn how to build an audience-first business from day one with this step-by-step blueprint. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
 | 🤑 | [The Engineering Leader's Playbook: The First 90 Days](https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50) | Take control of your First 90 days, Learn How to Lead a Team & Achieve Business Results! | **BLACKFRIDAY50** for 50% off |
+| 🤑 | [Writy.io | Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills | FLAT 80% OFF and PPP |
 
 ## 📹 Courses
 |  | Name | Description | Discount Code & Terms |
@@ -176,6 +177,10 @@ Don't forget to:
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
+| 🤑 | [Writy.io | Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills. Course and book. | FLAT 80% OFF and PPP - $29 |
+| 🤑 | [VSCode.pro | VS Code Power User!](https://vscode.pro) | After 10 years with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) switched to VSCode — the new open source cross-platform editor everyone's talking about. He spent over a thousand hours perfecting his setup to help you switch today. Bring all your custom settings and learn the power user workflows for HTML/CSS, GitHub/Git & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR & 50+ Extensions. Sharing it all in five hours — 65 videos online course. | FLAT 80% OFF and PPP - $34 |
+| 🤑 | [NodeCLI.com | Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it yourself with minimum effective effort. Learn to build Node.js & JavaScript based CLI (Command Line Interface) apps & npm packages. Automate the grunt work, do more in less time, impress your manager, make more salary, and help the community. Sharing it all in this step-by-step 100-videos course. | FLAT 80% OFF and PPP - $49 |
+
 
 
 ## 👨‍🎨 Miscellaneous
