@@ -233,6 +233,7 @@ Don't forget to:
 | 💰 | [Tweaks for Twitter](https://underpassapp.com/tweaks/) | Web browser extension that improves the user interface of Twitter in many ways. | $2 off in the iOS App Store and Mac App Store |
 | 🤑 | [ThreadNotes](https://threadnotes.com) | Save, sort, and schedule your favourite Twitter content from Notion. An entire Twitter content management system built directly into your personal Notion workspace. | Terms: 50% OFF for 12 months - Coupon code: BLACKFRIDAY50 |
 | 🤑 | [Away](https://awayfortwitter.com) | Take a break from Twitter - a dashboard for monitoring all your Twitter accounts in one app. Check new messages, replies and stats of your tweets, followers, and more. Available on iOS and macOS. | **30% OFF** on Lifetime Pro unlock |
+| 💰 | [StreamLadder](https://streamladder.com) | Easily convert your Twitch Clips to TikTok, Reels & YouTube Shorts with StreamLadder ✔ Free ✔ Easy to use ✔ No watermark. | **30% OFF** first year. automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
