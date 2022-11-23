@@ -94,7 +94,8 @@ Don't forget to:
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
 |  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
 | 💰 | [Link Unshortener](https://underpassapp.com/LinkUnshortener/) | Mac app that expands shortened web links, following redirects until it reveals the destination URL. | $3 off |
-| 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50$ off using **BLACK_FRIDAY** on checkout |
+| 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50% off using **BLACK_FRIDAY** on checkout |
+| 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
 
 ## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
@@ -132,8 +133,8 @@ Don't forget to:
 |  🤑 | [Speetals](https://speetals.com) | Speetals is a customer-centric site speed monitoring tool. It helps website owners improve their user's experiences. Monitor Web Vitals + 3 other standard metrics. | **50% off** on all plans for one year. Use this code **SpeetalsBF2022** 
 |  🤑 | [UserBooster](https://xavierc.gumroad.com/l/userbooster/bf_22) | UserBooster is a Notion Playbook that will guide you during the launch of your startup. Use it to build your launch strategy and get your 1st users | **50% off** on all plans (automatically applied) |
 |  🤑 | [400+ places to post your startup](https://xavierc.gumroad.com/l/iIZdb/bf_22) | I curated a list of 400+ places where you can promote your startup and get your first users. Save hours of research for the next acquisition channel. | **50% off** on all plans (automatically applied) |
-|  🔎 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
-
+|  💰 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
+|  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
 
 ## 🤖 AI Writing Tools
 |  | Name | Description | Discount Code & Terms |
@@ -163,6 +164,7 @@ Don't forget to:
 |  🤑 | [UserGuiding](https://userguiding.com) | User onboarding made easy, for less. | 50% OFF with code **BLACKFRIDAY22** |
 |  💰 | [Checkbot](https://www.checkbot.io) | Checkbot finds SEO, speed & security problems before your website visitors do. Test your whole site in a click for broken links, duplicate titles, invalid HTML, insecure pages and 50+ other checks with this powerful Chrome extension. | 50% OFF first year with code NOV22, ends Dec. 1st |
 |  💰 | [Chartbrew](https://chartbrew.com) | Interactive dashboards and client reports to track the most important metrics from all your data sources. Transform your queries and API requests into beautiful visualizations | **30% OFF** for the first year with code **CBBF30**, ends Nov 28th |
+|  🤑 | [Common Ninja](https://www.commoninja.com/plugins) | 50+ powerful no-code widgets and apps to enhance websites and e-commerce stores experience. | 50% OFF with code **BLACKFRIDAY22** |
 |  💰 | [Disbug](https://disbug.io/) | Report and fix bugs remarkably faster by adding 10X clarity to bug reports. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 |  💰 | [Bullet](https://bullet.so/) | Create beautiful websites from Notion in just 5 minutes. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 
@@ -206,6 +208,9 @@ Don't forget to:
 |  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
 |  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
 |  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
+|  📱 | [FluxStore](https://1.envato.market/mKdNe) | FluxStore is the Full Source Code Flutter Application to connect to your existing WooCommerce/Magento/Opencart/Shopify website, compatible with any templates. The download package is also included the Free Flutter App Builder tool (FluxBuilder) which is flexible to custom and easy to submit the app to Appstore & Google Play | 50% OFF ends Nov. 30th (Auto apply)|
+|  🤑 | [Notion Website Kit](https://gum.co/notionwebsite) | Collection of pre-populated templates that make it easy to setup a website using Notion. | 50% OFF with code **BF2022** |
+
 
 ## 📗 Programming Books
 |  | Name | Description | Discount Code & Terms |
@@ -256,6 +261,8 @@ Don't forget to:
 |  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
 |  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
 |  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
+|  🤑 | [Code4Startup](https://code4startup.com) | Learn to code by creating real life startups like Airbnb, UberEats, Fiverr... | 50% OFF first 3 months, automatically applied |
+|  🤑 | [Build 7 Startup apps in Rails 7](https://code4startup.com/rails_7_series) | SaaS Project Kit with Rails made for Startup Founders, Solopreneurs, Marketers & Freelancers | Pre-order: get 50% OFF - Course will be released in late December 2022 |
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -269,6 +276,8 @@ Don't forget to:
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 | 💰 | [70+ Tweet Template](https://harshmakadia.gumroad.com/l/tweet-template/) | Skyrocket your impressions and engagement. Never run out of Tweet Ideas, Generate content for a month | 40% OFF with code **40bfd2022** |
 | 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
+| 🤑 | [Learn Programmatic SEO](https://preetam.gumroad.com/l/programmatic-seo) | How to grow Google search traffic using a methodical approach. No prior SEO knowledge required. | 50% OFF with code **BLACKFRIDAY** |
+
 
 
 ## 👨‍🎨 Miscellaneous
