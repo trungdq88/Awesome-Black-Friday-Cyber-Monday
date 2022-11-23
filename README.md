@@ -223,6 +223,8 @@ Don't forget to:
 | 🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/blackfriday50) | This tiny book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | **BLACKFRIDAY50** for 50% off |
 
 ## 📕 Marketing Books
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 |  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
 | 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
 
