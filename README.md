@@ -157,6 +157,7 @@ Don't forget to:
 |  💰 | [Feedhive](https://feedhive.io) | Create, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform | **20% OFF** lifetime, automatically applied |
 | 💰 | [Birdy](https://bidy.so) | Get more Twitter followers. Get more website clicks. Twitter Profile A/B Testing 🤓 | **30%** OFF using the code **BLACKFRIDAY30** at checkout |
 |  📢 | [tweetstreak](https://tweetstreak.com) | tweetstreak is a Twitter audience building tool helping you to sustainably grow your followers.  | Get **50% off** using **BLACKFRIDAY22** when subscribing.|
+| 💰 | [Plann](https://plannthat.com) | Visualize, plan, schedule or auto post your Instagram, Facebook, LinkedIn, TikTok & Pinterest social posts right from your desktop. | **40%** OFF - BLACKFRIDAY |
 
 ## 💸 Finance Tools
 |  | Name | Description | Discount Code & Terms |
