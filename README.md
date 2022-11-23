@@ -77,6 +77,7 @@ Don't forget to:
 | 🤑 | [Flipbook](https://flipbook.sonnylab.com) | Flipbook GIF Animator, Animate your figma design with live-preview, customizable speed, and GIF file export | **50% OFF** on monthly & unlimited plan (auto apply) |
 | 🤑 | [Vidtoon™](https://abdo120.pay.clickbank.net/?cbitems=50&cbfid=46382&coupon=BFDEAL50) | A one-stop software with everything you need to create amazing animation videos. Vidtoon™ comes with all resources and features you will need for your video projects. No need to look elsewhere! |  **50% OFF** lifeTime deal |
 | 🤑 | [Vidtoon Club™](https://abdo120.pay.clickbank.net/?cbitems=59&cbur=a&coupon=BF50off) |In need of more resources? Don’t bother looking for a designer. Vidtoon Club offers monthly resources: from animated characters, images, soundtracks, to brand new pre-designed animated video templates that can be used on their own ( with the ability of fully customizing them) In addition, Vidtoon Club comes with Vidtoon Character Builder; an extra software to customize your own animated characters. |  **50% OFF** lifeTime deal |
+| 💰 | [snappify](https://snappify.io) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | **BLACKFRIDAY_2022** for 30% off first year |
 
 
 [⬆️ Go to Top](#table-of-contents)
