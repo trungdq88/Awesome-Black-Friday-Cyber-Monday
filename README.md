@@ -74,6 +74,9 @@ Don't forget to:
 | 🤑 | [PixMiller.com](https://pixmiller.com) | PixMiller use AI technology to remove image background automatically! Erase the background of your photo and create a png image with transparent background. | 50% OFF with code **BlackFriday2022** or page [PixMiller BlackFriday](https://pixmiller.com/payment/deals-checkout/) |
 | 💰 | [Pika](https://pika.style) | Create beautiful screenshots and mockups instantly. You can design feature images quickly with iPhone, MacBook and App Store templates. You can also create code screenshots and tweet images using Pika. All templates are very customisable.  | 40% OFF with code **BLACKFRIDAY** on annual plans |
 | 🤑 | [Flipbook](https://flipbook.sonnylab.com) | Flipbook GIF Animator, Animate your figma design with live-preview, customizable speed, and GIF file export | **50% OFF** on monthly & unlimited plan (auto apply) |
+| 🤑 | [Vidtoon™](https://abdo120.pay.clickbank.net/?cbitems=50&cbfid=46382&coupon=BFDEAL50) | A one-stop software with everything you need to create amazing animation videos. Vidtoon™ comes with all resources and features you will need for your video projects. No need to look elsewhere! |  **50% OFF** lifeTime deal |
+| 🤑 | [Vidtoon Club™](https://abdo120.pay.clickbank.net/?cbitems=59&cbur=a&coupon=BF50off) |In need of more resources? Don’t bother looking for a designer. Vidtoon Club offers monthly resources: from animated characters, images, soundtracks, to brand new pre-designed animated video templates that can be used on their own ( with the ability of fully customizing them) In addition, Vidtoon Club comes with Vidtoon Character Builder; an extra software to customize your own animated characters. |  **50% OFF** lifeTime deal |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -168,7 +171,9 @@ Don't forget to:
 |  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
 |  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY** |
 |  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
-| 💰  | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
+|  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
+|  🤑 | [Voicely](https://abdo120.pay.clickbank.net/?cbitems=54&cbur=a&coupon=BFDEAL50) | Voicely, a text to speech application that can turn any text into high quality, human-like voices with additional features to spice up your projects. | **50% OFF for life** |
+|  🤑 | [Streamr](https://abdo120.pay.clickbank.net/?cbitems=55&cbur=a&coupon=BFDEAL50) | Streamr is a video and audio translation and transcription + live streaming software. No matter what video you would like to work on, Streamr supports all types of videos; Youtube videos or personal imported videos. | **50% OFF for life** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -183,6 +188,8 @@ Don't forget to:
 | 💰 | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **WRITE20** to receive the discount |
 |  🤑 | [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub?utm_source=tdinh) | AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. | Offer : Flat 50% Off on Full Version, Coupon Code : AIBF50 |
 | 💰 | [EndType](https://endtype.com) | Google Sheet Add On which uses AI to write, find and organize your data. | **30% OFF for life**, Use the code: Black2022 |
+|  🤑 | [Typli](https://typli.ai/#pricing) | Typli.ai is an AI writer and SEO assistant that lets you generate original, high-ranking copy wherever you work. Using AI technology, you’ll be able to produce original, long-form content that can be edited to perfection. | **50% OFF**, Use the code: BFDEAL50 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -239,6 +246,7 @@ Don't forget to:
 | 🤑 | [ThreadNotes](https://threadnotes.com) | Save, sort, and schedule your favourite Twitter content from Notion. An entire Twitter content management system built directly into your personal Notion workspace. | Terms: 50% OFF for 12 months - Coupon code: BLACKFRIDAY50 |
 | 🤑 | [Away](https://awayfortwitter.com) | Take a break from Twitter - a dashboard for monitoring all your Twitter accounts in one app. Check new messages, replies and stats of your tweets, followers, and more. Available on iOS and macOS. | **30% OFF** on Lifetime Pro unlock |
 | 💰 | [StreamLadder](https://streamladder.com) | Easily convert your Twitch Clips to TikTok, Reels & YouTube Shorts with StreamLadder ✔ Free ✔ Easy to use ✔ No watermark. | **30% OFF** first year. automatically applied |
+| 🤑 | [Kleptofinder](https://kleptofinder.com/pricing) | Have you ever had a plan to protect the visual content used in your Instagram account or website? Kleptofinder provides a detailed report on which platform and website have used your content and even selects the mentioned website to investigate how they have used your digital property. | **50% OFF** on Lifetime Ultra Security Plan use **BFDEAL50** at checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
