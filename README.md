@@ -155,6 +155,7 @@ Don't forget to:
 |  💰 | [Magny command palette](https://magny.io/) | Magny is a navigation, universal search and helper for apps in order to help users understand and onboard easier, faster and in a convenient manner. | 40% OFF on all plans purchased in December |
 |  🤑 | [UserGuiding](https://userguiding.com) | User onboarding made easy, for less. | 50% OFF with code **BLACKFRIDAY22** |
 |  💰 | [Checkbot](https://www.checkbot.io) | Checkbot finds SEO, speed & security problems before your website visitors do. Test your whole site in a click for broken links, duplicate titles, invalid HTML, insecure pages and 50+ other checks with this powerful Chrome extension. | 50% OFF first year with code NOV22, ends Dec. 1st |
+|  💰 | [Chartbrew](https://chartbrew.com) | Interactive dashboards and client reports to track the most important metrics from all your data sources. Transform your queries and API requests into beautiful visualizations | **30% OFF** for the first year with code **CBBF30**, ends Nov 28th |
 
 
 
