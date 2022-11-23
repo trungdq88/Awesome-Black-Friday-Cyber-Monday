@@ -66,6 +66,7 @@ Don't forget to:
 | 🤑 | [Logology](https://www.logology.co/) | Get a designer-quality logo for your startup in 5 minutes. | 50% OFF with code **BF22** |
 | 🤑 | [Icons8](https://icons8.com/l/blackfriday2022/) | icons, illustrations, photos, and music. | Up to 55% off subscription |
 | 🤑 | [CandyIcons.com](https://www.candyicons.com/) | Thousands of AI-generated app icons. One click to get custom favicon packages and all required app icon sizes of multi-platforms (iOS & macOS, android). | 70% OFF per icon |
+| 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
 
 
 ## 🎛 Utility Tools
@@ -75,6 +76,8 @@ Don't forget to:
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
 | 💰 | [Horcrux Email Backup](https://thehorcrux.com) | A mac app that lets you easily backup your emails as well as moves your emails between different providers when crisis strikes. | 30% OFF with code **BLACKFRIDAY** |
 | 💰 | [StopTheMadness](https://underpassapp.com/StopTheMadness/) | Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! | $3 off in the iOS App Store and Mac App Store |
+| 💰 | [Shelf](https://apps.apple.com/app/id6443596253) | Pin photos, text, and actions to your Lock Screen. For iPhone. | Up to 40% off Shelf Pro |
+| 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
 
 
 ## ⌨️ Code Libraries
@@ -92,6 +95,7 @@ Don't forget to:
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
 |  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
 | 💰 | [Link Unshortener](https://underpassapp.com/LinkUnshortener/) | Mac app that expands shortened web links, following redirects until it reveals the destination URL. | $3 off |
+| 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50$ off using **BLACK_FRIDAY** on checkout |
 
 ## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
@@ -102,6 +106,8 @@ Don't forget to:
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 |  💰 | [Typing](https://typinghero.app) [Hero](https://play.google.com/store/apps/details?id=sen.typinghero) | Summon your custom messages and instantly send them in 2 taps on your Android device—no matter if it's 10 or 1000 characters long. It has helped businesses and professionals worldwide collectively saved 350K+ hours. | 20-40% OFF Lifetime License. No code required. |
 | 💰 | [StopTheScript](https://underpassapp.com/StopTheScript/) | iOS Safari extension that stops all JavaScript on your selected websites. | $2 off |
+| 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you have highly productive days. | Up to 40% OFF Focused Work Pro |
+| 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting Apps & Websites on iPhone, iPad, and Mac. | Up to 40% OFF Ochi Pro |
 
 
 ## 🛠️ Productivity Tools & Services
@@ -137,6 +143,7 @@ Don't forget to:
 |  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |  
 |  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 |  🤑 | [AI Content Labs](https://www.aicontentlabs.com) | Turn your GPT-3 API into a powerful writing assistant. We offer a platform that allows you to integrate the best AI providers on the market to create high-quality content easier, faster, and cheaper than ever before.| **30% OFF** on Annual Subscription Plan and **LIFETIME OFFER**, until Monday Nov. 28 |  
+| 💰 | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **WRITE20** to receive the discount |
 
 
 ## 🚀 Startup SaaS/Tools
@@ -156,6 +163,7 @@ Don't forget to:
 |  💰 | [Magny command palette](https://magny.io/) | Magny is a navigation, universal search and helper for apps in order to help users understand and onboard easier, faster and in a convenient manner. | 40% OFF on all plans purchased in December |
 |  🤑 | [UserGuiding](https://userguiding.com) | User onboarding made easy, for less. | 50% OFF with code **BLACKFRIDAY22** |
 |  💰 | [Checkbot](https://www.checkbot.io) | Checkbot finds SEO, speed & security problems before your website visitors do. Test your whole site in a click for broken links, duplicate titles, invalid HTML, insecure pages and 50+ other checks with this powerful Chrome extension. | 50% OFF first year with code NOV22, ends Dec. 1st |
+|  💰 | [Chartbrew](https://chartbrew.com) | Interactive dashboards and client reports to track the most important metrics from all your data sources. Transform your queries and API requests into beautiful visualizations | **30% OFF** for the first year with code **CBBF30**, ends Nov 28th |
 
 
 
@@ -197,7 +205,7 @@ Don't forget to:
 |  🤑 | [Nestajs](https://nestajs.com) | Starter kit for your next great SaaS application | 50% OFF with code **50OFF** |
 |  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
 |  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
-
+|  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
 
 ## 📗 Programming Books
 |  | Name | Description | Discount Code & Terms |
@@ -223,12 +231,14 @@ Don't forget to:
 | 🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/blackfriday50) | This tiny book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | **BLACKFRIDAY50** for 50% off |
 
 ## 📕 Marketing Books
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 |  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
 | 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
 
 ## 📹 Programming Courses
 |  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
+| -- | ---| ------ | ------ | 
 |  🤑 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS. | 50% OFF, automatically applied |
 |  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $100, with an annual subscription of Composables.|
 |  💵 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | Learn how to build a SaaS product from scratch with 25+ hours of video | 15% OFF auto applied on Fri |
@@ -244,7 +254,8 @@ Don't forget to:
 |  💰 | [Code Maze](https://code-maze.com) | Code Maze - C#, .NET and Web Development Tutorials | 40% OFF, automatically applied |
 |  💰 | [Nick Chapsas' courses](https://nickchapsas.com) |  Courses by Nick Chapsas specifically crafted for the real world of software engineering. | 25% OFF with code **BF2022** |
 |  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
-
+|  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
+|  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -256,6 +267,9 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
+| 💰 | [70+ Tweet Template](https://harshmakadia.gumroad.com/l/tweet-template/) | Skyrocket your impressions and engagement. Never run out of Tweet Ideas, Generate content for a month | 40% OFF with code **40bfd2022** |
+| 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
+
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
@@ -264,4 +278,4 @@ Don't forget to:
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
 |  💰 | [Unrealme - Awesome generated images of yourself](https://unrealme.io/) | Get 100+ images of **_yourself_** | 30%  with **_BLACKFRIDAY_** code |
 |  🤑 | [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) | Care companion for happy & healthy house plants | 50% off 1st year |
-
+|  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
