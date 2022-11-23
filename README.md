@@ -255,6 +255,8 @@ Don't forget to:
 |  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
 |  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
 |  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
+|  🤑 | [Code4Startup](https://code4startup.com) | Learn to code by creating real life startups like Airbnb, UberEats, Fiverr... | 50% OFF first 3 months, automatically applied |
+|  🤑 | [Build 7 Startup apps in Rails 7](https://code4startup.com/rails_7_series) | SaaS Project Kit with Rails made for Startup Founders, Solopreneurs, Marketers & Freelancers | Pre-order: get 50% OFF - Course will be released in late December 2022 |
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
