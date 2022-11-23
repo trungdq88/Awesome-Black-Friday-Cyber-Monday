@@ -108,7 +108,7 @@ Don't forget to:
 | 💰 | [StopTheScript](https://underpassapp.com/StopTheScript/) | iOS Safari extension that stops all JavaScript on your selected websites. | $2 off |
 | 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you have highly productive days. | Up to 40% OFF Focused Work Pro |
 | 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting Apps & Websites on iPhone, iPad, and Mac. | Up to 40% OFF Ochi Pro |
-
+| 🤑 | [GetMe - The easy shopping list](https://apps.apple.com/app/getme-shopping-list/id1592143397) | GetMe is a simple, fast and clear shopping list that is synchronized on all your devices and that you can share and use together.  | 50% OFF for Lifetime Unlock in-app purchase, no code necessary |
 
 ## 🛠️ Productivity Tools & Services
 |  | Name | Description | Discount Code & Terms |
