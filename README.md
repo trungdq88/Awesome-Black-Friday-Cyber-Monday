@@ -144,6 +144,7 @@ Don't forget to:
 |  💰 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
 |  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
 |  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY** |
+|  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
 
 ## 🤖 AI Writing Tools
 |  | Name | Description | Discount Code & Terms |
