@@ -150,6 +150,7 @@ Don't forget to:
 |  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 |  🤑 | [AI Content Labs](https://www.aicontentlabs.com) | Turn your GPT-3 API into a powerful writing assistant. We offer a platform that allows you to integrate the best AI providers on the market to create high-quality content easier, faster, and cheaper than ever before.| **30% OFF** on Annual Subscription Plan and **LIFETIME OFFER**, until Monday Nov. 28 |  
 | 💰 | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **WRITE20** to receive the discount |
+|  🤑 | [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub?utm_source=tdinh) | AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. | Offer : Flat 50% Off on Full Version, Coupon Code : AIBF50 |
 
 
 ## 🚀 Startup SaaS/Tools
