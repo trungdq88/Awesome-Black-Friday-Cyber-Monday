@@ -93,6 +93,7 @@ Don't forget to:
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
 |  🤑 | [Timestripe](https://timestripe.com/) | Unique planner with flexible time frames that allows you to think strategically, have a clear vision, and focus on things that are really important to you. | 50% OFF with code **BLACKFRIDAY2022** |
+|  🤑 | [KTool.io](https://ktool.io) | KTool helps you read web articles, Twitter threads and newsletters on Kindle. Reduce screen time. Improve productivity. | BLACKFRIDAY_2022 for 50% off first year |
 
 
 ## 🌈 Marketing Tools
@@ -176,6 +177,7 @@ Don't forget to:
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
+| 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | 30% OFF on Annual Subscription with code **THANKS2022** |
 |  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 
 
