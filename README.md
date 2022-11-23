@@ -257,6 +257,9 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
+| 💰 | [70+ Tweet Template](https://harshmakadia.gumroad.com/l/tweet-template/) | Skyrocket your impressions and engagement. Never run out of Tweet Ideas, Generate content for a month | 40% OFF with code **40bfd2022** |
+| 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
+
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
