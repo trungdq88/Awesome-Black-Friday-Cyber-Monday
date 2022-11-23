@@ -108,6 +108,7 @@ Don't forget to:
 | 💰 | [StopTheScript](https://underpassapp.com/StopTheScript/) | iOS Safari extension that stops all JavaScript on your selected websites. | $2 off |
 | 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you have highly productive days. | Up to 40% OFF Focused Work Pro |
 | 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting Apps & Websites on iPhone, iPad, and Mac. | Up to 40% OFF Ochi Pro |
+| 💰 | [one sec](https://apps.apple.com/app/apple-store/id1532875441) | Forces you to take a deep breath before you can open social media. | [50% off one sec pro](https://apps.apple.com/redeem?ctx=offercodes&id=1532875441&code=BLACKFRIDAY) |
 
 
 ## 🛠️ Productivity Tools & Services
