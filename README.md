@@ -73,6 +73,7 @@ Don't forget to:
 | 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
 | 🤑 | [PixMiller.com](https://pixmiller.com) | PixMiller use AI technology to remove image background automatically! Erase the background of your photo and create a png image with transparent background. | 50% OFF with code **BlackFriday2022** or page [PixMiller BlackFriday](https://pixmiller.com/payment/deals-checkout/) |
 | 💰 | [Pika](https://pika.style) | Create beautiful screenshots and mockups instantly. You can design feature images quickly with iPhone, MacBook and App Store templates. You can also create code screenshots and tweet images using Pika. All templates are very customisable.  | 40% OFF with code **BLACKFRIDAY** on annual plans |
+| 🤑 | [Flipbook](https://flipbook.sonnylab.com) | Flipbook GIF Animator, Animate your figma design with live-preview, customizable speed, and GIF file export | **50% OFF** on monthly & unlimited plan (auto apply) |
 
 [⬆️ Go to Top](#table-of-contents)
 
