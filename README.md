@@ -379,6 +379,8 @@ Don't forget to:
 | 🤑 | [KCD Bundle](https://www.kcdbundle.com/) |  KCD Bundle brings Testing JavaScript and Epic React together for a special discounted price. | 50% OFF |
 |  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
+| 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
