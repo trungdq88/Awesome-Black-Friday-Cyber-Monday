@@ -26,10 +26,10 @@ Don't forget to:
 - [🤖 AI Writing Tools](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools](#-startup-saastools)
 - [🌏 Social Media Tools](#-social-media-tools)
+- [💸 Finance Tools](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
 - [📗 Books](#-books)
 - [📹 Courses](#-courses)
-- [💸 Finance Tools](#-finance-tools)
 - [👨‍🎨 Miscellaneous](#-miscellaneous)
 
 
@@ -140,6 +140,12 @@ Don't forget to:
 |  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |  
 | 🤑 | [Octomata](https://octomata.app) | Easily Turn a Reddit post into a video. Automate video generation including music, text to speech and transitions by just pasting a URL. | **50%** OFF using the code **BLACKFRIDAY22** at checkout |
 
+## 💸 Finance Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Expense Buddy](https://expensebuddy.app) | Your personal expense & budget tracking app | 20% OFF all plans |
+|  🤑 | [Moonitor](https://moonitor.io) | Fully private cryptocurrency Portfolio tracker for Desktop. Moonitor gives you a clear overview of your cryptocurrencies assets in real time. | 50% OFF, automatically applied |
+
 ## 💅 Boilerplates, Templates, Themes, Plugins
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -176,11 +182,6 @@ Don't forget to:
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
 
-## 💸 Finance Tools
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  💰 | [Expense Buddy](https://expensebuddy.app) | Your personal expense & budget tracking app | 20% OFF all plans |
-|  🤑 | [Moonitor](https://moonitor.io) | Fully private cryptocurrency Portfolio tracker for Desktop. Moonitor gives you a clear overview of your cryptocurrencies assets in real time. | 50% OFF, automatically applied |
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
