@@ -128,6 +128,8 @@ Don't forget to:
 | 💰 | [Dewstack](https://www.dewstack.com) | Dewstack helps you build and host your documentation on your own domain with no technical knowledge. It can be a knowledge base, user manual, product doc or anything you need to host as a guide to your end users, Dewstack helps you do that in a Quick & Easy way.  | 40% off for LIFE on Scale plan with code **BFCMScale40** & 30% off for LIFE on Launch plan with code **BFCMLaunch30** |
 | 💰 | [hirevire](https://hirevire.com) | Hirevire can help you automate the first round of interviews. Get answers for basic screening questions via video, file uploads or text. Great for building teams when you have a short staffed HR Team. | **BF50** for 50% off on all plans |
 |  🤑 | [Hydrozen.io](https://hydrozen.io) | Uptime & Heartbeat monitoring solution with built-in Statuspages, also has Domain & SSL monitoring, supports custom domain for statuspages, supports multiple integrations. | 75% OFF with code **BLACKFRIDAY2022OFF75** |
+|  💰 | [Magny command palette](https://magny.io/) | Magny is a navigation, universal search and helper for apps in order to help users understand and onboard easier, faster and in a convenient manner. | 40% OFF on all plans purchased in December |
+
 
 
 ## 🌏 Social Media Tools
