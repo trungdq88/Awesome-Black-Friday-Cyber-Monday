@@ -181,6 +181,8 @@ Don't forget to:
 |  💰 | [ReplyBox](https://getreplybox.com/pricing) | ReplyBox is a simple, lightweight, and blazingly-fast commenting system that easily integrates into any website. | 40% OFF with code **bf2022** |
 |  💰 | [Calamari](https://www.calamari.io) | Calamari is an HR management software that provides tools for Time and Attendance Tracking, Leave Management, and HR Documents System. It facilitates employees’ daily work and improves their productivity through multiple integrations with standard office solutions such as Slack and Google Workspace. Calamari also allows for planning and tracking absences and attendance through its website, mobile app, QR codes, and iBeacons. |  30% off for 1st payment (monthly/annual) for new clients. Contact our Customer Support to activate the offer. |
 |  🤑 | [Cirun.io](https://cirun.io) | Create On-demand Self-Hosted Github Actions Runners on your Cloud (AWS, GCP, Azure, Oracle, OpenStack, DigitalOcean)! | 60% OFF ends Nov. 28th with code **BLACKFRIDAY2022** |
+|  💰 | [WebhookWizard](https://webhookwizard.com?utm_source=github&utm_campaign=trungdq88) | Quickly build and manage Webhooks. Webhook delivery with flexibility, reliability, monitoring and debugging.| 30% off with code **BF20222** | 
+
 
 
 ## 🌏 Social Media Tools
