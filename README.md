@@ -262,6 +262,7 @@ Don't forget to:
 |  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
 |  🤑 | [Code4Startup](https://code4startup.com) | Learn to code by creating real life startups like Airbnb, UberEats, Fiverr... | 50% OFF first 3 months, automatically applied |
 |  🤑 | [Build 7 Startup apps in Rails 7](https://code4startup.com/rails_7_series) | SaaS Project Kit with Rails made for Startup Founders, Solopreneurs, Marketers & Freelancers | Pre-order: get 50% OFF - Course will be released in late December 2022 |
+|  💰 | [Codely](https://codely.com/blackfriday) | Full Year Access to all its courses. DDD, Hexagonal Architecture, Typescript, Testing best practices, Figma plugins development, SOLID Principles and many more| 100€ discount at checkout |
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
