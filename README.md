@@ -234,7 +234,7 @@ Don't forget to:
 |  💰 | [Code Maze](https://code-maze.com) | Code Maze - C#, .NET and Web Development Tutorials | 40% OFF, automatically applied |
 |  💰 | [Nick Chapsas' courses](https://nickchapsas.com) |  Courses by Nick Chapsas specifically crafted for the real world of software engineering. | 25% OFF with code **BF2022** |
 |  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
-|  🤑 | (Hands-on Security Training for Developers)(https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
+|  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
 
 
 
