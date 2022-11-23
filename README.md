@@ -31,7 +31,7 @@ Don't forget to:
 - [🌏 Social Media Tools](#-social-media-tools)
 - [💸 Finance Tools](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
-- [🥳 WooCommerce Plugins/Apps](#-woocommerce)
+- [🥳 WooCommerce Plugins/Apps](#-woocommerce-pluginsapps)
 - [📗 Programming Books](#-programming-books)
 - [📘 Startup & Career Books](#-startup--career-books)
 - [📕 Marketing Books](#-marketing-books)
