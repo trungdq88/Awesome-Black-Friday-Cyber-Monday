@@ -337,7 +337,6 @@ Don't forget to:
 |  💰 | [Nick Chapsas' courses](https://nickchapsas.com) |  Courses by Nick Chapsas specifically crafted for the real world of software engineering. | 25% OFF with code **BF2022** |
 |  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
 |  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
-|  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
 |  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
 |  🤑 | [Code4Startup](https://code4startup.com) | Learn to code by creating real life startups like Airbnb, UberEats, Fiverr... | 50% OFF first 3 months, automatically applied |
 |  🤑 | [Build 7 Startup apps in Rails 7](https://code4startup.com/rails_7_series) | SaaS Project Kit with Rails made for Startup Founders, Solopreneurs, Marketers & Freelancers | Pre-order: get 50% OFF - Course will be released in late December 2022 |
@@ -346,6 +345,7 @@ Don't forget to:
 | 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
 |  💰 | [Codely](https://codely.com/blackfriday) | Full Year Access to all its courses. DDD, Hexagonal Architecture, Typescript, Testing best practices, Figma plugins development, SOLID Principles and many more| 100€ discount at checkout |
 | 💰 | [Platzi](https://platzi.com/blackfriday/) | Full year access to all its courses: Engineering, Design, Marqueting, Soft Skills, Bussiness, Startups, English | 45% Discount at checkout |
+|  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
