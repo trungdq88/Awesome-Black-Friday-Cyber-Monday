@@ -81,7 +81,6 @@ Don't forget to:
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 |  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
-|  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
 
 
 ## ⌨️ Code Libraries
@@ -236,6 +235,7 @@ Don't forget to:
 | 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
 |  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
 |  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
+|  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
 
 
 ## 📗 Programming Books
