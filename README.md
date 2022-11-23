@@ -216,6 +216,7 @@ Don't forget to:
 |  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
 |  💰 | [AlgoExpert](https://www.algoexpert.io) | The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. | Get all 4 AlgoExpert products in one $99 bundle |
 |  🤑 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2022) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
+|  💰 | [Code Maze](https://code-maze.com) | Code Maze - C#, .NET and Web Development Tutorials | 40% OFF, automatically applied |
 
 
 ## 👨‍🎨 Miscellaneous
