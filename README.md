@@ -301,6 +301,7 @@ Don't forget to:
 | 🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/blackfriday50) | This tiny book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills | FLAT 80% OFF and PPP |
 | 🤑 | [Make VS Code Awesome](https://makevscodeawesome.com/#buy) | Make VS Code awesome, then teach you how to be insanely productive in it. | **BLACKFRIDAY50** for 50% off |
+| 🤑 | [Pricing Freelance Projects](https://tom-hirst.gumroad.com/l/pcUlz/BF2022) | If you want to know what to charge for your work, which pricing methods work best and how to get paid what you're worth, then Pricing Freelance Projects is for you | $19.50 (usually $39) with BF2022
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -362,6 +363,7 @@ Don't forget to:
 | 💰 | [70+ Tweet Template](https://harshmakadia.gumroad.com/l/tweet-template/) | Skyrocket your impressions and engagement. Never run out of Tweet Ideas, Generate content for a month | 40% OFF with code **40bfd2022** |
 | 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
 | 🤑 | [Learn Programmatic SEO](https://preetam.gumroad.com/l/programmatic-seo) | How to grow Google search traffic using a methodical approach. No prior SEO knowledge required. | 50% OFF with code **BLACKFRIDAY** |
+| 🤑 | [The Personal Website Playbook](https://tom-hirst.gumroad.com/l/GdaxO/BF2022) | Get leads, revenue and opportunity from your personal website on autopilot | $39.50 (usually $79) with BF2022
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -376,5 +378,6 @@ Don't forget to:
 |  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
 |  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
 |  💰 | [tonik](https://www.tonik.com/) | 25% off for UX/UI, brand design, and front-end support, and another 25% off (50% total!) for Y Combinator companies. | 25% OFF — email hello@tonik.com with ‘black22’ in topic
+| 🤑 | [The Independence Bundle](https://tom-hirst.gumroad.com/l/HKlpmD/BF2022) | All my products. One bundle. One price. Includes every additional premium resource | $73.50 (usually $147) with BF2022
 
 [⬆️ Go to Top](#table-of-contents)
