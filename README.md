@@ -87,6 +87,7 @@ Don't forget to:
 
 ## 🖥️ Productivity Desktop Apps
 |  | Name | Description | Discount Code & Terms |
+| 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
 | -- | ---| ------ | ------ |
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
 | 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
