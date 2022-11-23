@@ -100,6 +100,7 @@ Don't forget to:
 | 💰 | [Link Unshortener](https://underpassapp.com/LinkUnshortener/) | Mac app that expands shortened web links, following redirects until it reveals the destination URL. | $3 off |
 | 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50% off using **BLACK_FRIDAY** on checkout |
 | 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
+|  🤑 | [Curiosity](https://curiosity.ai/blackfriday2022) | One search for all your folders and apps. Save time and get more done with the unified search and launcher app that keeps all your data safe on your device. | 50% OFF Curiosity Pro with code **BLACKFRIDAY2022** |
 
 ## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
@@ -114,6 +115,7 @@ Don't forget to:
 | 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting Apps & Websites on iPhone, iPad, and Mac. | Up to 40% OFF Ochi Pro |
 | 🤑 | [GetMe - The easy shopping list](https://apps.apple.com/app/getme-shopping-list/id1592143397) | GetMe is a simple, fast and clear shopping list that is synchronized on all your devices and that you can share and use together.  | 50% OFF for Lifetime Unlock in-app purchase, no code necessary |
 | 💰 | [one sec](https://apps.apple.com/app/apple-store/id1532875441) | Forces you to take a deep breath before you can open social media. | [50% off one sec pro](https://apps.apple.com/redeem?ctx=offercodes&id=1532875441&code=BLACKFRIDAY) |
+| 💰 | [Outread: Speed Reading](https://apps.apple.com/app/id778846279) | Speed-read websites, ebooks and documents. Outread improves reading efficiency by focusing your eyes on small chunks of text at a time. | 33% OFF Outread+ Lifetime, no code necessary |
 
 
 ## 🛠️ Productivity Tools & Services
@@ -141,6 +143,7 @@ Don't forget to:
 |  🤑 | [400+ places to post your startup](https://xavierc.gumroad.com/l/iIZdb/bf_22) | I curated a list of 400+ places where you can promote your startup and get your first users. Save hours of research for the next acquisition channel. | **50% off** on all plans (automatically applied) |
 |  💰 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
 |  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
+|  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY** |
 
 ## 🤖 AI Writing Tools
 |  | Name | Description | Discount Code & Terms |
@@ -150,6 +153,7 @@ Don't forget to:
 |  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 |  🤑 | [AI Content Labs](https://www.aicontentlabs.com) | Turn your GPT-3 API into a powerful writing assistant. We offer a platform that allows you to integrate the best AI providers on the market to create high-quality content easier, faster, and cheaper than ever before.| **30% OFF** on Annual Subscription Plan and **LIFETIME OFFER**, until Monday Nov. 28 |  
 | 💰 | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **WRITE20** to receive the discount |
+|  🤑 | [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub?utm_source=tdinh) | AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. | Offer : Flat 50% Off on Full Version, Coupon Code : AIBF50 |
 
 
 ## 🚀 Startup SaaS/Tools
@@ -176,7 +180,10 @@ Don't forget to:
 |  🤑 | [Appliku](https://appliku.com/) | Easy and Cost-Effective Deployments for your Python/Django and other apps on your servers | 50% OFF with code **black2022** ends Nov. 27th |
 |  💰 | [ReplyBox](https://getreplybox.com/pricing) | ReplyBox is a simple, lightweight, and blazingly-fast commenting system that easily integrates into any website. | 40% OFF with code **bf2022** |
 |  💰 | [Calamari](https://www.calamari.io) | Calamari is an HR management software that provides tools for Time and Attendance Tracking, Leave Management, and HR Documents System. It facilitates employees’ daily work and improves their productivity through multiple integrations with standard office solutions such as Slack and Google Workspace. Calamari also allows for planning and tracking absences and attendance through its website, mobile app, QR codes, and iBeacons. |  30% off for 1st payment (monthly/annual) for new clients. Contact our Customer Support to activate the offer. |
+|  🤑 | [Cirun.io](https://cirun.io) | Create On-demand Self-Hosted Github Actions Runners on your Cloud (AWS, GCP, Azure, Oracle, OpenStack, DigitalOcean)! | 60% OFF ends Nov. 28th with code **BLACKFRIDAY2022** |
+|  💰 | [WebhookWizard](https://webhookwizard.com?utm_source=github&utm_campaign=trungdq88) | Quickly build and manage Webhooks. Webhook delivery with flexibility, reliability, monitoring and debugging.| 30% off with code **BF20222** | 
 |  💰 | [redirect.pizza](https://redirect.pizza/) | Domain redirects delivered hassle-free. Get peace of mind when redirecting your domains without the burden of hosting them. | 30% OFF for annual subscriptions, automatically applied |
+
 
 
 ## 🌏 Social Media Tools
@@ -195,6 +202,7 @@ Don't forget to:
 |  📢 | [tweetstreak](https://tweetstreak.com) | tweetstreak is a Twitter audience building tool helping you to sustainably grow your followers.  | Get **50% off** using **BLACKFRIDAY22** when subscribing.|
 | 💰 | [Plann](https://plannthat.com) | Visualize, plan, schedule or auto post your Instagram, Facebook, LinkedIn, TikTok & Pinterest social posts right from your desktop. | **40%** OFF - BLACKFRIDAY |
 | 💰 | [Tweaks for Twitter](https://underpassapp.com/tweaks/) | Web browser extension that improves the user interface of Twitter in many ways. | $2 off in the iOS App Store and Mac App Store |
+| 🤑 | [ThreadNotes](https://threadnotes.com) | Save, sort, and schedule your favourite Twitter content from Notion. An entire Twitter content management system built directly into your personal Notion workspace. | Terms: 50% OFF for 12 months - Coupon code: BLACKFRIDAY50 |
 
 ## 💸 Finance Tools
 |  | Name | Description | Discount Code & Terms |
@@ -226,6 +234,7 @@ Don't forget to:
 |  💰 | [Orderable](https://orderable.com/pricing/) | Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees! | 40% OFF with code **bf2022** |
 | 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
 |  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
+|  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
 
 
 ## 📗 Programming Books
@@ -310,3 +319,4 @@ Don't forget to:
 |  🤑 | [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) | Care companion for happy & healthy house plants | 50% off 1st year |
 |  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
 |  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
+|  💰 | [tonik](https://www.tonik.com/) | 25% off for UX/UI, brand design, and front-end support, and another 25% off (50% total!) for Y Combinator companies. | 25% OFF — email hello@tonik.com with ‘black22’ in topic
