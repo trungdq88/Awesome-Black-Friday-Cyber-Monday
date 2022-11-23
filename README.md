@@ -259,6 +259,7 @@ Don't forget to:
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
 |  🤑 | [Beautiful 100+ AI generated Images](https://shivamrathore.gumroad.com/l/beautiful-100-plus-ai-generated-images) | Get hold of **_astonishingly beautiful 100+ AI generated Images_**, that you have not even imagined... | **_100% OFF using BLACKFRIDAY_** |
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
 |  💰 | [Unrealme - Awesome generated images of yourself](https://unrealme.io/) | Get 100+ images of **_yourself_** | 30%  with **_BLACKFRIDAY_** code |
