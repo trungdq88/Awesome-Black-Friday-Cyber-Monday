@@ -68,6 +68,8 @@ Don't forget to:
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
 | 💰 | [Horcrux Email Backup](https://thehorcrux.com) | A mac app that lets you easily backup your emails as well as moves your emails between different providers when crisis strikes. | 30% OFF with code **BLACKFRIDAY** |
+| 💰 | [StopTheMadness](https://underpassapp.com/StopTheMadness/) | Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! | $3 off in the iOS App Store and Mac App Store |
+
 
 ## ⌨️ Code Libraries
 |  | Name | Description | Discount Code & Terms |
@@ -83,6 +85,7 @@ Don't forget to:
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
 |  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
+| 💰 | [Link Unshortener](https://underpassapp.com/LinkUnshortener/) | Mac app that expands shortened web links, following redirects until it reveals the destination URL. | $3 off |
 
 ## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
@@ -92,6 +95,8 @@ Don't forget to:
 |  🤑 | [Reading Time for iOS](https://apps.apple.com/app/id1561460485) | Book reading companion app. Lets you clock your reading sessions and tells you time left to complete a book. What would you do if you knew a book can be finished in about 90 minutes? | 50% OFF for Unlock forever in-app purchase, no code necessary |
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 |  💰 | [Typing](https://typinghero.app) [Hero](https://play.google.com/store/apps/details?id=sen.typinghero) | Summon your custom messages and instantly send them in 2 taps on your Android device—no matter if it's 10 or 1000 characters long. It has helped businesses and professionals worldwide collectively saved 350K+ hours. | 20-40% OFF Lifetime License. No code required. |
+| 💵 | [StopTheScript](https://underpassapp.com/StopTheScript/) | iOS Safari extension that stops all JavaScript on your selected websites. | $2 off |
+
 
 ## 🛠️ Productivity Tools & Services
 |  | Name | Description | Discount Code & Terms |
@@ -161,6 +166,7 @@ Don't forget to:
 | 💰 | [Birdy](https://bidy.so) | Get more Twitter followers. Get more website clicks. Twitter Profile A/B Testing 🤓 | **30%** OFF using the code **BLACKFRIDAY30** at checkout |
 |  📢 | [tweetstreak](https://tweetstreak.com) | tweetstreak is a Twitter audience building tool helping you to sustainably grow your followers.  | Get **50% off** using **BLACKFRIDAY22** when subscribing.|
 | 💰 | [Plann](https://plannthat.com) | Visualize, plan, schedule or auto post your Instagram, Facebook, LinkedIn, TikTok & Pinterest social posts right from your desktop. | **40%** OFF - BLACKFRIDAY |
+| 💰 | [Tweaks for Twitter](https://underpassapp.com/tweaks/) | Web browser extension that improves the user interface of Twitter in many ways. | $2 off in the iOS App Store and Mac App Store |
 
 ## 💸 Finance Tools
 |  | Name | Description | Discount Code & Terms |
