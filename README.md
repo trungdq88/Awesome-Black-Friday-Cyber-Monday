@@ -197,6 +197,7 @@ Don't forget to:
 |  📢 | [tweetstreak](https://tweetstreak.com) | tweetstreak is a Twitter audience building tool helping you to sustainably grow your followers.  | Get **50% off** using **BLACKFRIDAY22** when subscribing.|
 | 💰 | [Plann](https://plannthat.com) | Visualize, plan, schedule or auto post your Instagram, Facebook, LinkedIn, TikTok & Pinterest social posts right from your desktop. | **40%** OFF - BLACKFRIDAY |
 | 💰 | [Tweaks for Twitter](https://underpassapp.com/tweaks/) | Web browser extension that improves the user interface of Twitter in many ways. | $2 off in the iOS App Store and Mac App Store |
+| 🤑 | [ThreadNotes](https://threadnotes.com) | Save, sort, and schedule your favourite Twitter content from Notion. An entire Twitter content management system built directly into your personal Notion workspace. | Terms: 50% OFF for 12 months - Coupon code: BLACKFRIDAY50 |
 
 ## 💸 Finance Tools
 |  | Name | Description | Discount Code & Terms |
