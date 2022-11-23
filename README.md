@@ -30,9 +30,10 @@ Don't forget to:
 - [💸 Finance Tools](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
 - [📗 Books](#-books)
-- [📹 Courses](#-courses)
+- [📹 Programming Courses](#-programming-courses)
+- [🎢 Career Courses](#-career-courses)
+- [📈 Marketing Courses](#-marketing-courses)
 - [👨‍🎨 Miscellaneous](#-miscellaneous)
-
 
 ## 👨‍💻 Developer Tools
 
@@ -212,20 +213,16 @@ Don't forget to:
 |  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
 
 
-## 📹 Courses
+## 📹 Programming Courses
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS. | 50% OFF, automatically applied |
 |  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $100, with an annual subscription of Composables.|
-|  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 |  💵 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | Learn how to build a SaaS product from scratch with 25+ hours of video | 15% OFF auto applied on Fri |
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
 |  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
-|  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
-|  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
 | 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | 30% OFF on Annual Subscription with code **THANKS2022** |
-|  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 |  🤑 | [Flutter App Monetization: The Complete Guide](https://courses.1manstartup.com/flutter-monetization-course?coupon=BLACKFRIDAY)| 50% off The complete guide to setting up ads, in-app purchases, and subscriptions in a flutter app. | 50% off use code BLACKFRIDAY |
 |  💰 | [Reuven Lerner](https://store.lerner.co.il) | All 35 Python, Git, and Pandas courses are 40% off | 40% off, use coupon code BF2022 |
 |  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
@@ -235,7 +232,15 @@ Don't forget to:
 |  💰 | [Nick Chapsas' courses](https://nickchapsas.com) |  Courses by Nick Chapsas specifically crafted for the real world of software engineering. | 25% OFF with code **BF2022** |
 |  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
 
+## 🎢 Career Courses
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
+|  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 
+## 📈 Marketing Courses
+|  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
+|  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
