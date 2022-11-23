@@ -71,6 +71,7 @@ Don't forget to:
 | 🤑 | [CandyIcons.com](https://www.candyicons.com/) | Thousands of AI-generated app icons. One click to get custom favicon packages and all required app icon sizes of multi-platforms (iOS & macOS, android). | 70% OFF per icon |
 | 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
 | 🤑 | [PixMiller.com](https://pixmiller.com) | PixMiller use AI technology to remove image background automatically! Erase the background of your photo and create a png image with transparent background. | 50% OFF with code **BlackFriday2022** or page [PixMiller BlackFriday](https://pixmiller.com/payment/deals-checkout/) |
+| 💰 | [Pika](https://pika.style) | Create beautiful screenshots and mockups instantly. You can design feature images quickly with iPhone, MacBook and App Store templates. You can also create code screenshots and tweet images using Pika. All templates are very customisable.  | 40% OFF with code **BLACKFRIDAY** on annual plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -143,6 +144,8 @@ Don't forget to:
 |  🤑 | [KTool.io](https://ktool.io) | KTool helps you read web articles, Twitter threads and newsletters on Kindle. Reduce screen time. Improve productivity. | BLACKFRIDAY_2022 for 50% off first year |
 | 🤑 | [Centered](https://centered.app/) | Get into your Flow State with coaches like Kent C. Dodds or Cassidy Williams to get things done 2x faster. | 50% OFF Forever on Pro with code **CYBERFLOW2022** |
 | 🤑 | [Redac](https://gracehuang.gumroad.com/l/redac/blackfriday50) |  The MacOS app that makes redacting text in images easier | **BLACKFRIDAY50** for 50% off 
+| 🤑 | [Assista](https://assista.io) | Completely effortless time-tracking and reporting powerup for Trello. | 50% OFF Professional plan for first month with code **Assista50** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -162,6 +165,7 @@ Don't forget to:
 |  💰 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
 |  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
 |  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY** |
+|  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -206,6 +210,7 @@ Don't forget to:
 |  🤑 | [Cirun.io](https://cirun.io) | Create On-demand Self-Hosted Github Actions Runners on your Cloud (AWS, GCP, Azure, Oracle, OpenStack, DigitalOcean)! | 60% OFF ends Nov. 28th with code **BLACKFRIDAY2022** |
 |  💰 | [WebhookWizard](https://webhookwizard.com?utm_source=github&utm_campaign=trungdq88) | Quickly build and manage Webhooks. Webhook delivery with flexibility, reliability, monitoring and debugging.| 30% off with code **BF20222** | 
 |  💰 | [redirect.pizza](https://redirect.pizza/) | Domain redirects delivered hassle-free. Get peace of mind when redirecting your domains without the burden of hosting them. | 30% OFF for annual subscriptions, automatically applied |
+| 💰 | [tail.so](https://tail.so) | Turn your Notion pages into website in seconds. Tail provides excellent SEO, great performance, built-in analytics, a lot of customization options, cool templates and more. | **30% OFF** on all plans for the first year with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -264,6 +269,7 @@ Don't forget to:
 | 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
 |  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
 |  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
+|  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -294,6 +300,7 @@ Don't forget to:
 | 🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/blackfriday50) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/blackfriday50) | This tiny book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills | FLAT 80% OFF and PPP |
+| 🤑 | [Make VS Code Awesome](https://makevscodeawesome.com/#buy) | Make VS Code awesome, then teach you how to be insanely productive in it. | **BLACKFRIDAY50** for 50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
