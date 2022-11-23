@@ -21,23 +21,27 @@ Don't forget to:
 - [👨‍💻 Developer Tools](#-developer-tools)
 - [🌅 Design Tools](#-design-tools)
 - [🎛 Utility Tools](#-utility-tools)
-- [⌨️ Code Libraries](#%EF%B8%8F-code-libraries)
-- [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
-- [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
-- [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
+- [⌨️ Code Libraries](#️-code-libraries)
+- [🔥 Productivity](#-productivity)
+	- [🖥️ Productivity Desktop Apps](#️-productivity-desktop-apps)
+	- [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services](#️-productivity-tools--services)
 - [🌈 Marketing Tools](#-marketing-tools)
 - [🤖 AI Writing Tools](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools](#-startup-saastools)
 - [🌏 Social Media Tools](#-social-media-tools)
 - [💸 Finance Tools](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
-- [📗 Programming Books](#-programming-books)
-- [📘 Startup & Career Books](#-startup--career-books)
-- [📕 Marketing Books](#-marketing-books)
-- [📹 Programming Courses](#-programming-courses)
-- [🎢 Career Courses](#-career-courses)
-- [📈 Marketing Courses](#-marketing-courses)
+- [📚 Books](#-books)
+	- [📗 Programming Books](#-programming-books)
+	- [📘 Startup & Career Books](#-startup--career-books)
+	- [📕 Marketing Books](#-marketing-books)
+- [📹 Courses](#-courses)
+	- [💻 Programming Courses](#-programming-courses)
+	- [🎢 Career Courses](#-career-courses)
+	- [📈 Marketing Courses](#-marketing-courses)
 - [👨‍🎨 Miscellaneous](#-miscellaneous)
+
 
 ## 👨‍💻 Developer Tools
 
@@ -106,7 +110,8 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🖥️ Productivity Desktop Apps
+## 🔥 Productivity
+### 🖥️ Productivity Desktop Apps
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -122,7 +127,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📱 Productivity Mobile Apps
+### 📱 Productivity Mobile Apps
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -140,7 +145,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🛠️ Productivity Tools & Services
+### 🛠️ Productivity Tools & Services
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -292,7 +297,8 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📗 Programming Books
+## 📚 Books
+### 📗 Programming Books
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -307,7 +313,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📘 Startup & Career Books
+### 📘 Startup & Career Books
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -327,7 +333,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📕 Marketing Books
+### 📕 Marketing Books
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -336,7 +342,9 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📹 Programming Courses
+## 📹 Courses
+
+### 💻 Programming Courses
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -374,7 +382,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🎢 Career Courses
+### 🎢 Career Courses
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -383,7 +391,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📈 Marketing Courses
+### 📈 Marketing Courses
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
