@@ -175,6 +175,8 @@ Don't forget to:
 | 💰  | [The Pragmatic Programmers](https://pragprog.com/) | Entire catalog of ebooks and audio books on sale for 40% | **turkeysale2022** for 40% off |
 | 💰 | [Legacy Code: First Aid Kit](https://understandlegacycode.ck.page/products/legacy-code-first-aid-kit?promo=REFACTOR) | 14 techniques to rescue any Legacy codebase out there! | 30% OFF, automatically applied |
 | 🤑 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLCKFRIDAY50?_gl=1*dc01gi*_ga*MTc2OTg2OTI4Ni4xNjU5MzgxNjU3*_ga_6LJN6D94N6*MTY2OTEzOTU5OC41Ni4xLjE2NjkxNDAwNjQuMC4wLjA.) | Learn to make a portfolio project that will get you hired. | **BLCKFRIDAY50** for 50% off |
+| 🤑 | [Deploying Elixir: Advanced Topics](https://miguelcoba.gumroad.com/l/advancedtopics)) | Deploy Elixir like a PRO | 50% OFF, automatically applied |
+| 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
 
 
 ## 📹 Courses
