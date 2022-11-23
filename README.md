@@ -18,8 +18,8 @@ Don't forget to:
 
 - [👨‍💻 Developer Tools](#-developer-tools)
 - [🌅 Design Tools](#-design-tools)
-- [⌨️ Code Libraries](#-code-libraries)
 - [🎛 Utility Tools](#-utility-tools)
+- [⌨️ Code Libraries](#%EF%B8%8F-code-libraries)
 - [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
 - [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
 - [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
