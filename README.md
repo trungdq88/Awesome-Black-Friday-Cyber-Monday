@@ -174,6 +174,8 @@ Don't forget to:
 |  🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The Django-powered SaaS boilerplate with built-in teams, billing, a modern front end, instant deployment and more | 50% OFF lifetime unlimited license auto applied all week |
 |  🤑 | [Nestajs](https://nestajs.com) | Starter kit for your next great SaaS application | 50% OFF with code **50OFF** |
 |  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
+|  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
+
 
 ## 📗 Books
 |  | Name | Description | Discount Code & Terms |
