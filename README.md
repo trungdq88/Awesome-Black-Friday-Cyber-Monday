@@ -53,7 +53,6 @@ Don't forget to:
 |  💰 | [Polypane](https://polypane.app/) | Build better websites in less time with a stand-alone browser that makes your site more responsive, more accessible and faster. Save hours on each project, love every minute of it. | 30% OFF ends Nov. 30th |
 |  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
-|  🤑 | [FluxStore](https://1.envato.market/mKdNe) | FluxStore is the Full Source Code Flutter Application to connect to your existing WooCommerce/Magento/Opencart/Shopify website, compatible with any templates. The download package is also included the Free App Builder tool (FluxBuilder) which is help to create Flutter Full Mobile easily | 50% OFF ends Nov. 30th (Auto apply)|
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
@@ -206,6 +205,7 @@ Don't forget to:
 |  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
 |  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
 |  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
+|  📱 | [FluxStore](https://1.envato.market/mKdNe) | FluxStore is the Full Source Code Flutter Application to connect to your existing WooCommerce/Magento/Opencart/Shopify website, compatible with any templates. The download package is also included the Free Flutter App Builder tool (FluxBuilder) which is flexible to custom and easy to submit the app to Appstore & Google Play | 50% OFF ends Nov. 30th (Auto apply)|
 
 ## 📗 Programming Books
 |  | Name | Description | Discount Code & Terms |
