@@ -217,6 +217,9 @@ Don't forget to:
 |  📱 | [FluxStore](https://1.envato.market/mKdNe) | FluxStore is the Full Source Code Flutter Application to connect to your existing WooCommerce/Magento/Opencart/Shopify website, compatible with any templates. The download package is also included the Free Flutter App Builder tool (FluxBuilder) which is flexible to custom and easy to submit the app to Appstore & Google Play | 50% OFF ends Nov. 30th (Auto apply)|
 |  🤑 | [Notion Website Kit](https://gum.co/notionwebsite) | Collection of pre-populated templates that make it easy to setup a website using Notion. | 50% OFF with code **BF2022** |
 |  📱 | [Production Ready Forms](https://productionreadyforms.com/) | Use this React Native app starter to develop a production-ready app in no time!  Production-Ready Forms is the app template with forms and whole scenes. Reuse pre-defined scenes, adjust to your needs, dive into business logic. Focus on your **React Native** app and leave the boring stuff to me. | 40% OFF with code **BLACKFRIDAY22**|
+|  💰 | [Setary](https://setary.com) | WooCommerce inventory management and bulk editor for products and variations in a lightning-fast spreadsheet environment. | 40% OFF with code **bf2022** |
+|  💰 | [IconicWP](https://iconicwp.com/black-friday/) | Sales-Boosting WooCommerce Plugins and bundles | UP TO 62% OFF with code **bf2022** |
+|  💰 | [Orderable](https://orderable.com/pricing/) | Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees! | 40% OFF with code **bf2022** |
 
 
 ## 📗 Programming Books
