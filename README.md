@@ -170,6 +170,7 @@ Don't forget to:
 |  💰 | [Disbug](https://disbug.io/) | Report and fix bugs remarkably faster by adding 10X clarity to bug reports. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 |  💰 | [Bullet](https://bullet.so/) | Create beautiful websites from Notion in just 5 minutes. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 |  🤑 | [Appliku](https://appliku.com/) | Easy and Cost-Effective Deployments for your Python/Django and other apps on your servers | 50% OFF with code **black2022** ends Nov. 27th |
+|  💰 | [ReplyBox](https://getreplybox.com/pricing) | ReplyBox is a simple, lightweight, and blazingly-fast commenting system that easily integrates into any website. | 40% OFF with code **bf2022** |
 
 
 ## 🌏 Social Media Tools
