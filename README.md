@@ -222,6 +222,7 @@ Don't forget to:
 |  💰 | [IconicWP](https://iconicwp.com/black-friday/) | Sales-Boosting WooCommerce Plugins and bundles | UP TO 62% OFF with code **bf2022** |
 |  💰 | [Orderable](https://orderable.com/pricing/) | Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees! | 40% OFF with code **bf2022** |
 | 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
+|  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
 
 
 ## 📗 Programming Books
