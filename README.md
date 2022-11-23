@@ -105,6 +105,9 @@ Don't forget to:
 |  💰 | [Growform](https://www.growform.co) | Growform is the form builder that gets you more leads. Build beautiful, responsive forms in minutes. | Get **40%** off all plans **forever** - sign up, then use code **BLACKFRI40** at upgrade page|
 |  🤑 | [Mailway Mail Merge](https://mailway.in) | Mailway Mail Merge is a Google Sheets add-on that lets you send personalized mass email campaigns from your Gmail account. Privacy-first & easy-to-use tool to achieve higher deliverability and open rates. | **50% off** on all plans (automatically applied) |
 |  🤑 | [Speetals](https://speetals.com) | Speetals is a customer-centric site speed monitoring tool. It helps website owners improve their user's experiences. Monitor Web Vitals + 3 other standard metrics. | **50% off** on all plans for one year. Use this code **SpeetalsBF2022** 
+|  🤑 | [UserBooster](https://xavierc.gumroad.com/l/userbooster/bf_22) | UserBooster is a Notion Playbook that will guide you during the launch of your startup. Use it to build your launch strategy and get your 1st users | **50% off** on all plans (automatically applied) |
+|  🤑 | [400+ places to post your startup](https://xavierc.gumroad.com/l/iIZdb/bf_22) | I curated a list of 400+ places where you can promote your startup and get your first users. Save hours of research for the next acquisition channel. | **50% off** on all plans (automatically applied) |
+
 
 ## 🤖 AI Writing Tools
 |  | Name | Description | Discount Code & Terms |
