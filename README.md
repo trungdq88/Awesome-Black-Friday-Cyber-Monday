@@ -207,10 +207,9 @@ Don't forget to:
 |  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
 |  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
 |  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
-
-| 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
 |  📱 | [FluxStore](https://1.envato.market/mKdNe) | FluxStore is the Full Source Code Flutter Application to connect to your existing WooCommerce/Magento/Opencart/Shopify website, compatible with any templates. The download package is also included the Free Flutter App Builder tool (FluxBuilder) which is flexible to custom and easy to submit the app to Appstore & Google Play | 50% OFF ends Nov. 30th (Auto apply)|
 |  🤑 | [Notion Website Kit](https://gum.co/notionwebsite) | Collection of pre-populated templates that make it easy to setup a website using Notion. | 50% OFF with code **BF2022** |
+| 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
 
 ## 📗 Programming Books
 |  | Name | Description | Discount Code & Terms |
