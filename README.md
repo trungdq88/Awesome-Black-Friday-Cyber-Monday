@@ -239,6 +239,8 @@ Don't forget to:
 |  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 
 ## 📈 Marketing Courses
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 |  💰 | [How to dominate Twitter](https://www.dagorenouf.com/how-to-dominate-twitter/) | Boost your Twitter engagement with a daily routine that gives your tweets priority in the feed. | 40% OFF with code **BF22** |
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 
