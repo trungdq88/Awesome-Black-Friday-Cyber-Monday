@@ -45,6 +45,7 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
 |  💰 | [Polypane](https://polypane.app/) | Build better websites in less time with a stand-alone browser that makes your site more responsive, more accessible and faster. Save hours on each project, love every minute of it. | 30% OFF ends Nov. 30th |
+|  💰 | [Checkbot](https://www.checkbot.io) | Checkbot finds SEO, speed & security problems before your website visitors do. Test your whole site in a click for broken links, duplicate titles, invalid HTML, insecure pages and 50+ other checks with this powerful Chrome extension. | 50% OFF first year with code NOV22, ends Dec. 1st |
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
