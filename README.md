@@ -89,6 +89,7 @@ Don't forget to:
 ## 🛠️ Productivity Tools & Services
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🤑 | [Subscribie](https://subscribie.co.uk/plan/edea9026-280f-44c5-9865-30ba942d025c/Black%20Friday%20Special) | Subscribie makes recurring payments &amp; Subscription payments simple. We've done all the hard work for you, setup plans, private pages and more. | Over 75% OFF, lifetime deal |
 |  🤑 | [Dubble](https://dubble.so) | Documentation done while you work. Dubble watches how you work and translates your actions into written step-by-step guides, videos and screenshots - so you don’t have to. | 75% OFF Pro, applied automatically on checkout |
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **msz2mwa** to redeem this while checking out |
 |  🤑 | [MyBoard](http://myboard.co) | An easy-to-use platform for collaboratively creating and sharing links, notes, and more. | 50% OFF one month/year of MyBoard Plus |
