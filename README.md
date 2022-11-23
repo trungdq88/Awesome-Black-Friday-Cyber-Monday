@@ -59,6 +59,7 @@ Don't forget to:
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
 |  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
+|  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -158,6 +159,7 @@ Don't forget to:
 | 🤑 | [Redac](https://gracehuang.gumroad.com/l/redac/blackfriday50) |  The MacOS app that makes redacting text in images easier | **BLACKFRIDAY50** for 50% off
 | 🤑 | [Assista](https://assista.io) | Completely effortless time-tracking and reporting powerup for Trello. | 50% OFF Professional plan for first month with code **Assista50** |
 | 🤑 | [Meet Enhancement Suite](https://meetenhancementsuite.com/) | Meet better with the best Google Meet extension | 50% off any yearly plan forever with code **CRAZY_DEAL** |
+| 💰 | [1st things 1st](https://www.1st-things-1st.com/?ref=awesome-black-friday) | A web app that helps you set priorities in your life and work. | 30% OFF with code **BLACKFRIDAY2022** |
 
 
 [⬆️ Go to Top](#table-of-contents)
