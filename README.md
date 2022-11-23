@@ -47,7 +47,6 @@ Don't forget to:
 |  💰 | [Tailscan](https://tailscan.com) | Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built. | 20% OFF, automatically applied |
 |  🤑 | [LaunchBuddy](https://apple.co/3iFcjjW) | Manage your Indie Apps, Projects, Releases and Tasks. | >50% OFF for LaunchBuddy Pro (Small) |
 |  🤑 | [BladeMail.app](https://blademail.app) | Desktop app for email testing locally. | 50% OFF with code **BLACKFRIDAY** |
-|  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
 |  🤑 | [Tinker2.app](https://tinker2.app) |  Easily write some testing code without tickling your source code, locally or via SSH (PHP, Laravel, WordPress and more). | 50% OFF with code **BLACKFRIDAY** |
 |  💰 | [Proxyman](https://proxyman.io) | Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura | 30% OFF with code **PROXYMAN_BLACK_FRIDAY_2022** |
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
@@ -55,6 +54,7 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
+|  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
