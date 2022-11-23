@@ -208,6 +208,8 @@ Don't forget to:
 |  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
 |  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
 |  📱 | [FluxStore](https://1.envato.market/mKdNe) | FluxStore is the Full Source Code Flutter Application to connect to your existing WooCommerce/Magento/Opencart/Shopify website, compatible with any templates. The download package is also included the Free Flutter App Builder tool (FluxBuilder) which is flexible to custom and easy to submit the app to Appstore & Google Play | 50% OFF ends Nov. 30th (Auto apply)|
+|  🤑 | [Notion Website Kit](https://gum.co/notionwebsite) | Collection of pre-populated templates that make it easy to setup a website using Notion. | 50% OFF with code **BF2022** |
+
 
 ## 📗 Programming Books
 |  | Name | Description | Discount Code & Terms |
@@ -273,6 +275,8 @@ Don't forget to:
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 | 💰 | [70+ Tweet Template](https://harshmakadia.gumroad.com/l/tweet-template/) | Skyrocket your impressions and engagement. Never run out of Tweet Ideas, Generate content for a month | 40% OFF with code **40bfd2022** |
 | 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
+| 🤑 | [Learn Programmatic SEO](https://preetam.gumroad.com/l/programmatic-seo) | How to grow Google search traffic using a methodical approach. No prior SEO knowledge required. | 50% OFF with code **BLACKFRIDAY** |
+
 
 
 ## 👨‍🎨 Miscellaneous
