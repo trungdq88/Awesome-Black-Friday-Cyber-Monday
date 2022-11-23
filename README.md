@@ -183,7 +183,7 @@ Don't forget to:
 |  🤑 | [Cirun.io](https://cirun.io) | Create On-demand Self-Hosted Github Actions Runners on your Cloud (AWS, GCP, Azure, Oracle, OpenStack, DigitalOcean)! | 60% OFF ends Nov. 28th with code **BLACKFRIDAY2022** |
 |  💰 | [WebhookWizard](https://webhookwizard.com?utm_source=github&utm_campaign=trungdq88) | Quickly build and manage Webhooks. Webhook delivery with flexibility, reliability, monitoring and debugging.| 30% off with code **BF20222** | 
 |  💰 | [redirect.pizza](https://redirect.pizza/) | Domain redirects delivered hassle-free. Get peace of mind when redirecting your domains without the burden of hosting them. | 30% OFF for annual subscriptions, automatically applied |
-
+| 💰 | [tail.so](https://tail.so) | Turn your Notion pages into website in seconds. Tail provides excellent SEO, great performance, built-in analytics, a lot of customization options, cool templates and more. | **30% OFF** on all plans for the first year with code **BLACKFRIDAY** |
 
 
 ## 🌏 Social Media Tools
