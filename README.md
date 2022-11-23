@@ -1,6 +1,8 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2022 🤑
 
-Curated list of deals on Black Friday 2022. Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/74). First come, first merged.
+Curated list of deals on Black Friday 2022. Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/74).
+
+Make sure you add your deal **at the end** of each category (first come, first merged).
 
 Follow the discount emoji as below:
 
