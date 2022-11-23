@@ -139,7 +139,7 @@ Don't forget to:
 | 💰 | [hirevire](https://hirevire.com) | Hirevire can help you automate the first round of interviews. Get answers for basic screening questions via video, file uploads or text. Great for building teams when you have a short staffed HR Team. | **BF50** for 50% off on all plans |
 |  🤑 | [Hydrozen.io](https://hydrozen.io) | Uptime & Heartbeat monitoring solution with built-in Statuspages, also has Domain & SSL monitoring, supports custom domain for statuspages, supports multiple integrations. | 75% OFF with code **BLACKFRIDAY2022OFF75** |
 |  💰 | [Magny command palette](https://magny.io/) | Magny is a navigation, universal search and helper for apps in order to help users understand and onboard easier, faster and in a convenient manner. | 40% OFF on all plans purchased in December |
-
+|  🤑 | [UserGuiding](https://userguiding.com) | User onboarding made easy, for less. | 50% OFF with code **BLACKFRIDAY22** |
 
 
 ## 🌏 Social Media Tools
