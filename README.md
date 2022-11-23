@@ -249,6 +249,7 @@ Don't forget to:
 ## 📘 Startup & Career Books
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  💰 | [Developer Relations for Beginners eBook](https://leanpub.com/devrelforbeginners/c/dXzxSFHOlFx1) | This book will help give you an insight into what Developer Relations from behind the scenes. Sharing experiences and advice from someone in the industry. | Follow the link for up to 40% off |
 |  🤑 | ["Ten++ Ways to Make Money as a Developer" eBook](https://florinpop17.gumroad.com/l/makemoneydev/blackfriday2022) | Learn how to monetize your coding skills in 10 different ways! | **BLACKFRIDAY2022** for 50% off |
 |  🤑 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer. | 50% OFF, automatically applied |
 |  🤑 | [Zero to Sold](https://zerotosold.com) | A no-fluff guide to starting, running, and selling a bootstrapped business | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled) |
