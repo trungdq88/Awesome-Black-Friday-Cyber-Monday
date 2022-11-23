@@ -93,6 +93,7 @@ Don't forget to:
 |  💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter your workspace & organize it 1-click | >40% Off on LTD |
 |  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
 | 💰 | [Link Unshortener](https://underpassapp.com/LinkUnshortener/) | Mac app that expands shortened web links, following redirects until it reveals the destination URL. | $3 off |
+| 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50$ off using **BLACK_FRIDAY** on checkout |
 
 ## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
