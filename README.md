@@ -167,6 +167,7 @@ Don't forget to:
 |  🤑 | [Common Ninja](https://www.commoninja.com/plugins) | 50+ powerful no-code widgets and apps to enhance websites and e-commerce stores experience. | 50% OFF with code **BLACKFRIDAY22** |
 |  💰 | [Disbug](https://disbug.io/) | Report and fix bugs remarkably faster by adding 10X clarity to bug reports. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 |  💰 | [Bullet](https://bullet.so/) | Create beautiful websites from Notion in just 5 minutes. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
+|  🤑 | [Appliku](https://appliku.com/) | Easy and Cost-Effective Deployments for your Python/Django and other apps on your servers | 50% OFF with code **black2022** ends Nov. 27th |
 
 
 ## 🌏 Social Media Tools
