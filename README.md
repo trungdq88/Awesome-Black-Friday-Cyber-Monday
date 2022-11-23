@@ -66,6 +66,7 @@ Don't forget to:
 | 🤑 | [Icons8](https://icons8.com/l/blackfriday2022/) | icons, illustrations, photos, and music. | Up to 55% off subscription |
 | 🤑 | [CandyIcons.com](https://www.candyicons.com/) | Thousands of AI-generated app icons. One click to get custom favicon packages and all required app icon sizes of multi-platforms (iOS & macOS, android). | 70% OFF per icon |
 | 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
+| 🤑 | [PixMiller.com](https://pixmiller.com) | PixMiller use AI technology to remove image background automatically! Erase the background of your photo and create a png image with transparent background. | 50% OFF with code **BlackFriday2022** or page [PixMiller BlackFriday](https://pixmiller.com/payment/deals-checkout/) |
 
 
 ## 🎛 Utility Tools
