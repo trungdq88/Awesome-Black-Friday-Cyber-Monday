@@ -98,6 +98,7 @@ Don't forget to:
 | 💰 | [Link Unshortener](https://underpassapp.com/LinkUnshortener/) | Mac app that expands shortened web links, following redirects until it reveals the destination URL. | $3 off |
 | 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50% off using **BLACK_FRIDAY** on checkout |
 | 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
+|  🤑 | [Curiosity](https://curiosity.ai/blackfriday2022) | One search for all your folders and apps. Save time and get more done with the unified search and launcher app that keeps all your data safe on your device. | 50% OFF Curiosity Pro with code **BLACKFRIDAY2022** |
 
 ## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
