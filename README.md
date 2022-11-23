@@ -209,7 +209,8 @@ Don't forget to:
 |  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 |  🤑 | [Flutter App Monetization: The Complete Guide](https://courses.1manstartup.com/flutter-monetization-course?coupon=BLACKFRIDAY)| 50% off The complete guide to setting up ads, in-app purchases, and subscriptions in a flutter app. | 50% off use code BLACKFRIDAY |
 |  💰 | [Reuven Lerner](https://store.lerner.co.il) | All 35 Python, Git, and Pandas courses are 40% off | 40% off, use coupon code BF2022 |
-
+|  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
+|  💰 | [AlgoExpert](https://www.algoexpert.io) | The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. | Get all 4 AlgoExpert products in one $99 bundle |
 
 
 ## 👨‍🎨 Miscellaneous
