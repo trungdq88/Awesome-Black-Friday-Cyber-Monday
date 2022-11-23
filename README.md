@@ -88,7 +88,6 @@ Don't forget to:
 ## 🖥️ Productivity Desktop Apps
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
 | 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
@@ -96,6 +95,7 @@ Don't forget to:
 |  💰 | [GlanceCal - Menu Bar Calendar](https://apps.apple.com/us/app/glancecal-menu-bar-calendar/id1475680776) | Native Menu Bar Calendar for macOS. Your day at a glance. | 30% OFF in the Mac App Store |
 | 💰 | [Link Unshortener](https://underpassapp.com/LinkUnshortener/) | Mac app that expands shortened web links, following redirects until it reveals the destination URL. | $3 off |
 | 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50$ off using **BLACK_FRIDAY** on checkout |
+| 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
 
 ## 📱 Productivity Mobile Apps
 |  | Name | Description | Discount Code & Terms |
