@@ -166,6 +166,7 @@ Don't forget to:
 |  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
 |  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY** |
 |  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
+|  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -179,6 +180,7 @@ Don't forget to:
 |  🤑 | [AI Content Labs](https://www.aicontentlabs.com) | Turn your GPT-3 API into a powerful writing assistant. We offer a platform that allows you to integrate the best AI providers on the market to create high-quality content easier, faster, and cheaper than ever before.| **30% OFF** on Annual Subscription Plan and **LIFETIME OFFER**, until Monday Nov. 28 |  
 | 💰 | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **WRITE20** to receive the discount |
 |  🤑 | [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub?utm_source=tdinh) | AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. | Offer : Flat 50% Off on Full Version, Coupon Code : AIBF50 |
+|  💰 | [EndType](https://endtype.com) | Google Sheet Add On which uses AI to write, find and organize your data. | **30% OFF for life**, Use the code: Black2022 |
 
 [⬆️ Go to Top](#table-of-contents)
 
