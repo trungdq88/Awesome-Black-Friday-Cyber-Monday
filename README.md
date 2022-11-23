@@ -140,7 +140,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Mark Copy AI](https://markcopy.ai) | Mark Copy helps you write marketing content 10x faster. Generate your SEO-opitmized blog post draft in 5 min. Also provides tools to create social media posts, ads, emails, and more. | **50% OFF on all plans for 3 months**, only on Friday Nov. 25 |
-|  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |  
+|  🤑 | [SEOMATIC.AI](https://seomatic.ai) | SEOmatic is a nocode tool for Programmatic SEO to help you boost your traffic with less effort. Generate high quality AI-written content at scale. Create thousands of Landing Pages or Blog Posts with Programmatic SEO and AI in 10 minutes. | **50% OFF on Annual Subscription Plan**, until Monday Nov. 28 |
 |  🤑 | [Easy-Peasy.AI](https://easy-peasy.ai?utm_source=tdinh) | Easy-Peasy.AI is a powerful AI Content Assistant that can help you write better content, generate new business ideas, reply to and compose emails and messages, and many more. | Get **40%** off the monthly plan **forever** - apply **40OFF** at Stripe checkout page|
 |  🤑 | [AI Content Labs](https://www.aicontentlabs.com) | Turn your GPT-3 API into a powerful writing assistant. We offer a platform that allows you to integrate the best AI providers on the market to create high-quality content easier, faster, and cheaper than ever before.| **30% OFF** on Annual Subscription Plan and **LIFETIME OFFER**, until Monday Nov. 28 |  
 | 💰 | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **WRITE20** to receive the discount |
@@ -179,7 +179,7 @@ Don't forget to:
 |  💰 | [PostFlow](https://postflow.app) | Social media scheduler and manager in your ClickUp workspace! (Twitter, LinkedIn, Instagram, Facebook) | 30% OFF (lifetime) with code __BLACKFRIDAY__ |
 |  💰 | [Tweet Tribe](https://tweettribe.com) | Engage with people on Twitter faster than ever before. Fuel your growth and boost your engagement rate | 40% OFF first year or month - BF2022 |
 |  💰 | [PocketTube](https://yousub.info) | Youtube Subscriptions & Playlists Manager, Video Deck, Auto Tags, Filter and Sort your videos | **30% OFF** first year, automatically applied |
-|  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |  
+|  🤑 | [Tweetsmash](https://tweetsmash.com) | Tweetsmash turn Twitter bookmarks/list into automated email digests. Connect with apps like Notion to autosync & export your bookmarks | 50% OFF - BLACKFRIDAY |
 | 🤑 | [Octomata](https://octomata.app) | Easily Turn a Reddit post into a video. Automate video generation including music, text to speech and transitions by just pasting a URL. | **50%** OFF using the code **BLACKFRIDAY22** at checkout |
 |  💰 | [Feedhive](https://feedhive.io) | Create, publish, and easily manage your social media content at scale with FeedHive's AI-powered platform | **20% OFF** lifetime, automatically applied |
 | 💰 | [Birdy](https://birdy.so) | Get more Twitter followers. Get more website clicks. Twitter Profile A/B Testing 🤓 | **30%** OFF using the code **BLACKFRIDAY30** at checkout |
@@ -235,6 +235,7 @@ Don't forget to:
 | 🤑 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLCKFRIDAY50?_gl=1*dc01gi*_ga*MTc2OTg2OTI4Ni4xNjU5MzgxNjU3*_ga_6LJN6D94N6*MTY2OTEzOTU5OC41Ni4xLjE2NjkxNDAwNjQuMC4wLjA.) | Learn to make a portfolio project that will get you hired. | **BLCKFRIDAY50** for 50% off |
 | 🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/blackfriday50) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/blackfriday50) | This tiny book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | **BLACKFRIDAY50** for 50% off |
+| 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills | FLAT 80% OFF and PPP |
 
 ## 📕 Marketing Books
 |  | Name | Description | Discount Code & Terms |
@@ -264,6 +265,10 @@ Don't forget to:
 |  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
 |  🤑 | [Code4Startup](https://code4startup.com) | Learn to code by creating real life startups like Airbnb, UberEats, Fiverr... | 50% OFF first 3 months, automatically applied |
 |  🤑 | [Build 7 Startup apps in Rails 7](https://code4startup.com/rails_7_series) | SaaS Project Kit with Rails made for Startup Founders, Solopreneurs, Marketers & Freelancers | Pre-order: get 50% OFF - Course will be released in late December 2022 |
+| 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills. Course and book. | FLAT 80% OFF and PPP - $29 |
+| 🤑 | [VSCode.pro - VS Code Power User!](https://vscode.pro) | After 10 yrs with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Devs Expert) switched to VSCode. He spent over a 1,000 hrs perfecting his setup to help you switch today. Bring all your custom settings and learn the power user workflows. | FLAT 80% OFF and PPP - $34 |
+| 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
+
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -278,8 +283,6 @@ Don't forget to:
 | 💰 | [70+ Tweet Template](https://harshmakadia.gumroad.com/l/tweet-template/) | Skyrocket your impressions and engagement. Never run out of Tweet Ideas, Generate content for a month | 40% OFF with code **40bfd2022** |
 | 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
 | 🤑 | [Learn Programmatic SEO](https://preetam.gumroad.com/l/programmatic-seo) | How to grow Google search traffic using a methodical approach. No prior SEO knowledge required. | 50% OFF with code **BLACKFRIDAY** |
-
-
 
 ## 👨‍🎨 Miscellaneous
 |  | Name | Description | Discount Code & Terms |
