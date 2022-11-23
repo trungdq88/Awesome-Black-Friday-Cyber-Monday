@@ -47,6 +47,7 @@ Don't forget to:
 |  🤑 | [Deeplink Buddy](https://deeplinkbuddy.com) | Your personal deeplinks manager, made by developer for developers. Fully supports Apple Silicon & macOS Ventura | 50% OFF with code **BLACKFRIDAY_2022** |
 |  💰 | [Polypane](https://polypane.app/) | Build better websites in less time with a stand-alone browser that makes your site more responsive, more accessible and faster. Save hours on each project, love every minute of it. | 30% OFF ends Nov. 30th |
 |  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
+|  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
