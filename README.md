@@ -364,6 +364,8 @@ Don't forget to:
 | 💰 | [Epic React](https://epicreact.dev/) | Confidently Ship Well-Architected Production Ready React Apps Like a Pro | 40% OFF |
 | 💰 | [Testing JavaScript](https://testingjavascript.com/) | Learn the smart, efficient way to test any JavaScript application. | 40% OFF |
 | 🤑 | [KCD Bundle](https://www.kcdbundle.com/) |  KCD Bundle brings Testing JavaScript and Epic React together for a special discounted price. | 50% OFF |
+|  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
