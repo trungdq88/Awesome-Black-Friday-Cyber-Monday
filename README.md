@@ -178,6 +178,7 @@ Don't forget to:
 |  🤑 | [Find your Following](https://findyourfollowing.com) | Build an engaged Twitter audience without losing your authentic voice. | 50% OFF, automatically applied ([PPPP](https://thebootstrappedfounder.com/purchasing-power-parity-pricing/) enabled as well) |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
 | 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | 30% OFF on Annual Subscription with code **THANKS2022** |
+|  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 
 
 ## 👨‍🎨 Miscellaneous
