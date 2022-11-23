@@ -212,3 +212,4 @@ Don't forget to:
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
 |  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
 |  💰 | [Unrealme - Awesome generated images of yourself](https://unrealme.io/) | Get 100+ images of **_yourself_** | 30%  with **_BLACKFRIDAY_** code |
+|  🤑 | [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) | Care companion for happy & healthy house plants | 50% off 1st year |
