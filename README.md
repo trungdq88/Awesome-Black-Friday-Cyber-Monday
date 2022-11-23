@@ -269,6 +269,7 @@ Don't forget to:
 | 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills. Course and book. | FLAT 80% OFF and PPP - $29 |
 | 🤑 | [VSCode.pro - VS Code Power User!](https://vscode.pro) | After 10 yrs with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Devs Expert) switched to VSCode. He spent over a 1,000 hrs perfecting his setup to help you switch today. Bring all your custom settings and learn the power user workflows. | FLAT 80% OFF and PPP - $34 |
 | 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
+|  💰 | [Codely](https://codely.com/blackfriday) | Full Year Access to all its courses. DDD, Hexagonal Architecture, Typescript, Testing best practices, Figma plugins development, SOLID Principles and many more| 100€ discount at checkout |
 
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
