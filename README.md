@@ -74,6 +74,7 @@ Don't forget to:
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
 | 💰 | [Horcrux Email Backup](https://thehorcrux.com) | A mac app that lets you easily backup your emails as well as moves your emails between different providers when crisis strikes. | 30% OFF with code **BLACKFRIDAY** |
 | 💰 | [StopTheMadness](https://underpassapp.com/StopTheMadness/) | Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! | $3 off in the iOS App Store and Mac App Store |
+|  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
 
 
 ## ⌨️ Code Libraries
@@ -263,4 +264,3 @@ Don't forget to:
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
 |  💰 | [Unrealme - Awesome generated images of yourself](https://unrealme.io/) | Get 100+ images of **_yourself_** | 30%  with **_BLACKFRIDAY_** code |
 |  🤑 | [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) | Care companion for happy & healthy house plants | 50% off 1st year |
-|  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
