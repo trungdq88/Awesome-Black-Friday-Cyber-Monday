@@ -201,6 +201,7 @@ Don't forget to:
 | 🤑 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/blackfriday50) | A tiny book about how candidates can outperform in coding interviews, from the lenses of interviewers | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/blackfriday50) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/blackfriday50) | This tiny book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | **BLACKFRIDAY50** for 50% off |
+|  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
 
 
 ## 📹 Courses
