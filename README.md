@@ -285,6 +285,7 @@ Don't forget to:
 | 💰 | [Legacy Code: First Aid Kit](https://understandlegacycode.ck.page/products/legacy-code-first-aid-kit?promo=REFACTOR) | 14 techniques to rescue any Legacy codebase out there! | 30% OFF, automatically applied |
 | 🤑 | [Deploying Elixir: Advanced Topics](https://miguelcoba.gumroad.com/l/advancedtopics)) | Deploy Elixir like a PRO | 50% OFF, automatically applied |
 |  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
+|  🤑 | [E-Book Bundle: Develop and Design for Web Apps, by O'Reilly](https://www.humblebundle.com/books/develop-and-design-for-web-apps-oreilly-books) | A bundle of O'Reilly books on coding languages, tools, and techniques you need to design and develop web apps. Technologies include React, PHP, MySQL, JavaScript, TypeScript, HTML5, and many more. | Pay minimums of $1, $10, and $18 for 5 items, 10 items, and 14 items, respectively. |
 
 [⬆️ Go to Top](#table-of-contents)
 
