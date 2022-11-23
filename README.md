@@ -53,7 +53,6 @@ Don't forget to:
 |  💰 | [Polypane](https://polypane.app/) | Build better websites in less time with a stand-alone browser that makes your site more responsive, more accessible and faster. Save hours on each project, love every minute of it. | 30% OFF ends Nov. 30th |
 |  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
-|  💰 | [Disbug](https://disbug.io/) | Report and fix bugs remarkably faster by adding 10X clarity to bug reports. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
@@ -67,7 +66,6 @@ Don't forget to:
 | 🤑 | [Icons8](https://icons8.com/l/blackfriday2022/) | icons, illustrations, photos, and music. | Up to 55% off subscription |
 | 🤑 | [CandyIcons.com](https://www.candyicons.com/) | Thousands of AI-generated app icons. One click to get custom favicon packages and all required app icon sizes of multi-platforms (iOS & macOS, android). | 70% OFF per icon |
 | 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
-|  💰 | [Bullet](https://bullet.so/) | Create beautiful websites from Notion in just 5 minutes. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 
 
 ## 🎛 Utility Tools
@@ -165,7 +163,8 @@ Don't forget to:
 |  🤑 | [UserGuiding](https://userguiding.com) | User onboarding made easy, for less. | 50% OFF with code **BLACKFRIDAY22** |
 |  💰 | [Checkbot](https://www.checkbot.io) | Checkbot finds SEO, speed & security problems before your website visitors do. Test your whole site in a click for broken links, duplicate titles, invalid HTML, insecure pages and 50+ other checks with this powerful Chrome extension. | 50% OFF first year with code NOV22, ends Dec. 1st |
 |  💰 | [Chartbrew](https://chartbrew.com) | Interactive dashboards and client reports to track the most important metrics from all your data sources. Transform your queries and API requests into beautiful visualizations | **30% OFF** for the first year with code **CBBF30**, ends Nov 28th |
-
+|  💰 | [Disbug](https://disbug.io/) | Report and fix bugs remarkably faster by adding 10X clarity to bug reports. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
+|  💰 | [Bullet](https://bullet.so/) | Create beautiful websites from Notion in just 5 minutes. | 30% OFF ends Nov. 29th. Use code **ITSBF22** |
 
 
 ## 🌏 Social Media Tools
