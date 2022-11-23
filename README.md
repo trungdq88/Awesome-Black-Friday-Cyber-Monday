@@ -54,6 +54,7 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
+|  🤑 | [Cirun.io](https://cirun.io) | Create On-demand Self-Hosted Github Actions Runners on your Cloud (AWS, GCP, Azure, Oracle, OpenStack, DigitalOcean)! | 60% OFF ends Nov. 28th with code **BLACKFRIDAY2022** |
 
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
