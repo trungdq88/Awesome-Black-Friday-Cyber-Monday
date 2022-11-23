@@ -130,6 +130,7 @@ Don't forget to:
 ## 🌈 Marketing Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY2022** |
 |  🤑 | [Origits](https://origits.com) | Origits is a video platform that combines integrated marketing tools with one-click video player installation. One tag manages everything, making it extremely easy to manage any video inventory on the website and helping to turn video views on your website into customers.| 50% OFF on any plan with code **BLACKFRIDAY2022** |
 |  💰 | [Logspot](https://logspot.io) | Logspot is a customizable web analytics which can be used by you and by your customers thanks to embeddable analytics and Analytics API | **30% OFF on all plans** with code **BLACKFRIDAY** |
 |  💰 | [NowButtons](https://nowbuttons.com?utm_source=tdinh) | NowButtons is the tool for creating floating action buttons for your website. Pick from popular communication channels such as phone, sms, WhatsApp, etc. With our slide-in Content Windows you easily embed 3rd party booking forms or other content into your web pages. Schedule your buttons to appear at the right times and use geo and page rules to show the right button to the right audience. | 40% OFF the annual plan for the first year. Use code *BLACKFRIDAY* |
