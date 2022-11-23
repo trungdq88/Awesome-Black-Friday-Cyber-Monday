@@ -77,7 +77,7 @@ Don't forget to:
 | 💰 | [StopTheMadness](https://underpassapp.com/StopTheMadness/) | Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! | $3 off in the iOS App Store and Mac App Store |
 | 💰 | [Shelf](https://apps.apple.com/app/id6443596253) | Pin photos, text, and actions to your Lock Screen. For iPhone. | Up to 40% off Shelf Pro |
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
-
+| 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 
 ## ⌨️ Code Libraries
 |  | Name | Description | Discount Code & Terms |
