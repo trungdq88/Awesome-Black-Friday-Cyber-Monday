@@ -273,6 +273,7 @@ Don't forget to:
 |  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
 |  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
 |  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
+| 🤑 | [Flipbook](https://flipbook.sonnylab.com) | Flipbook GIF Animator, Animate your figma design with live-preview, customizable speed, and GIF file export | **50% OFF** on monthly & unlimited plan (auto apply) |
 
 [⬆️ Go to Top](#table-of-contents)
 
