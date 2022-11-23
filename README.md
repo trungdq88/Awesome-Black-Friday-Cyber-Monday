@@ -55,6 +55,7 @@ Don't forget to:
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
 
+
 ## 🌅 Design Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -246,6 +247,8 @@ Don't forget to:
 | 💰 | [Legacy Code: First Aid Kit](https://understandlegacycode.ck.page/products/legacy-code-first-aid-kit?promo=REFACTOR) | 14 techniques to rescue any Legacy codebase out there! | 30% OFF, automatically applied |
 | 🤑 | [Deploying Elixir: Advanced Topics](https://miguelcoba.gumroad.com/l/advancedtopics)) | Deploy Elixir like a PRO | 50% OFF, automatically applied |
 |  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
+|  💰 | [40% off all single books at Kodeco (raywenderlich.com)](https://www.kodeco.com/books?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | All of our single digital books are now 40% off - From Mobile Design, to Back-End, to SwiftUI, to Modern Concurrency, to Animations, Real-World development to Jetpack Compose to Dagger and beyond, every book you need is here at Kodeco. | 40% off until Nov 29! |
+
 
 ## 📘 Startup & Career Books
 |  | Name | Description | Discount Code & Terms |
@@ -296,6 +299,8 @@ Don't forget to:
 | 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
 |  💰 | [Codely](https://codely.com/blackfriday) | Full Year Access to all its courses. DDD, Hexagonal Architecture, Typescript, Testing best practices, Figma plugins development, SOLID Principles and many more| 100€ discount at checkout |
 | 💰 | [Platzi](https://platzi.com/blackfriday/) | Full year access to all its courses: Engineering, Design, Marqueting, Soft Skills, Bussiness, Startups, English | 45% Discount at checkout |
+|  💰 | [One-Year Kodeco (raywenderlich.com) Pro Plan for just $399](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career | 33% off - ends Nov 29! |
+|  🤑 |[(New!) Two-Year Kodeco (raywenderlich.com) Pro Plan for just $599](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | Lock in for two years and save even more! 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career | 50% off - ends Nov 29! |
 
 ## 🎢 Career Courses
 |  | Name | Description | Discount Code & Terms |
