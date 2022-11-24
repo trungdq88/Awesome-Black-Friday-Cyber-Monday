@@ -66,7 +66,7 @@ Don't forget to:
 |  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
 |  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 |  🤑 | [Requestly](https://requestly.io/) | Test & Debug Web and Mobile Applications. Intercept & Modify HTTPs Requests - Redirect URL, Modify Headers, Mock APIs, Modify Response, Insert Scripts | Free for 1 year, automatically applied |
-|  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -270,6 +270,7 @@ Don't forget to:
 | 💰 | [PingPing.io](https://pingping.io) | Website down? SSL invalid? We notify you instantly! Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less. | **25% OFF FOREVER** on all plans with code **bf2022** |
 |  🤑 | [Kinsta](https://kinsta.com/application-hosting/) | Create and deploy a web application and database in minutes. | $20 OFF, automatically applied |
 | 💰 | [Formaloo](https://www.formaloo.com/en/) | No-code platform. Build beautiful forms, access-controlled databases, and highly customizable business apps without any code.  | **30% OFF** for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans. |
+|  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
 
 
 [⬆️ Go to Top](#table-of-contents)
