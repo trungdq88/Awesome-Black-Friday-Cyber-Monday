@@ -59,6 +59,9 @@ Don't forget to:
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
 |  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
+|  🤑 | [Sizzy](https://sizzy.co/) | The browser for web developers | 50% OFF with code **BLACKFRIDAY2022** |
+|  🤑 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF (discount is already applied) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -178,12 +181,21 @@ Don't forget to:
 |  💰 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
 |  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
 |  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY** |
-|  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
-|  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
 |  🤑 | [Voicely](https://abdo120.pay.clickbank.net/?cbitems=54&cbur=a&coupon=BFDEAL50) | Voicely, a text to speech application that can turn any text into high quality, human-like voices with additional features to spice up your projects. | **50% OFF for life** |
 |  🤑 | [Streamr](https://abdo120.pay.clickbank.net/?cbitems=55&cbur=a&coupon=BFDEAL50) | Streamr is a video and audio translation and transcription + live streaming software. No matter what video you would like to work on, Streamr supports all types of videos; Youtube videos or personal imported videos. | **50% OFF for life** |
 
 [⬆️ Go to Top](#table-of-contents)
+
+
+## 🔍 SEO Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
+|  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
+|  💰 | [BacklinkManager](https://backlinkmanager.io) | BacklinkManager is a link-building CRM for SaaS and marketing agencies. Streamline your efforts, find new link-building opportunities, get your links monitored and more. | **50% OFF on all plans** with code **bf2022** |
+
+[⬆️ Go to Top](#table-of-contents)
+
 
 ## 🤖 AI Writing Tools
 
@@ -294,6 +306,7 @@ Don't forget to:
 |  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
 |  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
 |  💰 | [Coupon Affiliates Pro](https://couponaffiliates.com/pricing) | Easily create an advanced coupon-based affiliate program for WooCommerce. | 25% OFF with code BF2022 |
+|  💰 | [Ship SaaS](https://shipsaas.com?ref=awesome) | Build your SaaS in a weekend with a Next.js SaaS boilerplate | 30% OFF, automatically applied at checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -379,6 +392,7 @@ Don't forget to:
 | 🤑 | [KCD Bundle](https://www.kcdbundle.com/) |  KCD Bundle brings Testing JavaScript and Epic React together for a special discounted price. | 50% OFF |
 |  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
+| 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
 
 
