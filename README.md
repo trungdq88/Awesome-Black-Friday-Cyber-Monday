@@ -240,7 +240,7 @@ Don't forget to:
 | 💰 | [EndType](https://endtype.com) | Google Sheet Add On which uses AI to write, find and organize your data. | **30% OFF for life**, Use the code: Black2022 |
 |  🤑 | [Typli](https://typli.ai/#pricing) | Typli.ai is an AI writer and SEO assistant that lets you generate original, high-ranking copy wherever you work. Using AI technology, you’ll be able to produce original, long-form content that can be edited to perfection. | **50% OFF**, Use the code: BFDEAL50 |
 |  🤑 | [Punchline.ai](https://punchline.ai) | Awesome creative copy for Startup founders powered by AI. | **20% OFF**, Use the code: **BLACKFRIDAY22** |
-|  🤑 | [Neuralfinity Magic-Summary](https://neuralfinity.com) | Easy to use text summary API with no limitation on input length, using a custom language model | **15% OFF for PRO Plan**, Mention code **PRO15** during the onboarding call |
+|  💵 | [Neuralfinity Magic-Summary](https://neuralfinity.com) | Easy to use text summary API with no limitation on input length, using a custom language model | **15% OFF for PRO Plan**, Mention code **PRO15** during the onboarding call |
 
 
 [⬆️ Go to Top](#table-of-contents)
