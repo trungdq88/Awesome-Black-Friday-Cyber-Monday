@@ -29,12 +29,12 @@ Don't forget to:
 - [🌈 Marketing Tools (17)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (27)](#-startup-saastools)
 - [🌏 Social Media Tools (17)](#-social-media-tools)
 - [💸 Finance Tools (4)](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins (24)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (7)](#-programming-books)
+	- [📗 Programming Books (8)](#-programming-books)
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (2)](#-marketing-books)
 - [📹 Courses ](#-courses)
@@ -65,7 +65,7 @@ Don't forget to:
 |  💰 | [TeaCode](https://www.apptorium.com/teacode) | Text expanding app for developers. Write your code super fast. | 40% OFF |
 |  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
 |  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
-
+|  🤑 | [Requestly](https://requestly.io/) | Test & Debug Web and Mobile Applications. Intercept & Modify HTTPs Requests - Redirect URL, Modify Headers, Mock APIs, Modify Response, Insert Scripts | Free for 1 year, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -89,6 +89,8 @@ Don't forget to:
 | 🤑 | [Vidtoon™](https://abdo120.pay.clickbank.net/?cbitems=50&cbfid=46382&coupon=BFDEAL50) | A one-stop software with everything you need to create amazing animation videos. Vidtoon™ comes with all resources and features you will need for your video projects. No need to look elsewhere! |  **50% OFF** lifeTime deal |
 | 🤑 | [Vidtoon Club™](https://abdo120.pay.clickbank.net/?cbitems=59&cbur=a&coupon=BF50off) |In need of more resources? Don’t bother looking for a designer. Vidtoon Club offers monthly resources: from animated characters, images, soundtracks, to brand new pre-designed animated video templates that can be used on their own ( with the ability of fully customizing them) In addition, Vidtoon Club comes with Vidtoon Character Builder; an extra software to customize your own animated characters. |  **50% OFF** lifeTime deal |
 | 💰 | [snappify](https://snappify.io) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | **BLACKFRIDAY_2022** for 30% off first year |
+| 💰 | [ruri.design](https://ruri.design) | Your design superpower. Create high quality abstract visualisations for your ad. With collection of more than 250+ handcrafted and fully editable splines, curves, spots you will have unlimited options to combine. | **BLACK30** 30% OFF with code BLACK30 on all plans |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -106,6 +108,7 @@ Don't forget to:
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 |  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
 | 💰 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF |
+| 🤑 | [AdGuard](https://adguard.com/) | Stand alone ad blocker for desktop and mobile | 50% OFF, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -135,6 +138,9 @@ Don't forget to:
 | 💰 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen. | 40% OFF |
 | 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click. | 40% OFF |
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
+| 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
+| 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -197,6 +203,7 @@ Don't forget to:
 |  🤑 | [Appfigures](https://appfigures.com) | App Store Optimization, Analytics, and Competitor Intelligence. Rank higher on the App Store & Google Play. | **50% OFF**, Use the code: BF2250E |
 |  🤑 | [MakerBox](https://www.makerbox.club/black-friday) | Marketing tools and resources for your next big idea. | **70% OFF, automatically applied** |
 |  💰 | [Remo](https://remo.co) | The ultimate tool to create immersive and engaging virtual events and meetings. | **25% OFF Monthly Plans**, Use Code: BLACKFRIDAY25 (applied to first 6 months of subscription only) or **50% OFF Annual Plans**, Use Code: BLACKFRIDAY50 (applied to first year of subscription only)|
+|  💰 | [Spinal](https://spinalcms.com) | Spinal is a beautiful and minimal CMS for static site generators (Jekyll, Astro, 11ty, etc.). Designed for content marketing teams. | **50% OFF on yearly plan** and 10 pay once lifetime deals |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -257,7 +264,11 @@ Don't forget to:
 |  💰 | [redirect.pizza](https://redirect.pizza/) | Domain redirects delivered hassle-free. Get peace of mind when redirecting your domains without the burden of hosting them. | 30% OFF for annual subscriptions, automatically applied |
 | 💰 | [tail.so](https://tail.so) | Turn your Notion pages into website in seconds. Tail provides excellent SEO, great performance, built-in analytics, a lot of customization options, cool templates and more. | **30% OFF** on all plans for the first year with code **BLACKFRIDAY** |
 | 💰 | [Daito Authenticator](https://wwww.daito.io) | Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed.  | **30% OFF** on your first month or entire first year with code **BLACKWEEK2022** |
+| 🤑 | [Auditzy™](https://auditzy.com) | Check Website Page Speed. Monitor Website Performance & Optimize SEO, Website Performance, Accessibility, Conversion Rates, and User Experience. Implement Best Coding Practices across 5000+ Buyer/Visitor Personas with 40+ Devices, 13+ Networks, and 12+ Global Locations. | **50% OFF** on all our plans with code **BLACKFRIDAY50** |
+| 💰 | [PingPing.io](https://pingping.io) | Website down? SSL invalid? We notify you instantly! Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less. | **25% OFF FOREVER** on all plans with code **bf2022** |
+|  🤑 | [Kinsta](https://kinsta.com/application-hosting/) | Create and deploy a web application and database in minutes. | $20 OFF, automatically applied |
 | 💰 | [Formaloo](https://www.formaloo.com/en/) | No-code platform. Build beautiful forms, access-controlled databases, and highly customizable business apps without any code.  | **30% OFF** for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans. |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -282,6 +293,7 @@ Don't forget to:
 | 🤑 | [Away](https://awayfortwitter.com) | Take a break from Twitter - a dashboard for monitoring all your Twitter accounts in one app. Check new messages, replies and stats of your tweets, followers, and more. Available on iOS and macOS. | **30% OFF** on Lifetime Pro unlock |
 | 💰 | [StreamLadder](https://streamladder.com) | Easily convert your Twitch Clips to TikTok, Reels & YouTube Shorts with StreamLadder ✔ Free ✔ Easy to use ✔ No watermark. | **30% OFF** first year. automatically applied |
 | 🤑 | [Kleptofinder](https://kleptofinder.com/pricing) | Have you ever had a plan to protect the visual content used in your Instagram account or website? Kleptofinder provides a detailed report on which platform and website have used your content and even selects the mentioned website to investigate how they have used your digital property. | **50% OFF** on Lifetime Ultra Security Plan use **BFDEAL50** at checkout |
+| 🤑 | [Breeze](https://onbreeze.app) | Post your Tweets, threads or LinkedIn posts directly from Notion. Keep writing your content in Notion and schedule it directly from there. | Terms: 50% OFF on Annual Plans - Coupon code: BREEZEFRIDAY |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -324,6 +336,7 @@ Don't forget to:
 |  💰 | [Ship SaaS](https://shipsaas.com?ref=awesome) | Build your SaaS in a weekend with a Next.js SaaS boilerplate | 30% OFF, automatically applied at checkout |
 |  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
 |  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
+|  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -340,6 +353,10 @@ Don't forget to:
 |  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
 |  💰 | [40% off all single books at Kodeco (raywenderlich.com)](https://www.kodeco.com/books?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | All of our single digital books are now 40% off - From Mobile Design, to Back-End, to SwiftUI, to Modern Concurrency, to Animations, Real-World development to Jetpack Compose to Dagger and beyond, every book you need is here at Kodeco. | 40% off until Nov 29! |
 |  🤑 | [E-Book Bundle: Develop and Design for Web Apps, by O'Reilly](https://www.humblebundle.com/books/develop-and-design-for-web-apps-oreilly-books) | A bundle of O'Reilly books on coding languages, tools, and techniques you need to design and develop web apps. Technologies include React, PHP, MySQL, JavaScript, TypeScript, HTML5, and many more. | Pay minimums of $1, $10, and $18 for 5 items, 10 items, and 14 items, respectively. |
+| 💰 | [The DynamoDB Book - Premium Package](https://alexdebrie.gumroad.com/l/WPLqz/dynamodb2022) | The comprehensive guide to data modeling with DynamoDB. | Use the code "DYNAMODB2022" to get: $20 off Basic ($59); $40 off Plus ($89); $80 off Premium ($169); 35% off Team Licenses 🎉 |
+| 🤑 | [Exploring MusicKit and Apple Music API](https://rudrank.gumroad.com/l/musickit/black-friday) | The only resource you need for integrating Apple Music into your app. | 50% off until Nov 30 |
+| 🤑 | [Laravel Secrets](https://laravelsecrets.com/?ref=bf2022) | Learn everything about the undocumented secrets in the popular Laravel framework, that makes you a better and more efficient developer. | Get it now for 7 EUR instead of 39 EUR. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -370,6 +387,8 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
 | 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
+| 🤑 | [SEO Tactics 2022](https://ckissi.gumroad.com/l/SEOTactics) | The ultimate guide to SEO | 50% OFF, automatically applied |
+| 🤑 | [Twitter Growth Tactics](https://twitter-growth-tactics.csabakissi.com/) | The ultimate guide to growing your Twitter followers | 40% OFF, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -412,7 +431,7 @@ Don't forget to:
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
 | 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
-
+| 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -459,5 +478,6 @@ Don't forget to:
 |  💰 | [tonik](https://www.tonik.com/) | 25% off for UX/UI, brand design, and front-end support, and another 25% off (50% total!) for Y Combinator companies. | 25% OFF — email hello@tonik.com with ‘black22’ in topic
 | 🤑 | [The Independence Bundle](https://tom-hirst.gumroad.com/l/HKlpmD/BF2022) | All my products. One bundle. One price. Includes every additional premium resource | $73.50 (usually $147) with BF2022
 | 🤑 | [NordVPN](https://nordvpn.com/) | Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. | **68% OFF + 3 months free**
+|  💰 | [Remote Leaf](https://remoteleaf.com) | Remote Leaf is the personized remote job board for tech professionals. We hand-pick remote jobs from 100+ sources and send you the jobs that fits for you based on your skills and location. | 50% OFF, on Lifetime Plan - Use code: BLACKFRIDAY |
 
 [⬆️ Go to Top](#table-of-contents)
