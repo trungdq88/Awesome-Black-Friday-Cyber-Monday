@@ -333,6 +333,7 @@ Don't forget to:
 |  💰 | [Ship SaaS](https://shipsaas.com?ref=awesome) | Build your SaaS in a weekend with a Next.js SaaS boilerplate | 30% OFF, automatically applied at checkout |
 |  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
 |  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
+|  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
 
 
 [⬆️ Go to Top](#table-of-contents)
