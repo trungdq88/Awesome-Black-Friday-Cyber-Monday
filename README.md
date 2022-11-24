@@ -31,7 +31,7 @@ Don't forget to:
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
-- [💸 Finance Tools (4)](#-finance-tools)
+- [💸 Finance Tools (5)](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins (25)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books (10)](#-programming-books)
@@ -306,6 +306,7 @@ Don't forget to:
 |  🤑 | [Moonitor](https://moonitor.io) | Fully private cryptocurrency Portfolio tracker for Desktop. Moonitor gives you a clear overview of your cryptocurrencies assets in real time. | 50% OFF, automatically applied |
 |  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
 | 🤑 | [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/blackfriday50) | Business balance sheet-like spreadsheet to manage your networth over time. | **BLACKFRIDAY50** for 50% off |
+| 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
