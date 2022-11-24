@@ -27,7 +27,7 @@ Don't forget to:
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (18)](#-marketing-tools)
-- [🔍 SEO Tools (3)](#-seo-tools)
+- [🔍 SEO Tools (4)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
