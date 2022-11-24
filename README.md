@@ -66,7 +66,6 @@ Don't forget to:
 |  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
 |  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 
-
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -461,5 +460,6 @@ Don't forget to:
 |  💰 | [tonik](https://www.tonik.com/) | 25% off for UX/UI, brand design, and front-end support, and another 25% off (50% total!) for Y Combinator companies. | 25% OFF — email hello@tonik.com with ‘black22’ in topic
 | 🤑 | [The Independence Bundle](https://tom-hirst.gumroad.com/l/HKlpmD/BF2022) | All my products. One bundle. One price. Includes every additional premium resource | $73.50 (usually $147) with BF2022
 | 🤑 | [NordVPN](https://nordvpn.com/) | Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. | **68% OFF + 3 months free**
+|  💰 | [Remote Leaf](https://remoteleaf.com) | Remote Leaf is the personized remote job board for tech professionals. We hand-pick remote jobs from 100+ sources and send you the jobs that fits for you based on your skills and location. | 50% OFF, on Lifetime Plan - Use code: BLACKFRIDAY |
 
 [⬆️ Go to Top](#table-of-contents)
