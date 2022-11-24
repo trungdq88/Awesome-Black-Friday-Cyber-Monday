@@ -91,6 +91,7 @@ Don't forget to:
 | 💰 | [snappify](https://snappify.io) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | **BLACKFRIDAY_2022** for 30% off first year |
 | 💰 | [ruri.design](https://ruri.design) | Your design superpower. Create high quality abstract visualisations for your ad. With collection of more than 250+ handcrafted and fully editable splines, curves, spots you will have unlimited options to combine. | **BLACK30** 30% OFF with code BLACK30 on all plans |
 | 🤑 | [Baseline](https://baseline.is/pricing/) | The swiss army knife of branding. Create a brand guide in a couple of minutes and then Baseline will automatically create on-brand designs for you | 50% OFF all plans with code BLACKFRIDAY22 |
+| 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -233,6 +234,7 @@ Don't forget to:
 |  🤑 | [AI Tool Hub 🔥](https://ritujhajharia.gumroad.com/l/aitoolhub?utm_source=tdinh) | AI Tool Hub is the most comprehensive directory of 80+ AI Tools curated for writers, marketers & creators. It helps you focus on creating more meaningful content and grow, not waste hours in searching for the right tools. | Offer : Flat 50% Off on Full Version, Coupon Code : AIBF50 |
 | 💰 | [EndType](https://endtype.com) | Google Sheet Add On which uses AI to write, find and organize your data. | **30% OFF for life**, Use the code: Black2022 |
 |  🤑 | [Typli](https://typli.ai/#pricing) | Typli.ai is an AI writer and SEO assistant that lets you generate original, high-ranking copy wherever you work. Using AI technology, you’ll be able to produce original, long-form content that can be edited to perfection. | **50% OFF**, Use the code: BFDEAL50 |
+|  🤑 | [Punchline.ai](https://punchline.ai) | Awesome creative copy for Startup founders powered by AI. | **20% OFF**, Use the code: **BLACKFRIDAY22** |
 
 
 [⬆️ Go to Top](#table-of-contents)
