@@ -40,8 +40,7 @@ Don't forget to:
 	- [💻 Programming Courses (31)](#-programming-courses)
 	- [🎢 Career Courses (2)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
-- [💪 Health and Fitness (3)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (6)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (8)](#-miscellaneous)
 
 
 ## 👨‍💻 Developer Tools
@@ -62,9 +61,6 @@ Don't forget to:
 |  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
 |  🤑 | [Sizzy](https://sizzy.co/) | The browser for web developers | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF (discount is already applied) |
-|  💰 | [TeaCode](https://www.apptorium.com/teacode) | Text expanding app for developers. Write your code super fast. | 40% OFF |
-|  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
-|  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -105,7 +101,6 @@ Don't forget to:
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 |  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
-| 💰 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -132,9 +127,6 @@ Don't forget to:
 | 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50% off using **BLACK_FRIDAY** on checkout |
 | 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
 |  🤑 | [Curiosity](https://curiosity.ai/blackfriday2022) | One search for all your folders and apps. Save time and get more done with the unified search and launcher app that keeps all your data safe on your device. | 50% OFF Curiosity Pro with code **BLACKFRIDAY2022** |
-| 💰 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen. | 40% OFF |
-| 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click. | 40% OFF |
-| 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -153,7 +145,6 @@ Don't forget to:
 | 🤑 | [GetMe - The easy shopping list](https://apps.apple.com/app/getme-shopping-list/id1592143397) | GetMe is a simple, fast and clear shopping list that is synchronized on all your devices and that you can share and use together.  | 50% OFF for Lifetime Unlock in-app purchase, no code necessary |
 | 💰 | [one sec](https://apps.apple.com/app/apple-store/id1532875441) | Forces you to take a deep breath before you can open social media. | [50% off one sec pro](https://apps.apple.com/redeem?ctx=offercodes&id=1532875441&code=BLACKFRIDAY) |
 | 💰 | [Outread: Speed Reading](https://apps.apple.com/app/id778846279) | Speed-read websites, ebooks and documents. Outread improves reading efficiency by focusing your eyes on small chunks of text at a time. | 33% OFF Outread+ Lifetime, no code necessary |
-| 💰 | [SideNotes for iPhone & iPad](https://www.apptorium.com/sidenotes/ios) | Mobile, companion app for SideNotes users. To take your quick notes with you. | 40% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -171,7 +162,7 @@ Don't forget to:
 | 🤑 | [Assista](https://assista.io) | Completely effortless time-tracking and reporting powerup for Trello. | 50% OFF Professional plan for first month with code **Assista50** |
 | 🤑 | [Meet Enhancement Suite](https://meetenhancementsuite.com/) | Meet better with the best Google Meet extension | 50% off any yearly plan forever with code **CRAZY_DEAL** |
 | 🤑 | [RogerRoger](https://rogerroger.io) | RogerRoger turns your email into organized tasks. Collaborate with your team in workspaces with configurable kanban boards. | 50% OFF Forever on Plus with code **CyberRoger2022** |
-| 💰 | [1st things 1st](https://www.1st-things-1st.com/?ref=awesome-black-friday) | A web app that helps you set priorities in your life and work. | 30% OFF with code **BLACKFRIDAY2022** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -195,8 +186,6 @@ Don't forget to:
 |  🤑 | [Voicely](https://abdo120.pay.clickbank.net/?cbitems=54&cbur=a&coupon=BFDEAL50) | Voicely, a text to speech application that can turn any text into high quality, human-like voices with additional features to spice up your projects. | **50% OFF for life** |
 |  🤑 | [Streamr](https://abdo120.pay.clickbank.net/?cbitems=55&cbur=a&coupon=BFDEAL50) | Streamr is a video and audio translation and transcription + live streaming software. No matter what video you would like to work on, Streamr supports all types of videos; Youtube videos or personal imported videos. | **50% OFF for life** |
 |  🤑 | [Appfigures](https://appfigures.com) | App Store Optimization, Analytics, and Competitor Intelligence. Rank higher on the App Store & Google Play. | **50% OFF**, Use the code: BF2250E |
-|  🤑 | [MakerBox](https://www.makerbox.club/black-friday) | Marketing tools and resources for your next big idea. | **70% OFF, automatically applied** |
-|  💰 | [Remo](https://remo.co) | The ultimate tool to create immersive and engaging virtual events and meetings. | **25% OFF Monthly Plans**, Use Code: BLACKFRIDAY25 (applied to first 6 months of subscription only) or **50% OFF Annual Plans**, Use Code: BLACKFRIDAY50 (applied to first year of subscription only)|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -322,7 +311,6 @@ Don't forget to:
 |  💰 | [Coupon Affiliates Pro](https://couponaffiliates.com/pricing) | Easily create an advanced coupon-based affiliate program for WooCommerce. | 25% OFF with code BF2022 |
 |  💰 | [Ship SaaS](https://shipsaas.com?ref=awesome) | Build your SaaS in a weekend with a Next.js SaaS boilerplate | 30% OFF, automatically applied at checkout |
 |  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
-|  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -384,7 +372,7 @@ Don't forget to:
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
 |  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
 |  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
-| 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | $30 OFF on Annual Subscription with code **THANKS2022** |
+| 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | 30% OFF on Annual Subscription with code **THANKS2022** |
 |  🤑 | [Flutter App Monetization: The Complete Guide](https://courses.1manstartup.com/flutter-monetization-course?coupon=BLACKFRIDAY)| 50% off The complete guide to setting up ads, in-app purchases, and subscriptions in a flutter app. | 50% off use code BLACKFRIDAY |
 |  💰 | [Reuven Lerner](https://store.lerner.co.il) | All 35 Python, Git, and Pandas courses are 40% off | 40% off, use coupon code BF2022 |
 |  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
@@ -411,7 +399,7 @@ Don't forget to:
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
 | 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
-
+| 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -437,16 +425,6 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 💪 Health and Fitness
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
-|  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
-|  🤑 | [Bolt – workout planner](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | **Bolt is the ultimate weightlifting companion. Log workouts, lift more, get stronger.** | 🌟 50% off annual plan. Access from the Discover tab in-app. |
-
-[⬆️ Go to Top](#table-of-contents)
-
 ## 👨‍🎨 Miscellaneous
 
 |  | Name | Description | Discount Code & Terms |
@@ -455,6 +433,8 @@ Don't forget to:
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
 |  💰 | [Unrealme - Awesome generated images of yourself](https://unrealme.io/) | Get 100+ images of **_yourself_** | 30%  with **_BLACKFRIDAY_** code |
 |  🤑 | [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) | Care companion for happy & healthy house plants | 50% off 1st year |
+|  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
+|  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
 |  💰 | [tonik](https://www.tonik.com/) | 25% off for UX/UI, brand design, and front-end support, and another 25% off (50% total!) for Y Combinator companies. | 25% OFF — email hello@tonik.com with ‘black22’ in topic
 | 🤑 | [The Independence Bundle](https://tom-hirst.gumroad.com/l/HKlpmD/BF2022) | All my products. One bundle. One price. Includes every additional premium resource | $73.50 (usually $147) with BF2022
 | 🤑 | [NordVPN](https://nordvpn.com/) | Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. | **68% OFF + 3 months free**
