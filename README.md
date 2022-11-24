@@ -195,6 +195,7 @@ Don't forget to:
 |  🤑 | [Voicely](https://abdo120.pay.clickbank.net/?cbitems=54&cbur=a&coupon=BFDEAL50) | Voicely, a text to speech application that can turn any text into high quality, human-like voices with additional features to spice up your projects. | **50% OFF for life** |
 |  🤑 | [Streamr](https://abdo120.pay.clickbank.net/?cbitems=55&cbur=a&coupon=BFDEAL50) | Streamr is a video and audio translation and transcription + live streaming software. No matter what video you would like to work on, Streamr supports all types of videos; Youtube videos or personal imported videos. | **50% OFF for life** |
 |  🤑 | [Appfigures](https://appfigures.com) | App Store Optimization, Analytics, and Competitor Intelligence. Rank higher on the App Store & Google Play. | **50% OFF**, Use the code: BF2250E |
+|  🤑 | [MakerBox](https://www.makerbox.club/black-friday) | Marketing tools and resources for your next big idea. | **70% OFF, automatically applied** |
 
 [⬆️ Go to Top](#table-of-contents)
 
