@@ -27,11 +27,11 @@ Don't forget to:
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (18)](#-marketing-tools)
-- [🔍 SEO Tools (3)](#-seo-tools)
+- [🔍 SEO Tools (4)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
-- [💸 Finance Tools (4)](#-finance-tools)
+- [💸 Finance Tools (5)](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins (25)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books (10)](#-programming-books)
@@ -90,8 +90,8 @@ Don't forget to:
 | 🤑 | [Vidtoon Club™](https://abdo120.pay.clickbank.net/?cbitems=59&cbur=a&coupon=BF50off) |In need of more resources? Don’t bother looking for a designer. Vidtoon Club offers monthly resources: from animated characters, images, soundtracks, to brand new pre-designed animated video templates that can be used on their own ( with the ability of fully customizing them) In addition, Vidtoon Club comes with Vidtoon Character Builder; an extra software to customize your own animated characters. |  **50% OFF** lifeTime deal |
 | 💰 | [snappify](https://snappify.io) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | **BLACKFRIDAY_2022** for 30% off first year |
 | 💰 | [ruri.design](https://ruri.design) | Your design superpower. Create high quality abstract visualisations for your ad. With collection of more than 250+ handcrafted and fully editable splines, curves, spots you will have unlimited options to combine. | **BLACK30** 30% OFF with code BLACK30 on all plans |
+| 🤑 | [Baseline](https://baseline.is/pricing/) | The swiss army knife of branding. Create a brand guide in a couple of minutes and then Baseline will automatically create on-brand designs for you | 50% OFF all plans with code BLACKFRIDAY22 |
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
-
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -206,6 +206,7 @@ Don't forget to:
 |  🤑 | [MakerBox](https://www.makerbox.club/black-friday) | Marketing tools and resources for your next big idea. | **70% OFF, automatically applied** |
 |  💰 | [Remo](https://remo.co) | The ultimate tool to create immersive and engaging virtual events and meetings. | **25% OFF Monthly Plans**, Use Code: BLACKFRIDAY25 (applied to first 6 months of subscription only) or **50% OFF Annual Plans**, Use Code: BLACKFRIDAY50 (applied to first year of subscription only)|
 |  💰 | [Spinal](https://spinalcms.com) | Spinal is a beautiful and minimal CMS for static site generators (Jekyll, Astro, 11ty, etc.). Designed for content marketing teams. | **50% OFF on yearly plan** and 10 pay once lifetime deals |
+|  🤑 | [Startup Buffer](https://startupbuffer.com/site/promote) | Startup Buffer is a startup directory for emerging startups. The deal includes homepage promotion on the directory, social media shoutouts, and email newsletter promotions.  | **75% OFF, automatically applied** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -216,6 +217,7 @@ Don't forget to:
 |  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
 |  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
 |  💰 | [BacklinkManager](https://backlinkmanager.io) | BacklinkManager is a link-building CRM for SaaS and marketing agencies. Streamline your efforts, find new link-building opportunities, get your links monitored and more. | **50% OFF on all plans** with code **bf2022** |
+|  💰 | [Keyword Insights](https://www.keywordinsights.ai/blog/black-friday/) | Accelerate your content marketing with Data & AI. Generate thousands of keyword ideas, group them into topical clusters and create incredibly detailed content briefs effortlessly. | **25% discount on all credit top-ups** between 24th - 27th November (automatically applied)
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -308,6 +310,7 @@ Don't forget to:
 |  🤑 | [Moonitor](https://moonitor.io) | Fully private cryptocurrency Portfolio tracker for Desktop. Moonitor gives you a clear overview of your cryptocurrencies assets in real time. | 50% OFF, automatically applied |
 |  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
 | 🤑 | [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/blackfriday50) | Business balance sheet-like spreadsheet to manage your networth over time. | **BLACKFRIDAY50** for 50% off |
+| 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
