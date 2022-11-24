@@ -18,31 +18,31 @@ Don't forget to:
 
 ## Table of Contents
 
-- [👨‍💻 Developer Tools (12)](#-developer-tools)
+- [👨‍💻 Developer Tools (17)](#-developer-tools)
 - [🌅 Design Tools (15)](#-design-tools)
-- [🎛 Utility Tools (8)](#-utility-tools)
+- [🎛 Utility Tools (9)](#-utility-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (9)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (11)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (16)](#-marketing-tools)
+	- [🖥️ Productivity Desktop Apps (12)](#️-productivity-desktop-apps)
+	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
+- [🌈 Marketing Tools (17)](#-marketing-tools)
+- [🔍 SEO Tools (3)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
 - [🌏 Social Media Tools (17)](#-social-media-tools)
 - [💸 Finance Tools (4)](#-finance-tools)
-- [💅 Boilerplates, Templates, Themes, Plugins (21)](#-boilerplates-templates-themes-plugins)
+- [💅 Boilerplates, Templates, Themes, Plugins (24)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books (7)](#-programming-books)
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (2)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (31)](#-programming-courses)
+	- [💻 Programming Courses (33)](#-programming-courses)
 	- [🎢 Career Courses (2)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (6)](#-miscellaneous)
-
+- [👨‍🎨 Miscellaneous (7)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
