@@ -182,6 +182,7 @@ Don't forget to:
 |  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
 |  🤑 | [Voicely](https://abdo120.pay.clickbank.net/?cbitems=54&cbur=a&coupon=BFDEAL50) | Voicely, a text to speech application that can turn any text into high quality, human-like voices with additional features to spice up your projects. | **50% OFF for life** |
 |  🤑 | [Streamr](https://abdo120.pay.clickbank.net/?cbitems=55&cbur=a&coupon=BFDEAL50) | Streamr is a video and audio translation and transcription + live streaming software. No matter what video you would like to work on, Streamr supports all types of videos; Youtube videos or personal imported videos. | **50% OFF for life** |
+|  💰 | [Remo](https://remo.co) | The ultimate tool to create immersive and engaging virtual events and meetings. | **25% OFF Monthly Plans**, Use Code: BLACKFRIDAY25 (applied to first 6 months of subscription only) or **50% OFF Annual Plans**, Use Code: BLACKFRIDAY50 (applied to first year of subscription only)|
 
 [⬆️ Go to Top](#table-of-contents)
 
