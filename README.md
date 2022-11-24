@@ -60,6 +60,8 @@ Don't forget to:
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
 |  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
 |  🤑 | [Sizzy](https://sizzy.co/) | The browser for web developers | 50% OFF with code **BLACKFRIDAY2022** |
+|  🤑 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF (discount is already applied) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
