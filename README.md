@@ -66,7 +66,6 @@ Don't forget to:
 |  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
 |  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 
-
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -106,6 +105,7 @@ Don't forget to:
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 |  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
 | 💰 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF |
+| 🤑 | [AdGuard](https://adguard.com/) | Stand alone ad blocker for desktop and mobile | 50% OFF, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -135,6 +135,7 @@ Don't forget to:
 | 💰 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen. | 40% OFF |
 | 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click. | 40% OFF |
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
+| 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -257,6 +258,7 @@ Don't forget to:
 |  💰 | [redirect.pizza](https://redirect.pizza/) | Domain redirects delivered hassle-free. Get peace of mind when redirecting your domains without the burden of hosting them. | 30% OFF for annual subscriptions, automatically applied |
 | 💰 | [tail.so](https://tail.so) | Turn your Notion pages into website in seconds. Tail provides excellent SEO, great performance, built-in analytics, a lot of customization options, cool templates and more. | **30% OFF** on all plans for the first year with code **BLACKFRIDAY** |
 | 💰 | [Daito Authenticator](https://wwww.daito.io) | Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed.  | **30% OFF** on your first month or entire first year with code **BLACKWEEK2022** |
+| 🤑 | [Auditzy™](https://auditzy.com) | Check Website Page Speed. Monitor Website Performance & Optimize SEO, Website Performance, Accessibility, Conversion Rates, and User Experience. Implement Best Coding Practices across 5000+ Buyer/Visitor Personas with 40+ Devices, 13+ Networks, and 12+ Global Locations. | **50% OFF** on all our plans with code **BLACKFRIDAY50** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -339,7 +341,9 @@ Don't forget to:
 |  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
 |  💰 | [40% off all single books at Kodeco (raywenderlich.com)](https://www.kodeco.com/books?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | All of our single digital books are now 40% off - From Mobile Design, to Back-End, to SwiftUI, to Modern Concurrency, to Animations, Real-World development to Jetpack Compose to Dagger and beyond, every book you need is here at Kodeco. | 40% off until Nov 29! |
 |  🤑 | [E-Book Bundle: Develop and Design for Web Apps, by O'Reilly](https://www.humblebundle.com/books/develop-and-design-for-web-apps-oreilly-books) | A bundle of O'Reilly books on coding languages, tools, and techniques you need to design and develop web apps. Technologies include React, PHP, MySQL, JavaScript, TypeScript, HTML5, and many more. | Pay minimums of $1, $10, and $18 for 5 items, 10 items, and 14 items, respectively. |
+| 💰 | [The DynamoDB Book - Premium Package](https://alexdebrie.gumroad.com/l/WPLqz/dynamodb2022) | The comprehensive guide to data modeling with DynamoDB. | Use the code "DYNAMODB2022" to get: $20 off Basic ($59); $40 off Plus ($89); $80 off Premium ($169); 35% off Team Licenses 🎉 |
 | 🤑 | [Exploring MusicKit and Apple Music API](https://rudrank.gumroad.com/l/musickit/black-friday) | The only resource you need for integrating Apple Music into your app. | 50% off until Nov 30 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -411,7 +415,7 @@ Don't forget to:
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
 | 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
-
+| 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -458,5 +462,6 @@ Don't forget to:
 |  💰 | [tonik](https://www.tonik.com/) | 25% off for UX/UI, brand design, and front-end support, and another 25% off (50% total!) for Y Combinator companies. | 25% OFF — email hello@tonik.com with ‘black22’ in topic
 | 🤑 | [The Independence Bundle](https://tom-hirst.gumroad.com/l/HKlpmD/BF2022) | All my products. One bundle. One price. Includes every additional premium resource | $73.50 (usually $147) with BF2022
 | 🤑 | [NordVPN](https://nordvpn.com/) | Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. | **68% OFF + 3 months free**
+|  💰 | [Remote Leaf](https://remoteleaf.com) | Remote Leaf is the personized remote job board for tech professionals. We hand-pick remote jobs from 100+ sources and send you the jobs that fits for you based on your skills and location. | 50% OFF, on Lifetime Plan - Use code: BLACKFRIDAY |
 
 [⬆️ Go to Top](#table-of-contents)
