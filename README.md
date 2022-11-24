@@ -257,6 +257,7 @@ Don't forget to:
 |  💰 | [redirect.pizza](https://redirect.pizza/) | Domain redirects delivered hassle-free. Get peace of mind when redirecting your domains without the burden of hosting them. | 30% OFF for annual subscriptions, automatically applied |
 | 💰 | [tail.so](https://tail.so) | Turn your Notion pages into website in seconds. Tail provides excellent SEO, great performance, built-in analytics, a lot of customization options, cool templates and more. | **30% OFF** on all plans for the first year with code **BLACKFRIDAY** |
 | 💰 | [Daito Authenticator](https://wwww.daito.io) | Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed.  | **30% OFF** on your first month or entire first year with code **BLACKWEEK2022** |
+| 💰 | [Auditzy™](https://auditzy.com) | Check Website Page Speed. Monitor Website Performance & Optimize SEO, Website Performance, Accessibility, Conversion Rates, and User Experience. Implement Best Coding Practices across 5000+ Buyer/Visitor Personas with 40+ Devices, 13+ Networks, and 12+ Global Locations. | **50% OFF** on all our plans with code **BLACKFRIDAY50** |
 
 [⬆️ Go to Top](#table-of-contents)
 
