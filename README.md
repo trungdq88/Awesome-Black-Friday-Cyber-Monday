@@ -310,6 +310,8 @@ Don't forget to:
 |  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
 |  💰 | [Coupon Affiliates Pro](https://couponaffiliates.com/pricing) | Easily create an advanced coupon-based affiliate program for WooCommerce. | 25% OFF with code BF2022 |
 |  💰 | [Ship SaaS](https://shipsaas.com?ref=awesome) | Build your SaaS in a weekend with a Next.js SaaS boilerplate | 30% OFF, automatically applied at checkout |
+|  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
