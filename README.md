@@ -383,6 +383,8 @@ Don't forget to:
 | 🤑 | [KCD Bundle](https://www.kcdbundle.com/) |  KCD Bundle brings Testing JavaScript and Epic React together for a special discounted price. | 50% OFF |
 |  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
+| 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
+
 
 [⬆️ Go to Top](#table-of-contents)
 
