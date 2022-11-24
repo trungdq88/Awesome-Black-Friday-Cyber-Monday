@@ -161,6 +161,8 @@ Don't forget to:
 | 🤑 | [Redac](https://gracehuang.gumroad.com/l/redac/blackfriday50) |  The MacOS app that makes redacting text in images easier | **BLACKFRIDAY50** for 50% off
 | 🤑 | [Assista](https://assista.io) | Completely effortless time-tracking and reporting powerup for Trello. | 50% OFF Professional plan for first month with code **Assista50** |
 | 🤑 | [Meet Enhancement Suite](https://meetenhancementsuite.com/) | Meet better with the best Google Meet extension | 50% off any yearly plan forever with code **CRAZY_DEAL** |
+| 🤑 | [RogerRoger](https://rogerroger.io) | RogerRoger turns your email into organized tasks. Collaborate with your team in workspaces with configurable kanban boards. | 50% OFF Forever on Plus with code **CyberRoger2022** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
