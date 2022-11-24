@@ -29,12 +29,12 @@ Don't forget to:
 - [🌈 Marketing Tools (17)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (27)](#-startup-saastools)
 - [🌏 Social Media Tools (17)](#-social-media-tools)
 - [💸 Finance Tools (4)](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins (24)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (7)](#-programming-books)
+	- [📗 Programming Books (8)](#-programming-books)
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (2)](#-marketing-books)
 - [📹 Courses ](#-courses)
@@ -257,6 +257,7 @@ Don't forget to:
 |  💰 | [redirect.pizza](https://redirect.pizza/) | Domain redirects delivered hassle-free. Get peace of mind when redirecting your domains without the burden of hosting them. | 30% OFF for annual subscriptions, automatically applied |
 | 💰 | [tail.so](https://tail.so) | Turn your Notion pages into website in seconds. Tail provides excellent SEO, great performance, built-in analytics, a lot of customization options, cool templates and more. | **30% OFF** on all plans for the first year with code **BLACKFRIDAY** |
 | 💰 | [Daito Authenticator](https://wwww.daito.io) | Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed.  | **30% OFF** on your first month or entire first year with code **BLACKWEEK2022** |
+| 💰 | [PingPing.io](https://pingping.io) | Website down? SSL invalid? We notify you instantly! Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less. | **25% OFF FOREVER** on all plans with code **bf2022** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -339,6 +340,7 @@ Don't forget to:
 |  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
 |  💰 | [40% off all single books at Kodeco (raywenderlich.com)](https://www.kodeco.com/books?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | All of our single digital books are now 40% off - From Mobile Design, to Back-End, to SwiftUI, to Modern Concurrency, to Animations, Real-World development to Jetpack Compose to Dagger and beyond, every book you need is here at Kodeco. | 40% off until Nov 29! |
 |  🤑 | [E-Book Bundle: Develop and Design for Web Apps, by O'Reilly](https://www.humblebundle.com/books/develop-and-design-for-web-apps-oreilly-books) | A bundle of O'Reilly books on coding languages, tools, and techniques you need to design and develop web apps. Technologies include React, PHP, MySQL, JavaScript, TypeScript, HTML5, and many more. | Pay minimums of $1, $10, and $18 for 5 items, 10 items, and 14 items, respectively. |
+| 🤑 | [Laravel Secrets](https://laravelsecrets.com/?ref=bf2022) | Learn everything about the undocumented secrets in the popular Laravel framework, that makes you a better and more efficient developer. | Get it now for 7 EUR instead of 39 EUR. |
 
 
 [⬆️ Go to Top](#table-of-contents)
