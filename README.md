@@ -90,7 +90,7 @@ Don't forget to:
 | 🤑 | [Vidtoon Club™](https://abdo120.pay.clickbank.net/?cbitems=59&cbur=a&coupon=BF50off) |In need of more resources? Don’t bother looking for a designer. Vidtoon Club offers monthly resources: from animated characters, images, soundtracks, to brand new pre-designed animated video templates that can be used on their own ( with the ability of fully customizing them) In addition, Vidtoon Club comes with Vidtoon Character Builder; an extra software to customize your own animated characters. |  **50% OFF** lifeTime deal |
 | 💰 | [snappify](https://snappify.io) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | **BLACKFRIDAY_2022** for 30% off first year |
 | 💰 | [ruri.design](https://ruri.design) | Your design superpower. Create high quality abstract visualisations for your ad. With collection of more than 250+ handcrafted and fully editable splines, curves, spots you will have unlimited options to combine. | **BLACK30** 30% OFF with code BLACK30 on all plans |
-
+| 🤑 | [Baseline](https://baseline.is/pricing/) | The swiss army knife of branding. Create a brand guide in a couple of minutes and then Baseline will automatically create on-brand designs for you | 50% OFF all plans with code BLACKFRIDAY22 |
 
 
 [⬆️ Go to Top](#table-of-contents)
