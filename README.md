@@ -348,6 +348,11 @@ Don't forget to:
 |  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
 |  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
 |  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
+|  💵 | [Filament Media Library Pro](https://filamentphp.com/plugins/media-library-pro) | Give your users a beautiful way to upload, manage and select media and images in Filament Admin. Integrates with Spatie MediaLibrary. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
+|  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
+|  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
+
+
 
 
 [⬆️ Go to Top](#table-of-contents)
