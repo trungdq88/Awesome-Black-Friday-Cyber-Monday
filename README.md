@@ -123,6 +123,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🤑 | [Wins](https://wins.cool) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac | 50% OFF (lifetime) **BLACKFRIDAY_2022**|
 | 💰 | [Zen Mode](https://zenmode.carrd.co) | Avoid those awkward moments in public places or presentation meetings | 40% OFF (lifetime) **BLACKFRIDAY22**|
 | 🤑 | [MuteDeck](https://mutedeck.com) | Reduce meeting stress and mistakes and never hear "hey, you're on mute" again. | 50% OFF with code **HOLIDAY2022**|
 | 💰 | [TextSniper](https://textsniper.app) | Blazingly fast and lightweight macOS application that instantly helps OCR/copy any non-selectable or uncopiable text from your Mac screen.| 40% OFF with code **TSBFG2022** |
