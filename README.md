@@ -411,7 +411,7 @@ Don't forget to:
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
 | 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
-
+| 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
