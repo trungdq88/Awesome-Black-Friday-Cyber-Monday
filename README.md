@@ -61,6 +61,8 @@ Don't forget to:
 |  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
 |  🤑 | [Sizzy](https://sizzy.co/) | The browser for web developers | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF (discount is already applied) |
+|  💰 | [TeaCode](https://www.apptorium.com/teacode) | Text expanding app for developers. Write your code super fast. | 40% OFF |
+|  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -101,6 +103,7 @@ Don't forget to:
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 |  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
+| 💰 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -127,6 +130,9 @@ Don't forget to:
 | 🤑 | [Ubidrop](https://www.ubidrop.com) | "Airdrop for Android". Transfer files across Android and Mac quickly and seamlessly | 50% off using **BLACK_FRIDAY** on checkout |
 | 🤑 | [Timemator](https://unclutterapp.com/bundle/?coupon=TM-BLACKFRIDAY-2022&s=github) | Tracks your time while you work. Automatically! | 50% OFF for each app in the bundle or 79% OFF for the complete bundle |
 |  🤑 | [Curiosity](https://curiosity.ai/blackfriday2022) | One search for all your folders and apps. Save time and get more done with the unified search and launcher app that keeps all your data safe on your device. | 50% OFF Curiosity Pro with code **BLACKFRIDAY2022** |
+| 💰 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen. | 40% OFF |
+| 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click. | 40% OFF |
+| 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -145,6 +151,7 @@ Don't forget to:
 | 🤑 | [GetMe - The easy shopping list](https://apps.apple.com/app/getme-shopping-list/id1592143397) | GetMe is a simple, fast and clear shopping list that is synchronized on all your devices and that you can share and use together.  | 50% OFF for Lifetime Unlock in-app purchase, no code necessary |
 | 💰 | [one sec](https://apps.apple.com/app/apple-store/id1532875441) | Forces you to take a deep breath before you can open social media. | [50% off one sec pro](https://apps.apple.com/redeem?ctx=offercodes&id=1532875441&code=BLACKFRIDAY) |
 | 💰 | [Outread: Speed Reading](https://apps.apple.com/app/id778846279) | Speed-read websites, ebooks and documents. Outread improves reading efficiency by focusing your eyes on small chunks of text at a time. | 33% OFF Outread+ Lifetime, no code necessary |
+| 💰 | [SideNotes for iPhone & iPad](https://www.apptorium.com/sidenotes/ios) | Mobile, companion app for SideNotes users. To take your quick notes with you. | 40% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
