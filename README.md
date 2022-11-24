@@ -64,6 +64,7 @@ Don't forget to:
 |  🤑 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF (discount is already applied) |
 |  💰 | [TeaCode](https://www.apptorium.com/teacode) | Text expanding app for developers. Write your code super fast. | 40% OFF |
 |  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
+|  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
