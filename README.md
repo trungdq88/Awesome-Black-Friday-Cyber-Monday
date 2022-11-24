@@ -281,6 +281,7 @@ Don't forget to:
 | 🤑 | [Away](https://awayfortwitter.com) | Take a break from Twitter - a dashboard for monitoring all your Twitter accounts in one app. Check new messages, replies and stats of your tweets, followers, and more. Available on iOS and macOS. | **30% OFF** on Lifetime Pro unlock |
 | 💰 | [StreamLadder](https://streamladder.com) | Easily convert your Twitch Clips to TikTok, Reels & YouTube Shorts with StreamLadder ✔ Free ✔ Easy to use ✔ No watermark. | **30% OFF** first year. automatically applied |
 | 🤑 | [Kleptofinder](https://kleptofinder.com/pricing) | Have you ever had a plan to protect the visual content used in your Instagram account or website? Kleptofinder provides a detailed report on which platform and website have used your content and even selects the mentioned website to investigate how they have used your digital property. | **50% OFF** on Lifetime Ultra Security Plan use **BFDEAL50** at checkout |
+| 🤑 | [Breeze](https://onbreeze.app) | Post your Tweets, threads or LinkedIn posts directly from Notion. Keep writing your content in Notion and schedule it directly from there. | Terms: 50% OFF on Annual Plans - Coupon code: BREEZEFRIDAY |
 
 [⬆️ Go to Top](#table-of-contents)
 
