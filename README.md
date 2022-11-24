@@ -26,7 +26,7 @@ Don't forget to:
 	- [🖥️ Productivity Desktop Apps (14)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (18)](#-marketing-tools)
+- [🌈 Marketing Tools (19)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
@@ -205,6 +205,7 @@ Don't forget to:
 |  🤑 | [MakerBox](https://www.makerbox.club/black-friday) | Marketing tools and resources for your next big idea. | **70% OFF, automatically applied** |
 |  💰 | [Remo](https://remo.co) | The ultimate tool to create immersive and engaging virtual events and meetings. | **25% OFF Monthly Plans**, Use Code: BLACKFRIDAY25 (applied to first 6 months of subscription only) or **50% OFF Annual Plans**, Use Code: BLACKFRIDAY50 (applied to first year of subscription only)|
 |  💰 | [Spinal](https://spinalcms.com) | Spinal is a beautiful and minimal CMS for static site generators (Jekyll, Astro, 11ty, etc.). Designed for content marketing teams. | **50% OFF on yearly plan** and 10 pay once lifetime deals |
+|  🤑 | [CampaignKit](https://campaignkit.cc) | CampaignKit is an email list cleaning tool to remove invalid and malicious emails. | **50% OFF on all credits** with code BLACKFRIDAY|
 
 [⬆️ Go to Top](#table-of-contents)
 
