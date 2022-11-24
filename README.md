@@ -480,5 +480,6 @@ Don't forget to:
 | 🤑 | [The Independence Bundle](https://tom-hirst.gumroad.com/l/HKlpmD/BF2022) | All my products. One bundle. One price. Includes every additional premium resource | $73.50 (usually $147) with BF2022
 | 🤑 | [NordVPN](https://nordvpn.com/) | Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. | **68% OFF + 3 months free**
 |  💰 | [Remote Leaf](https://remoteleaf.com) | Remote Leaf is the personized remote job board for tech professionals. We hand-pick remote jobs from 100+ sources and send you the jobs that fits for you based on your skills and location. | 50% OFF, on Lifetime Plan - Use code: BLACKFRIDAY |
+|  💵 | [BusKill](https://buskill.in) | BusKill is an open-source hardware and software project that designs computer kill cords to protect the confidentiality of the system's data from physical theft | 10% OFF all orders paid with cryptocurrencies |
 
 [⬆️ Go to Top](#table-of-contents)
