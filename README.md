@@ -198,6 +198,7 @@ Don't forget to:
 |  🤑 | [Appfigures](https://appfigures.com) | App Store Optimization, Analytics, and Competitor Intelligence. Rank higher on the App Store & Google Play. | **50% OFF**, Use the code: BF2250E |
 |  🤑 | [MakerBox](https://www.makerbox.club/black-friday) | Marketing tools and resources for your next big idea. | **70% OFF, automatically applied** |
 |  💰 | [Remo](https://remo.co) | The ultimate tool to create immersive and engaging virtual events and meetings. | **25% OFF Monthly Plans**, Use Code: BLACKFRIDAY25 (applied to first 6 months of subscription only) or **50% OFF Annual Plans**, Use Code: BLACKFRIDAY50 (applied to first year of subscription only)|
+|  💰 | [Spinal](https://spinalcms.com) | Spinal is a beautiful and minimal CMS for static site generators (Jekyll, Astro, 11ty, etc.). Designed for content marketing teams. | **50% OFF on yearly plan** and 10 pay once lifetime deals |
 
 [⬆️ Go to Top](#table-of-contents)
 
