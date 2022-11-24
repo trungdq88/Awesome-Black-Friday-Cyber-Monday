@@ -26,8 +26,8 @@ Don't forget to:
 	- [🖥️ Productivity Desktop Apps (14)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (18)](#-marketing-tools)
-- [🔍 SEO Tools (4)](#-seo-tools)
+- [🌈 Marketing Tools (19)](#-marketing-tools)
+- [🔍 SEO Tools (3)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
@@ -208,6 +208,8 @@ Don't forget to:
 |  💰 | [Remo](https://remo.co) | The ultimate tool to create immersive and engaging virtual events and meetings. | **25% OFF Monthly Plans**, Use Code: BLACKFRIDAY25 (applied to first 6 months of subscription only) or **50% OFF Annual Plans**, Use Code: BLACKFRIDAY50 (applied to first year of subscription only)|
 |  💰 | [Spinal](https://spinalcms.com) | Spinal is a beautiful and minimal CMS for static site generators (Jekyll, Astro, 11ty, etc.). Designed for content marketing teams. | **50% OFF on yearly plan** and 10 pay once lifetime deals |
 |  🤑 | [Startup Buffer](https://startupbuffer.com/site/promote) | Startup Buffer is a startup directory for emerging startups. The deal includes homepage promotion on the directory, social media shoutouts, and email newsletter promotions.  | **75% OFF, automatically applied** |
+|  🤑 | [CampaignKit](https://campaignkit.cc) | CampaignKit is an email list cleaning tool to remove invalid and malicious emails. | **50% OFF on all credits** with code BLACKFRIDAY|
+
 
 [⬆️ Go to Top](#table-of-contents)
 
