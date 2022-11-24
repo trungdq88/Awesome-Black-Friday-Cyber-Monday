@@ -340,7 +340,7 @@ Don't forget to:
 |  🤑 | [Debugging CSS](https://debuggingcss.com) | An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques. | 50% OFF with code **nov22** |
 |  💰 | [40% off all single books at Kodeco (raywenderlich.com)](https://www.kodeco.com/books?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | All of our single digital books are now 40% off - From Mobile Design, to Back-End, to SwiftUI, to Modern Concurrency, to Animations, Real-World development to Jetpack Compose to Dagger and beyond, every book you need is here at Kodeco. | 40% off until Nov 29! |
 |  🤑 | [E-Book Bundle: Develop and Design for Web Apps, by O'Reilly](https://www.humblebundle.com/books/develop-and-design-for-web-apps-oreilly-books) | A bundle of O'Reilly books on coding languages, tools, and techniques you need to design and develop web apps. Technologies include React, PHP, MySQL, JavaScript, TypeScript, HTML5, and many more. | Pay minimums of $1, $10, and $18 for 5 items, 10 items, and 14 items, respectively. |
-
+| 💰 | [The DynamoDB Book - Premium Package](https://alexdebrie.gumroad.com/l/WPLqz/dynamodb2022) | The comprehensive guide to data modeling with DynamoDB. | Use the code "DYNAMODB2022" to get: $20 off Basic ($59); $40 off Plus ($89); $80 off Premium ($169); 35% off Team Licenses 🎉 |
 
 [⬆️ Go to Top](#table-of-contents)
 
