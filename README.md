@@ -106,6 +106,7 @@ Don't forget to:
 |  💰 | [Glide](https://apps.apple.com/mv/app/glide-focus-pointer/id1593045116?mt=12) | Focus Pointer for macOS | 25% off, Automatically applied |
 | 💰 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF |
 | 🤑 | [AdGuard](https://adguard.com/) | Stand alone ad blocker for desktop and mobile | 50% OFF, automatically applied |
+| 💰 | [Beyond Compare](https://www.scootersoftware.com/shop.php?zz=shop_promo) | Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not. Merge changes, synchronize files, and generate reports. | 30% OFF, start from linked promo page and follow instrunctions. On Cyber Monday only! |
 
 [⬆️ Go to Top](#table-of-contents)
 
