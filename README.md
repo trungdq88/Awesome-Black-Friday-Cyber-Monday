@@ -348,6 +348,7 @@ Don't forget to:
 |  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
 |  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
 |  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
+|  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
