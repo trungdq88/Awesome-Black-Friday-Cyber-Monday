@@ -92,6 +92,7 @@ Don't forget to:
 | 💰 | [ruri.design](https://ruri.design) | Your design superpower. Create high quality abstract visualisations for your ad. With collection of more than 250+ handcrafted and fully editable splines, curves, spots you will have unlimited options to combine. | **BLACK30** 30% OFF with code BLACK30 on all plans |
 | 🤑 | [Baseline](https://baseline.is/pricing/) | The swiss army knife of branding. Create a brand guide in a couple of minutes and then Baseline will automatically create on-brand designs for you | 50% OFF all plans with code BLACKFRIDAY22 |
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
+| 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
 
 
 [⬆️ Go to Top](#table-of-contents)
