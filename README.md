@@ -267,6 +267,8 @@ Don't forget to:
 | 🤑 | [Auditzy™](https://auditzy.com) | Check Website Page Speed. Monitor Website Performance & Optimize SEO, Website Performance, Accessibility, Conversion Rates, and User Experience. Implement Best Coding Practices across 5000+ Buyer/Visitor Personas with 40+ Devices, 13+ Networks, and 12+ Global Locations. | **50% OFF** on all our plans with code **BLACKFRIDAY50** |
 | 💰 | [PingPing.io](https://pingping.io) | Website down? SSL invalid? We notify you instantly! Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less. | **25% OFF FOREVER** on all plans with code **bf2022** |
 |  🤑 | [Kinsta](https://kinsta.com/application-hosting/) | Create and deploy a web application and database in minutes. | $20 OFF, automatically applied |
+| 💰 | [Formaloo](https://www.formaloo.com/en/) | No-code platform. Build beautiful forms, access-controlled databases, and highly customizable business apps without any code.  | **30% OFF** for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans. |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
