@@ -369,6 +369,8 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | In The book I will cover in detail "How I Made $30,000 From Writing in 1 Year" | Pre-order: only $5 Book will be released in March 2023. |
 | 🤑 | [eBook Writing Workflow for Developers](https://miguelcoba.gumroad.com/l/ebookwriting) | The ultimate setup for developers writing eBooks | 50% OFF, automatically applied |
+| 🤑 | [SEO Tactics 2022](https://ckissi.gumroad.com/l/SEOTactics) | The ultimate guide to SEO | 50% OFF, automatically applied |
+| 🤑 | [Twitter Growth Tactics](https://twitter-growth-tactics.csabakissi.com/) | The ultimate guide to growing your Twitter followers | 40% OFF, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
