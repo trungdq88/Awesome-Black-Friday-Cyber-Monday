@@ -135,6 +135,7 @@ Don't forget to:
 | 💰 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five small notes to use as a cheat sheet from Menubar. Stays on top of other apps, even those in full-screen. | 40% OFF |
 | 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher. Launch chosen apps, websites, files, folders etc. for a given project. With one click. | 40% OFF |
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
+| 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
