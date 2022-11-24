@@ -27,7 +27,7 @@ Don't forget to:
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (18)](#-marketing-tools)
-- [🔍 SEO Tools (3)](#-seo-tools)
+- [🔍 SEO Tools (4)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
@@ -216,6 +216,7 @@ Don't forget to:
 |  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
 |  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
 |  💰 | [BacklinkManager](https://backlinkmanager.io) | BacklinkManager is a link-building CRM for SaaS and marketing agencies. Streamline your efforts, find new link-building opportunities, get your links monitored and more. | **50% OFF on all plans** with code **bf2022** |
+|  💰 | [Keyword Insights](https://www.keywordinsights.ai/blog/black-friday/) | Accelerate your content marketing with Data & AI. Generate thousands of keyword ideas, group them into topical clusters and create incredibly detailed content briefs effortlessly. | **25% discount on all credit top-ups** between 24th - 27th November (automatically applied)
 
 [⬆️ Go to Top](#table-of-contents)
 
