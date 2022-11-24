@@ -163,6 +163,7 @@ Don't forget to:
 | 💰 | [one sec](https://apps.apple.com/app/apple-store/id1532875441) | Forces you to take a deep breath before you can open social media. | [50% off one sec pro](https://apps.apple.com/redeem?ctx=offercodes&id=1532875441&code=BLACKFRIDAY) |
 | 💰 | [Outread: Speed Reading](https://apps.apple.com/app/id778846279) | Speed-read websites, ebooks and documents. Outread improves reading efficiency by focusing your eyes on small chunks of text at a time. | 33% OFF Outread+ Lifetime, no code necessary |
 | 💰 | [SideNotes for iPhone & iPad](https://www.apptorium.com/sidenotes/ios) | Mobile, companion app for SideNotes users. To take your quick notes with you. | 40% OFF |
+| 🤑 | [Bookshelf: Reading & TBR Tracker](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414?platform=iphone) | A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. | [50% Off Annual Gold Membership](https://apps.apple.com/redeem?ctx=offercodes&id=1469372414&code=BLACKFRIDAY2022) |
 
 [⬆️ Go to Top](#table-of-contents)
 
