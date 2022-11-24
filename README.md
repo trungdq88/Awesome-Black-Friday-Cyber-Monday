@@ -265,7 +265,7 @@ Don't forget to:
 | 💰 | [Daito Authenticator](https://wwww.daito.io) | Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed.  | **30% OFF** on your first month or entire first year with code **BLACKWEEK2022** |
 | 🤑 | [Auditzy™](https://auditzy.com) | Check Website Page Speed. Monitor Website Performance & Optimize SEO, Website Performance, Accessibility, Conversion Rates, and User Experience. Implement Best Coding Practices across 5000+ Buyer/Visitor Personas with 40+ Devices, 13+ Networks, and 12+ Global Locations. | **50% OFF** on all our plans with code **BLACKFRIDAY50** |
 | 💰 | [PingPing.io](https://pingping.io) | Website down? SSL invalid? We notify you instantly! Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less. | **25% OFF FOREVER** on all plans with code **bf2022** |
-
+|  🤑 | [Kinsta](https://kinsta.com/application-hosting/) | Create and deploy a web application and database in minutes. | $20 OFF, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
