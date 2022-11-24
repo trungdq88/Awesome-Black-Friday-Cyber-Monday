@@ -19,16 +19,16 @@ Don't forget to:
 ## Table of Contents
 
 - [👨‍💻 Developer Tools (18)](#-developer-tools)
-- [🌅 Design Tools (16)](#-design-tools)
+- [🌅 Design Tools (19)](#-design-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (14)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (13)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (19)](#-marketing-tools)
-- [🔍 SEO Tools (3)](#-seo-tools)
-- [🤖 AI Writing Tools (8)](#-ai-writing-tools)
+- [🌈 Marketing Tools (20)](#-marketing-tools)
+- [🔍 SEO Tools (4)](#-seo-tools)
+- [🤖 AI Writing Tools (9)](#-ai-writing-tools)
 - [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
@@ -39,10 +39,10 @@ Don't forget to:
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (34)](#-programming-courses)
-	- [🎢 Career Courses (2)](#-career-courses)
+	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (8)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (10)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
