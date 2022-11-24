@@ -59,6 +59,7 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
+|  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
 |  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
 |  🤑 | [Sizzy](https://sizzy.co/) | The browser for web developers | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF (discount is already applied) |
