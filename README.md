@@ -18,26 +18,30 @@ Don't forget to:
 
 ## Table of Contents
 
-- [👨‍💻 Developer Tools](#-developer-tools)
-- [🌅 Design Tools](#-design-tools)
-- [🎛 Utility Tools](#-utility-tools)
-- [⌨️ Code Libraries](#%EF%B8%8F-code-libraries)
-- [🖥️ Productivity Desktop Apps](#%EF%B8%8F-productivity-desktop-apps)
-- [📲 Productivity Mobile Apps](#-productivity-mobile-apps)
-- [🛠️ Productivity Tools & Services](#%EF%B8%8F-productivity-tools--services)
-- [🌈 Marketing Tools](#-marketing-tools)
-- [🤖 AI Writing Tools](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools](#-startup-saastools)
-- [🌏 Social Media Tools](#-social-media-tools)
-- [💸 Finance Tools](#-finance-tools)
-- [💅 Boilerplates, Templates, Themes, Plugins](#-boilerplates-templates-themes-plugins)
-- [📗 Programming Books](#-programming-books)
-- [📘 Startup & Career Books](#-startup--career-books)
-- [📕 Marketing Books](#-marketing-books)
-- [📹 Programming Courses](#-programming-courses)
-- [🎢 Career Courses](#-career-courses)
-- [📈 Marketing Courses](#-marketing-courses)
-- [👨‍🎨 Miscellaneous](#-miscellaneous)
+- [👨‍💻 Developer Tools (12)](#-developer-tools)
+- [🌅 Design Tools (15)](#-design-tools)
+- [🎛 Utility Tools (8)](#-utility-tools)
+- [⌨️ Code Libraries (2)](#️-code-libraries)
+- [🔥 Productivity ](#-productivity)
+	- [🖥️ Productivity Desktop Apps (9)](#️-productivity-desktop-apps)
+	- [📱 Productivity Mobile Apps (11)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
+- [🌈 Marketing Tools (16)](#-marketing-tools)
+- [🤖 AI Writing Tools (8)](#-ai-writing-tools)
+- [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
+- [🌏 Social Media Tools (17)](#-social-media-tools)
+- [💸 Finance Tools (4)](#-finance-tools)
+- [💅 Boilerplates, Templates, Themes, Plugins (21)](#-boilerplates-templates-themes-plugins)
+- [📚 Books ](#-books)
+	- [📗 Programming Books (7)](#-programming-books)
+	- [📘 Startup & Career Books (13)](#-startup--career-books)
+	- [📕 Marketing Books (2)](#-marketing-books)
+- [📹 Courses ](#-courses)
+	- [💻 Programming Courses (31)](#-programming-courses)
+	- [🎢 Career Courses (2)](#-career-courses)
+	- [📈 Marketing Courses (6)](#-marketing-courses)
+- [👨‍🎨 Miscellaneous (8)](#-miscellaneous)
+
 
 ## 👨‍💻 Developer Tools
 
@@ -54,6 +58,10 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | The first ERD useful to explore real world databases | 50% OFF with code **BLACKFRIDAY2022** |
 |  🤑 | [Tower](https://www.git-tower.com/) | Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows. | 50% OFF ends Nov. 27th |
 |  💰 | [RocketSim](https://www.rocketsim.app/) | Enhance the iOS Simulator, build apps faster, compare designs and show grids & rulers on top of the Simulator. | 25% OFF ends Nov. 26th |
+|  🤑 | [Cloudash](https://cloudash.dev) | AWS desktop client. Access CloudWatch logs and metrics, hassle-free. | 50% OFF with code **CLOUDASH_BLACK_FRIDAY** |
+|  🤑 | [Sizzy](https://sizzy.co/) | The browser for web developers | 50% OFF with code **BLACKFRIDAY2022** |
+|  🤑 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. | 30% OFF (discount is already applied) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -76,6 +84,7 @@ Don't forget to:
 | 🤑 | [Flipbook](https://flipbook.sonnylab.com) | Flipbook GIF Animator, Animate your figma design with live-preview, customizable speed, and GIF file export | **50% OFF** on monthly & unlimited plan (auto apply) |
 | 🤑 | [Vidtoon™](https://abdo120.pay.clickbank.net/?cbitems=50&cbfid=46382&coupon=BFDEAL50) | A one-stop software with everything you need to create amazing animation videos. Vidtoon™ comes with all resources and features you will need for your video projects. No need to look elsewhere! |  **50% OFF** lifeTime deal |
 | 🤑 | [Vidtoon Club™](https://abdo120.pay.clickbank.net/?cbitems=59&cbur=a&coupon=BF50off) |In need of more resources? Don’t bother looking for a designer. Vidtoon Club offers monthly resources: from animated characters, images, soundtracks, to brand new pre-designed animated video templates that can be used on their own ( with the ability of fully customizing them) In addition, Vidtoon Club comes with Vidtoon Character Builder; an extra software to customize your own animated characters. |  **50% OFF** lifeTime deal |
+| 💰 | [snappify](https://snappify.io) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | **BLACKFRIDAY_2022** for 30% off first year |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -104,7 +113,8 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🖥️ Productivity Desktop Apps
+## 🔥 Productivity
+### 🖥️ Productivity Desktop Apps
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -120,7 +130,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📱 Productivity Mobile Apps
+### 📱 Productivity Mobile Apps
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -138,7 +148,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🛠️ Productivity Tools & Services
+### 🛠️ Productivity Tools & Services
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -150,7 +160,9 @@ Don't forget to:
 | 🤑 | [Centered](https://centered.app/) | Get into your Flow State with coaches like Kent C. Dodds or Cassidy Williams to get things done 2x faster. | 50% OFF Forever on Pro with code **CYBERFLOW2022** |
 | 🤑 | [Redac](https://gracehuang.gumroad.com/l/redac/blackfriday50) |  The MacOS app that makes redacting text in images easier | **BLACKFRIDAY50** for 50% off
 | 🤑 | [Assista](https://assista.io) | Completely effortless time-tracking and reporting powerup for Trello. | 50% OFF Professional plan for first month with code **Assista50** |
+| 🤑 | [Meet Enhancement Suite](https://meetenhancementsuite.com/) | Meet better with the best Google Meet extension | 50% off any yearly plan forever with code **CRAZY_DEAL** |
 | 🤑 | [RogerRoger](https://rogerroger.io) | RogerRoger turns your email into organized tasks. Collaborate with your team in workspaces with configurable kanban boards. | 50% OFF Forever on Plus with code **CyberRoger2022** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -171,12 +183,22 @@ Don't forget to:
 |  💰 | [GummySearch](https://gummysearch.com?utm_source=tdinh) | Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get **25% off** on any plan with code **BLACKFRIDAY2022** |
 |  💰 | [Famewall](https://famewall.io?utm_source=tony) | Collect testimonials from customers & embed them on customizable widgets without any coding 🏆 | Try the product for free & get **25% off** on all paid plans with code **BFSALE22** |
 |  🤑 | [Howuku](https://howuku.com) | Howuku is a behavior analytics tool to help startups visualize the complete user journey through heatmaps, recordings, AB testings, surveys, analytics, and more.| 50% OFF on any plan with code **BLACKFRIDAY** |
-|  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
-|  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
 |  🤑 | [Voicely](https://abdo120.pay.clickbank.net/?cbitems=54&cbur=a&coupon=BFDEAL50) | Voicely, a text to speech application that can turn any text into high quality, human-like voices with additional features to spice up your projects. | **50% OFF for life** |
 |  🤑 | [Streamr](https://abdo120.pay.clickbank.net/?cbitems=55&cbur=a&coupon=BFDEAL50) | Streamr is a video and audio translation and transcription + live streaming software. No matter what video you would like to work on, Streamr supports all types of videos; Youtube videos or personal imported videos. | **50% OFF for life** |
+|  🤑 | [Appfigures](https://appfigures.com) | App Store Optimization, Analytics, and Competitor Intelligence. Rank higher on the App Store & Google Play. | **50% OFF**, Use the code: BF2250E |
 
 [⬆️ Go to Top](#table-of-contents)
+
+
+## 🔍 SEO Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Juicy SEO tools you will love](https://mangools.com/blackfriday) | We make SEO simple since 2014. | **25% LIFETIME** on all plans (automatically applied) |
+|  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
+|  💰 | [BacklinkManager](https://backlinkmanager.io) | BacklinkManager is a link-building CRM for SaaS and marketing agencies. Streamline your efforts, find new link-building opportunities, get your links monitored and more. | **50% OFF on all plans** with code **bf2022** |
+
+[⬆️ Go to Top](#table-of-contents)
+
 
 ## 🤖 AI Writing Tools
 
@@ -286,10 +308,13 @@ Don't forget to:
 |  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
 |  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
 |  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
+|  💰 | [Coupon Affiliates Pro](https://couponaffiliates.com/pricing) | Easily create an advanced coupon-based affiliate program for WooCommerce. | 25% OFF with code BF2022 |
+|  💰 | [Ship SaaS](https://shipsaas.com?ref=awesome) | Build your SaaS in a weekend with a Next.js SaaS boilerplate | 30% OFF, automatically applied at checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📗 Programming Books
+## 📚 Books
+### 📗 Programming Books
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -304,7 +329,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📘 Startup & Career Books
+### 📘 Startup & Career Books
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -324,7 +349,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📕 Marketing Books
+### 📕 Marketing Books
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -333,7 +358,9 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📹 Programming Courses
+## 📹 Courses
+
+### 💻 Programming Courses
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -367,11 +394,14 @@ Don't forget to:
 | 💰 | [Testing JavaScript](https://testingjavascript.com/) | Learn the smart, efficient way to test any JavaScript application. | 40% OFF |
 | 🤑 | [KCD Bundle](https://www.kcdbundle.com/) |  KCD Bundle brings Testing JavaScript and Epic React together for a special discounted price. | 50% OFF |
 |  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
+| 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
+| 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
+| 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🎢 Career Courses
+### 🎢 Career Courses
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -380,7 +410,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📈 Marketing Courses
+### 📈 Marketing Courses
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
