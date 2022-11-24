@@ -40,7 +40,8 @@ Don't forget to:
 	- [💻 Programming Courses (31)](#-programming-courses)
 	- [🎢 Career Courses (2)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
-- [👨‍🎨 Miscellaneous (8)](#-miscellaneous)
+- [💪 Health and Fitness (3)](#-health-and-fitness)
+- [👨‍🎨 Miscellaneous (6)](#-miscellaneous)
 
 
 ## 👨‍💻 Developer Tools
@@ -432,6 +433,16 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
+## 💪 Health and Fitness
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
+|  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
+|  🤑 | [Bolt – workout planner](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | **Bolt is the ultimate weightlifting companion. Log workouts, lift more, get stronger.** | 🌟 50% off annual plan. Access from the Discover tab in-app. |
+
+[⬆️ Go to Top](#table-of-contents)
+
 ## 👨‍🎨 Miscellaneous
 
 |  | Name | Description | Discount Code & Terms |
@@ -440,8 +451,6 @@ Don't forget to:
 |  🤑 | [Cypherock Wallet](https://cypherock.com) | Cypherock is the World's 1st Crypto Hardware Wallet without a seed phrase. | 75% OFF with the code **NOSEED75** |
 |  💰 | [Unrealme - Awesome generated images of yourself](https://unrealme.io/) | Get 100+ images of **_yourself_** | 30%  with **_BLACKFRIDAY_** code |
 |  🤑 | [PlantPal](https://apps.apple.com/app/apple-store/id1566070492?pt=118649576&ct=plantpal.net&mt=8) | Care companion for happy & healthy house plants | 50% off 1st year |
-|  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
-|  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
 |  💰 | [tonik](https://www.tonik.com/) | 25% off for UX/UI, brand design, and front-end support, and another 25% off (50% total!) for Y Combinator companies. | 25% OFF — email hello@tonik.com with ‘black22’ in topic
 | 🤑 | [The Independence Bundle](https://tom-hirst.gumroad.com/l/HKlpmD/BF2022) | All my products. One bundle. One price. Includes every additional premium resource | $73.50 (usually $147) with BF2022
 | 🤑 | [NordVPN](https://nordvpn.com/) | Online VPN service that encrypts your internet traffic and hides your IP with physical location. Upgrade your privacy and security now. | **68% OFF + 3 months free**
