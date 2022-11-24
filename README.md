@@ -29,12 +29,12 @@ Don't forget to:
 - [🌈 Marketing Tools (17)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
 - [🤖 AI Writing Tools (8)](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (27)](#-startup-saastools)
 - [🌏 Social Media Tools (17)](#-social-media-tools)
 - [💸 Finance Tools (4)](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins (24)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (7)](#-programming-books)
+	- [📗 Programming Books (8)](#-programming-books)
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (2)](#-marketing-books)
 - [📹 Courses ](#-courses)
@@ -260,6 +260,8 @@ Don't forget to:
 | 💰 | [tail.so](https://tail.so) | Turn your Notion pages into website in seconds. Tail provides excellent SEO, great performance, built-in analytics, a lot of customization options, cool templates and more. | **30% OFF** on all plans for the first year with code **BLACKFRIDAY** |
 | 💰 | [Daito Authenticator](https://wwww.daito.io) | Web-based 2FA authenticator for small and large teams. 10 secs to migrate from Google Authenticator. Securely share 2FA tokens with your team, no phone needed.  | **30% OFF** on your first month or entire first year with code **BLACKWEEK2022** |
 | 🤑 | [Auditzy™](https://auditzy.com) | Check Website Page Speed. Monitor Website Performance & Optimize SEO, Website Performance, Accessibility, Conversion Rates, and User Experience. Implement Best Coding Practices across 5000+ Buyer/Visitor Personas with 40+ Devices, 13+ Networks, and 12+ Global Locations. | **50% OFF** on all our plans with code **BLACKFRIDAY50** |
+| 💰 | [PingPing.io](https://pingping.io) | Website down? SSL invalid? We notify you instantly! Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less. | **25% OFF FOREVER** on all plans with code **bf2022** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -344,6 +346,8 @@ Don't forget to:
 |  🤑 | [E-Book Bundle: Develop and Design for Web Apps, by O'Reilly](https://www.humblebundle.com/books/develop-and-design-for-web-apps-oreilly-books) | A bundle of O'Reilly books on coding languages, tools, and techniques you need to design and develop web apps. Technologies include React, PHP, MySQL, JavaScript, TypeScript, HTML5, and many more. | Pay minimums of $1, $10, and $18 for 5 items, 10 items, and 14 items, respectively. |
 | 💰 | [The DynamoDB Book - Premium Package](https://alexdebrie.gumroad.com/l/WPLqz/dynamodb2022) | The comprehensive guide to data modeling with DynamoDB. | Use the code "DYNAMODB2022" to get: $20 off Basic ($59); $40 off Plus ($89); $80 off Premium ($169); 35% off Team Licenses 🎉 |
 | 🤑 | [Exploring MusicKit and Apple Music API](https://rudrank.gumroad.com/l/musickit/black-friday) | The only resource you need for integrating Apple Music into your app. | 50% off until Nov 30 |
+| 🤑 | [Laravel Secrets](https://laravelsecrets.com/?ref=bf2022) | Learn everything about the undocumented secrets in the popular Laravel framework, that makes you a better and more efficient developer. | Get it now for 7 EUR instead of 39 EUR. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
