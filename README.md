@@ -144,8 +144,6 @@ Don't forget to:
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
 | 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
 | 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
-| 💰 | [Markboard](https://www.markboard.dev) | Keyboard-centric, markdown-based virtual "whiteboard" for geeks, with mermaid diagramming and syntax highlighting. | 25% OFF with **BLACKFRIDAY2022** code on live collaboration licenses. |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -184,6 +182,7 @@ Don't forget to:
 | 🤑 | [Meet Enhancement Suite](https://meetenhancementsuite.com/) | Meet better with the best Google Meet extension | 50% off any yearly plan forever with code **CRAZY_DEAL** |
 | 🤑 | [RogerRoger](https://rogerroger.io) | RogerRoger turns your email into organized tasks. Collaborate with your team in workspaces with configurable kanban boards. | 50% OFF Forever on Plus with code **CyberRoger2022** |
 | 💰 | [1st things 1st](https://www.1st-things-1st.com/?ref=awesome-black-friday) | A web app that helps you set priorities in your life and work. | 30% OFF with code **BLACKFRIDAY2022** |
+| 💰 | [Markboard](https://www.markboard.dev) | Keyboard-centric, markdown-based virtual "whiteboard" for geeks, with mermaid diagramming and syntax highlighting. | 25% OFF with **BLACKFRIDAY2022** code on live collaboration licenses. |
 
 
 [⬆️ Go to Top](#table-of-contents)
