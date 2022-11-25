@@ -310,6 +310,8 @@ Don't forget to:
 | 💰 | [PushAlert - Web Push Notifications](https://pushalert.co) | Boost sales and increase enagagment with Web Push Notifications. Send real-time notifications to your website visitors on both desktop and mobiles devices without an app. | **30% OFF** on All Annual Plans |
 | 🤑 | [3veta](https://3veta.com/) | Modern meeting experience for remote teams designed by a remote team | 30% OFF with code **BLACKFRIDAY** |
 |  🤑 | [BoldDesk](https://www.bolddesk.com/black-friday) | BoldDesk is a cloud-based, modern help desk ticketing system and knowledge base software for serving a wide range of customer support activities. | 40% OFF with code **BLACKFRIDAY2022** |
+| 💰 | [Pagecloud](https://pagecloud.com/black-friday?utm_campaign=awesome_black_friday) | Pagecloud is a website builder that allows users to create custom websites without code! Our platform is best for small businesses, entrepreneurs, and creators. You can design, build, publish, host, and manage your website all in one place. | Get 40% off your first payment of any plan with code **BLACKFRIDAY-40** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
