@@ -473,6 +473,7 @@ Don't forget to:
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
 | 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
 | 🤑 | [Just Javascript](https://justjavascript.com/) | Discover and rebuild your JavaScript mental models | 50% OFF auto applied |
+| 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
