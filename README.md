@@ -394,8 +394,7 @@ Don't forget to:
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
 |  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
-
-
+|  💰 | [P42 JS Assistant](https://p42.ai/?utm_medium=referral&utm_campaign=awesome_blackfriday&utm_source=github) | Upgrade your Visual Studio Code JavaScript tooling with with automated code actions, refactoring suggestions, and more. | 20% OFF for 1 year of P42 Basic (annual subscription) with code **BLACKFRIDAY22** |
 
 [⬆️ Go to Top](#table-of-contents)
 
