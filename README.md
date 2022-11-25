@@ -457,6 +457,8 @@ Don't forget to:
 | 🤑 | [Dive into Docker](https://diveintodocker.com/) | The complete Docker course for developers. | 50% OFF |
 | 🤑 | [Three.js Journey](https://threejs-journey.com/) | The Best Way to Learn Three.js | 50% OFF with code **2022BLACKFRIDAY** |
 |  🤑 | [Mastering Nuxt](https://masteringnuxt.com/) | Learn Nuxt 3 in a comprehensive and Hands on course. Build a production-ready online course platform with a database and a blazing fast landing page. | UP TO 60% OFF |
+|  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
