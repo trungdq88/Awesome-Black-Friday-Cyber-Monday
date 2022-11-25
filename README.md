@@ -314,7 +314,7 @@ Don't forget to:
 | 💰 | [Pagecloud](https://pagecloud.com/black-friday?utm_campaign=awesome_black_friday) | Pagecloud is a website builder that allows users to create custom websites without code! Our platform is best for small businesses, entrepreneurs, and creators. You can design, build, publish, host, and manage your website all in one place. | Get 40% off your first payment of any plan with code **BLACKFRIDAY-40** |
 | 🤑 | [ApyHub](https://apyhub.com) | Powerful APIs for standard data and other essential functionalities for any application. | Up to 500,000 additional API requests with **APYFRIDAY** |
 |  💰 | [sql2sheets](https://sql2sheets.com/) | sql2sheets is a no-code workflow automation tool. Connect your favorite apps and data sources. | 50% OFF for 3 months. Automatically applied on signup through Cyber Monday. |
-
+| 🤑 | [LoadMyCode Backups](https://loadmycode.com) | No Frills Linux files and MySQL backup automation. | Pre-Order: 50% OFF lifetime price lock on signup, No card required. auto. applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
