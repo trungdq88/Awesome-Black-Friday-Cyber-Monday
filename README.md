@@ -334,6 +334,7 @@ Don't forget to:
 |  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
 | 🤑 | [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/blackfriday50) | Business balance sheet-like spreadsheet to manage your networth over time. | **BLACKFRIDAY50** for 50% off |
 | 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
+| 💰 | [DeltaRay MesoSim](https://blog.deltaray.io/black-friday-deal) | Advanced Options Backtesting service | 20% one time OFF for new annual subscriptions |
 
 [⬆️ Go to Top](#table-of-contents)
 
