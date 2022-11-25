@@ -13,6 +13,7 @@ Follow the discount emoji as below:
 |  🤑   |  >= 50% |
 
 Don't forget to:
+
 - 👉 ...give this repo a star so it become trending on Black Friday! ⭐ 🤩
 - 👉 ...bookmark this page to come back here next year 2023! 📆🤩
 - 👉 ...[follow me on Twitter](https://twitter.com/tdinh_me) 😉
@@ -263,6 +264,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  💰 | [sql2sheets](https://sql2sheets.com/) | sql2sheets is a no-code workflow automation tool. Connect your favorite apps and data sources. | 50% OFF for 3 months. Automatically applied on signup through Cyber Monday. |
 |  💰 | [Static.app](https://static.app/) | Static.app is the easiest way to host a static HTML website online. Drag-and-drop an archive with your page or an entire website and we will take care of the rest. Everything is included: SSL certificate, code editor, forms and media storage all in one place. | 30% OFF with code **BLACK22** |
 |  💰 | [Pulsetic](https://pulsetic.com/) | Get notified by phone calls, SMS, email, Telegram, or Slack when a website goes down. Enhance your company's transparency in the eyes of your customers by creating appealing status pages, badges, and issue management reports. | 30% OFF with code **BLACK22** |
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a fully professional help center or documentation page. HelpKit helps you deliver instant help to your customers – without ever leaving Notion. It has built-in analytics, an embeddable widget, full text search, customizable themes and much more. | 40% off on all plans for the first year with code **BLACKFRIDAY_2022** |
