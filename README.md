@@ -42,7 +42,7 @@ Don't forget to:
 - [💸 Finance Tools (5)](#-finance-tools)
 - [💅 Boilerplates, Templates, Themes, Plugins (29)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (12)](#-programming-books)
+	- [📗 Programming Books (13)](#-programming-books)
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
@@ -391,6 +391,7 @@ Don't forget to:
 | 🤑 | [Laravel Secrets](https://laravelsecrets.com/?ref=bf2022) | Learn everything about the undocumented secrets in the popular Laravel framework, that makes you a better and more efficient developer. | Get it now for 7 EUR instead of 39 EUR. |
 | 💰 | [React - The Road To Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications. | 40% OFF with code **BLACKFRIDAY**
 | 💰 | [Vue - The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a Vue pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of Vue 2 & 3 applications. | 40% OFF with code **BLACKFRIDAY** |
+| 🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BlackFriday22) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% OFF with code **BLACKFRIDAY22** |
 
 [⬆️ Go to Top](#table-of-contents)
 
