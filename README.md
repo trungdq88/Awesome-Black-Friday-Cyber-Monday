@@ -108,6 +108,8 @@ Don't forget to:
 | 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
 | 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
 | 🤑 | [Purple Photo](https://purple-photo.web.app/) | Create beautiful posts and screenshots with ZERO designing skills. Top features include handpicked gradient, unsplash images, device mockup, code editor, stickers etc. | 50% OFF on the Lifetime deal with the discount code **blackfriday** |
+| 🤑 | [Rotato](https://rotato.app) | Beautiful, easy and fast design showcases with 3D mockups | **50% OFF** with code  **FRIDAY2022T**  |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
