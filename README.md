@@ -39,7 +39,7 @@ Don't forget to:
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (34)](#-programming-courses)
+	- [💻 Programming Courses (35)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
@@ -443,6 +443,7 @@ Don't forget to:
 | 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
 | 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
+| 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
 
 [⬆️ Go to Top](#table-of-contents)
 
