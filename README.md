@@ -146,7 +146,6 @@ Don't forget to:
 | 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
 | 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
 
-
 [⬆️ Go to Top](#table-of-contents)
 
 ### 📱 Productivity Mobile Apps
@@ -280,6 +279,8 @@ Don't forget to:
 |  🤑 | [Kinsta](https://kinsta.com/application-hosting/) | Create and deploy a web application and database in minutes. | $20 OFF, automatically applied |
 | 💰 | [Formaloo](https://www.formaloo.com/en/) | No-code platform. Build beautiful forms, access-controlled databases, and highly customizable business apps without any code.  | **30% OFF** for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans. |
 |  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
+| 💰 | [UpMeet](https://upmeet.me) | Branded meetings on your website and supported integrations | 40% OFF with code **BLACKFRIDAY** forever |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
