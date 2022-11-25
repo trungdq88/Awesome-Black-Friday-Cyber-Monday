@@ -79,6 +79,7 @@ Don't forget to:
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
 
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -106,6 +107,7 @@ Don't forget to:
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
 | 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
 | 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
+| 🤑 | [Purple Photo](https://purple-photo.web.app/) | Create beautiful posts and screenshots with ZERO designing skills. Top features include handpicked gradient, unsplash images, device mockup, code editor, stickers etc. | 50% OFF on the Lifetime deal with the discount code **blackfriday** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -322,7 +324,7 @@ Don't forget to:
 | 💰 | [StreamLadder](https://streamladder.com) | Easily convert your Twitch Clips to TikTok, Reels & YouTube Shorts with StreamLadder ✔ Free ✔ Easy to use ✔ No watermark. | **30% OFF** first year. automatically applied |
 | 🤑 | [Kleptofinder](https://kleptofinder.com/pricing) | Have you ever had a plan to protect the visual content used in your Instagram account or website? Kleptofinder provides a detailed report on which platform and website have used your content and even selects the mentioned website to investigate how they have used your digital property. | **50% OFF** on Lifetime Ultra Security Plan use **BFDEAL50** at checkout |
 | 🤑 | [Breeze](https://onbreeze.app) | Post your Tweets, threads or LinkedIn posts directly from Notion. Keep writing your content in Notion and schedule it directly from there. | Terms: 50% OFF on Annual Plans - Coupon code: BREEZEFRIDAY |
-
+| 🤑 | [Twidd](https://xyassini.gumroad.com/l/twidd/BLCKFRDY2022) | Browser Extension to create Twitter DM templates and use them without effort directly in Twitter | Terms: 50% OFF (Lifetime Deal) - Coupon code: BLCKFRDY2022 |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💸 Finance Tools
@@ -370,7 +372,9 @@ Don't forget to:
 |  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
+|  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
 |  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -413,6 +417,7 @@ Don't forget to:
 | 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills | FLAT 80% OFF and PPP |
 | 🤑 | [Make VS Code Awesome](https://makevscodeawesome.com/#buy) | Make VS Code awesome, then teach you how to be insanely productive in it. | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [Pricing Freelance Projects](https://tom-hirst.gumroad.com/l/pcUlz/BF2022) | If you want to know what to charge for your work, which pricing methods work best and how to get paid what you're worth, then Pricing Freelance Projects is for you | $19.50 (usually $39) with BF2022
+| 💰 | [Remote Work & Internships for Developers, Designers and Technical Writers](https://mbaziiraronald.gumroad.com/l/lamzm) | This Ebook contains **100+** platforms and websites where Developers, Designers and Technical Writers can find remote work. Find your remote job easier and faster with this Ebook! | **BLACKFRIDAY40** for 40% off
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -474,6 +479,7 @@ Don't forget to:
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
 | 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
 | 🤑 | [Just Javascript](https://justjavascript.com/) | Discover and rebuild your JavaScript mental models | 50% OFF auto applied |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
