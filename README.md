@@ -533,12 +533,12 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [Better Workout](https://apps.apple.com/at/app/better-workout/id1523173452) | **If you don't have time to work out and need to squeeze it into 5min of your day - this app helps you do that!** | 🌟 50% off monthly plan. Access from the Progress tab in-app. |
 |  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
 |  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
 |  🤑 | [Bolt – workout planner](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | **Bolt is the ultimate weightlifting companion. Log workouts, lift more, get stronger.** | 🌟 50% off annual plan. Access from the Discover tab in-app. |
 |  🤑 | [Push-ups Counter](https://pushups.cc) | An app that helps you record push-ups more easily. | 50% OFF with [BLACKFRIDAY code](https://apps.apple.com/redeem?ctx=offercodes&id=1488091840&code=BLACKFRIDAY) |
 |  💰 | [Fitbod](https://app.fitbod.me/?code=BLACKFRIDAY2022) | **Workouts that improve as you do.** By studying your strength & training ability, past workouts and gym setup, Fitbod creates workouts tailored to you. | 40% OFF for the yearly plan |
+|  🤑 | [Better Workout](https://apps.apple.com/at/app/better-workout/id1523173452) | **If you don't have time to work out and need to squeeze it into 5min of your day - this app helps you do that!** | 🌟 50% off monthly plan. Access from the Progress tab in-app. |
 
 [⬆️ Go to Top](#table-of-contents)
 
