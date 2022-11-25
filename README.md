@@ -304,6 +304,8 @@ Don't forget to:
 | 💵 | [ScreenshotOne](https://screenshotone.com/) | Take stunning site screenshots via API. Render websites and HTML as images. Block cookie banners and ads. The API uses the latest Google Chrome for rendering and Google Cloud Platform for performance and scalability. | 15% OFF with code **BLACKFRIDAY2022** |
 | 💰 | [Page2API](https://www.page2api.com/) | A delightful and versatile API that empowers you to scrape the web like a PRO. | 20% OFF for your first month with code **BF2022** |
 | 🤑 | [UBER ADDRESS](https://uberaddress.io) | Easy to use, typo tolerant and fast address autocomplete API. | 50% OFF for 6 months with code **BLACKFRIDAY22** |
+| 💰 | [PushAlert - Web Push Notifications](https://pushalert.co) | Boost sales and increase enagagment with Web Push Notifications. Send real-time notifications to your website visitors on both desktop and mobiles devices without an app. | **30% OFF** on All Annual Plans |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
