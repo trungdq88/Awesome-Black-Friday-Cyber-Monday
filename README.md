@@ -77,7 +77,7 @@ Don't forget to:
 |  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
 |  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
-|  🤑 | [SQLPro Studio](https://sqlprostudio.com/) | A simple, powerful database manager for macOS, iOS and Windows. Supports SQL Server, MySQL, PostgreSQL and SQLite | BFHALFOFF coupon for 50% off |
+|  🤑 | [SQLPro Studio](https://sqlprostudio.com/) | A simple, powerful database manager for macOS, iOS and Windows. Supports SQL Server, MySQL, PostgreSQL and SQLite | 50% off with **BFHALFOFF**. Ends Nov. 30th |
 
 [⬆️ Go to Top](#table-of-contents)
 
