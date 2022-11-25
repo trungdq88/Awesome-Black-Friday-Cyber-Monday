@@ -67,6 +67,7 @@ Don't forget to:
 |  💰 | [Expressions](https://www.apptorium.com/expressions) | App to play with regular expressions. Makes your regex testing easy. | 37% OFF |
 |  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 |  🤑 | [Requestly](https://requestly.io/) | Test & Debug Web and Mobile Applications. Intercept & Modify HTTPs Requests - Redirect URL, Modify Headers, Mock APIs, Modify Response, Insert Scripts | Free for 1 year, automatically applied |
+|  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -277,7 +278,9 @@ Don't forget to:
 | 💰 | [PingPing.io](https://pingping.io) | Website down? SSL invalid? We notify you instantly! Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less. | **25% OFF FOREVER** on all plans with code **bf2022** |
 |  🤑 | [Kinsta](https://kinsta.com/application-hosting/) | Create and deploy a web application and database in minutes. | $20 OFF, automatically applied |
 | 💰 | [Formaloo](https://www.formaloo.com/en/) | No-code platform. Build beautiful forms, access-controlled databases, and highly customizable business apps without any code.  | **30% OFF** for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans. |
+|  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
 | 💰 | [UpMeet](https://upmeet.me) | Branded meetings on your website and supported integrations | 40% OFF with code **BLACKFRIDAY** forever |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -348,6 +351,11 @@ Don't forget to:
 |  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
 |  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
 |  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
+|  💵 | [Filament Media Library Pro](https://filamentphp.com/plugins/media-library-pro) | Give your users a beautiful way to upload, manage and select media and images in Filament Admin. Integrates with Spatie MediaLibrary. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
+|  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
+|  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
+
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -443,6 +451,9 @@ Don't forget to:
 | 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
 | 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
+| 🤑 | [Build a SAAS App with Flask](https://buildasaasappwithflask.com/) | Learn to build web apps with Flask and Docker. | 50% OFF |
+| 🤑 | [Dive into Docker](https://diveintodocker.com/) | The complete Docker course for developers. | 50% OFF |
+| 🤑 | [Three.js Journey](https://threejs-journey.com/) | The Best Way to Learn Three.js | 50% OFF with code **2022BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
