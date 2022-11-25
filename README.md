@@ -105,7 +105,7 @@ Don't forget to:
 | 🤑 | [Baseline](https://baseline.is/pricing/) | The swiss army knife of branding. Create a brand guide in a couple of minutes and then Baseline will automatically create on-brand designs for you | 50% OFF all plans with code BLACKFRIDAY22 |
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
 | 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
-
+| 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
 
 [⬆️ Go to Top](#table-of-contents)
 
