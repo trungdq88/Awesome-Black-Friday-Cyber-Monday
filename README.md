@@ -77,7 +77,6 @@ Don't forget to:
 |  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
 |  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
-| 🤑 | [ApyHub](https://apyhub.com) | Powerful APIs for standard data and other essential functionalities for any application. | Up to 500,000 additional API requests with **APYFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -297,6 +296,7 @@ Don't forget to:
 |  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
 | 💰 | [UpMeet](https://upmeet.me) | Branded meetings on your website and supported integrations | 40% OFF with code **BLACKFRIDAY** forever |
 | 💵 | [ScreenshotOne](https://screenshotone.com/) | Take stunning site screenshots via API. Render websites and HTML as images. Block cookie banners and ads. The API uses the latest Google Chrome for rendering and Google Cloud Platform for performance and scalability. | 15% OFF with code **BLACKFRIDAY2022** |
+| 🤑 | [ApyHub](https://apyhub.com) | Powerful APIs for standard data and other essential functionalities for any application. | Up to 500,000 additional API requests with **APYFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
