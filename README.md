@@ -136,6 +136,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 | 🤑 | [lightGallery](https://www.lightgalleryjs.com/) | A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. | 50% OFF with code **P89HB39LR7** |
 |  💰 | [Wallabyjs](https://wallabyjs.com/) | Wallaby.js is a developer productivity tool that runs your JavaScript and TypeScript tests immediately as you type, highing results in your IDE right next to your code. | 30% OFF ends Nov. 27th |
+|  💰 | [Avo for Ruby on Rails](https://avohq.io/) | Avo helps developers buid CMSes, CRMs, and internal tools 10x faster on top of Ruby on Rails. | 20% OFF ends Nov. 29th |
 
 [⬆️ Go to Top](#table-of-contents)
 
