@@ -473,7 +473,7 @@ Don't forget to:
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
 | 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
 | 🤑 | [Just Javascript](https://justjavascript.com/) | Discover and rebuild your JavaScript mental models | 50% OFF auto applied |
-
+| 💰 | [Cloud Academy](https://cloudacademy.com/) | Cloud Academy is committed to partnering with innovation-focused organizations. | Simply fill out the form and we’ll send you an email with your 35% coupon code. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -484,6 +484,7 @@ Don't forget to:
 |  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 |  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 |  🤑 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with coupon `BLACK` |
+|  🤑 | [English Class 101](https://www.englishclass101.com/) | Want to start speaking English from your first lesson? You will! Our lessons take you by the hand and guide you through real English conversations. | Get 51% OFF All Plans + 2 FREE Months with any 24 Month Plan. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -497,6 +498,18 @@ Don't forget to:
 | 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
 | 🤑 | [Learn Programmatic SEO](https://preetam.gumroad.com/l/programmatic-seo) | How to grow Google search traffic using a methodical approach. No prior SEO knowledge required. | 50% OFF with code **BLACKFRIDAY** |
 | 🤑 | [The Personal Website Playbook](https://tom-hirst.gumroad.com/l/GdaxO/BF2022) | Get leads, revenue and opportunity from your personal website on autopilot | $39.50 (usually $79) with BF2022
+
+[⬆️ Go to Top](#table-of-contents)
+
+### 📈 Information Security Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Pentester Academy](https://www.pentesteracademy.com/) | We believe in teaching Defense through Offense | Enter BF199 in the checkout page to claim 20% discount. |
+| 🤑 | [Lets Defend](https://letsdefend.io/) | We’ve helped thousands of people with building their blue team careers — and we’d love to help you, too. | Use "BLCKFRDY" code on all plans |
+| 🤑 | [ICSI](https://www.icsiglobal.com/) | Technical staff need theoretical knowledge and practical training to fortify an organisation against cyber crimes. | TAKE 50% OFF ON ALL PERSONAL CERTIFICATION PLANS WITH COUPON CODE BF22 |
+| 💵 | [Pentester Lab](https://pentesterlab.com/pro) | We've been teaching web security for years and have put together many well thought-out exercises to get you from zero to hero. | 17% off on Annual Subscription |
+| 🤑 | [TCM Security](https://tcm-sec.com/coupon/) | TCM Security is a veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. | Use the coupon code: GIVETHANKS |
 
 [⬆️ Go to Top](#table-of-contents)
 
