@@ -519,6 +519,7 @@ Don't forget to:
 |  💰 | [Remote Leaf](https://remoteleaf.com) | Remote Leaf is the personized remote job board for tech professionals. We hand-pick remote jobs from 100+ sources and send you the jobs that fits for you based on your skills and location. | 50% OFF, on Lifetime Plan - Use code: BLACKFRIDAY |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER)| A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2017-2022 | 20% Off Using code 'SAVER' until 30th Nov ($8)
 |  💵 | [BusKill](https://buskill.in) | BusKill is an open-source hardware and software project that designs computer kill cords to protect the confidentiality of the system's data from physical theft | 10% OFF all orders paid with cryptocurrencies |
+| 🤑 | [McClockface](https://apps.apple.com/app/mcclockface/id1544343485) | Beautiful clock widgets for iOS and iPadOS. | 60% off regular price, one-time lifetime purchase. |
 
 
 [⬆️ Go to Top](#table-of-contents)
