@@ -106,6 +106,7 @@ Don't forget to:
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
 | 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
 | 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
+| 💰 | [Pagecloud](https://pagecloud.com/black-friday?utm_campaign=awesome_black_friday) | Pagecloud is a website builder that allows users to create custom websites without code! Our platform is best for small businesses, entrepreneurs, and creators. You can design, build, publish, host, and manage your website all in one place. | Get 40% off your first payment of any plan with code **BLACKFRIDAY-40** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -296,6 +297,8 @@ Don't forget to:
 |  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
 | 💰 | [UpMeet](https://upmeet.me) | Branded meetings on your website and supported integrations | 40% OFF with code **BLACKFRIDAY** forever |
 | 💵 | [ScreenshotOne](https://screenshotone.com/) | Take stunning site screenshots via API. Render websites and HTML as images. Block cookie banners and ads. The API uses the latest Google Chrome for rendering and Google Cloud Platform for performance and scalability. | 15% OFF with code **BLACKFRIDAY2022** |
+| 💰 | [Pagecloud](https://pagecloud.com/black-friday?utm_campaign=awesome_black_friday) | Pagecloud is a website builder that allows users to create custom websites without code! Our platform is best for small businesses, entrepreneurs, and creators. You can design, build, publish, host, and manage your website all in one place. | Get 40% off your first payment of any plan with code **BLACKFRIDAY-40** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
