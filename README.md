@@ -311,6 +311,7 @@ Don't forget to:
 | 🤑 | [3veta](https://3veta.com/) | Modern meeting experience for remote teams designed by a remote team | 30% OFF with code **BLACKFRIDAY** |
 |  🤑 | [BoldDesk](https://www.bolddesk.com/black-friday) | BoldDesk is a cloud-based, modern help desk ticketing system and knowledge base software for serving a wide range of customer support activities. | 40% OFF with code **BLACKFRIDAY2022** |
 | 💰 | [Pagecloud](https://pagecloud.com/black-friday?utm_campaign=awesome_black_friday) | Pagecloud is a website builder that allows users to create custom websites without code! Our platform is best for small businesses, entrepreneurs, and creators. You can design, build, publish, host, and manage your website all in one place. | Get 40% off your first payment of any plan with code **BLACKFRIDAY-40** |
+| 🤑 | [ApyHub](https://apyhub.com) | Powerful APIs for standard data and other essential functionalities for any application. | Up to 500,000 additional API requests with **APYFRIDAY** |
 
 
 
