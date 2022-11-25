@@ -309,6 +309,7 @@ Don't forget to:
 | 🤑 | [UBER ADDRESS](https://uberaddress.io) | Easy to use, typo tolerant and fast address autocomplete API. | 50% OFF for 6 months with code **BLACKFRIDAY22** |
 | 💰 | [PushAlert - Web Push Notifications](https://pushalert.co) | Boost sales and increase enagagment with Web Push Notifications. Send real-time notifications to your website visitors on both desktop and mobiles devices without an app. | **30% OFF** on All Annual Plans |
 | 🤑 | [3veta](https://3veta.com/) | Modern meeting experience for remote teams designed by a remote team | 30% OFF with code **BLACKFRIDAY** |
+|  🤑 | [BoldDesk](https://www.bolddesk.com/black-friday) | BoldDesk is a cloud-based, modern help desk ticketing system and knowledge base software for serving a wide range of customer support activities. | 40% OFF with code **BLACKFRIDAY2022** |
 
 
 [⬆️ Go to Top](#table-of-contents)
