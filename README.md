@@ -109,6 +109,7 @@ Don't forget to:
 | 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
 | 🤑 | [Purple Photo](https://purple-photo.web.app/) | Create beautiful posts and screenshots with ZERO designing skills. Top features include handpicked gradient, unsplash images, device mockup, code editor, stickers etc. | 50% OFF on the Lifetime deal with the discount code **blackfriday** |
 | 🤑 | [Rotato](https://rotato.app) | Beautiful, easy and fast design showcases with 3D mockups | **50% OFF** with code  **FRIDAY2022T**  |
+| 💰 | [ThreeDee](https://threedee.design/) | Level up your designs with lovely 3D libraries | **30% OFF** with code  **blackfriday20222**  |
 
 
 [⬆️ Go to Top](#table-of-contents)
