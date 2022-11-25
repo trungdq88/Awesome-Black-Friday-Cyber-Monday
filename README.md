@@ -22,7 +22,7 @@ Don't forget to:
 | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Xnapper](https://xnapper.com) (macOS app) <br/> 🔥 50% OFF | [BlackMagic.so](https://blackmagic.so) (Twitter SaaS) <br/> 🔥 50% OFF |
 | --- | ------ | ------|
 | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://xnapper.com"><img src="https://xnapper.com/assets/poster.png"></a> | <a href="https://blackmagic.so"><img src="https://blackmagic.so/poster.png"></a> |
-| All-in-one toolbox for developers. 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. |  Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. |
+| All-in-one toolbox for developers. <br/><br/>🟢 42+ carefully crafted developer tools. <br/>🟢 Native macOS app, fast & beautiful. <br/>🟢 Work offline, and respect your data. <br/>🟢 Fully supports Apple Silicon & macOS Ventura. | Take beautiful screenshot easy and fast for social media.<br/><br/> 🟣 Beautiful screenshots in 2 seconds <br/>🟣 Auto balance screenshot <br/>🟣 Auto hide sensitive info <br/>🟣 Annotations |  Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience.<br/><br/>⚫ Powerful Analytics<br/>⚫ Twitter CRM<br/>⚫ Schedule Tweets<br/>⚫ Browser Extension |
 
 ## Table of Contents
 
