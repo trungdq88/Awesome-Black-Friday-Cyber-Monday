@@ -26,6 +26,8 @@ Don't forget to:
 
 ## Table of Contents
 
+- [Meet our sponsors (2)](#meet-our-sponsors)
+- [Table of Contents ](#table-of-contents)
 - [👨‍💻 Developer Tools (21)](#-developer-tools)
 - [🌅 Design Tools (20)](#-design-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
@@ -46,7 +48,7 @@ Don't forget to:
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (41)](#-programming-courses)
+	- [💻 Programming Courses (43)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
@@ -484,6 +486,8 @@ Don't forget to:
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
 | 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
 | 🤑 | [Just Javascript](https://justjavascript.com/) | Discover and rebuild your JavaScript mental models | 50% OFF auto applied |
+|  🤑 | [.NET Diagnostics Expert](https://diagnosticsexpert.com) | Connect the dots when diagnosing .NET apps | 50% OFF with code **CYBERWEEK2022** |
+|  🤑 | [Async Expert](https://asyncexpert.com) | Your path to excel at async in .NET | 50% OFF with code **CYBERWEEK2022** |
 
 
 
