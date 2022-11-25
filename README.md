@@ -501,7 +501,7 @@ Don't forget to:
 |  🤑 | [.NET Diagnostics Expert](https://diagnosticsexpert.com) | Connect the dots when diagnosing .NET apps | 50% OFF with code **CYBERWEEK2022** |
 |  🤑 | [Async Expert](https://asyncexpert.com) | Your path to excel at async in .NET | 50% OFF with code **CYBERWEEK2022** |
 | 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
-
+| 💰 | [GreatFrontEnd](https://www.greatfrontend.com) | The ultimate Front End Interview preparation platform with coding and system design questions. | 20% OFF with code **BLACKFRIDAY2022** |
 
 
 [⬆️ Go to Top](#table-of-contents)
