@@ -68,8 +68,6 @@ Don't forget to:
 |  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 |  🤑 | [Requestly](https://requestly.io/) | Test & Debug Web and Mobile Applications. Intercept & Modify HTTPs Requests - Redirect URL, Modify Headers, Mock APIs, Modify Response, Insert Scripts | Free for 1 year, automatically applied |
 |  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
-|  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -309,7 +307,7 @@ Don't forget to:
 | 💰 | [StreamLadder](https://streamladder.com) | Easily convert your Twitch Clips to TikTok, Reels & YouTube Shorts with StreamLadder ✔ Free ✔ Easy to use ✔ No watermark. | **30% OFF** first year. automatically applied |
 | 🤑 | [Kleptofinder](https://kleptofinder.com/pricing) | Have you ever had a plan to protect the visual content used in your Instagram account or website? Kleptofinder provides a detailed report on which platform and website have used your content and even selects the mentioned website to investigate how they have used your digital property. | **50% OFF** on Lifetime Ultra Security Plan use **BFDEAL50** at checkout |
 | 🤑 | [Breeze](https://onbreeze.app) | Post your Tweets, threads or LinkedIn posts directly from Notion. Keep writing your content in Notion and schedule it directly from there. | Terms: 50% OFF on Annual Plans - Coupon code: BREEZEFRIDAY |
-
+| 🤑 | [Twidd](https://xyassini.gumroad.com/l/twidd/BLCKFRDY2022) | Browser Extension to create Twitter DM templates and use them without effort directly in Twitter | Terms: 50% OFF (Lifetime Deal) - Coupon code: BLCKFRDY2022 |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💸 Finance Tools
@@ -456,10 +454,6 @@ Don't forget to:
 | 🤑 | [Build a SAAS App with Flask](https://buildasaasappwithflask.com/) | Learn to build web apps with Flask and Docker. | 50% OFF |
 | 🤑 | [Dive into Docker](https://diveintodocker.com/) | The complete Docker course for developers. | 50% OFF |
 | 🤑 | [Three.js Journey](https://threejs-journey.com/) | The Best Way to Learn Three.js | 50% OFF with code **2022BLACKFRIDAY** |
-|  🤑 | [Mastering Nuxt](https://masteringnuxt.com/) | Learn Nuxt 3 in a comprehensive and Hands on course. Build a production-ready online course platform with a database and a blazing fast landing page. | UP TO 60% OFF |
-|  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
-
-
 
 [⬆️ Go to Top](#table-of-contents)
 
