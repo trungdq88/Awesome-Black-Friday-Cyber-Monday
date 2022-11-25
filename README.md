@@ -305,7 +305,7 @@ Don't forget to:
 | 💰 | [Page2API](https://www.page2api.com/) | A delightful and versatile API that empowers you to scrape the web like a PRO. | 20% OFF for your first month with code **BF2022** |
 | 🤑 | [UBER ADDRESS](https://uberaddress.io) | Easy to use, typo tolerant and fast address autocomplete API. | 50% OFF for 6 months with code **BLACKFRIDAY22** |
 | 💰 | [PushAlert - Web Push Notifications](https://pushalert.co) | Boost sales and increase enagagment with Web Push Notifications. Send real-time notifications to your website visitors on both desktop and mobiles devices without an app. | **30% OFF** on All Annual Plans |
-
+| 🤑 | [3veta](https://3veta.com/) | Modern meeting experience for remote teams designed by a remote team | 30% OFF with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
