@@ -126,6 +126,7 @@ Don't forget to:
 | 💰 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF |
 | 🤑 | [AdGuard](https://adguard.com/) | Stand alone ad blocker for desktop and mobile | 50% OFF, automatically applied |
 | 💰 | [Beyond Compare](https://www.scootersoftware.com/shop.php?zz=shop_promo) | Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not. Merge changes, synchronize files, and generate reports. | 30% OFF, start from linked promo page and follow instrunctions. On Cyber Monday only! |
+| 🤑 | [Little Snitch](hhttps://obdev.at/products/littlesnitch/index.html) | Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. | 50% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
