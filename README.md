@@ -373,6 +373,8 @@ Don't forget to:
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
+|  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
