@@ -525,6 +525,7 @@ Don't forget to:
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER)| A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2017-2022 | 20% Off Using code 'SAVER' until 30th Nov ($8)
 |  💵 | [BusKill](https://buskill.in) | BusKill is an open-source hardware and software project that designs computer kill cords to protect the confidentiality of the system's data from physical theft | 10% OFF all orders paid with cryptocurrencies |
 | 🤑 | [McClockface](https://apps.apple.com/app/mcclockface/id1544343485) | Beautiful clock widgets for iOS and iPadOS. | 60% off regular price, one-time lifetime purchase. |
+| 💰 | [Weathergraph weather widget]([https://apps.apple.com/app/mcclockface/id1544343485](https://apps.apple.com/app/apple-store/id1501958576?pt=1920589) | Visual hour-by-hour weather forecast app with widgets and watch complications, made for and by outdoor people. | 30% off for a first year. |
 
 
 [⬆️ Go to Top](#table-of-contents)
