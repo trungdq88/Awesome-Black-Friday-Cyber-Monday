@@ -367,7 +367,10 @@ Don't forget to:
 | 💰 | [The DynamoDB Book - Premium Package](https://alexdebrie.gumroad.com/l/WPLqz/dynamodb2022) | The comprehensive guide to data modeling with DynamoDB. | Use the code "DYNAMODB2022" to get: $20 off Basic ($59); $40 off Plus ($89); $80 off Premium ($169); 35% off Team Licenses 🎉 |
 | 🤑 | [Exploring MusicKit and Apple Music API](https://rudrank.gumroad.com/l/musickit/black-friday) | The only resource you need for integrating Apple Music into your app. | 50% off until Nov 30 |
 | 🤑 | [Laravel Secrets](https://laravelsecrets.com/?ref=bf2022) | Learn everything about the undocumented secrets in the popular Laravel framework, that makes you a better and more efficient developer. | Get it now for 7 EUR instead of 39 EUR. |
+| 💰 | [React - The Road To Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications. | 40% OFF with code **BLACKFRIDAY**
+| 💰 | [Vue - The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a Vue pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of Vue 2 & 3 applications. | 40% OFF with code **BLACKFRIDAY** |
 
+See Book Reviews | 40% OFF with code **BLACKFRIDAY**
 
 
 [⬆️ Go to Top](#table-of-contents)
