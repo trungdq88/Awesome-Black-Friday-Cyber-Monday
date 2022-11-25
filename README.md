@@ -17,33 +17,40 @@ Don't forget to:
 - 👉 ...bookmark this page to come back here next year 2023! 📆🤩
 - 👉 ...[follow me on Twitter](https://twitter.com/tdinh_me) 😉
 
+## Meet our sponsors
+
+| [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Xnapper](https://xnapper.com) (macOS app) <br/> 🔥 50% OFF | [BlackMagic.so](https://blackmagic.so) (Twitter SaaS) <br/> 🔥 50% OFF |
+| --- | ------ | ------|
+| <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://xnapper.com"><img src="https://xnapper.com/assets/poster.png"></a> | <a href="https://blackmagic.so"><img src="https://blackmagic.so/poster.png"></a> |
+| All-in-one toolbox for developers. <br/><br/>🟢 42+ carefully crafted developer tools. <br/>🟢 Native macOS app, fast & beautiful. <br/>🟢 Work offline, and respect your data. <br/>🟢 Fully supports Apple Silicon & macOS Ventura. | Take beautiful screenshot easy and fast for social media.<br/><br/> 🟣 Beautiful screenshots in 2 seconds <br/>🟣 Auto balance screenshot <br/>🟣 Auto hide sensitive info <br/>🟣 Annotations |  Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience.<br/><br/>⚫ Powerful Analytics<br/>⚫ Twitter CRM<br/>⚫ Schedule Tweets<br/>⚫ Browser Extension |
+
 ## Table of Contents
 
-- [👨‍💻 Developer Tools (18)](#-developer-tools)
-- [🌅 Design Tools (19)](#-design-tools)
+- [👨‍💻 Developer Tools (21)](#-developer-tools)
+- [🌅 Design Tools (20)](#-design-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (14)](#️-productivity-desktop-apps)
+	- [🖥️ Productivity Desktop Apps (15)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (13)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
+	- [🛠️ Productivity Tools & Services (12)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (20)](#-marketing-tools)
-- [🔍 SEO Tools (4)](#-seo-tools)
-- [🤖 AI Writing Tools (9)](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools (30)](#-startup-saastools)
+- [🔍 SEO Tools (5)](#-seo-tools)
+- [🤖 AI Writing Tools (10)](#-ai-writing-tools)
+- [🚀 Startup SaaS/Tools (33)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
-- [💅 Boilerplates, Templates, Themes, Plugins (25)](#-boilerplates-templates-themes-plugins)
+- [💅 Boilerplates, Templates, Themes, Plugins (29)](#-boilerplates-templates-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (10)](#-programming-books)
+	- [📗 Programming Books (13)](#-programming-books)
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (34)](#-programming-courses)
+	- [💻 Programming Courses (41)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (10)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (11)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -68,6 +75,10 @@ Don't forget to:
 |  🤑 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator. | 60% OFF, automatically applied |
 |  🤑 | [Requestly](https://requestly.io/) | Test & Debug Web and Mobile Applications. Intercept & Modify HTTPs Requests - Redirect URL, Modify Headers, Mock APIs, Modify Response, Insert Scripts | Free for 1 year, automatically applied |
 |  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
+|  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
+|  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
+
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -95,7 +106,7 @@ Don't forget to:
 | 🤑 | [Baseline](https://baseline.is/pricing/) | The swiss army knife of branding. Create a brand guide in a couple of minutes and then Baseline will automatically create on-brand designs for you | 50% OFF all plans with code BLACKFRIDAY22 |
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
 | 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
-
+| 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -145,6 +156,7 @@ Don't forget to:
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
 | 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
 | 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
+| 🤑 | [Wins](https://wins.cool/html/index.html) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2022**|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -183,6 +195,7 @@ Don't forget to:
 | 🤑 | [Meet Enhancement Suite](https://meetenhancementsuite.com/) | Meet better with the best Google Meet extension | 50% off any yearly plan forever with code **CRAZY_DEAL** |
 | 🤑 | [RogerRoger](https://rogerroger.io) | RogerRoger turns your email into organized tasks. Collaborate with your team in workspaces with configurable kanban boards. | 50% OFF Forever on Plus with code **CyberRoger2022** |
 | 💰 | [1st things 1st](https://www.1st-things-1st.com/?ref=awesome-black-friday) | A web app that helps you set priorities in your life and work. | 30% OFF with code **BLACKFRIDAY2022** |
+| 💰 | [Markboard](https://www.markboard.dev) | Keyboard-centric, markdown-based virtual "whiteboard" for geeks, with mermaid diagramming and syntax highlighting. | 25% OFF with **BLACKFRIDAY2022** code on live collaboration licenses. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -223,6 +236,8 @@ Don't forget to:
 |  💰 | [Typemat](https://typemat.com) | Programmatic SEO tool for WordPress. Rank higher on Google!. | **30% OFF for life**, Use the code: Black2022 |
 |  💰 | [BacklinkManager](https://backlinkmanager.io) | BacklinkManager is a link-building CRM for SaaS and marketing agencies. Streamline your efforts, find new link-building opportunities, get your links monitored and more. | **50% OFF on all plans** with code **bf2022** |
 |  💰 | [Keyword Insights](https://www.keywordinsights.ai/blog/black-friday/) | Accelerate your content marketing with Data & AI. Generate thousands of keyword ideas, group them into topical clusters and create incredibly detailed content briefs effortlessly. | **25% discount on all credit top-ups** between 24th - 27th November (automatically applied)
+|  💰 | [AMZWatcher](https://www.amzwatcher.com/) | AMZ Watcher helps Amazon Affiliates find and fix links to broken, unavailable and 404 products. | **30% OFF lifetime discount** Code: BLACKFRIDAY22
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -240,6 +255,7 @@ Don't forget to:
 | 💰 | [EndType](https://endtype.com) | Google Sheet Add On which uses AI to write, find and organize your data. | **30% OFF for life**, Use the code: Black2022 |
 |  🤑 | [Typli](https://typli.ai/#pricing) | Typli.ai is an AI writer and SEO assistant that lets you generate original, high-ranking copy wherever you work. Using AI technology, you’ll be able to produce original, long-form content that can be edited to perfection. | **50% OFF**, Use the code: BFDEAL50 |
 |  🤑 | [Punchline.ai](https://punchline.ai) | Awesome creative copy for Startup founders powered by AI. | **20% OFF**, Use the code: **BLACKFRIDAY22** |
+|  💵 | [Neuralfinity Magic-Summary](https://neuralfinity.com) | Easy to use text summary API with no limitation on input length, using a custom language model | **15% OFF for PRO Plan**, Mention code **PRO15** during the onboarding call |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -280,7 +296,7 @@ Don't forget to:
 | 💰 | [Formaloo](https://www.formaloo.com/en/) | No-code platform. Build beautiful forms, access-controlled databases, and highly customizable business apps without any code.  | **30% OFF** for annual payments on all plans. Sign up for free and upgrade with the Black Friday offer on Annual plans. |
 |  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
 | 💰 | [UpMeet](https://upmeet.me) | Branded meetings on your website and supported integrations | 40% OFF with code **BLACKFRIDAY** forever |
-
+| 💵 | [ScreenshotOne](https://screenshotone.com/) | Take stunning site screenshots via API. Render websites and HTML as images. Block cookie banners and ads. The API uses the latest Google Chrome for rendering and Google Cloud Platform for performance and scalability. | 15% OFF with code **BLACKFRIDAY2022** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -354,8 +370,7 @@ Don't forget to:
 |  💵 | [Filament Media Library Pro](https://filamentphp.com/plugins/media-library-pro) | Give your users a beautiful way to upload, manage and select media and images in Filament Admin. Integrates with Spatie MediaLibrary. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
-
-
+|  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -375,8 +390,9 @@ Don't forget to:
 | 💰 | [The DynamoDB Book - Premium Package](https://alexdebrie.gumroad.com/l/WPLqz/dynamodb2022) | The comprehensive guide to data modeling with DynamoDB. | Use the code "DYNAMODB2022" to get: $20 off Basic ($59); $40 off Plus ($89); $80 off Premium ($169); 35% off Team Licenses 🎉 |
 | 🤑 | [Exploring MusicKit and Apple Music API](https://rudrank.gumroad.com/l/musickit/black-friday) | The only resource you need for integrating Apple Music into your app. | 50% off until Nov 30 |
 | 🤑 | [Laravel Secrets](https://laravelsecrets.com/?ref=bf2022) | Learn everything about the undocumented secrets in the popular Laravel framework, that makes you a better and more efficient developer. | Get it now for 7 EUR instead of 39 EUR. |
-
-
+| 💰 | [React - The Road To Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications. | 40% OFF with code **BLACKFRIDAY**
+| 💰 | [Vue - The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a Vue pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of Vue 2 & 3 applications. | 40% OFF with code **BLACKFRIDAY** |
+| 🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BlackFriday22) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% OFF with code **BLACKFRIDAY22** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -454,6 +470,12 @@ Don't forget to:
 | 🤑 | [Build a SAAS App with Flask](https://buildasaasappwithflask.com/) | Learn to build web apps with Flask and Docker. | 50% OFF |
 | 🤑 | [Dive into Docker](https://diveintodocker.com/) | The complete Docker course for developers. | 50% OFF |
 | 🤑 | [Three.js Journey](https://threejs-journey.com/) | The Best Way to Learn Three.js | 50% OFF with code **2022BLACKFRIDAY** |
+|  🤑 | [Mastering Nuxt](https://masteringnuxt.com/) | Learn Nuxt 3 in a comprehensive and Hands on course. Build a production-ready online course platform with a database and a blazing fast landing page. | UP TO 60% OFF |
+|  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
+| 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
+| 🤑 | [Just Javascript](https://justjavascript.com/) | Discover and rebuild your JavaScript mental models | 50% OFF auto applied |
+
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -504,6 +526,7 @@ Don't forget to:
 |  💰 | [Remote Leaf](https://remoteleaf.com) | Remote Leaf is the personized remote job board for tech professionals. We hand-pick remote jobs from 100+ sources and send you the jobs that fits for you based on your skills and location. | 50% OFF, on Lifetime Plan - Use code: BLACKFRIDAY |
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER)| A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2017-2022 | 20% Off Using code 'SAVER' until 30th Nov ($8)
 |  💵 | [BusKill](https://buskill.in) | BusKill is an open-source hardware and software project that designs computer kill cords to protect the confidentiality of the system's data from physical theft | 10% OFF all orders paid with cryptocurrencies |
+| 🤑 | [McClockface](https://apps.apple.com/app/mcclockface/id1544343485) | Beautiful clock widgets for iOS and iPadOS. | 60% off regular price, one-time lifetime purchase. |
 
 
 [⬆️ Go to Top](#table-of-contents)
