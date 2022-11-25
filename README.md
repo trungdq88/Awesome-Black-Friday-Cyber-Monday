@@ -26,8 +26,6 @@ Don't forget to:
 
 ## Table of Contents
 
-- [Meet our sponsors (2)](#meet-our-sponsors)
-- [Table of Contents ](#table-of-contents)
 - [👨‍💻 Developer Tools (21)](#-developer-tools)
 - [🌅 Design Tools (20)](#-design-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
