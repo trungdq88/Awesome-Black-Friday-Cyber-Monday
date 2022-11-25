@@ -193,6 +193,7 @@ Don't forget to:
 | 🤑 | [Meet Enhancement Suite](https://meetenhancementsuite.com/) | Meet better with the best Google Meet extension | 50% off any yearly plan forever with code **CRAZY_DEAL** |
 | 🤑 | [RogerRoger](https://rogerroger.io) | RogerRoger turns your email into organized tasks. Collaborate with your team in workspaces with configurable kanban boards. | 50% OFF Forever on Plus with code **CyberRoger2022** |
 | 💰 | [1st things 1st](https://www.1st-things-1st.com/?ref=awesome-black-friday) | A web app that helps you set priorities in your life and work. | 30% OFF with code **BLACKFRIDAY2022** |
+| 💰 | [Markboard](https://www.markboard.dev) | Keyboard-centric, markdown-based virtual "whiteboard" for geeks, with mermaid diagramming and syntax highlighting. | 25% OFF with **BLACKFRIDAY2022** code on live collaboration licenses. |
 
 
 [⬆️ Go to Top](#table-of-contents)
