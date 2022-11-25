@@ -46,7 +46,7 @@ Don't forget to:
 	- [📘 Startup & Career Books (13)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (34)](#-programming-courses)
+	- [💻 Programming Courses (35)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
@@ -469,7 +469,7 @@ Don't forget to:
 | 🤑 | [Three.js Journey](https://threejs-journey.com/) | The Best Way to Learn Three.js | 50% OFF with code **2022BLACKFRIDAY** |
 |  🤑 | [Mastering Nuxt](https://masteringnuxt.com/) | Learn Nuxt 3 in a comprehensive and Hands on course. Build a production-ready online course platform with a database and a blazing fast landing page. | UP TO 60% OFF |
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
-
+| 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
 
 
 [⬆️ Go to Top](#table-of-contents)
