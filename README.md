@@ -296,6 +296,7 @@ Don't forget to:
 |  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
 | 💰 | [UpMeet](https://upmeet.me) | Branded meetings on your website and supported integrations | 40% OFF with code **BLACKFRIDAY** forever |
 | 💵 | [ScreenshotOne](https://screenshotone.com/) | Take stunning site screenshots via API. Render websites and HTML as images. Block cookie banners and ads. The API uses the latest Google Chrome for rendering and Google Cloud Platform for performance and scalability. | 15% OFF with code **BLACKFRIDAY2022** |
+| 💵 | [PushAlert - Web Push Notifications](https://pushalert.co) | Boost sales and increase enagagment with Web Push Notifications. Send real-time notifications to your website visitors on both desktop and mobiles devices without an app. | **30% OFF** on All Annual Plans |
 
 
 [⬆️ Go to Top](#table-of-contents)
