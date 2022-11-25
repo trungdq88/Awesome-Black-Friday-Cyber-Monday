@@ -79,6 +79,7 @@ Don't forget to:
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
 
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -106,6 +107,7 @@ Don't forget to:
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
 | 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
 | 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
+| 🤑 | [Purple Photo](https://purple-photo.web.app/) | Create beautiful posts and screenshots with ZERO designing skills. Top features include handpicked gradient, unsplash images, device mockup, code editor, stickers etc. | 50% OFF on the Lifetime deal with the discount code **blackfriday** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -124,6 +126,7 @@ Don't forget to:
 | 💰 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF |
 | 🤑 | [AdGuard](https://adguard.com/) | Stand alone ad blocker for desktop and mobile | 50% OFF, automatically applied |
 | 💰 | [Beyond Compare](https://www.scootersoftware.com/shop.php?zz=shop_promo) | Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not. Merge changes, synchronize files, and generate reports. | 30% OFF, start from linked promo page and follow instrunctions. On Cyber Monday only! |
+| 🤑 | [Little Snitch](hhttps://obdev.at/products/littlesnitch/index.html) | Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. | 50% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -156,7 +159,9 @@ Don't forget to:
 | 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
 | 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
 | 🤑 | [Wins](https://wins.cool/html/index.html) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2022**|
+| 🤑 | [LaunchBar](https://www.obdev.at/products/launchbar/order.html) | LaunchBar is a smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your Music Library, to search engines and more.  | 50% OFF (automatic)|
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -296,6 +301,7 @@ Don't forget to:
 |  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code **AWESOME_BLACKFRIDAY** ends Nov. 29th |
 | 💰 | [UpMeet](https://upmeet.me) | Branded meetings on your website and supported integrations | 40% OFF with code **BLACKFRIDAY** forever |
 | 💵 | [ScreenshotOne](https://screenshotone.com/) | Take stunning site screenshots via API. Render websites and HTML as images. Block cookie banners and ads. The API uses the latest Google Chrome for rendering and Google Cloud Platform for performance and scalability. | 15% OFF with code **BLACKFRIDAY2022** |
+| 💰 | [Page2API](https://www.page2api.com/) | A delightful and versatile API that empowers you to scrape the web like a PRO. | 20% OFF for your first month with code **BF2022** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -322,7 +328,7 @@ Don't forget to:
 | 💰 | [StreamLadder](https://streamladder.com) | Easily convert your Twitch Clips to TikTok, Reels & YouTube Shorts with StreamLadder ✔ Free ✔ Easy to use ✔ No watermark. | **30% OFF** first year. automatically applied |
 | 🤑 | [Kleptofinder](https://kleptofinder.com/pricing) | Have you ever had a plan to protect the visual content used in your Instagram account or website? Kleptofinder provides a detailed report on which platform and website have used your content and even selects the mentioned website to investigate how they have used your digital property. | **50% OFF** on Lifetime Ultra Security Plan use **BFDEAL50** at checkout |
 | 🤑 | [Breeze](https://onbreeze.app) | Post your Tweets, threads or LinkedIn posts directly from Notion. Keep writing your content in Notion and schedule it directly from there. | Terms: 50% OFF on Annual Plans - Coupon code: BREEZEFRIDAY |
-
+| 🤑 | [Twidd](https://xyassini.gumroad.com/l/twidd/BLCKFRDY2022) | Browser Extension to create Twitter DM templates and use them without effort directly in Twitter | Terms: 50% OFF (Lifetime Deal) - Coupon code: BLCKFRDY2022 |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💸 Finance Tools
@@ -334,6 +340,7 @@ Don't forget to:
 |  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
 | 🤑 | [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/blackfriday50) | Business balance sheet-like spreadsheet to manage your networth over time. | **BLACKFRIDAY50** for 50% off |
 | 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
+| 💰 | [DeltaRay MesoSim](https://blog.deltaray.io/black-friday-deal) | Advanced Options Backtesting service | 20% one time OFF for new annual subscriptions |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -370,6 +377,9 @@ Don't forget to:
 |  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
+|  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
+|  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -412,6 +422,7 @@ Don't forget to:
 | 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills | FLAT 80% OFF and PPP |
 | 🤑 | [Make VS Code Awesome](https://makevscodeawesome.com/#buy) | Make VS Code awesome, then teach you how to be insanely productive in it. | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [Pricing Freelance Projects](https://tom-hirst.gumroad.com/l/pcUlz/BF2022) | If you want to know what to charge for your work, which pricing methods work best and how to get paid what you're worth, then Pricing Freelance Projects is for you | $19.50 (usually $39) with BF2022
+| 💰 | [Remote Work & Internships for Developers, Designers and Technical Writers](https://mbaziiraronald.gumroad.com/l/lamzm) | This Ebook contains **100+** platforms and websites where Developers, Designers and Technical Writers can find remote work. Find your remote job easier and faster with this Ebook! | **BLACKFRIDAY40** for 40% off
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -475,6 +486,7 @@ Don't forget to:
 | 🤑 | [Just Javascript](https://justjavascript.com/) | Discover and rebuild your JavaScript mental models | 50% OFF auto applied |
 
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 ### 🎢 Career Courses
@@ -525,6 +537,7 @@ Don't forget to:
 | 💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER)| A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2017-2022 | 20% Off Using code 'SAVER' until 30th Nov ($8)
 |  💵 | [BusKill](https://buskill.in) | BusKill is an open-source hardware and software project that designs computer kill cords to protect the confidentiality of the system's data from physical theft | 10% OFF all orders paid with cryptocurrencies |
 | 🤑 | [McClockface](https://apps.apple.com/app/mcclockface/id1544343485) | Beautiful clock widgets for iOS and iPadOS. | 60% off regular price, one-time lifetime purchase. |
+| 🤑 | [FilmNoir: Movie & TV Show Tracker](https://apps.apple.com/app/apple-store/id1528417240?pt=122011495&ct=blackfriday2022&mt=8) | Discover films and TV shows. Track your full watched history. Find out where to watch. | 50% off the one-time lifetime purchase. Up to 40% off the first year with the code **[BLACKFRIDAY2022](https://apps.apple.com/redeem?ctx=offercodes&id=1528417240&code=BLACKFRIDAY2022)** |
 
 
 [⬆️ Go to Top](#table-of-contents)
