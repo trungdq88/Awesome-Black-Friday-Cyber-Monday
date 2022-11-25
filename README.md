@@ -355,6 +355,7 @@ Don't forget to:
 | 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
 | 💰 | [DeltaRay MesoSim](https://blog.deltaray.io/black-friday-deal) | Advanced Options Backtesting service | 20% one time OFF for new annual subscriptions |
 | 🤑 | [Cashculator](https://cashculator.app) | Personal finance Mac app, focus on planning, tracking, and "what-if" | 50% OFF |
+| 🤑 | [Financial Runway Calculator](https://byhazellim.gumroad.com/l/runway) | A 20-min financial calculator that helps you work out how much money you need to fund your lifestyle and startup idea while you build. | 50% OFF with code BF2022|
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -395,6 +396,7 @@ Don't forget to:
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
 |  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
 |  💰 | [P42 JS Assistant](https://p42.ai/?utm_medium=referral&utm_campaign=awesome_blackfriday&utm_source=github) | Upgrade your Visual Studio Code JavaScript tooling with with automated code actions, refactoring suggestions, and more. | 20% OFF for 1 year of P42 Basic (annual subscription) with code **BLACKFRIDAY22** |
+| 🤑 | [Financial Runway Calculator](https://byhazellim.gumroad.com/l/runway) | A 20-min financial calculator that helps you work out how much money you need to fund your lifestyle and startup idea while you build. | 50% OFF with code BF2022|
 
 [⬆️ Go to Top](#table-of-contents)
 
