@@ -412,6 +412,7 @@ Don't forget to:
 | 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills | FLAT 80% OFF and PPP |
 | 🤑 | [Make VS Code Awesome](https://makevscodeawesome.com/#buy) | Make VS Code awesome, then teach you how to be insanely productive in it. | **BLACKFRIDAY50** for 50% off |
 | 🤑 | [Pricing Freelance Projects](https://tom-hirst.gumroad.com/l/pcUlz/BF2022) | If you want to know what to charge for your work, which pricing methods work best and how to get paid what you're worth, then Pricing Freelance Projects is for you | $19.50 (usually $39) with BF2022
+| 💰 | [Remote Work & Internships for Developers, Designers and Technical Writers](https://mbaziiraronald.gumroad.com/l/lamzm) | This Ebook contains **100+** platforms and websites where Developers, Designers and Technical Writers can find remote work. Find your remote job easier and faster with this Ebook! | **BLACKFRIDAY40** for 40% off
 
 [⬆️ Go to Top](#table-of-contents)
 
