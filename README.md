@@ -49,7 +49,7 @@ Don't forget to:
 	- [💻 Programming Courses (43)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
-- [💪 Health and Fitness (3)](#-health-and-fitness)
+- [💪 Health and Fitness (5)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (11)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
@@ -537,6 +537,7 @@ Don't forget to:
 |  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
 |  🤑 | [Bolt – workout planner](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | **Bolt is the ultimate weightlifting companion. Log workouts, lift more, get stronger.** | 🌟 50% off annual plan. Access from the Discover tab in-app. |
 |  🤑 | [Push-ups Counter](https://pushups.cc) | An app that helps you record push-ups more easily. | 50% OFF with [BLACKFRIDAY code](https://apps.apple.com/redeem?ctx=offercodes&id=1488091840&code=BLACKFRIDAY) |
+|  💰 | [Fitbod](https://app.fitbod.me/?code=BLACKFRIDAY2022) | **Workouts that improve as you do.** By studying your strength & training ability, past workouts and gym setup, Fitbod creates workouts tailored to you. | 40% OFF for the yearly plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
