@@ -144,6 +144,7 @@ Don't forget to:
 | 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. SideNotes is your silent helper in moments of focus. | 40% OFF |
 | 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
 | 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
+| 🤑 | [Wins](https://wins.cool/html/index.html) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2022**|
 
 
 [⬆️ Go to Top](#table-of-contents)
