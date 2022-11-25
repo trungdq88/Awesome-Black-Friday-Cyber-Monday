@@ -507,6 +507,7 @@ Don't forget to:
 |  🤑 | [Debug Your Meditation](https://christinchong.gumroad.com/l/debug/TONY) | **_Debug Your Meditation_**: Transform Your Practice from a Chore to 'I Want More!' | 50% OFF with code **TONY** |
 |  🤑 | [Headspace](https://www.headspace.com/black-friday) | One of the world's most popular meditation app. | 50% OFF the 1st year |
 |  🤑 | [Bolt – workout planner](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | **Bolt is the ultimate weightlifting companion. Log workouts, lift more, get stronger.** | 🌟 50% off annual plan. Access from the Discover tab in-app. |
+|  🤑 | [Push-ups Counter](https://pushups.cc) | An app that helps you record push-ups more easily. | 50% OFF with [BLACKFRIDAY code](https://apps.apple.com/redeem?ctx=offercodes&id=1488091840&code=BLACKFRIDAY) |
 
 [⬆️ Go to Top](#table-of-contents)
 
