@@ -76,6 +76,7 @@ Don't forget to:
 |  🤑 | [Requestly](https://requestly.io/) | Test & Debug Web and Mobile Applications. Intercept & Modify HTTPs Requests - Redirect URL, Modify Headers, Mock APIs, Modify Response, Insert Scripts | Free for 1 year, automatically applied |
 |  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
 |  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
+|  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
 
 
 [⬆️ Go to Top](#table-of-contents)
