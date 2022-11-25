@@ -156,6 +156,7 @@ Don't forget to:
 | 🤑 | [Bookmarks Lite](https://apps.apple.com/us/app/bookmarks-lite/id1614129680) | The best universal URL manager app. | 75% OFF till the end of November |
 | 💰 | [DisplayBuddy](https://displaybuddy.app) | Control the brightness of external displays directly from your Mac | 33% OFF with code **BLACKFRIDAY** |
 | 🤑 | [Wins](https://wins.cool/html/index.html) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2022**|
+| 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used files, at your fingers tips | 50% OFF, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -334,7 +335,7 @@ Don't forget to:
 |  🤑 | [Ghostfolio - Personal Finance Dashboard](https://ghostfol.io) | Privacy-first Open Source Dashboard for your Personal Finances. | 75% OFF on the Ghostfolio Premium annual plan |
 | 🤑 | [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/blackfriday50) | Business balance sheet-like spreadsheet to manage your networth over time. | **BLACKFRIDAY50** for 50% off |
 | 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
-
+| 🤑 | [Cashculator](https://cashculator.app) | Personal finance Mac app, focus on planning, tracking, and "what-if" | 50% OFF |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💅 Boilerplates, Templates, Themes, Plugins
