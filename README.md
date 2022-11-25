@@ -370,7 +370,7 @@ Don't forget to:
 |  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
-
+|  💰 | [P42 JS Assistant](https://p42.ai/?utm_medium=referral&utm_campaign=awesome_blackfriday&utm_source=github) | Upgrade your Visual Studio Code JavaScript tooling with with automated code actions, refactoring suggestions, and more. | 20% OFF for 1 year of P42 Basic (annual subscription) with code **BLACKFRIDAY22** |
 
 [⬆️ Go to Top](#table-of-contents)
 
