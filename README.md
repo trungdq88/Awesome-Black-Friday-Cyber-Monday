@@ -456,6 +456,8 @@ Don't forget to:
 | 🤑 | [Build a SAAS App with Flask](https://buildasaasappwithflask.com/) | Learn to build web apps with Flask and Docker. | 50% OFF |
 | 🤑 | [Dive into Docker](https://diveintodocker.com/) | The complete Docker course for developers. | 50% OFF |
 | 🤑 | [Three.js Journey](https://threejs-journey.com/) | The Best Way to Learn Three.js | 50% OFF with code **2022BLACKFRIDAY** |
+|  🤑 | [Mastering Nuxt](https://masteringnuxt.com/) | Learn Nuxt 3 in a comprehensive and Hands on course. Build a production-ready online course platform with a database and a blazing fast landing page. | UP TO 60% OFF |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
