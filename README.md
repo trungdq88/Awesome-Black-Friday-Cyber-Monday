@@ -77,7 +77,7 @@ Don't forget to:
 |  🤑 | [CloudPouch](https://cloudpouch.dev/) | Control and optimize your AWS billing with an intuitive desktop application. | 50% OFF with code **BLACK_FRIDAY_2022** |
 |  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
-| 🤑 | [ApyHub](https://apyhub.com) | Powerful yet simple-to-use APIs that provide standard data & essential functionalities, helping developers save time and boost efficiency. | 500000 Extra Atoms with **APYFRIDAY** |
+| 🤑 | [ApyHub](https://apyhub.com) | Powerful APIs for standard data and other essential functionalities for any application. | Up to 500,000 additional API requests with **APYFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
