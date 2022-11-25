@@ -164,6 +164,7 @@ Don't forget to:
 | 🤑 | [Wins](https://wins.cool/html/index.html) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2022**|
 | 🤑 | [LaunchBar](https://www.obdev.at/products/launchbar/order.html) | LaunchBar is a smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your Music Library, to search engines and more.  | 50% OFF (automatic)|
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
+| 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used files, at your fingers tips | 50% OFF, automatically applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -352,6 +353,8 @@ Don't forget to:
 | 🤑 | [Know Your Numbers: Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/blackfriday50) | Business balance sheet-like spreadsheet to manage your networth over time. | **BLACKFRIDAY50** for 50% off |
 | 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
 | 💰 | [DeltaRay MesoSim](https://blog.deltaray.io/black-friday-deal) | Advanced Options Backtesting service | 20% one time OFF for new annual subscriptions |
+| 🤑 | [Cashculator](https://cashculator.app) | Personal finance Mac app, focus on planning, tracking, and "what-if" | 50% OFF |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
