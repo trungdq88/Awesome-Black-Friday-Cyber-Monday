@@ -106,7 +106,6 @@ Don't forget to:
 | 🤑 | [TinyDesign.io](https://tinydesign.io) | User centered design & development for Startups | **20% OFF** on all plans. Use the code **BLACKFRIDAY22**  |
 | 💰 | [SMBImg](https://smbimg.com) | A web application that allows you to create customizable screenshots for Twitter, App Store, Facebook, etc. You can beautify a background, create a watermark, export output, save presets and automatically apply the last customizations. You can also convert images instantly and easily in all major image formats. | 50% OFF with code **SMBIMG_BLACKFRIDAY** on annual plans for the first year |
 | 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
-| 💰 | [Pagecloud](https://pagecloud.com/black-friday?utm_campaign=awesome_black_friday) | Pagecloud is a website builder that allows users to create custom websites without code! Our platform is best for small businesses, entrepreneurs, and creators. You can design, build, publish, host, and manage your website all in one place. | Get 40% off your first payment of any plan with code **BLACKFRIDAY-40** |
 
 [⬆️ Go to Top](#table-of-contents)
 
