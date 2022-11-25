@@ -263,6 +263,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  💰 | [ONDUIS Analytics](https://onduis.com) | Onduis Analytics is a privacy-focused, web analytics software solution. It provides detailed web traffic reports, such as real-time visitors, Overview, Acquisitions, Behavior, Geographic, Technology and Events. | 70% OFF with code **XONDPRY70** |
 |  💰 | [Static.app](https://static.app/) | Static.app is the easiest way to host a static HTML website online. Drag-and-drop an archive with your page or an entire website and we will take care of the rest. Everything is included: SSL certificate, code editor, forms and media storage all in one place. | 30% OFF with code **BLACK22** |
 |  💰 | [Pulsetic](https://pulsetic.com/) | Get notified by phone calls, SMS, email, Telegram, or Slack when a website goes down. Enhance your company's transparency in the eyes of your customers by creating appealing status pages, badges, and issue management reports. | 30% OFF with code **BLACK22** |
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a fully professional help center or documentation page. HelpKit helps you deliver instant help to your customers – without ever leaving Notion. It has built-in analytics, an embeddable widget, full text search, customizable themes and much more. | 40% off on all plans for the first year with code **BLACKFRIDAY_2022** |
