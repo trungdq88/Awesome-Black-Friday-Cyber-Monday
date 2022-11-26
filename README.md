@@ -78,7 +78,8 @@ Don't forget to:
 |  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
 |  🤑 | [SQLPro Studio](https://sqlprostudio.com/) | A simple, powerful database manager for macOS, iOS and Windows. Supports SQL Server, MySQL, PostgreSQL and SQLite | 50% off with **BFHALFOFF**. Ends Nov. 30th |
-
+|  🤑 | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud | 50% off on App Store. Ends Nov. 29th |
+|  🤑 | [RegExp](https://apps.apple.com/us/app/regexp/id1546140065?mt=12) | Regular Expressions editor (Go, Swift, JavaScript flavours) | Pro is 67% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -166,7 +167,8 @@ Don't forget to:
 | 🤑 | [LaunchBar](https://www.obdev.at/products/launchbar/order.html) | LaunchBar is a smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your Music Library, to search engines and more.  | 50% OFF (automatic)|
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used files, at your fingers tips | 50% OFF, automatically applied |
-
+| 🤑 | [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) - Advanced link and file handler for macOS (Ventura). | 50% off on App Store |
+| 🤑 | [OpenIn 3](https://apps.apple.com/us/app/openin/id1547147101) - Advanced link and file handler for macOS (Big Sur and Monterey+). | 50% off on App Store |
 
 [⬆️ Go to Top](#table-of-contents)
 
