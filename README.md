@@ -46,9 +46,10 @@ Don't forget to:
 	- [📘 Startup & Career Books (14)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (44)](#-programming-courses)
-	- [🎢 Career Courses (3)](#-career-courses)
+	- [💻 Programming Courses (45)](#-programming-courses)
+	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
+	- [🔒 Information Security Courses (5)](#-information-security-courses)
 - [💪 Health and Fitness (5)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (13)](#-miscellaneous)
 
@@ -78,6 +79,8 @@ Don't forget to:
 |  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
 |  🤑 | [SQLPro Studio](https://sqlprostudio.com/) | A simple, powerful database manager for macOS, iOS and Windows. Supports SQL Server, MySQL, PostgreSQL and SQLite | 50% off with **BFHALFOFF**. Ends Nov. 30th |
+|  🤑 | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud | 50% off on App Store. Ends Nov. 29th |
+|  🤑 | [RegExp](https://apps.apple.com/us/app/regexp/id1546140065?mt=12) | Regular Expressions editor (Go, Swift, JavaScript flavours) | Pro is 67% off |
 | 💰 | [FFmpeg.guide](https://ffmpeg.guide) | FFmpeg.guide is a GUI for creating FFmpeg filters and complex commands | 20% OFF with **BLACKFRIDAY20** ends Nov. 29th |
 
 
@@ -110,6 +113,7 @@ Don't forget to:
 | 💰 | [getimg.ai](https://getimg.ai) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code **BLACKFRIDAY20** |
 | 🤑 | [Purple Photo](https://purple-photo.web.app/) | Create beautiful posts and screenshots with ZERO designing skills. Top features include handpicked gradient, unsplash images, device mockup, code editor, stickers etc. | 50% OFF on the Lifetime deal with the discount code **blackfriday** |
 | 🤑 | [Rotato](https://rotato.app) | Beautiful, easy and fast design showcases with 3D mockups | **50% OFF** with code  **FRIDAY2022T**  |
+| 💰 | [ThreeDee](https://threedee.design/) | Level up your designs with lovely 3D libraries | **30% OFF** with code  **blackfriday20222**  |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -166,7 +170,8 @@ Don't forget to:
 | 🤑 | [LaunchBar](https://www.obdev.at/products/launchbar/order.html) | LaunchBar is a smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your Music Library, to search engines and more.  | 50% OFF (automatic)|
 |  💰 | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-webcam-viewer/id1360797896) | Secure IP camera viewer with support for standard streaming protocols for Mac | Standard version 25% off |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used files, at your fingers tips | 50% OFF, automatically applied |
-
+| 🤑 | [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) - Advanced link and file handler for macOS (Ventura). | 50% off on App Store |
+| 🤑 | [OpenIn 3](https://apps.apple.com/us/app/openin/id1547147101) - Advanced link and file handler for macOS (Big Sur and Monterey+). | 50% off on App Store |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -233,6 +238,7 @@ Don't forget to:
 |  💰 | [Spinal](https://spinalcms.com) | Spinal is a beautiful and minimal CMS for static site generators (Jekyll, Astro, 11ty, etc.). Designed for content marketing teams. | **50% OFF on yearly plan** and 10 pay once lifetime deals |
 |  🤑 | [Startup Buffer](https://startupbuffer.com/site/promote) | Startup Buffer is a startup directory for emerging startups. The deal includes homepage promotion on the directory, social media shoutouts, and email newsletter promotions.  | **75% OFF, automatically applied** |
 |  🤑 | [CampaignKit](https://campaignkit.cc) | CampaignKit is an email list cleaning tool to remove invalid and malicious emails. | **50% OFF on all credits** with code BLACKFRIDAY|
+|  🤑 | [CleverTap for Startups](https://clevertap.com/startup-pricing/?utm_source=gh-awesome-bfcm) | CleverTap is a full stack retention platform featuring omni-channel messaging, advanced segmentation, and realtime analytics. | **90% off**, $8/mo for 6 months with 30-day trial |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -315,6 +321,7 @@ Don't forget to:
 | 💰 | [Pagecloud](https://pagecloud.com/black-friday?utm_campaign=awesome_black_friday) | Pagecloud is a website builder that allows users to create custom websites without code! Our platform is best for small businesses, entrepreneurs, and creators. You can design, build, publish, host, and manage your website all in one place. | Get 40% off your first payment of any plan with code **BLACKFRIDAY-40** |
 | 🤑 | [ApyHub](https://apyhub.com) | Powerful APIs for standard data and other essential functionalities for any application. | Up to 500,000 additional API requests with **APYFRIDAY** |
 |  💰 | [sql2sheets](https://sql2sheets.com/) | sql2sheets is a no-code workflow automation tool. Connect your favorite apps and data sources. | 50% OFF for 3 months. Automatically applied on signup through Cyber Monday. |
+| 🤑 | [BountyPage](https://bountypage.com) | BountyPage enables you to launch and manage your own bug bounty program easily. | 50% OFF with code **BLACKFRIDAY2022** |
 
 
 
@@ -356,7 +363,7 @@ Don't forget to:
 | 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
 | 💰 | [DeltaRay MesoSim](https://blog.deltaray.io/black-friday-deal) | Advanced Options Backtesting service | 20% one time OFF for new annual subscriptions |
 | 🤑 | [Cashculator](https://cashculator.app) | Personal finance Mac app, focus on planning, tracking, and "what-if" | 50% OFF |
-
+| 💰 | [OptionVisualizer](https://www.optionvisualizer.com) | Advanced search engine for stock options | 30% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -368,7 +375,7 @@ Don't forget to:
 |  💰 | [Cruip](https://cruip.com?ref=tony) | Beautifully designed Tailwind CSS landing page templates | >50% OFF, automatically applied at the checkout 🔥 |
 |  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
 |  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
-|  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins |
+|  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins. 50% if you [RT this tweet](https://twitter.com/jasonleowsg/status/1595364033313398784) |
 |  🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The Django-powered SaaS boilerplate with built-in teams, billing, a modern front end, instant deployment and more | 50% OFF lifetime unlimited license auto applied all week |
 |  🤑 | [Nestajs](https://nestajs.com) | Starter kit for your next great SaaS application | 50% OFF with code **50OFF** |
 |  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
@@ -396,6 +403,7 @@ Don't forget to:
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
 |  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
 |  💰 | [P42 JS Assistant](https://p42.ai/?utm_medium=referral&utm_campaign=awesome_blackfriday&utm_source=github) | Upgrade your Visual Studio Code JavaScript tooling with with automated code actions, refactoring suggestions, and more. | 20% OFF for 1 year of P42 Basic (annual subscription) with code **BLACKFRIDAY22** |
+|  💰 | [Divjoy](https://divjoy.com) | Build landing pages and SaaS apps 10x faster with our React codebase generator. | 40% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -417,6 +425,9 @@ Don't forget to:
 | 💰 | [React - The Road To Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications. | 40% OFF with code **BLACKFRIDAY**
 | 💰 | [Vue - The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a Vue pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of Vue 2 & 3 applications. | 40% OFF with code **BLACKFRIDAY** |
 | 🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BlackFriday22) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% OFF with code **BLACKFRIDAY22** |
+| 💰 | [StackAbuse.com](https://stackabuse.com) | Get 38% off ($99 vs $159) for a yearly membership with access to all courses, including Deep Learning for Computer Vision. | 38% OFF, automatically applied |
+| 🤑 | [Beginner's Guide to Web Security](https://gokul.site/book) | Become a better developer by understanding the basics of Web Security and its mitigations. | 50% OFF with code **BLACKFRIDAY22** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -468,7 +479,7 @@ Don't forget to:
 |  🤑 | [Flutter App Monetization: The Complete Guide](https://courses.1manstartup.com/flutter-monetization-course?coupon=BLACKFRIDAY)| 50% off The complete guide to setting up ads, in-app purchases, and subscriptions in a flutter app. | 50% off use code BLACKFRIDAY |
 |  💰 | [Reuven Lerner](https://store.lerner.co.il) | All 35 Python, Git, and Pandas courses are 40% off | 40% off, use coupon code BF2022 |
 |  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
-|  💰 | [AlgoExpert](https://www.algoexpert.io) | The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. | Get all 4 AlgoExpert products in one $99 bundle |
+|  💰 | [AlgoExpert](https://www.algoexpert.io) | The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. | Get all 4 AlgoExpert products in one $49 bundle |
 |  🤑 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2022) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 |  💰 | [Code Maze](https://code-maze.com) | Code Maze - C#, .NET and Web Development Tutorials | 40% OFF, automatically applied |
 |  💰 | [Nick Chapsas' courses](https://nickchapsas.com) |  Courses by Nick Chapsas specifically crafted for the real world of software engineering. | 25% OFF with code **BF2022** |
@@ -502,6 +513,12 @@ Don't forget to:
 |  🤑 | [.NET Diagnostics Expert](https://diagnosticsexpert.com) | Connect the dots when diagnosing .NET apps | 50% OFF with code **CYBERWEEK2022** |
 |  🤑 | [Async Expert](https://asyncexpert.com) | Your path to excel at async in .NET | 50% OFF with code **CYBERWEEK2022** |
 | 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
+| 💰 | [Cloud Academy](https://cloudacademy.com/) | Cloud Academy is committed to partnering with innovation-focused organizations. | Simply fill out the form and we’ll send you an email with your 35% coupon code. |
+| 💰 | [GreatFrontEnd](https://www.greatfrontend.com) | The ultimate Front End Interview preparation platform with coding and system design questions. | 20% OFF with code **BLACKFRIDAY2022** |
+| 🤑 | [Datacamp](https://www.datacamp.com/promo/black-friday-2022)| Build data skills | 65% OFF auto applied |
+| 💵 | [Educative](https://www.educative.io/)|Just-in-Time Learning for Developers|Year-End Discount: 10% OFF 1-year and 20% OFF 2-year subscriptions|
+| 💰 | [Dataquest](https://www.dataquest.io/)|Become a data expert faster with Dataquest. | SAVE $700 (annual plan) |
+| 💵 | [edx](https://www.edx.org/cyber-monday)|master in-demand skills with offer code CYBER2022 | 20% OFF |
 
 
 
@@ -514,6 +531,7 @@ Don't forget to:
 |  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 |  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 |  🤑 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with coupon `BLACK` |
+|  🤑 | [English Class 101](https://www.englishclass101.com/) | Want to start speaking English from your first lesson? You will! Our lessons take you by the hand and guide you through real English conversations. | Get 51% OFF All Plans + 2 FREE Months with any 24 Month Plan. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -530,6 +548,18 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
+### 🔒 Information Security Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Pentester Academy](https://www.pentesteracademy.com/) | We believe in teaching Defense through Offense | Enter BF199 in the checkout page to claim 20% discount. |
+| 🤑 | [Lets Defend](https://letsdefend.io/) | We’ve helped thousands of people with building their blue team careers — and we’d love to help you, too. | Use "BLCKFRDY" code on all plans |
+| 🤑 | [ICSI](https://www.icsiglobal.com/) | Technical staff need theoretical knowledge and practical training to fortify an organisation against cyber crimes. | TAKE 50% OFF ON ALL PERSONAL CERTIFICATION PLANS WITH COUPON CODE BF22 |
+| 💵 | [Pentester Lab](https://pentesterlab.com/pro) | We've been teaching web security for years and have put together many well thought-out exercises to get you from zero to hero. | 17% off on Annual Subscription |
+| 🤑 | [TCM Security](https://tcm-sec.com/coupon/) | TCM Security is a veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. | Use the coupon code: GIVETHANKS |
+
+[⬆️ Go to Top](#table-of-contents)
+
 ## 💪 Health and Fitness
 
 |  | Name | Description | Discount Code & Terms |
@@ -539,6 +569,7 @@ Don't forget to:
 |  🤑 | [Bolt – workout planner](https://apps.apple.com/us/app/bolt-weight-lifting-journal/id1439649927) | **Bolt is the ultimate weightlifting companion. Log workouts, lift more, get stronger.** | 🌟 50% off annual plan. Access from the Discover tab in-app. |
 |  🤑 | [Push-ups Counter](https://pushups.cc) | An app that helps you record push-ups more easily. | 50% OFF with [BLACKFRIDAY code](https://apps.apple.com/redeem?ctx=offercodes&id=1488091840&code=BLACKFRIDAY) |
 |  💰 | [Fitbod](https://app.fitbod.me/?code=BLACKFRIDAY2022) | **Workouts that improve as you do.** By studying your strength & training ability, past workouts and gym setup, Fitbod creates workouts tailored to you. | 40% OFF for the yearly plan |
+|  🤑 | [Better Workout](https://apps.apple.com/at/app/better-workout/id1523173452) | **If you don't have time to work out and need to squeeze it into 5min of your day - this app helps you do that!** | 🌟 50% off monthly plan. Access from the Progress tab in-app. |
 
 [⬆️ Go to Top](#table-of-contents)
 
