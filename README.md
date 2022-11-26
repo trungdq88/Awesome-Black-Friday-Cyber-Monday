@@ -46,9 +46,10 @@ Don't forget to:
 	- [📘 Startup & Career Books (14)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (44)](#-programming-courses)
-	- [🎢 Career Courses (3)](#-career-courses)
+	- [💻 Programming Courses (45)](#-programming-courses)
+	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
+	- [🔒 Information Security Courses (5)](#-information-security-courses)
 - [💪 Health and Fitness (5)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (13)](#-miscellaneous)
 
@@ -507,8 +508,7 @@ Don't forget to:
 |  🤑 | [.NET Diagnostics Expert](https://diagnosticsexpert.com) | Connect the dots when diagnosing .NET apps | 50% OFF with code **CYBERWEEK2022** |
 |  🤑 | [Async Expert](https://asyncexpert.com) | Your path to excel at async in .NET | 50% OFF with code **CYBERWEEK2022** |
 | 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
-
-
+| 💰 | [Cloud Academy](https://cloudacademy.com/) | Cloud Academy is committed to partnering with innovation-focused organizations. | Simply fill out the form and we’ll send you an email with your 35% coupon code. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -519,6 +519,7 @@ Don't forget to:
 |  🤑 | [Building a Portfolio of Small Bets](https://dvassallo.gumroad.com/l/small-bets) | This course is a presentation of a few important ideas that will help you become self-employed, but most importantly stay self-employed. | 50% OFF, automatically applied |
 |  🤑 | [Fast Track To Senior Engineer](https://maven.com/top-engineer/fast-track-to-senior) | A cohort-based course for Software Developers. Create a system to level up faster using 4 behavioral frameworks: Learning, Practicing, Impact Accounting, ManageUp | 50% OFF with coupon `FIRST50`, applicable only for the 1st cohort (redeemable until Dec 2, 2022) |
 |  🤑 | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with coupon `BLACK` |
+|  🤑 | [English Class 101](https://www.englishclass101.com/) | Want to start speaking English from your first lesson? You will! Our lessons take you by the hand and guide you through real English conversations. | Get 51% OFF All Plans + 2 FREE Months with any 24 Month Plan. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -532,6 +533,18 @@ Don't forget to:
 | 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
 | 🤑 | [Learn Programmatic SEO](https://preetam.gumroad.com/l/programmatic-seo) | How to grow Google search traffic using a methodical approach. No prior SEO knowledge required. | 50% OFF with code **BLACKFRIDAY** |
 | 🤑 | [The Personal Website Playbook](https://tom-hirst.gumroad.com/l/GdaxO/BF2022) | Get leads, revenue and opportunity from your personal website on autopilot | $39.50 (usually $79) with BF2022
+
+[⬆️ Go to Top](#table-of-contents)
+
+### 🔒 Information Security Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Pentester Academy](https://www.pentesteracademy.com/) | We believe in teaching Defense through Offense | Enter BF199 in the checkout page to claim 20% discount. |
+| 🤑 | [Lets Defend](https://letsdefend.io/) | We’ve helped thousands of people with building their blue team careers — and we’d love to help you, too. | Use "BLCKFRDY" code on all plans |
+| 🤑 | [ICSI](https://www.icsiglobal.com/) | Technical staff need theoretical knowledge and practical training to fortify an organisation against cyber crimes. | TAKE 50% OFF ON ALL PERSONAL CERTIFICATION PLANS WITH COUPON CODE BF22 |
+| 💵 | [Pentester Lab](https://pentesterlab.com/pro) | We've been teaching web security for years and have put together many well thought-out exercises to get you from zero to hero. | 17% off on Annual Subscription |
+| 🤑 | [TCM Security](https://tcm-sec.com/coupon/) | TCM Security is a veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. | Use the coupon code: GIVETHANKS |
 
 [⬆️ Go to Top](#table-of-contents)
 
