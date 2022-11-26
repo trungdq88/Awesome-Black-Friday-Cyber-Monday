@@ -501,7 +501,10 @@ Don't forget to:
 |  🤑 | [.NET Diagnostics Expert](https://diagnosticsexpert.com) | Connect the dots when diagnosing .NET apps | 50% OFF with code **CYBERWEEK2022** |
 |  🤑 | [Async Expert](https://asyncexpert.com) | Your path to excel at async in .NET | 50% OFF with code **CYBERWEEK2022** |
 | 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
-
+| 🤑 | [Datacamp](https://www.datacamp.com/promo/black-friday-2022)| Build data skills | 65% OFF auto applied |
+| 💵 | [Educative](https://www.educative.io/)|Just-in-Time Learning for Developers|Year-End Discount: 10% OFF 1-year and 20% OFF 2-year subscriptions|
+| 💰 | [Dataquest](https://www.dataquest.io/)|Become a data expert faster with Dataquest. | SAVE $700 (annual plan) |
+| 💵 | [edx](https://www.edx.org/cyber-monday)|master in-demand skills with offer code CYBER2022 | 20% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
