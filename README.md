@@ -81,6 +81,8 @@ Don't forget to:
 |  🤑 | [SQLPro Studio](https://sqlprostudio.com/) | A simple, powerful database manager for macOS, iOS and Windows. Supports SQL Server, MySQL, PostgreSQL and SQLite | 50% off with **BFHALFOFF**. Ends Nov. 30th |
 |  🤑 | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud | 50% off on App Store. Ends Nov. 29th |
 |  🤑 | [RegExp](https://apps.apple.com/us/app/regexp/id1546140065?mt=12) | Regular Expressions editor (Go, Swift, JavaScript flavours) | Pro is 67% off |
+| 💰 | [FFmpeg.guide](https://ffmpeg.guide) | FFmpeg.guide is a GUI for creating FFmpeg filters and complex commands | 20% OFF with **BLACKFRIDAY20** ends Nov. 29th |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
