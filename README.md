@@ -40,6 +40,7 @@ Don't forget to:
 - [🚀 Startup SaaS/Tools (43)](#-startup-saastools)
 - [🌏 Social Media Tools (20)](#-social-media-tools)
 - [💸 Finance Tools (8)](#-finance-tools)
+- [🌎 Language Learning Tools (5)](#-language-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (11)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -373,6 +374,19 @@ Don't forget to:
 | 💰 | [DeltaRay MesoSim](https://blog.deltaray.io/black-friday-deal) | Advanced Options Backtesting service | 20% one time OFF for new annual subscriptions |
 | 🤑 | [Cashculator](https://cashculator.app) | Personal finance Mac app, focus on planning, tracking, and "what-if" | 50% OFF |
 | 💰 | [OptionVisualizer](https://www.optionvisualizer.com) | Advanced search engine for stock options | 30% OFF |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 🌎 Language Learning Tools
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [TokeiTango Japanese Flashcards](https://apps.apple.com/app/apple-store/id1492526803) | A spaced-repetition flashcard app to learn Japanese vocab on the Apple Watch  | 50% OFF |
+|  🤑 | [JLPT Flashcards - KeitaiTango](https://apps.apple.com/au/app/bunkado/id1546470961#?platform=iphone) | Japanese JLPT flashcards on your iPhone  | 50% OFF Premium Lifetime |
+|  🤑 | [Kaku - Japanese studies notebook](https://apps.apple.com/au/app/kaku/id1515101339) | iPhone/iPad notebook app for studying Japanese with in-built translator, dictionaries, conjugation and grammar assistant. | 50% OFF Premium Lifetime |
+|  🤑 | [Imawa - Japanese Date/Time](https://apps.apple.com/app/apple-store/id1492526803) | Learn to read Japanese dates and time on your Apple Watch | 50% OFF |
+|  🤑 | [Chinese Flashcards - Zungzi](https://apps.apple.com/app/apple-store/id1496948615) | A spaced-repetition flashcard app to learn Chinese vocab on the Apple Watch | 50% OFF |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
