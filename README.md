@@ -474,62 +474,120 @@ Don't forget to:
 
 ### 💻 Programming Courses
 
+#### Front-end Development Courses
+
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [CSS for JavaScript Developers](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS. | 50% OFF, automatically applied |
-|  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $100, with an annual subscription of Composables.|
-|  💵 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | Learn how to build a SaaS product from scratch with 25+ hours of video | 15% OFF auto applied on Fri |
-|  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
-|  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
-|  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
-| 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | $30 OFF on Annual Subscription with code **THANKS2022** |
-|  🤑 | [Flutter App Monetization: The Complete Guide](https://courses.1manstartup.com/flutter-monetization-course?coupon=BLACKFRIDAY)| 50% off The complete guide to setting up ads, in-app purchases, and subscriptions in a flutter app. | 50% off use code BLACKFRIDAY |
-|  💰 | [Reuven Lerner](https://store.lerner.co.il) | All 35 Python, Git, and Pandas courses are 40% off | 40% off, use coupon code BF2022 |
-|  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
-|  💰 | [AlgoExpert](https://www.algoexpert.io) | The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. | Get all 4 AlgoExpert products in one $49 bundle |
-|  🤑 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2022) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
-|  💰 | [Code Maze](https://code-maze.com) | Code Maze - C#, .NET and Web Development Tutorials | 40% OFF, automatically applied |
-|  💰 | [Nick Chapsas' courses](https://nickchapsas.com) |  Courses by Nick Chapsas specifically crafted for the real world of software engineering. | 25% OFF with code **BF2022** |
-|  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
-|  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
-|  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
-|  🤑 | [Code4Startup](https://code4startup.com) | Learn to code by creating real life startups like Airbnb, UberEats, Fiverr... | 50% OFF first 3 months, automatically applied |
-|  🤑 | [Build 7 Startup apps in Rails 7](https://code4startup.com/rails_7_series) | SaaS Project Kit with Rails made for Startup Founders, Solopreneurs, Marketers & Freelancers | Pre-order: get 50% OFF - Course will be released in late December 2022 |
-| 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills. Course and book. | FLAT 80% OFF and PPP - $29 |
-| 🤑 | [VSCode.pro - VS Code Power User!](https://vscode.pro) | After 10 yrs with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Devs Expert) switched to VSCode. He spent over a 1,000 hrs perfecting his setup to help you switch today. Bring all your custom settings and learn the power user workflows. | FLAT 80% OFF and PPP - $34 |
-| 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
-|  💰 | [Codely](https://codely.com/blackfriday) | Full Year Access to all its courses. DDD, Hexagonal Architecture, Typescript, Testing best practices, Figma plugins development, SOLID Principles and many more| 100€ discount at checkout |
-| 💰 | [Platzi](https://platzi.com/blackfriday/) | Full year access to all its courses: Engineering, Design, Marqueting, Soft Skills, Bussiness, Startups, English | 45% Discount at checkout |
-|  💰 | [One-Year Kodeco (raywenderlich.com) Pro Plan for just $399](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career | 33% off - ends Nov 29! |
-|  🤑 |[(New!) Two-Year Kodeco (raywenderlich.com) Pro Plan for just $599](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | Lock in for two years and save even more! 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career | 50% off - ends Nov 29! |
 | 💰 | [Epic React](https://epicreact.dev/) | Confidently Ship Well-Architected Production Ready React Apps Like a Pro | 40% OFF |
 | 💰 | [Testing JavaScript](https://testingjavascript.com/) | Learn the smart, efficient way to test any JavaScript application. | 40% OFF |
 | 🤑 | [KCD Bundle](https://www.kcdbundle.com/) |  KCD Bundle brings Testing JavaScript and Epic React together for a special discounted price. | 50% OFF |
-|  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
 | 🤑 | [useEffect.dev](https://useeffect.dev) | Master the best invention since React itself, and take your React experience to the next level. 🚀 | $20 OFF with code **USEBLACKFRIDAY** ($9 instead of $29) |
-| 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
-| 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
-| 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
-| 🤑 | [Build a SAAS App with Flask](https://buildasaasappwithflask.com/) | Learn to build web apps with Flask and Docker. | 50% OFF |
-| 🤑 | [Dive into Docker](https://diveintodocker.com/) | The complete Docker course for developers. | 50% OFF |
 | 🤑 | [Three.js Journey](https://threejs-journey.com/) | The Best Way to Learn Three.js | 50% OFF with code **2022BLACKFRIDAY** |
 |  🤑 | [Mastering Nuxt](https://masteringnuxt.com/) | Learn Nuxt 3 in a comprehensive and Hands on course. Build a production-ready online course platform with a database and a blazing fast landing page. | UP TO 60% OFF |
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Learn Vue.js and modern, cutting-edge front-end technologies from the Frameworks core-team members and industry experts with premium tutorials and video courses. | UP TO 51% OFF |
-| 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
 | 🤑 | [Just Javascript](https://justjavascript.com/) | Discover and rebuild your JavaScript mental models | 50% OFF auto applied |
+| 💰 | [GreatFrontEnd](https://www.greatfrontend.com) | The ultimate Front End Interview preparation platform with coding and system design questions. | 20% OFF with code **BLACKFRIDAY2022** |
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### Backend Development Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://bit.ly/learngo-course) | Learn programming with the Go programming language by building your favorite arcade games - 26h video, 75 exercises, 4 practical projects \w walkthrough | 88% OFF auto applied |
+|  🤑 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2022) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
+|  🤑 | [Build 7 Startup apps in Rails 7](https://code4startup.com/rails_7_series) | SaaS Project Kit with Rails made for Startup Founders, Solopreneurs, Marketers & Freelancers | Pre-order: get 50% OFF - Course will be released in late December 2022 |
+| 🤑 | [Dive into Docker](https://diveintodocker.com/) | The complete Docker course for developers. | 50% OFF |
+| 💰 | [GoRails](https://gorails.com/pricing) | Learn Ruby on Rails - Join 67,885+ web developers learning Ruby on Rails to build their ideas, products, and businesses. | 36% OFF (annual plan) |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### Mobile/Desktop/Multi-Platform-Apps Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Composables.co](https://composables.co) | Concise, no-fluff video tutorials for busy Android Developers | Get a FREE copy of [View to Composable](https://viewtocomposable.com) worth of $100, with an annual subscription of Composables.|
+|  💰 | [Flutter Foundations Course](https://codewithandrea.com/courses/complete-flutter-bundle/) | Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web. | 33% OFF, automatically applied |
+|  🤑 | [Flutter App Monetization: The Complete Guide](https://courses.1manstartup.com/flutter-monetization-course?coupon=BLACKFRIDAY)| 50% off The complete guide to setting up ads, in-app purchases, and subscriptions in a flutter app. | 50% off use code BLACKFRIDAY |
+|  💰 | [One-Year Kodeco (raywenderlich.com) Pro Plan for just $399](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career | 33% off - ends Nov 29! |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### Data Structure & Algorithm Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [Leetcode](https://leetcode.com/subscribe/?ref=thanksgiving) | Level up your coding skills and quickly land a job. | $30 OFF on Annual Subscription with code **THANKS2022** |
+|  💰 | [AlgoExpert](https://www.algoexpert.io) | The ultimate resource to prepare for coding interviews. Everything you need, in one streamlined platform. | Get all 4 AlgoExpert products in one $49 bundle |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### C#/.Net Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Code Maze](https://code-maze.com) | Code Maze - C#, .NET and Web Development Tutorials | 40% OFF, automatically applied |
+|  🤑 | [.NET Memory Expert](https://dotnetmemoryexpert.com) | Everything you need to know about the GC and memory in .NET | 50% OFF with code **CYBERWEEK2022** |
 |  🤑 | [.NET Diagnostics Expert](https://diagnosticsexpert.com) | Connect the dots when diagnosing .NET apps | 50% OFF with code **CYBERWEEK2022** |
 |  🤑 | [Async Expert](https://asyncexpert.com) | Your path to excel at async in .NET | 50% OFF with code **CYBERWEEK2022** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### InfoSec Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
+
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### Programming Courses From Platforms
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Fireship.io](https://fireship.io/pro) | Learn the essential skills for modern fullstack app development while having tons of fun in the process. | Use code BLACKFIRE to get 40% off of PRO (Works for all time ranges) |
+|  💰 | [Codely](https://codely.com/blackfriday) | Full Year Access to all its courses. DDD, Hexagonal Architecture, Typescript, Testing best practices, Figma plugins development, SOLID Principles and many more| 100€ discount at checkout |
+| 💰 | [Platzi](https://platzi.com/blackfriday/) | Full year access to all its courses: Engineering, Design, Marqueting, Soft Skills, Bussiness, Startups, English | 45% Discount at checkout |
+|  💰 | [M.academy](https://m.academy/) | The simplest way to learn Magento | 30-40% off everything through Cyber Monday! No code needed. |
 | 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
 | 💰 | [Cloud Academy](https://cloudacademy.com/) | Cloud Academy is committed to partnering with innovation-focused organizations. | Simply fill out the form and we’ll send you an email with your 35% coupon code. |
-| 💰 | [GreatFrontEnd](https://www.greatfrontend.com) | The ultimate Front End Interview preparation platform with coding and system design questions. | 20% OFF with code **BLACKFRIDAY2022** |
 | 🤑 | [Datacamp](https://www.datacamp.com/promo/black-friday-2022)| Build data skills | 65% OFF auto applied |
 | 💵 | [Educative](https://www.educative.io/)|Just-in-Time Learning for Developers|Year-End Discount: 10% OFF 1-year and 20% OFF 2-year subscriptions|
 | 💰 | [Dataquest](https://www.dataquest.io/)|Become a data expert faster with Dataquest. | SAVE $700 (annual plan) |
 | 💵 | [edx](https://www.edx.org/cyber-monday)|master in-demand skills with offer code CYBER2022 | 20% OFF |
 
 
+[⬆️ Go to Top](#table-of-contents)
+
+
+#### Other General Programming Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💵 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | Learn how to build a SaaS product from scratch with 25+ hours of video | 15% OFF auto applied on Fri |
+|  💰 | [Laracasts](https://laracasts.com/sales/black-friday) | All individual subscriptions are 45% off - including the lifetime plan. 😳 | 45% OFF, automatically applied |
+|  💰 | [Reuven Lerner](https://store.lerner.co.il) | All 35 Python, Git, and Pandas courses are 40% off | 40% off, use coupon code BF2022 |
+|  💰 | [Nick Chapsas' courses](https://nickchapsas.com) |  Courses by Nick Chapsas specifically crafted for the real world of software engineering. | 25% OFF with code **BF2022** |
+|  💰 | [Complete data science and machine learning bootcamp](https://www.mlnuggets.com/?coupon=BF22) | Hands-on Training on data science amd machine learning| 50% off  with code BF22 at checkout |
+|  🤑 | [Code4Startup](https://code4startup.com) | Learn to code by creating real life startups like Airbnb, UberEats, Fiverr... | 50% OFF first 3 months, automatically applied |
+| 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills. Course and book. | FLAT 80% OFF and PPP - $29 |
+| 🤑 | [VSCode.pro - VS Code Power User!](https://vscode.pro) | After 10 yrs with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Devs Expert) switched to VSCode. He spent over a 1,000 hrs perfecting his setup to help you switch today. Bring all your custom settings and learn the power user workflows. | FLAT 80% OFF and PPP - $34 |
+| 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
+
+|  🤑 |[(New!) Two-Year Kodeco (raywenderlich.com) Pro Plan for just $599](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | Lock in for two years and save even more! 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career | 50% off - ends Nov 29! |
+| 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
+| 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
+| 🤑 | [The Modern Dev](https://themodern.dev/courses/the-full-stack-developer-in-2022-w-nextjs-graphql-and-prisma-329024737290224201) | Build a complete e-commerce app with React, Next.js, GraphQL, Apollo, Prisma, & Stripe. | 50% OFF |
+| 🤑 | [Build a SAAS App with Flask](https://buildasaasappwithflask.com/) | Learn to build web apps with Flask and Docker. | 50% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
+
 
 ### 🎢 Career Courses
 
