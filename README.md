@@ -78,6 +78,7 @@ Don't forget to:
 |  🤑 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off |
 |  🤑 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF ends Nov. 28th |
 |  🤑 | [SQLPro Studio](https://sqlprostudio.com/) | A simple, powerful database manager for macOS, iOS and Windows. Supports SQL Server, MySQL, PostgreSQL and SQLite | 50% off with **BFHALFOFF**. Ends Nov. 30th |
+| 💰 | [FFmpeg.guide](https://ffmpeg.guide) | FFmpeg.guide is a GUI for creating FFmpeg filters and complex commands | 20% OFF with **BLACKFRIDAY20** ends Nov. 29th |
 
 
 [⬆️ Go to Top](#table-of-contents)
