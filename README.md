@@ -322,8 +322,7 @@ Don't forget to:
 | 🤑 | [ApyHub](https://apyhub.com) | Powerful APIs for standard data and other essential functionalities for any application. | Up to 500,000 additional API requests with **APYFRIDAY** |
 |  💰 | [sql2sheets](https://sql2sheets.com/) | sql2sheets is a no-code workflow automation tool. Connect your favorite apps and data sources. | 50% OFF for 3 months. Automatically applied on signup through Cyber Monday. |
 | 🤑 | [BountyPage](https://bountypage.com) | BountyPage enables you to launch and manage your own bug bounty program easily. | 50% OFF with code **BLACKFRIDAY2022** |
-
-
+|  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -367,7 +366,7 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 💅 Boilerplates, Templates, Themes, Plugins
+## 💅 Boilerplates, Starter-Kit, Templates
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -375,35 +374,42 @@ Don't forget to:
 |  💰 | [Cruip](https://cruip.com?ref=tony) | Beautifully designed Tailwind CSS landing page templates | >50% OFF, automatically applied at the checkout 🔥 |
 |  💰 | [Chatness](https://stewones.gumroad.com/l/chatness-ionic-angular-chat-app-capacitor-firebase/BLACK22?ref=tony) | Fully functional chat app built on top of Angular, Ionic and Firebase | 50% OFF with code **BLACK22** |
 |  💵 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 15% OFF auto applied on Fri |
-|  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins. 50% if you [RT this tweet](https://twitter.com/jasonleowsg/status/1595364033313398784) |
 |  🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The Django-powered SaaS boilerplate with built-in teams, billing, a modern front end, instant deployment and more | 50% OFF lifetime unlimited license auto applied all week |
 |  🤑 | [Nestajs](https://nestajs.com) | Starter kit for your next great SaaS application | 50% OFF with code **50OFF** |
 |  💰  | [Remixtape](https://www.remixtape.dev/bf22) | Remixtape is the the Remix boilerplate with everything your app needs. | 30% OFF
 |  💰 | [AdminKit](https://adminkit.io?ref=tony) | Admin template based on Bootstrap 5, featuring hundreds of UI components, forms, tables, charts and icons. | 30% OFF with code **BF2022** |
-|  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
 |  🤑 | [FluxStore](https://1.envato.market/mKdNe) | FluxStore is the Full Source Code Flutter Application to connect to your existing WooCommerce/Magento/Opencart/Shopify website, compatible with any templates. The download package is also included the Free Flutter App Builder tool (FluxBuilder) which is flexible to custom and easy to submit the app to Appstore & Google Play | 50% OFF ends Nov. 30th (Auto apply)|
 |  🤑 | [Notion Website Kit](https://gum.co/notionwebsite) | Collection of pre-populated templates that make it easy to setup a website using Notion. | 50% OFF with code **BF2022** |
 |  💰 | [Production Ready Forms](https://productionreadyforms.com/) | Use this React Native app starter to develop a production-ready app in no time!  Production-Ready Forms is the app template with forms and whole scenes. Reuse pre-defined scenes, adjust to your needs, dive into business logic. Focus on your **React Native** app and leave the boring stuff to me. | 40% OFF with code **BLACKFRIDAY22**|
-|  💰 | [Setary](https://setary.com) | WooCommerce inventory management and bulk editor for products and variations in a lightning-fast spreadsheet environment. | 40% OFF with code **bf2022** |
-|  💰 | [IconicWP](https://iconicwp.com/black-friday/) | Sales-Boosting WooCommerce Plugins and bundles | UP TO 62% OFF with code **bf2022** |
-|  💰 | [Orderable](https://orderable.com/pricing/) | Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees! | 40% OFF with code **bf2022** |
 | 🤑 | [Habit Tracker Template](https://www.preetamnath.com/habit-tracker-template) |  Track habits for an entire year using this 12 month habit tracker template in google sheets | 50% off with code **BLACKFRIDAY**
-|  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
-|  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
 |  💰 | [JupiterMeet Pro](https://codecanyon.net/item/jupitermeet-pro-video-conference/37367339) | Host your own video conferencing solution! | 30% off, Automatically applied |
 |  💰 | [Coupon Affiliates Pro](https://couponaffiliates.com/pricing) | Easily create an advanced coupon-based affiliate program for WooCommerce. | 25% OFF with code BF2022 |
 |  💰 | [Ship SaaS](https://shipsaas.com?ref=awesome) | Build your SaaS in a weekend with a Next.js SaaS boilerplate | 30% OFF, automatically applied at checkout |
 |  🤑 | [Volca SaaS Boilerplate](https://volca.io) | SaaS boilerplate built using TypeScript, Node and React | 50% OFF with code BLACK |
 |  💰 | [Django GDPR Cookie Consent](https://websightful.gumroad.com/l/django-gdpr-cookie-consent?ref=awesome-black-friday) | Highly customizable Django app to make your Django website compatible with GDPR Cookie law. | 20% OFF with codes **BLACKFRIDAY22** or **CYBERMONDAY22** |
-|  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
+|  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
+|  💰 | [Divjoy](https://divjoy.com) | Build landing pages and SaaS apps 10x faster with our React codebase generator. | 40% off |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 🧩 Themes, Plugins
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins. 50% if you [RT this tweet](https://twitter.com/jasonleowsg/status/1595364033313398784) |
+|  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
+|  💰 | [Setary](https://setary.com) | WooCommerce inventory management and bulk editor for products and variations in a lightning-fast spreadsheet environment. | 40% OFF with code **bf2022** |
+|  💰 | [IconicWP](https://iconicwp.com/black-friday/) | Sales-Boosting WooCommerce Plugins and bundles | UP TO 62% OFF with code **bf2022** |
+|  💰 | [Orderable](https://orderable.com/pricing/) | Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees! | 40% OFF with code **bf2022** |
+|  🤑 | [Crocoblock](https://crocoblock.com/) | WordPress toolkit for website-building professionals. | up to 40% with discount code **BFCROCO22** ends 30th Nov, 2022|
+|  💰 | [Chipmunk Theme](https://chipmunktheme.com) | A WordPress Theme tailored to meet the increased demand for content curation websites. Carefully crafted with the user in mind, to aid in great content discovery. | 30% OFF with code **BLACKFRIDAY30** |
 |  💵 | [Filament Media Library Pro](https://filamentphp.com/plugins/media-library-pro) | Give your users a beautiful way to upload, manage and select media and images in Filament Admin. Integrates with Spatie MediaLibrary. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
-|  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | Get 40% off all licenses |
+
 |  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
 |  💰 | [P42 JS Assistant](https://p42.ai/?utm_medium=referral&utm_campaign=awesome_blackfriday&utm_source=github) | Upgrade your Visual Studio Code JavaScript tooling with with automated code actions, refactoring suggestions, and more. | 20% OFF for 1 year of P42 Basic (annual subscription) with code **BLACKFRIDAY22** |
-|  💰 | [Divjoy](https://divjoy.com) | Build landing pages and SaaS apps 10x faster with our React codebase generator. | 40% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
