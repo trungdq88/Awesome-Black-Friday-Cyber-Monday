@@ -359,7 +359,7 @@ Don't forget to:
 | 💰 | [Snowball Analytics](https://snowball-analytics.com/) | All-in-one powerful portfolio tracker for retail investors | 30% OFF all plans |
 | 💰 | [DeltaRay MesoSim](https://blog.deltaray.io/black-friday-deal) | Advanced Options Backtesting service | 20% one time OFF for new annual subscriptions |
 | 🤑 | [Cashculator](https://cashculator.app) | Personal finance Mac app, focus on planning, tracking, and "what-if" | 50% OFF |
-
+| 💰 | [OptionVisualizer](https://www.optionvisualizer.com) | Advanced search engine for stock options | 30% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
