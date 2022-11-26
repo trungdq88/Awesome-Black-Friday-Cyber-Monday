@@ -510,6 +510,8 @@ Don't forget to:
 |  🤑 | [Async Expert](https://asyncexpert.com) | Your path to excel at async in .NET | 50% OFF with code **CYBERWEEK2022** |
 | 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
 | 💰 | [Cloud Academy](https://cloudacademy.com/) | Cloud Academy is committed to partnering with innovation-focused organizations. | Simply fill out the form and we’ll send you an email with your 35% coupon code. |
+| 💰 | [GreatFrontEnd](https://www.greatfrontend.com) | The ultimate Front End Interview preparation platform with coding and system design questions. | 20% OFF with code **BLACKFRIDAY2022** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
