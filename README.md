@@ -513,6 +513,11 @@ Don't forget to:
 | 🤑 | [Level Up Tutorials](https://levelup.video/) | Cutting-edge, high quality video tutorials for web developers and designers. | 50% OFF auto applied |
 | 💰 | [Cloud Academy](https://cloudacademy.com/) | Cloud Academy is committed to partnering with innovation-focused organizations. | Simply fill out the form and we’ll send you an email with your 35% coupon code. |
 | 💰 | [GreatFrontEnd](https://www.greatfrontend.com) | The ultimate Front End Interview preparation platform with coding and system design questions. | 20% OFF with code **BLACKFRIDAY2022** |
+| 🤑 | [Datacamp](https://www.datacamp.com/promo/black-friday-2022)| Build data skills | 65% OFF auto applied |
+| 💵 | [Educative](https://www.educative.io/)|Just-in-Time Learning for Developers|Year-End Discount: 10% OFF 1-year and 20% OFF 2-year subscriptions|
+| 💰 | [Dataquest](https://www.dataquest.io/)|Become a data expert faster with Dataquest. | SAVE $700 (annual plan) |
+| 💵 | [edx](https://www.edx.org/cyber-monday)|master in-demand skills with offer code CYBER2022 | 20% OFF |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
