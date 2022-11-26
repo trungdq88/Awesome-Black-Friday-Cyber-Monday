@@ -416,6 +416,7 @@ Don't forget to:
 | 💰 | [React - The Road To Enterprise](https://theroadtoenterprise.com/books/react-the-road-to-enterprise) | Take your skills to the next level and become a React pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of large-scale React applications. | 40% OFF with code **BLACKFRIDAY**
 | 💰 | [Vue - The Road To Enterprise](https://theroadtoenterprise.com/books/vue-the-road-to-enterprise?discount_coupon=BLACKFRIDAY) | Take your skills to the next level and become a Vue pro by mastering advanced patterns, best practices, and cutting-edge techniques for the development of Vue 2 & 3 applications. | 40% OFF with code **BLACKFRIDAY** |
 | 🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BlackFriday22) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% OFF with code **BLACKFRIDAY22** |
+| 🤑 | [Beginner's Guide to Web Security](https://gokul.site/book) | Become a better developer by understanding the basics of Web Security and its mitigations. | 50% OFF with code **BLACKFRIDAY22** |
 
 [⬆️ Go to Top](#table-of-contents)
 
