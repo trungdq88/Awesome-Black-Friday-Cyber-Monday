@@ -442,6 +442,7 @@ Don't forget to:
 | 🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BlackFriday22) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% OFF with code **BLACKFRIDAY22** |
 | 💰 | [StackAbuse.com](https://stackabuse.com) | Get 38% off ($99 vs $159) for a yearly membership with access to all courses, including Deep Learning for Computer Vision. | 38% OFF, automatically applied |
 | 🤑 | [Beginner's Guide to Web Security](https://gokul.site/book) | Become a better developer by understanding the basics of Web Security and its mitigations. | 50% OFF with code **BLACKFRIDAY22** |
+| 🤑 | [Django Books by Adam Johnson](https://adamj.eu/books/) | Two books for improving your Django projects: *Boost Your Django DX* and *Speed Up Your Django Tests*. | 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
