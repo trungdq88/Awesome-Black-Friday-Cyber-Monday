@@ -408,8 +408,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/#blackfriday2022) | Plugins to power up your Carrd sites. Add features that you can't find on Carrd - responsive mobile nav menu, testimonial slider, video pop-ups. | 34% OFF all plugins. 50% if you [RT this tweet](https://twitter.com/jasonleowsg/status/1595364033313398784) |
 |  💰 | [ThemeSelection](https://themeselection.com/) | Fully Coded Admin Dashboard templates based on Bootstrap, VueJS, Laravel, NextJS, ReactJS, Asp.NET & UI Kits (Figma & Sketch) featuring lots of UI components, forms, tables, charts and icons. | 30% OFF with code **CW30OFF** |
-|  💰 | [ui-lib](https://ui-lib.com/) | Create Web apps & Websites with fully coded
-UI Kits, Templates & Themes | 30% OFF with code **cs30** |
+|  💰 | [ui-lib](https://ui-lib.com/) | Create Web apps & Websites with fully coded UI Kits, Templates & Themes | 30% OFF with code **cs30** |
 |  💰 | [Setary](https://setary.com) | WooCommerce inventory management and bulk editor for products and variations in a lightning-fast spreadsheet environment. | 40% OFF with code **bf2022** |
 |  💰 | [IconicWP](https://iconicwp.com/black-friday/) | Sales-Boosting WooCommerce Plugins and bundles | UP TO 62% OFF with code **bf2022** |
 |  💰 | [Orderable](https://orderable.com/pricing/) | Take restaurant orders online with Orderable. The WooCommerce plugin designed to help you manage your restaurant, your way – with no added fees! | 40% OFF with code **bf2022** |
