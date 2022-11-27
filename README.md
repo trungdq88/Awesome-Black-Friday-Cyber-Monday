@@ -43,7 +43,7 @@ Don't forget to:
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (11)](#-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (15)](#-programming-books)
+	- [📗 Programming Books (17)](#-programming-books)
 	- [📘 Startup & Career Books (14)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
@@ -53,12 +53,11 @@ Don't forget to:
 		- [Mobile/Desktop/Multi-Platform-Apps Courses (4)](#mobiledesktopmulti-platform-apps-courses)
 		- [Data Structure & Algorithm Courses (2)](#data-structure--algorithm-courses)
 		- [C#/.Net Courses (4)](#cnet-courses)
-		- [InfoSec Courses (1)](#infosec-courses)
+		- [InfoSec Courses (9)](#infosec-courses)
 		- [Programming Courses From Platforms (10)](#programming-courses-from-platforms)
 		- [Other General Programming Courses (9)](#other-general-programming-courses)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (6)](#-marketing-courses)
-	- [🔒 Information Security Courses (5)](#-information-security-courses)
 - [💪 Health and Fitness (6)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (13)](#-miscellaneous)
 
@@ -417,7 +416,6 @@ Don't forget to:
 |  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
-
 |  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
 |  💰 | [P42 JS Assistant](https://p42.ai/?utm_medium=referral&utm_campaign=awesome_blackfriday&utm_source=github) | Upgrade your Visual Studio Code JavaScript tooling with with automated code actions, refactoring suggestions, and more. | 20% OFF for 1 year of P42 Basic (annual subscription) with code **BLACKFRIDAY22** |
 
@@ -444,7 +442,7 @@ Don't forget to:
 | 💰 | [StackAbuse.com](https://stackabuse.com) | Get 38% off ($99 vs $159) for a yearly membership with access to all courses, including Deep Learning for Computer Vision. | 38% OFF, automatically applied |
 | 🤑 | [Beginner's Guide to Web Security](https://gokul.site/book) | Become a better developer by understanding the basics of Web Security and its mitigations. | 50% OFF with code **BLACKFRIDAY22** |
 | 🤑 | [Django Books by Adam Johnson](https://adamj.eu/books/) | Two books for improving your Django projects: *Boost Your Django DX* and *Speed Up Your Django Tests*. | 50% OFF |
-
+| 💰 | [Cisco Press](https://www.ciscopress.com/promotions/happy-booksgiving-buy-2-save-55-on-books-and-ebooks-142352) | Stock up on your reading list and get a head start on holiday shopping. Buy one eligible book or eBook and save 40%, or save 55% when you purchase two or more books or eBooks. | Use code BOOKSGIVING during checkout. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -552,8 +550,15 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [Hands-on Security Training for Developers](https://appsecengineer.com/) | Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security | 25% off Annual Plans with code THANKSGIVING22 at checkout |
-
-
+| 💰 | [Pentester Academy](https://www.pentesteracademy.com/) | We believe in teaching Defense through Offense | Enter BF199 in the checkout page to claim 20% discount. |
+| 🤑 | [Lets Defend](https://letsdefend.io/) | We’ve helped thousands of people with building their blue team careers — and we’d love to help you, too. | Use "BLCKFRDY" code on all plans |
+| 🤑 | [ICSI](https://www.icsiglobal.com/) | Technical staff need theoretical knowledge and practical training to fortify an organisation against cyber crimes. | TAKE 50% OFF ON ALL PERSONAL CERTIFICATION PLANS WITH COUPON CODE BF22 |
+| 💵 | [Pentester Lab](https://pentesterlab.com/pro) | We've been teaching web security for years and have put together many well thought-out exercises to get you from zero to hero. | 17% off on Annual Subscription |
+| 🤑 | [TCM Security](https://tcm-sec.com/coupon/) | TCM Security is a veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. | Use the coupon code: GIVETHANKS |
+| 💵 | [The XSS Rat](https://thexssrat.podia.com/?coupon=LEMON2) | If you'd like to grab one of our courses, we have extended the sales by a week. | Coupon code is not required. |
+| 💵 | [Try Hack Me](https://tryhackme.com/) | Our content is guided with interactive exercises based on real world scenarios, from hacking machines to investigating attacks, we've got you covered. | Use code AOC2022 at checkout. |
+| 🤑 | [Code Red from EC-Council](https://coderedmarketing.eccouncil.org/cct-program) | Kickstart Your Cybersecurity Career with
+EC-Council’s Certification Program. | Coupon code is not required. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -589,7 +594,6 @@ Don't forget to:
 | 🤑 | [Writy.io - Content Writing for Developers](https://writy.io) | Learn how to write best technical content from Maedah, Sr Docs Developer for Next.js at Vercel, who spent over a decade building technical writing skills. Course and book. | FLAT 80% OFF and PPP - $29 |
 | 🤑 | [VSCode.pro - VS Code Power User!](https://vscode.pro) | After 10 yrs with Sublime Text, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Devs Expert) switched to VSCode. He spent over a 1,000 hrs perfecting his setup to help you switch today. Bring all your custom settings and learn the power user workflows. | FLAT 80% OFF and PPP - $34 |
 | 🤑 | [NodeCLI.com - Node CLI Automation without wasting a thousand hours!](https://nodecli.com) | After building hundreds of developer automation tools used by millions of developers, [Ahmad Awais](https://twitter.com/MrAhmadAwais/) (VP DevRel Rapid, GitHub Star, Google Developers Expert) is teaching exactly how you can do it. Learn to build JavaScript based CLI apps & npm packages. | FLAT 80% OFF and PPP - $49 |
-
 |  🤑 |[(New!) Two-Year Kodeco (raywenderlich.com) Pro Plan for just $599](https://store.kodeco.com?utm_campaign=sidelines-external&utm_medium=github&utm_source=sidelines-link) | Lock in for two years and save even more! 5,000+ videos, books, courses, learning paths, bootcamp discounts, and professional resources for your mobile dev career | 50% off - ends Nov 29! |
 | 💰 | [Execute Program](https://www.executeprogram.com/) | Execute Program is a learning platform built by developers for developers, because we thought there should be a better way to learn – and remember – programming languages and tools. | 40% off for 12 months (normally $39/mo)
 | 💰 | [Pluralsight.com](https://www.pluralsight.com/offer/2022/bf-cm-50-off) | Get 50% Off Pluralsight - Our Biggest Sale Ever | 50% OFF |
@@ -620,18 +624,6 @@ Don't forget to:
 | 💰 | [Zero to MVP with No-code](zero-to-mvp.com) | Learn to build apps without coding in one week. Get Access to 120+ No-code tools | 40% OFF with code **40bfd2022** |
 | 🤑 | [Learn Programmatic SEO](https://preetam.gumroad.com/l/programmatic-seo) | How to grow Google search traffic using a methodical approach. No prior SEO knowledge required. | 50% OFF with code **BLACKFRIDAY** |
 | 🤑 | [The Personal Website Playbook](https://tom-hirst.gumroad.com/l/GdaxO/BF2022) | Get leads, revenue and opportunity from your personal website on autopilot | $39.50 (usually $79) with BF2022
-
-[⬆️ Go to Top](#table-of-contents)
-
-### 🔒 Information Security Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 💰 | [Pentester Academy](https://www.pentesteracademy.com/) | We believe in teaching Defense through Offense | Enter BF199 in the checkout page to claim 20% discount. |
-| 🤑 | [Lets Defend](https://letsdefend.io/) | We’ve helped thousands of people with building their blue team careers — and we’d love to help you, too. | Use "BLCKFRDY" code on all plans |
-| 🤑 | [ICSI](https://www.icsiglobal.com/) | Technical staff need theoretical knowledge and practical training to fortify an organisation against cyber crimes. | TAKE 50% OFF ON ALL PERSONAL CERTIFICATION PLANS WITH COUPON CODE BF22 |
-| 💵 | [Pentester Lab](https://pentesterlab.com/pro) | We've been teaching web security for years and have put together many well thought-out exercises to get you from zero to hero. | 17% off on Annual Subscription |
-| 🤑 | [TCM Security](https://tcm-sec.com/coupon/) | TCM Security is a veteran-owned cybersecurity company focused on providing top of the line penetration testing, security training, and compliance services. | Use the coupon code: GIVETHANKS |
 
 [⬆️ Go to Top](#table-of-contents)
 
