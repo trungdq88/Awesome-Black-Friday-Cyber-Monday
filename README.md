@@ -91,6 +91,7 @@ Don't forget to:
 |  🤑 | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Keeps zsh, bash, fish history in SQLite with Full Text Search and sync via iCloud | 50% off on App Store. Ends Nov. 29th |
 |  🤑 | [RegExp](https://apps.apple.com/us/app/regexp/id1546140065?mt=12) | Regular Expressions editor (Go, Swift, JavaScript flavours) | Pro is 67% off |
 | 💰 | [FFmpeg.guide](https://ffmpeg.guide) | FFmpeg.guide is a GUI for creating FFmpeg filters and complex commands | 20% OFF with **BLACKFRIDAY20** ends Nov. 29th |
+|  🤑 | [AppDab](https://appdab.app) | The native macOS app for App Store Connect and the Apple Developer Portal | 50% OFF on yearly subscription |
 
 
 [⬆️ Go to Top](#table-of-contents)
