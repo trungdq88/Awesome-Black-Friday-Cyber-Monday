@@ -43,7 +43,7 @@ Don't forget to:
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (11)](#-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (15)](#-programming-books)
+	- [📗 Programming Books (16)](#-programming-books)
 	- [📘 Startup & Career Books (14)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
@@ -444,7 +444,7 @@ Don't forget to:
 | 💰 | [StackAbuse.com](https://stackabuse.com) | Get 38% off ($99 vs $159) for a yearly membership with access to all courses, including Deep Learning for Computer Vision. | 38% OFF, automatically applied |
 | 🤑 | [Beginner's Guide to Web Security](https://gokul.site/book) | Become a better developer by understanding the basics of Web Security and its mitigations. | 50% OFF with code **BLACKFRIDAY22** |
 | 🤑 | [Django Books by Adam Johnson](https://adamj.eu/books/) | Two books for improving your Django projects: *Boost Your Django DX* and *Speed Up Your Django Tests*. | 50% OFF |
-
+| 🤑 | [Julia Crash Course](https://logankilpatrick.gumroad.com/l/juliacrashcourse) | Learn the worlds fastest growing programming language--Julia | 50% OFF through Cyber Monday |
 
 [⬆️ Go to Top](#table-of-contents)
 
