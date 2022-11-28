@@ -248,7 +248,7 @@ Don't forget to:
 |  🤑 | [Startup Buffer](https://startupbuffer.com/site/promote) | Startup Buffer is a startup directory for emerging startups. The deal includes homepage promotion on the directory, social media shoutouts, and email newsletter promotions.  | **75% OFF, automatically applied** |
 |  🤑 | [CampaignKit](https://campaignkit.cc) | CampaignKit is an email list cleaning tool to remove invalid and malicious emails. | **50% OFF on all credits** with code BLACKFRIDAY|
 |  🤑 | [CleverTap for Startups](https://clevertap.com/startup-pricing/?utm_source=gh-awesome-bfcm) | CleverTap is a full stack retention platform featuring omni-channel messaging, advanced segmentation, and realtime analytics. | **90% off**, $8/mo for 6 months with 30-day trial |
-
+|  🤑 | [Stackblocks](https://stackblocks.app/?utm_source=gh-awesome-bfcm) | Stackblocks, a no-code tool, lets you embed content from newsletters, podcasts, blogs, and RSS on any website/landing page.  | **70% off**, Lifetime Deal for $39 |
 
 [⬆️ Go to Top](#table-of-contents)
 
