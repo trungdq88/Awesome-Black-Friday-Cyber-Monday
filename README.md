@@ -143,6 +143,7 @@ Don't forget to:
 | 🤑 | [AdGuard](https://adguard.com/) | Stand alone ad blocker for desktop and mobile | 50% OFF, automatically applied |
 | 💰 | [Beyond Compare](https://www.scootersoftware.com/shop.php?zz=shop_promo) | Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not. Merge changes, synchronize files, and generate reports. | 30% OFF, start from linked promo page and follow instrunctions. On Cyber Monday only! |
 | 🤑 | [Little Snitch](hhttps://obdev.at/products/littlesnitch/index.html) | Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. | 50% OFF (automatic) |
+| 🤑 | [Royal TS](https://royalapps.com/ts/buy) | Comprehensive Remote Management Solution for RDP, VNC, SSH based terminals | 50% with BLACKFRIDAY22 on Royal TS (Win) and Royal TSX (macOS) Individual User Licenses and Royal TS/X + Royal Server Personal Licenses! |
 
 [⬆️ Go to Top](#table-of-contents)
 
