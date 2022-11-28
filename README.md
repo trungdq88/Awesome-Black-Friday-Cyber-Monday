@@ -27,7 +27,7 @@ Don't forget to:
 ## Table of Contents
 
 - [👨‍💻 Developer Tools (25)](#-developer-tools)
-- [🌅 Design Tools (23)](#-design-tools)
+- [🌅 Design Tools (24	)](#-design-tools)
 - [🎛 Utility Tools (12)](#-utility-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
@@ -37,7 +37,7 @@ Don't forget to:
 - [🌈 Marketing Tools (21)](#-marketing-tools)
 - [🔍 SEO Tools (6)](#-seo-tools)
 - [🤖 AI Writing Tools (10)](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools (43)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (44)](#-startup-saastools)
 - [🌏 Social Media Tools (20)](#-social-media-tools)
 - [💸 Finance Tools (8)](#-finance-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
@@ -123,6 +123,7 @@ Don't forget to:
 | 🤑 | [Purple Photo](https://purple-photo.web.app/) | Create beautiful posts and screenshots with ZERO designing skills. Top features include handpicked gradient, unsplash images, device mockup, code editor, stickers etc. | 50% OFF on the Lifetime deal with the discount code **blackfriday** |
 | 🤑 | [Rotato](https://rotato.app) | Beautiful, easy and fast design showcases with 3D mockups | **50% OFF** with code  **FRIDAY2022T**  |
 | 💰 | [ThreeDee](https://threedee.design/) | Level up your designs with lovely 3D libraries | **30% OFF** with code  **blackfriday20222**  |
+| 🤑 | [Pixpa](https://www.pixpa.com/?refcode=BLFPIXPA50) | No-code website builder to build your professional website, blog and online store easily, all in one place. Best for portfolios, SAAS websites, landing pages, one-page websites and stores. | **50% OFF** on yearly plans with code **BLFPIXPA50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -332,6 +333,7 @@ Don't forget to:
 |  💰 | [sql2sheets](https://sql2sheets.com/) | sql2sheets is a no-code workflow automation tool. Connect your favorite apps and data sources. | 50% OFF for 3 months. Automatically applied on signup through Cyber Monday. |
 | 🤑 | [BountyPage](https://bountypage.com) | BountyPage enables you to launch and manage your own bug bounty program easily. | 50% OFF with code **BLACKFRIDAY2022** |
 |  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
+| 🤑 | [Pixpa](https://www.pixpa.com/?refcode=BLFPIXPA50) | No-code website builder to build your professional website, blog and online store easily, all in one place. Best for portfolios, SAAS websites, landing pages, one-page websites and stores. | **50% OFF** on yearly plans with code **BLFPIXPA50** |
 
 [⬆️ Go to Top](#table-of-contents)
 
