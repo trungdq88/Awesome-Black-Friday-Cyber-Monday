@@ -332,6 +332,7 @@ Don't forget to:
 |  💰 | [sql2sheets](https://sql2sheets.com/) | sql2sheets is a no-code workflow automation tool. Connect your favorite apps and data sources. | 50% OFF for 3 months. Automatically applied on signup through Cyber Monday. |
 | 🤑 | [BountyPage](https://bountypage.com) | BountyPage enables you to launch and manage your own bug bounty program easily. | 50% OFF with code **BLACKFRIDAY2022** |
 |  💰 | [Carrd](https://carrd.co) | Simple, free, fully responsive one-page sites for pretty much anything. | Get 40% off all Pro upgrades, renewals, and gift plans with code **BLK2022** |
+|  💰 | [One Word Domains](https://oneword.domains) | Database of 1M+ available one-word domains for your startup | Get 33% off our lifetime pass with code **BFCM22** |
 
 [⬆️ Go to Top](#table-of-contents)
 
