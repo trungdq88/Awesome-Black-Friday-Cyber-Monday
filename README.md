@@ -417,9 +417,10 @@ Don't forget to:
 |  💵 | [Filament Onboarding Manager](https://filamentphp.com/plugins/onboarding-manager-pro) | Beautiful onboarding experiences for Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $85 and a single project license for only $41. |
 |  💵 | [Filament Notifictions Pro](https://filamentphp.com/plugins/notifications-pro) | Send & manage database notifications from Filament Admin. | Get 15% off all licenses. Get a lifetime license for only $59 and a single project license for only $33. |
 |  💰 | [MightyShare](https://mightyshare.io) | Automatically generate social share images for your WordPress site. | Get 25% off all plans with code **BLACKFRIDAY** |
-
 |  🤑 | [MappingGenerator](https://mappinggenerator.net/) | A set of useful refactorings for VisualStudio and Rider, mostly for generating object-to-object mapping code.| 50% OFF with `BLACK22` code. Expires Nov 28th. |
 |  💰 | [P42 JS Assistant](https://p42.ai/?utm_medium=referral&utm_campaign=awesome_blackfriday&utm_source=github) | Upgrade your Visual Studio Code JavaScript tooling with with automated code actions, refactoring suggestions, and more. | 20% OFF for 1 year of P42 Basic (annual subscription) with code **BLACKFRIDAY22** |
+|  💰 | [WrapPixel](https://www.wrappixel.com) | 80+ Best Free and Premium Admin Dashboard Templates with UI Kits and Bundles | 25% OFF with code **BLACKFRIDAY25** |
+|  💰 | [AdminMart](https://www.adminmart.com) | Amazing Collection of Admin Dashboard Templates | 30% OFF with code **BLACKFRIDAY30** |
 
 [⬆️ Go to Top](#table-of-contents)
 
