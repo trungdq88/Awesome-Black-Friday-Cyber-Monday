@@ -79,6 +79,8 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🤑 | [BoltAI](https://boltai.com?ref=awesomebf) | Native ChatGPT app for Mac. It allows entrepreneurs, developers, marketers, students, and anyone else to integrate AI assistance into their daily tasks. It is designed to enhance productivity across a wide range of professions, from writing and development to management and entrepreneurship | Enjoy 53% off with this discount code **`AWESOMEBF2023`**
+| 🤑 | [PDF Pals](https://pdfpals.com?ref=awesomebf) | Native ChatPDF app for Mac. It allows users to chat with any PDF document on their Mac without the need for uploading or file size limitations. The tool offers a fast and powerful OCR engine, enabling it to handle scanned PDFs and complex forms effectively | Enjoy 53% off with this discount code **`AWESOMEBF2023`**
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
