@@ -21,7 +21,7 @@ Don't forget to:
 ## Table of Contents
 
 - [👨‍💻 Developer Tools (25)](#-developer-tools)
-- [🌅 Design Tools (23)](#-design-tools)
+- [🌅 Design Tools (1)](#-design-tools)
 - [🎛 Utility Tools (12)](#-utility-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
@@ -31,11 +31,11 @@ Don't forget to:
 - [🌈 Marketing Tools (21)](#-marketing-tools)
 - [🔍 SEO Tools (6)](#-seo-tools)
 - [🤖 AI Writing Tools (10)](#-ai-writing-tools)
-- [🚀 Startup SaaS/Tools (43)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (1)](#-startup-saastools)
 - [🌏 Social Media Tools (20)](#-social-media-tools)
 - [💸 Finance Tools (8)](#-finance-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (11)](#-themes-plugins)
+- [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books (15)](#-programming-books)
 	- [📘 Startup & Career Books (14)](#-startup--career-books)
@@ -71,6 +71,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto-hide sensitive info, auto-fill background color. Other features: annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 40% OFF with code **BLACKFRIDAY_2023** |
+| 🤑 | [Pixpa](https://www.pixpa.com/?refcode=BLFPIXPA50) | No-code website builder to build your professional website, blog and online store easily, all in one place. Best for portfolios, SAAS websites, landing pages, one-page websites and stores. | **50% OFF** on yearly plans with code **BLFPIXPA50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -79,7 +80,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 🤑 | [Pixpa](https://www.pixpa.com/?refcode=BLFPIXPA50) | No-code website builder to build your professional website, blog and online store easily, all in one place. Best for portfolios, SAAS websites, landing pages, one-page websites and stores. | **50% OFF** on yearly plans with code **BLFPIXPA50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -150,7 +151,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 🤑 | [Pixpa](https://www.pixpa.com/?refcode=BLFPIXPA50) | No-code website builder to build your professional website, blog and online store easily, all in one place. Best for portfolios, SAAS websites, landing pages, one-page websites and stores. | **50% OFF** on yearly plans with code **BLFPIXPA50** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -183,7 +184,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 🤑 | [Pixpa](https://www.pixpa.com/?refcode=BLFPIXPA50) | No-code website builder to build your professional website, blog and online store easily, all in one place. Best for portfolios, SAAS websites, landing pages, one-page websites and stores. | **50% OFF** on yearly plans with code **BLFPIXPA50** |
 
 [⬆️ Go to Top](#table-of-contents)
 
