@@ -1,6 +1,6 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2023 🤑
 
-A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/74).
+A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request]([https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/74](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367)).
 
 Make sure you add your deal **at the end** of each category (first come, first merged).
 
@@ -60,7 +60,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2022** |
+|  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 40% OFF with code **BLACKFRIDAY_2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -70,7 +70,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2022** |
+|  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto-hide sensitive info, auto-fill background color. Other features: annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 40% OFF with code **BLACKFRIDAY_2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -79,6 +79,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -87,7 +88,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -96,7 +97,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -104,7 +105,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -112,7 +113,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -121,7 +122,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -130,7 +131,7 @@ Don't forget to:
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -140,7 +141,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -149,7 +150,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -157,7 +158,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2022 for 50% off first year |
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -166,7 +167,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -174,7 +175,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -182,7 +183,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -191,7 +192,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -200,7 +201,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -208,7 +209,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -220,6 +221,8 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -227,7 +230,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -235,7 +238,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -244,7 +247,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -253,7 +256,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -262,8 +265,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -272,7 +274,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -282,6 +284,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -291,7 +294,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -299,7 +302,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -307,7 +310,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -315,6 +318,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -323,7 +327,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
