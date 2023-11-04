@@ -175,7 +175,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code **BLACKFRIDAY2023** |
+|  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
