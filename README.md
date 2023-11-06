@@ -211,6 +211,7 @@ Don't forget to:
 |  🤑 | [Soccer Betting Books](https://tropianhs.gumroad.com/) | How to create a soccer betting model with Python and ML and how to build an automated betting strategy | 50% discount on all books with code BLACKFRIDAY23 |
 |  💰 | [Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/BlackFridayAnytime) | Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview. | 30% FLAT discount automatically applied only till Black Friday|
 |  🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid) | Become a Pro at building components & layouts with CSS Flexbox and Grid. Explained with 70+ real world use cases and examples. Gain access to Private CodePen links with working demos for all examples. Choose Vanilla CSS or Tailwind CSS eBook version | 50% discount on all versions with code **BLACKFRIDAY23** valid from 17th November until Cyber Monday |
+| 🤑 | [Pydon'ts – Write elegant Python code](https://mathspp.com/pydonts) | Learn how to write idiomatic, expressive and elegant Python code. | 100% off with the code BF23 |
 
 
 [⬆️ Go to Top](#table-of-contents)
