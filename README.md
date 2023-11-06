@@ -19,7 +19,6 @@ Don't forget to:
 
 
 ## Table of Contents
-- [Table of Contents ](#table-of-contents)
 - [👨‍💻 Developer Tools (5)](#-developer-tools)
 - [🤖 AI Tools (9)](#-ai-tools)
 - [🌅 Design Tools (1)](#-design-tools)
@@ -41,16 +40,7 @@ Don't forget to:
 	- [📘 Startup & Career Books (1)](#-startup--career-books)
 	- [📕 Marketing Books (1)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses ](#-programming-courses)
-		- [Front-end Development Courses (1)](#front-end-development-courses)
-		- [Backend Development Courses (1)](#backend-development-courses)
-		- [Mobile/Desktop/Multi-Platform-Apps Courses (1)](#mobiledesktopmulti-platform-apps-courses)
-		- [Data Structure & Algorithm Courses (1)](#data-structure--algorithm-courses)
-		- [C#/.Net Courses (1)](#cnet-courses)
-		- [Go (Golang) Courses (1)](#go-golang-courses)
-		- [InfoSec Courses (1)](#infosec-courses)
-		- [Programming Courses From Platforms (1)](#programming-courses-from-platforms)
-		- [Other General Programming Courses (1)](#other-general-programming-courses)
+	- [💻 Programming Courses (2)](#-programming-courses)
 	- [🎢 Career Courses (1)](#-career-courses)
 	- [📈 Marketing Courses (1)](#-marketing-courses)
 	- [🔒 Information Security Courses (1)](#-information-security-courses)
