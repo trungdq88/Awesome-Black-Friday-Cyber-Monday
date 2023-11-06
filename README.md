@@ -219,7 +219,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/blackfriday) | A Practical Guide to Earning Income through Blogging. | Already applied "BLACKFRIDAY" for 50% off untill cyber monday. |
-
+|  🤑 | [Wifi Money Bible](https://www.wifimoneyplant.com/l/wifimoneybible/BLACKFRIDAY) | Learn How to Start, Grow and Automate an Online Business (210+ happy customers) | Link already discounted 75%, valid till Cyber Monday|
 [⬆️ Go to Top](#table-of-contents)
 
 ### 📕 Marketing Books
@@ -227,7 +227,8 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 |[Email Reputation Explained Well](https://www.amazon.com/dp/B0CLMWMKQD)|Learn how to preserve your email reputation while growing your business with this short Kindle book| Already applied 25% off until Cyber Monday |
-
+|  🤑 | [YouTube Secrets](https://www.wifimoneyplant.com/l/YouTubeSecrets/BLACKFRIDAY) | Learn how to grow and monetise your YouTube Channel| Link already discounted 75%, valid till Cyber Monday|
+|  🤑 | [X Hacks](https://www.wifimoneyplant.com/l/XHacks/BLACKFRIDAY) | Learn how to build an audience on X (Twitter) and make money from it | Link already discounted 75%, valid till Cyber Monday |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📹 Courses
@@ -286,5 +287,6 @@ Don't forget to:
 |  💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER23) | A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2014-2023. Updated regularly.  | 20% Off Using code 'SAVER23' until 30th Nov |
 |  🤑 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | Turn your iPad into a beautiful and powerful digital photo frame! | 50% off lifetime access. Applied automatically. |
 |  💼 | [DevITjobs](https://devitjobs.com) | Transparent Tech Job Board with salary info. Over 1500 IT / Dev Jobs with salary ranges and tech stack info. | 25% off the Annual Subscription with code **GITHUB_BF_DEAL** |
+|  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
 
 [⬆️ Go to Top](#table-of-contents)
