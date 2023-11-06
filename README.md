@@ -98,7 +98,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
