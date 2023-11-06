@@ -111,6 +111,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🤑 | [Email Me](https://emailmeapp.net) | The fastest way to capture your thoughts. Email yourself in one tap. | 50% OFF Lifetime Access |
+| 💰 | [Changes for Linear](https://changes.app/) | A native and minimal iOS app for linear. | Get 50% off by downloading the app |
 
 [⬆️ Go to Top](#table-of-contents)
 
