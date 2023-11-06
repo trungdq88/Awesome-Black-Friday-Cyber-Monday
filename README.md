@@ -74,6 +74,7 @@ Don't forget to:
 | 🤑 | [Deutsch Mentor](https://www.deutsch-mentor.com/en) | Experience a revolutionary way to learn German with the power of AI. Join Deutsch Mentor and learn German with a tutor that is always available for you. | The 50% discount will be available from 24 to 27 November directly on the webpage
 | 🤑 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats, various languages etc | Get 50% discount until November 28th
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app
+| 💰 | [PROMPTMETHEUS](https://promptmetheus.com) | Cross-platform Prompt IDE. Take your Prompt Engineering to the next level and augment your apps and workflows with the mighty capabilities of Generative AI. | Get 35% off with the code **`BLACKF23`**. Valid until Nov 24.
 
 
 [⬆️ Go to Top](#table-of-contents)
