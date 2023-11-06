@@ -130,6 +130,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Readbetter.io](https://readbetter.io) | Readbetter lets you read your favorite newsletters and web articles on your Kindle! Automatically receive your Substacks & co. on Kindle instead of in your email inbox. | 20% off all yearly plans with code **BLACKFRIDAY** |
 |  🤑 | [OneWeek](https://oneweek.app) | A crazy simple todo list for all workaholics | 80% OFF - auto-discount |
+| 💰 | [YouTube Summarized](https://www.youtubesummarized.com) | Generate video summaries of any YouTube video | 20% off any plan with coupon BLACKFRIDAY2023 |
 
 
 [⬆️ Go to Top](#table-of-contents)
