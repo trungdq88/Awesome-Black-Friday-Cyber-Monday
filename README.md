@@ -94,14 +94,6 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 🎛 Utility Tools
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
-
-
-[⬆️ Go to Top](#table-of-contents)
 
 ## ⌨️ Code Libraries
 
@@ -160,7 +152,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -180,6 +172,15 @@ Don't forget to:
 |  💵 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | 15% OFF the annual Ghostfolio Premium subscription |
 
 [⬆️ Go to Top](#table-of-contents)
+
+## 🎛 Utility Tools
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+
+[⬆️ Go to Top](#table-of-contents)
+
 
 ## 💅 Boilerplates, Starter-Kit, Templates
 
