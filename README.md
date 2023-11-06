@@ -57,6 +57,7 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster & Smarter with Proxyman. Support Apple Silicon & macOS Sonoma. Run on macOS, iOS, Windows, and Linux. | 30% OFF with code **PROXYMAN_BLACKFRIDAY_2023** |
 |  🤑 | [Dotenv](https://dotenv.org) | Secrets for developers. Sync your .env files across machines, environments, and team members. | 25% OFF forever with code **BLACKFRIDAY_2023** Sign up and then email [support@dotenv.org](mailto:support@dotenv.org) with the code. |
 |  💰 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code **BF2023** |
+| 💰 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **NEATBF2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -106,6 +107,7 @@ Don't forget to:
 | 🤑 | [MindPal](https://mindpal.space/) | Effortlessly build AI Agents for your tasks, on your custom data. The easiest way to double your brainpower, 10x your productivity with an AI-powered second brain that knows it all and does it all. | 50% OFF with code **BLACKFRIDAY50** |
 | 🤑 | [ToDoBar](https://todobar.compzets.com/) | Effortlessly manage to-dos from your Mac menu bar | >= 50% OFF auto-discount |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon. | 30% OFF with code **BLACK23** |
+| 💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **NEATBF2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
