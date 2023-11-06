@@ -115,6 +115,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 | 🤑 | [Email Me](https://emailmeapp.net) | The fastest way to capture your thoughts. Email yourself in one tap. | 50% OFF Lifetime Access |
 | 💰 | [Changes for Linear](https://changes.app/) | A native and minimal iOS app for linear. | Get 50% off by downloading the app |
+| 💰 | [Myday](https://apps.apple.com/app/id1631348027) | Ultimate daily planner for busy individuals | 50% OFF Lifetime Purchase |
 
 [⬆️ Go to Top](#table-of-contents)
 
