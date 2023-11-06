@@ -132,7 +132,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  🤑 | [OneWeek](https://oneweek.app) | A crazy simple todo list for all workaholics | 80% OFF - auto-discount |
 
 
 [⬆️ Go to Top](#table-of-contents)
