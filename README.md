@@ -203,6 +203,14 @@ Don't forget to:
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📚 Books
+### 📙 AI & Machine Learning Books
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
+
+[⬆️ Go to Top](#table-of-contents)
+
 ### 📗 Programming Books
 
 |  | Name | Description | Discount Code & Terms |
