@@ -36,7 +36,7 @@ Don't forget to:
 - [💅 Boilerplates, Starter-Kit, Templates (2)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
-  - [📙 AI & Machine Learning Books (1)](#-ai--machine-learning-books)
+	- [📙 AI & Machine Learning Books (1)](#-ai--machine-learning-books)
 	- [📗 Programming Books (4)](#-programming-books)
 	- [📘 Startup & Career Books (3)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
