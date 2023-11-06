@@ -73,7 +73,7 @@ Don't forget to:
 | 🤑 | [Deutsch Mentor](https://www.deutsch-mentor.com/en) | Experience a revolutionary way to learn German with the power of AI. Join Deutsch Mentor and learn German with a tutor that is always available for you. | The 50% discount will be available from 24 to 27 November directly on the webpage
 | 🤑 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats, various languages etc | Get 50% discount until November 28th
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app
-
+| 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`**
 
 [⬆️ Go to Top](#table-of-contents)
 
