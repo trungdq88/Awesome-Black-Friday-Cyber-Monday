@@ -98,7 +98,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
+| 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
