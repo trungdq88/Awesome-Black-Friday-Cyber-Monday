@@ -298,11 +298,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Join The Python Coding Place: Are you in the early or intermediate stages of learning to code? Membership of The Python Coding Place gives you access to courses in Python at all levels, both video-based and live courses, workshops and regular deep-dives on topics in Python Programming.
-
-You can become a Lifetime Member of The Python Coding Place's Members' Area (it's the only membership type available, there are no subscriptions!). The one-time membership fee is normally $350 and is now discounted to $95 - This is a one-time payment that gives you lifetime membership–access to everything, forever.
-
-You can get your membership here: https://thepythoncodingplace.com
+|  🤑 | Join The Python Coding Place: Are you in the early or intermediate stages of learning to code? Membership of The Python Coding Place gives you access to courses in Python at all levels, both video-based and live courses, workshops and regular deep-dives on topics in Python Programming. You can become a Lifetime Member of The Python Coding Place's Members' Area (it's the only membership type available, there are no subscriptions!). The one-time membership fee is normally $350 and is now discounted to $95 - This is a one-time payment that gives you lifetime membership–access to everything, forever.
 
 If you're a beginner, you can start havinga look at A Python Tale, the course for complete beginners learning to code, which is free | [$95 instead of $350]([https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368](https://thepythoncodingplace.com/membership/))  | $95 instead of $350 |
 
