@@ -202,7 +202,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 | [Indexing Beyond the Basics](https://sqlfordevs.com/ebooks/indexing) | Learn to create database indexes for your slow queries by ~~studying complicated database internals~~ following simple principles. | 20-33% discount automatically applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
