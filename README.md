@@ -202,7 +202,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  🤑 | [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/blackfriday) | A Practical Guide to Earning Income through Blogging. | Already applied "BLACKFRIDAY" for 50% off untill cyber monday. |
 
 [⬆️ Go to Top](#table-of-contents)
 
