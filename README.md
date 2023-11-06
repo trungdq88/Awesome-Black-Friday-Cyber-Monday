@@ -185,6 +185,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code **BLACKFRIDAY2023** |
+|  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50% OFF with code **G5NJE1MW** |
 
 [⬆️ Go to Top](#table-of-contents)
 
