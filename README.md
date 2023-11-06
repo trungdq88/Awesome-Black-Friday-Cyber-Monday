@@ -60,7 +60,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 40% OFF with code **BLACKFRIDAY_2023** |
+|  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -70,7 +70,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto-hide sensitive info, auto-fill background color. Other features: annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 40% OFF with code **BLACKFRIDAY_2023** |
+|  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto-hide sensitive info, auto-fill background color. Other features: annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
