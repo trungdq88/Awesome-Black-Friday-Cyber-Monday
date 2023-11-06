@@ -132,7 +132,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 | [Readbetter.io](https://readbetter.io) | Readbetter lets you read your favorite newsletters and web articles on your Kindle! Automatically receive your Substacks & co. on Kindle instead of in your email inbox. | 20% off all yearly plans with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
