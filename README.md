@@ -61,7 +61,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
-|  🤑 | [Find My Ports](https://findmyports.com) | Manage all your open development ports, resolve conflicts, and Vercel deployment status integration. Supports Apple Silicon & macOS Sonoma+. | 50% OFF with code **`BLACKFRIDAY_2023`** |
+|  🤑 | [Find My Ports](https://findmyports.com) | Manage all your open development ports, resolve conflicts, and Vercel deployment status integration. Supports Apple Silicon & macOS Sonoma+. | 50% OFF with code **`BLACKFRIDAY2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
