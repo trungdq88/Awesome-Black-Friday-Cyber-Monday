@@ -132,7 +132,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💰 | [YouTube Summarized](https://www.youtubesummarized.com) | Generate video summaries of any YouTube video | 20% off with any plan with coupon BLACKFRIDAY2023 |
+| 💰 | [YouTube Summarized](https://www.youtubesummarized.com) | Generate video summaries of any YouTube video | 20% off any plan with coupon BLACKFRIDAY2023 |
 
 
 [⬆️ Go to Top](#table-of-contents)
