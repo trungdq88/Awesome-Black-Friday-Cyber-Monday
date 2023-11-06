@@ -328,7 +328,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  🤑 | [Small Bets Community](https://smallbets.co) | An online community for solopreneurs with live workshops and a support network to help you get your first small wins. | 50% off applied automatically for lifetime membership |
 
 
 [⬆️ Go to Top](#table-of-contents)
