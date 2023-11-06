@@ -132,7 +132,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 💰 | [YouTube Summarized](https://www.youtubesummarized.com) | Generate video summaries of any YouTube video | 20% off with any plan with coupon BLACKFRIDAY2023 |
 
 
 [⬆️ Go to Top](#table-of-contents)
