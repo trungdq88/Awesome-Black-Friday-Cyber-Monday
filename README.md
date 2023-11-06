@@ -57,6 +57,7 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster & Smarter with Proxyman. Support Apple Silicon & macOS Sonoma. Run on macOS, iOS, Windows, and Linux. | 30% OFF with code **PROXYMAN_BLACKFRIDAY_2023** |
 |  🤑 | [Dotenv](https://dotenv.org) | Secrets for developers. Sync your .env files across machines, environments, and team members. | 25% OFF forever with code **BLACKFRIDAY_2023** Sign up and then email [support@dotenv.org](mailto:support@dotenv.org) with the code. |
 |  💰 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code **BF2023** |
+|  💰 | [Aptakube](https://www.aptakube.com/) | Desktop Client for Kubernetes. Modern, fast and multi-cluster. Runs on macOS, Windows, and Linux | 30% OFF on personal licenses with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
