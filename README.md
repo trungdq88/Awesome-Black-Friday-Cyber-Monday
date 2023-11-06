@@ -57,6 +57,7 @@ Don't forget to:
 |  💰 | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster & Smarter with Proxyman. Support Apple Silicon & macOS Sonoma. Run on macOS, iOS, Windows, and Linux. | 30% OFF with code **PROXYMAN_BLACKFRIDAY_2023** |
 |  🤑 | [Dotenv](https://dotenv.org) | Secrets for developers. Sync your .env files across machines, environments, and team members. | 25% OFF forever with code **BLACKFRIDAY_2023** Sign up and then email [support@dotenv.org](mailto:support@dotenv.org) with the code. |
 |  💰 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code **BF2023** |
+|  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -235,6 +236,7 @@ Don't forget to:
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📹 Courses
+|  💰 | [Testing Laravel](https://testing-laravel.com) | Learn how to automatically test your Laravel app using PHPUnit and Pest. | 30 % discount from 20 November until Cyber Monday. |
 
 ### 💻 Programming Courses
 
@@ -243,6 +245,12 @@ Don't forget to:
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY) | Learn Programming using the Go (Golang) programming language by building your own games. Excellent for beginners, who are starting out w/ programming or want to pick up Golang. | 80% OFF with code **BLACKFRIDAY** |
 |  🤑 | [Learn Programming in Python at The Python Coding Place](https://thepythoncodingplace.com) | Are you in the early or intermediate stages of learning to code? Membership of The Python Coding Place gives you access to courses in Python at all levels, both video-based and live courses, workshops and regular deep-dives on topics in Python Programming. You can become a Lifetime Member of The Python Coding Place's Members' Area (it's the only membership type available, there are no subscriptions!). The one-time membership fee is normally $350 and is now discounted to $95 - This is a one-time payment that gives you lifetime membership–access to everything, forever. And if you're a beginner, you can start having a look at A Python Tale, the course for complete beginners learning to code, which is free | 70% OFF Membership |
 |  🤑 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css) | Level up with Tailwind CSS is your journey into mastering Tailwind CSS. With in-depth insights into advanced concepts, tips and tricks, this book will enable you to work faster and with more skill. This also includes multiple real-world examples that you've always wanted to see in Tailwind CSS. | 50% discount on eBook and Video Course with code **BLACKFRIDAY23** valid from 17th November until Cyber Monday |
+|  💰 | [Writing Readable PHP](https://writing-readable-php.com) | Learn how to write PHP that is a joy to read and easy to understand for you and your team. | 30 % discount from 20th November until Cyber Monday. |
+|  💰 | [Laravel Package Training](https://laravelpackage.training) | Learn how to create a Laravel package from scratch. | 30 % discount from 20th November until Cyber Monday. |
+|  💰 | [Laravel Beyond CRUD](https://laravel-beyond-crud.com) | Learn how to build larger-than-average Laravel applications and how to maintain them for years to come. | 30 % discount from 20th November until Cyber Monday. |
+|  💰 | [Front Line PHP](https://front-line-php.com) | Learn how to build modern applications with PHP 8.2 | 30 % discount from 20th November until Cyber Monday. |
+|  💰 | [Event Sourcing in Laravel](https://event-sourcing-laravel.com) | A hands-on course to start using event sourcing in large Laravel applications. | 30 % discount from 20th November until Cyber Monday. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
