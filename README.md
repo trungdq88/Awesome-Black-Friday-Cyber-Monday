@@ -130,13 +130,13 @@ Don't forget to:
 
 ## 🌈 Marketing Tools
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|    | Name      | Description | Discount Code & Terms                                                                             |
+|----|-----------| ------ |---------------------------------------------------------------------------------------------------|
+| 🤑 | Clippulse | Clippulse empowers you to create captivating, professional-grade promo videos that resonate with your audience, drive more traffic, and elevate brand awareness, without video editing headaches. | $59 Lifetime Deal |
+| 👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸                                                                                                |
 
 
 [⬆️ Go to Top](#table-of-contents)
-
 
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
