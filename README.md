@@ -75,7 +75,7 @@ Don't forget to:
 | 🤑 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats, various languages etc | Get 50% discount until November 28th
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app
 | 💰 | [Sourcely](https://sourcely.net/) | AI-powered tool for finding, summarizing, and formatting sources for your academic papers. That's something Google Scholar can't do. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27.
-| 💰 | [Yomu AI](https://yomu.ai/) | AI-powered editor for writing, editing, citing, and proofreading top-quality papers and essays. Save time and write superior academic papers with Yomu AI. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27.
+| 💰 | [Yomu AI](https://yomu.ai/) | AI-powered editor for writing, editing, citing, and proofreading papers and essays. Save time and write superior academic papers with Yomu AI. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27.
 
 [⬆️ Go to Top](#table-of-contents)
 
