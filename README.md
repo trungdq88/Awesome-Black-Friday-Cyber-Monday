@@ -123,6 +123,7 @@ Don't forget to:
 |  🤑 | [OneWeek](https://oneweek.app) | A crazy simple todo list for all workaholics | 80% OFF - auto-discount |
 | 💰 | [YouTube Summarized](https://www.youtubesummarized.com) | Generate video summaries of any YouTube video | 20% off any plan with coupon BLACKFRIDAY2023 |
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **Y1MDUXNW** to redeem this while checking out |
+| 💰 | [Buildstreak](https://www.buildstreak.com/) | Stop abandoning projects, start shipping more. | 30% off the lifetime deal. Use code **BF30** at checkout. |
 
 
 [⬆️ Go to Top](#table-of-contents)
