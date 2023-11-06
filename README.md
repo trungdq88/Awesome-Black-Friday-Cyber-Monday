@@ -279,5 +279,6 @@ Don't forget to:
 |  💰 | [NotionReads](https://notionreads.com) | NotionReads is the ultimate Notion template to help you organize all of your bookshelves digitally. It integrates an interactive booksearch and lets you import directly from Goodreads. | 20% off lifetime access with code **BLACKFRIDAY** |
 |  💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER23) | A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2014-2023. Updated regularly.  | 20% Off Using code 'SAVER23' until 30th Nov |
 |  🤑 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | Turn your iPad into a beautiful and powerful digital photo frame! | 50% off lifetime access. Applied automatically. |
+|  💼 | [DevITjobs](https://devitjobs.com) | Transparent Tech Job Board with salary info. Over 1500 IT / Dev Jobs with salary ranges and tech stack info. | 25% off the Annual Subscription with code **GITHUB_BF_DEAL** |
 
 [⬆️ Go to Top](#table-of-contents)
