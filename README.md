@@ -74,6 +74,7 @@ Don't forget to:
 | 🤑 | [PDF Pals](https://pdfpals.com?ref=awesomebf) | Native ChatPDF app for Mac. It allows users to chat with any PDF document on their Mac without the need for uploading or file size limitations. The tool offers a fast and powerful OCR engine, enabling it to handle scanned PDFs and complex forms effectively | Enjoy 53% off with this discount code **`AWESOMEBF2023`**
 | 🤑 | [ChatHub](https://chathub.gg/?utm_source=awesomebf) | All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. | Enjoy 30% off with this discount code **`BLACKFRIDAY2023`**
 | 🤑 | [Writers brew](https://writersbrew.app) | An AI writing assistant app for Mac. It works across your macOS. It has 50+ writing tools, presets, utilities, OCR etc | Get 50% OFF - Discount auto-applied**
+| 🤑 | [JSON Data AI](https://jsondataai.com) | Create AI-generated API endpoints. Get JSON data about anything with a prompt. Turn it into an API endpoint. Start fetching. | Enjoy 50% off with this discount code **`BLACKFRIDAY50`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
