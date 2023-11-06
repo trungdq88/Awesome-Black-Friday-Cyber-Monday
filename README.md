@@ -210,7 +210,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 |[Email Reputation Explained Well](https://www.amazon.com/dp/B0CLMWMKQD)|Learn how to preserve your email reputation while growing your business with this short Kindle book| Already applied 25% off until Cyber Monday |
 
 [⬆️ Go to Top](#table-of-contents)
 
