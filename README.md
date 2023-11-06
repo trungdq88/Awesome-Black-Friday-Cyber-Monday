@@ -209,6 +209,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Indexing Beyond the Basics](https://sqlfordevs.com/ebooks/indexing) | Learn to create database indexes for your slow queries by ~~studying complicated database internals~~ following simple principles. | 20-33% discount automatically applied |
 |  🤑 | [Soccer Betting Books](https://tropianhs.gumroad.com/) | How to create a soccer betting model with Python and ML and how to build an automated betting strategy | 50% discount on all books with code BLACKFRIDAY23 |
+|  💰 | [Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/BlackFridayAnytime) | Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview. | 30% FLAT discount automatically applied only till Black Friday|
 
 
 [⬆️ Go to Top](#table-of-contents)
