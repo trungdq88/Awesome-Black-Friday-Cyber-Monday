@@ -328,7 +328,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤑 | [Small Bets Community](https://smallbets.co) | An online community for solopreneurs with live workshops and a support network to help you get your first small wins. | 50% off applied automatically for lifetime membership |
+|  🤑 | [Small Bets Community](https://smallbets.co) | An online community for solopreneurs. Regular live classes from domain experts, and a support network to help you get your first small wins. 3,800+ members! | 50% off lifetime membership. Applied automatically. |
 
 
 [⬆️ Go to Top](#table-of-contents)
