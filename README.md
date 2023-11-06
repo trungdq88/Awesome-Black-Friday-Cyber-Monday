@@ -356,6 +356,6 @@ Don't forget to:
 |  🤑 | [Small Bets Community](https://smallbets.co) | An online community for solopreneurs. Regular live classes from domain experts, and a support network to help you get your first small wins. 3,800+ members! | 50% off lifetime membership. Applied automatically. |
 |  💰 | [NotionReads](https://notionreads.com) | NotionReads is the ultimate Notion template to help you organize all of your bookshelves digitally. It integrates an interactive booksearch and lets you import directly from Goodreads. | 20% off lifetime access with code **BLACKFRIDAY** |
 |  💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER23) | A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2014-2023. Updated regularly.  | 20% Off Using code 'SAVER23' until 30th Nov |
-
+|  🤑 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | Turn your iPad into a beautiful and powerful digital photo frame! | 50% off lifetime access. Applied automatically. |
 
 [⬆️ Go to Top](#table-of-contents)
