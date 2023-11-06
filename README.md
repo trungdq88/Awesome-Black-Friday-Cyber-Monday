@@ -348,7 +348,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Small Bets Community](https://smallbets.co) | An online community for solopreneurs. Regular live classes from domain experts, and a support network to help you get your first small wins. 3,800+ members! | 50% off lifetime membership. Applied automatically. |
-|  💰 | [NotionReads](https://notionreads.com) | NotionReads is the ultimate Notion template to help you organize all of your bookshelves digitally. It integrates an interactive booksearch and lets you import directly from Goodreads | 20% off lifetime access with code **BLACKFRIDAY** |
+|  💰 | [NotionReads](https://notionreads.com) | NotionReads is the ultimate Notion template to help you organize all of your bookshelves digitally. It integrates an interactive booksearch and lets you import directly from Goodreads. | 20% off lifetime access with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
