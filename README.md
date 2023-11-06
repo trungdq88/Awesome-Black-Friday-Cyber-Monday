@@ -72,6 +72,7 @@ Don't forget to:
 | 🤑 | [VectorArt.ai](https://vectorart.ai?ref=awesomebf) | Create vector images with AI. Use the power of generative AI to create infinitely scalable vector images, logos, icons and illustrations for your website, business or app. | Enjoy 50% off with this discount code **`BFF2023`**
 | 🤑 | [Deutsch Mentor](https://www.deutsch-mentor.com/en) | Experience a revolutionary way to learn German with the power of AI. Join Deutsch Mentor and learn German with a tutor that is always available for you. | The 50% discount will be available from 24 to 27 November directly on the webpage
 | 🤑 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats, various languages etc | Get 50% discount until November 28th
+| 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -103,6 +104,7 @@ Don't forget to:
 | 💰 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 30% OFF auto-discount |
 | 🤑 | [MindPal](https://mindpal.space/) | Effortlessly build AI Agents for your tasks, on your custom data. The easiest way to double your brainpower, 10x your productivity with an AI-powered second brain that knows it all and does it all. | 50% OFF with code **BLACKFRIDAY50** |
 | 🤑 | [ToDoBar](https://todobar.compzets.com/) | Effortlessly manage to-dos from your Mac menu bar | >= 50% OFF auto-discount |
+| 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon. | 30% OFF with code **BLACK23** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -111,6 +113,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🤑 | [Email Me](https://emailmeapp.net) | The fastest way to capture your thoughts. Email yourself in one tap. | 50% OFF Lifetime Access |
+| 💰 | [Changes for Linear](https://changes.app/) | A native and minimal iOS app for linear. | Get 50% off by downloading the app |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -122,6 +125,7 @@ Don't forget to:
 |  🤑 | [OneWeek](https://oneweek.app) | A crazy simple todo list for all workaholics | 80% OFF - auto-discount |
 | 💰 | [YouTube Summarized](https://www.youtubesummarized.com) | Generate video summaries of any YouTube video | 20% off any plan with coupon BLACKFRIDAY2023 |
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **Y1MDUXNW** to redeem this while checking out |
+| 💰 | [Buildstreak](https://www.buildstreak.com/) | Stop abandoning projects, start shipping more. | 30% off the lifetime deal. Use code **BF30** at checkout. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -205,6 +209,7 @@ Don't forget to:
 |  💰 | [Indexing Beyond the Basics](https://sqlfordevs.com/ebooks/indexing) | Learn to create database indexes for your slow queries by ~~studying complicated database internals~~ following simple principles. | 20-33% discount automatically applied |
 |  🤑 | [Soccer Betting Books](https://tropianhs.gumroad.com/) | How to create a soccer betting model with Python and ML and how to build an automated betting strategy | 50% discount on all books with code BLACKFRIDAY23 |
 |  💰 | [Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/BlackFridayAnytime) | Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview. | 30% FLAT discount automatically applied only till Black Friday|
+|  🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid) | Become a Pro at building components & layouts with CSS Flexbox and Grid. Explained with 70+ real world use cases and examples. Gain access to Private CodePen links with working demos for all examples. Choose Vanilla CSS or Tailwind CSS eBook version | 50% discount on all versions with code **BLACKFRIDAY23** valid from 17th November until Cyber Monday |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -234,6 +239,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY) | Learn Programming using the Go (Golang) programming language by building your own games. Excellent for beginners, who are starting out w/ programming or want to pick up Golang. | 80% OFF with code **BLACKFRIDAY** |
 |  🤑 | [Learn Programming in Python at The Python Coding Place](https://thepythoncodingplace.com) | Are you in the early or intermediate stages of learning to code? Membership of The Python Coding Place gives you access to courses in Python at all levels, both video-based and live courses, workshops and regular deep-dives on topics in Python Programming. You can become a Lifetime Member of The Python Coding Place's Members' Area (it's the only membership type available, there are no subscriptions!). The one-time membership fee is normally $350 and is now discounted to $95 - This is a one-time payment that gives you lifetime membership–access to everything, forever. And if you're a beginner, you can start having a look at A Python Tale, the course for complete beginners learning to code, which is free | 70% OFF Membership |
+|  🤑 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css) | Level up with Tailwind CSS is your journey into mastering Tailwind CSS. With in-depth insights into advanced concepts, tips and tricks, this book will enable you to work faster and with more skill. This also includes multiple real-world examples that you've always wanted to see in Tailwind CSS. | 50% discount on eBook and Video Course with code **BLACKFRIDAY23** valid from 17th November until Cyber Monday |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -280,5 +286,7 @@ Don't forget to:
 |  💰 | [NotionReads](https://notionreads.com) | NotionReads is the ultimate Notion template to help you organize all of your bookshelves digitally. It integrates an interactive booksearch and lets you import directly from Goodreads. | 20% off lifetime access with code **BLACKFRIDAY** |
 |  💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER23) | A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2014-2023. Updated regularly.  | 20% Off Using code 'SAVER23' until 30th Nov |
 |  🤑 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | Turn your iPad into a beautiful and powerful digital photo frame! | 50% off lifetime access. Applied automatically. |
+|  💼 | [DevITjobs](https://devitjobs.com) | Transparent Tech Job Board with salary info. Over 1500 IT / Dev Jobs with salary ranges and tech stack info. | 25% off the Annual Subscription with code **GITHUB_BF_DEAL** |
 |  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
+
 [⬆️ Go to Top](#table-of-contents)
