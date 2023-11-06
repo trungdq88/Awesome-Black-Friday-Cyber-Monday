@@ -176,7 +176,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  💵 | Ghostfolio | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | 15% OFF the annual Ghostfolio Premium subscription |
+|  💵 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | 15% OFF the annual Ghostfolio Premium subscription |
 
 [⬆️ Go to Top](#table-of-contents)
 
