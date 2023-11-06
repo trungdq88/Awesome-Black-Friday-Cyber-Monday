@@ -65,6 +65,15 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
+## 🤖 AI Tools
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [TypingMind](https://www.typingmind.com) | The best advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins | 40% OFF with code **BLACKFRIDAY2023** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
 
 ## 🌅 Design Tools
 
@@ -136,15 +145,6 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
-
-## 🤖 AI Tools
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  🤑 | [TypingMind](https://www.typingmind.com) | The best advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins | 40% OFF with code **BLACKFRIDAY2023** |
-
-
-[⬆️ Go to Top](#table-of-contents)
 
 ## 🚀 Startup SaaS/Tools
 
