@@ -61,6 +61,8 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
+|  🤑 | [Find My Ports](https://findmyports.com) | Manage all your open development ports, resolve conflicts, and Vercel deployment status integration. Supports Apple Silicon & macOS Sonoma+. | 50% OFF with code **`BLACKFRIDAY2023`** |
+|  💰 | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster & Smarter with Proxyman. Support Apple Silicon & macOS Sonoma. Run on macOS, iOS, Windows, and Linux. | 20% OFF with code **PROXYMAN_BLACKFRIDAY_2023** |
 |  🤑 | [Dotenv](https://dotenv.org) | Secrets for developers. Sync your .env files across machines, environments, and team members. | 25% OFF forever with code **BLACKFRIDAY_2023** Sign up and then email [support@dotenv.org](mailto:support@dotenv.org) with the code. |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -72,6 +74,10 @@ Don't forget to:
 |  🤑 | [TypingMind](https://www.typingmind.com) | The best advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins | 40% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [BoltAI](https://boltai.com?ref=awesomebf) | Native ChatGPT app for Mac. It allows entrepreneurs, developers, marketers, students, and anyone else to integrate AI assistance into their daily tasks. It is designed to enhance productivity across a wide range of professions, from writing and development to management and entrepreneurship | Enjoy 53% off with this discount code **`AWESOMEBF2023`**
 | 🤑 | [PDF Pals](https://pdfpals.com?ref=awesomebf) | Native ChatPDF app for Mac. It allows users to chat with any PDF document on their Mac without the need for uploading or file size limitations. The tool offers a fast and powerful OCR engine, enabling it to handle scanned PDFs and complex forms effectively | Enjoy 53% off with this discount code **`AWESOMEBF2023`**
+| 🤑 | [ChatHub](https://chathub.gg/?utm_source=awesomebf) | All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. | Enjoy 30% off with this discount code **`BLACKFRIDAY2023`**
+| 🤑 | [Writers brew](https://writersbrew.app) | An AI writing assistant app for Mac. It works across your macOS. It has 50+ writing tools, presets, utilities, OCR etc | Get 50% OFF - Discount auto-applied**
+| 🤑 | [JSON Data AI](https://jsondataai.com) | Create AI-generated API endpoints. Get JSON data about anything with a prompt. Turn it into an API endpoint. Start fetching. | Enjoy 50% off with this discount code **`BLACKFRIDAY50`** |
+| 🤑 | [VectorArt.ai](https://vectorart.ai?ref=awesomebf) | Create vector images with AI. Use the power of generative AI to create infinitely scalable vector images, logos, icons and illustrations for your website, business or app. | Enjoy 50% off with this discount code **`BFF2023`**
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -107,7 +113,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 💰 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 30% OFF auto-discount |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -130,13 +136,13 @@ Don't forget to:
 
 ## 🌈 Marketing Tools
 
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|    | Name      | Description | Discount Code & Terms                                                                             |
+|----|-----------| ------ |---------------------------------------------------------------------------------------------------|
+| 🤑 | [Clippulse](https://www.clippulse.com) | Clippulse empowers you to create captivating, professional-grade promo videos that resonate with your audience, drive more traffic, and elevate brand awareness, without video editing headaches. | $59 Lifetime Deal |
+| 👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸                                                                                                |
 
 
 [⬆️ Go to Top](#table-of-contents)
-
 
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
@@ -210,7 +216,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 |[Email Reputation Explained Well](https://www.amazon.com/dp/B0CLMWMKQD)|Learn how to preserve your email reputation while growing your business with this short Kindle book| Already applied 25% off until Cyber Monday |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -259,6 +265,11 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
+#### Go (Golang) Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY) | Learn Programming using the Go (Golang) programming language by building your own games. Excellent for beginners, who are starting out w/ programming or want to pick up Golang. | 80% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
