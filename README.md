@@ -111,6 +111,8 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 30% OFF auto-discount |
+| 🤑 | [MindPal](https://mindpal.space/) | Effortlessly build AI Agents for your tasks, on your custom data. The easiest way to double your brainpower, 10x your productivity with an AI-powered second brain that knows it all and does it all. | 50% OFF with code **BLACKFRIDAY50** |
+| 🤑 | [ToDoBar](https://todobar.compzets.com/) | Effortlessly manage to-dos from your Mac menu bar | >= 50% OFF auto-discount |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -118,7 +120,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 🤑 | [Email Me](https://emailmeapp.net) | The fastest way to capture your thoughts. Email yourself in one tap. | 50% OFF Lifetime Access |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -128,6 +130,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Readbetter.io](https://readbetter.io) | Readbetter lets you read your favorite newsletters and web articles on your Kindle! Automatically receive your Substacks & co. on Kindle instead of in your email inbox. | 20% off all yearly plans with code **BLACKFRIDAY** |
 |  🤑 | [OneWeek](https://oneweek.app) | A crazy simple todo list for all workaholics | 80% OFF - auto-discount |
+| 💰 | [YouTube Summarized](https://www.youtubesummarized.com) | Generate video summaries of any YouTube video | 20% off any plan with coupon BLACKFRIDAY2023 |
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **Y1MDUXNW** to redeem this while checking out |
 
 
@@ -356,6 +359,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Small Bets Community](https://smallbets.co) | An online community for solopreneurs. Regular live classes from domain experts, and a support network to help you get your first small wins. 3,800+ members! | 50% off lifetime membership. Applied automatically. |
 |  💰 | [NotionReads](https://notionreads.com) | NotionReads is the ultimate Notion template to help you organize all of your bookshelves digitally. It integrates an interactive booksearch and lets you import directly from Goodreads. | 20% off lifetime access with code **BLACKFRIDAY** |
-
+|  💰 | [Side Projects Making $$$+](https://niftydigits.gumroad.com/l/side-projects/SAVER23) | A complete collection of notion databases detailing every side project making real money posted to Hacker News from 2014-2023. Updated regularly.  | 20% Off Using code 'SAVER23' until 30th Nov |
+|  🤑 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | Turn your iPad into a beautiful and powerful digital photo frame! | 50% off lifetime access. Applied automatically. |
 
 [⬆️ Go to Top](#table-of-contents)
