@@ -97,7 +97,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  💰 | [Docswrite](https://docswrite.com/) | Export Google Docs to WordPress in 1-Click. Clean SEO-optimized exports including your images without any copy-paste. | 25% OFF with code **`25BLACK`** |
+|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -149,7 +149,7 @@ Don't forget to:
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 | [Docswrite](https://docswrite.com/) | Export Google Docs to WordPress in 1-Click. Clean SEO-optimized exports including your images without any copy-paste. | 25% OFF with code **`25BLACK`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
