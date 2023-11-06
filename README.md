@@ -19,43 +19,43 @@ Don't forget to:
 
 
 ## Table of Contents
-
-- [👨‍💻 Developer Tools (25)](#-developer-tools)
-- [🌅 Design Tools (23)](#-design-tools)
-- [🎛 Utility Tools (12)](#-utility-tools)
-- [⌨️ Code Libraries (3)](#️-code-libraries)
+- [Table of Contents ](#table-of-contents)
+- [👨‍💻 Developer Tools (5)](#-developer-tools)
+- [🤖 AI Tools (9)](#-ai-tools)
+- [🌅 Design Tools (1)](#-design-tools)
+- [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (20)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (12)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (21)](#-marketing-tools)
-- [🔍 SEO Tools (6)](#-seo-tools)
-- [🤖 AI Tools (10)](#-ai-tools)
-- [🚀 Startup SaaS/Tools (43)](#-startup-saastools)
-- [🌏 Social Media Tools (20)](#-social-media-tools)
-- [💸 Finance Tools (8)](#-finance-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (11)](#-themes-plugins)
+	- [🖥️ Productivity Desktop Apps (3)](#️-productivity-desktop-apps)
+	- [📱 Productivity Mobile Apps (1)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (4)](#️-productivity-tools--services)
+- [🌈 Marketing Tools (3)](#-marketing-tools)
+- [🔍 SEO Tools (2)](#-seo-tools)
+- [🚀 Startup SaaS/Tools (1)](#-startup-saastools)
+- [🌏 Social Media Tools (1)](#-social-media-tools)
+- [💸 Finance Tools (1)](#-finance-tools)
+- [🎛 Utility Tools (1)](#-utility-tools)
+- [💅 Boilerplates, Starter-Kit, Templates (1)](#-boilerplates-starter-kit-templates)
+- [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (15)](#-programming-books)
-	- [📘 Startup & Career Books (14)](#-startup--career-books)
-	- [📕 Marketing Books (4)](#-marketing-books)
+	- [📗 Programming Books (3)](#-programming-books)
+	- [📘 Startup & Career Books (1)](#-startup--career-books)
+	- [📕 Marketing Books (1)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses ](#-programming-courses)
-		- [Front-end Development Courses (9)](#front-end-development-courses)
-		- [Backend Development Courses (5)](#backend-development-courses)
-		- [Mobile/Desktop/Multi-Platform-Apps Courses (4)](#mobiledesktopmulti-platform-apps-courses)
-		- [Data Structure & Algorithm Courses (2)](#data-structure--algorithm-courses)
-		- [C#/.Net Courses (4)](#cnet-courses)
-   		- [Go (Golang) Courses (1)](#go-golang-courses)
+		- [Front-end Development Courses (1)](#front-end-development-courses)
+		- [Backend Development Courses (1)](#backend-development-courses)
+		- [Mobile/Desktop/Multi-Platform-Apps Courses (1)](#mobiledesktopmulti-platform-apps-courses)
+		- [Data Structure & Algorithm Courses (1)](#data-structure--algorithm-courses)
+		- [C#/.Net Courses (1)](#cnet-courses)
+		- [Go (Golang) Courses (1)](#go-golang-courses)
 		- [InfoSec Courses (1)](#infosec-courses)
-		- [Programming Courses From Platforms (10)](#programming-courses-from-platforms)
-		- [Other General Programming Courses (9)](#other-general-programming-courses)
-	- [🎢 Career Courses (4)](#-career-courses)
-	- [📈 Marketing Courses (6)](#-marketing-courses)
-	- [🔒 Information Security Courses (5)](#-information-security-courses)
-- [💪 Health and Fitness (6)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (13)](#-miscellaneous)
+		- [Programming Courses From Platforms (1)](#programming-courses-from-platforms)
+		- [Other General Programming Courses (1)](#other-general-programming-courses)
+	- [🎢 Career Courses (1)](#-career-courses)
+	- [📈 Marketing Courses (1)](#-marketing-courses)
+	- [🔒 Information Security Courses (1)](#-information-security-courses)
+- [💪 Health and Fitness (1)](#-health-and-fitness)
+- [👨‍🎨 Miscellaneous (4)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -238,82 +238,9 @@ Don't forget to:
 
 ### 💻 Programming Courses
 
-#### Front-end Development Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### Backend Development Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### Mobile/Desktop/Multi-Platform-Apps Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### Data Structure & Algorithm Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### C#/.Net Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### Go (Golang) Courses
-
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY) | Learn Programming using the Go (Golang) programming language by building your own games. Excellent for beginners, who are starting out w/ programming or want to pick up Golang. | 80% OFF with code **BLACKFRIDAY** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### InfoSec Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### Programming Courses From Platforms
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-
-#### Other General Programming Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
 |  🤑 | [Learn Programming in Python at The Python Coding Place](https://thepythoncodingplace.com) | Are you in the early or intermediate stages of learning to code? Membership of The Python Coding Place gives you access to courses in Python at all levels, both video-based and live courses, workshops and regular deep-dives on topics in Python Programming. You can become a Lifetime Member of The Python Coding Place's Members' Area (it's the only membership type available, there are no subscriptions!). The one-time membership fee is normally $350 and is now discounted to $95 - This is a one-time payment that gives you lifetime membership–access to everything, forever. And if you're a beginner, you can start having a look at A Python Tale, the course for complete beginners learning to code, which is free | 70% OFF Membership |
 
 
