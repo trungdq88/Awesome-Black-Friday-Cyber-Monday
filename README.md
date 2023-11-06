@@ -30,7 +30,7 @@ Don't forget to:
 	- [🛠️ Productivity Tools & Services (12)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (21)](#-marketing-tools)
 - [🔍 SEO Tools (6)](#-seo-tools)
-- [🤖 AI Writing Tools (10)](#-ai-writing-tools)
+- [🤖 AI Tools (10)](#-ai-tools)
 - [🚀 Startup SaaS/Tools (43)](#-startup-saastools)
 - [🌏 Social Media Tools (20)](#-social-media-tools)
 - [💸 Finance Tools (8)](#-finance-tools)
@@ -137,11 +137,11 @@ Don't forget to:
 [⬆️ Go to Top](#table-of-contents)
 
 
-## 🤖 AI Writing Tools
+## 🤖 AI Tools
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  🤑 | [TypingMind](https://www.typingmind.com) | The best advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins | 40% OFF with code **BLACKFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
