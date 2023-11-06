@@ -264,6 +264,11 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
+#### Go (Golang) Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY) | Learn Programming using the Go (Golang) programming language by building your own games. Excellent for beginners, who are starting out w/ programming or want to pick up Golang. | 80% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
