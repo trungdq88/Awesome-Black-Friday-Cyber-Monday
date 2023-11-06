@@ -164,6 +164,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2023 for 50% off first year on annual plan |
+|  🤑 | [Assembly](https://assembly.marketing?utm_source=black_friday) | Assembly offers end to end tooling for your social workflow. Draft posts with a Notion-like editor, manage approvals of posts using Slack, and analyze your posts analytics across every social channel all in one place. P.S. if you do a lot of content, we also support bulk uploading and scheduling of social posts via CSV! | BLACKFRIDAY2023 for 50% off for 3 months |
 
 
 [⬆️ Go to Top](#table-of-contents)
