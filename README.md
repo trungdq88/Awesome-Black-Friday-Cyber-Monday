@@ -149,7 +149,7 @@ Don't forget to:
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. | 25% OFF with code **BLACKFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
