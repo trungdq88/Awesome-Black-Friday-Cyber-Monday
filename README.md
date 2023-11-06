@@ -47,7 +47,7 @@ Don't forget to:
 		- [Mobile/Desktop/Multi-Platform-Apps Courses (4)](#mobiledesktopmulti-platform-apps-courses)
 		- [Data Structure & Algorithm Courses (2)](#data-structure--algorithm-courses)
 		- [C#/.Net Courses (4)](#cnet-courses)
-   		- [Go (Golang) Courses (4)](#go-golang-courses)
+   		- [Go (Golang) Courses (1)](#go-golang-courses)
 		- [InfoSec Courses (1)](#infosec-courses)
 		- [Programming Courses From Platforms (10)](#programming-courses-from-platforms)
 		- [Other General Programming Courses (9)](#other-general-programming-courses)
