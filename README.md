@@ -73,7 +73,6 @@ Don't forget to:
 | 🤑 | [Deutsch Mentor](https://www.deutsch-mentor.com/en) | Experience a revolutionary way to learn German with the power of AI. Join Deutsch Mentor and learn German with a tutor that is always available for you. | The 50% discount will be available from 24 to 27 November directly on the webpage
 | 🤑 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats, various languages etc | Get 50% discount until November 28th
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app
-| 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`**
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -190,6 +189,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50% OFF with code **G5NJE1MW** |
+| 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
