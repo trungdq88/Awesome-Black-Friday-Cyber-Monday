@@ -147,6 +147,7 @@ Don't forget to:
 | 🤑 | [Breather](https://indiegoodies.com/breather) | A macOS Menu Bar application that provides a seamless and intuitive break management experience. | >= 50% OFF auto-discount |
 | 💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% OFF auto-discount |
 | 💰 | [SMBAct](https://smblob.com/products/smbact/) | Simplify the process of interacting with all your windows and applications using an all-in-one cross-platform window manager and switcher. Main features: control windows with keyboard, fuzzy search of window actions, switch focus to any window, multi-display support. Available for Windows, macOS and Linux. | 40% OFF with code **BF2023** |
+| 🤑 | [AudioWrangler](https://audiowrangler.app/) | macOS app that automatically switches to your favorite mic/speakers based on what is currently connected | 50% OFF auto-discount |
 
 
 [⬆️ Go to Top](#table-of-contents)
