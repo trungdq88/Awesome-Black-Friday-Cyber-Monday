@@ -162,7 +162,7 @@ Don't forget to:
 | 🤑 | [Clean Sweep](https://apps.apple.com/app/id6449146108) | Declutter your similar photos, videos and contacts. | 50% OFF Lifetime Access |
 | 🤑 | [TextMask](https://apps.apple.com/app/id6467501452) | Redact, highlight, blur, or pixelate live text on your images. | 50% OFF Lifetime Access |
 | 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680) | Universal app to save, organize, and sync across links for all your devices. | 45% OFF Lifetime Access |
-
+| 💰 | [RewardMe](https://apps.apple.com/app/id6444321059) | Looking for a fun and engaging way to motivate your child? RewardMe is the answer. Promote productivity and a positive daily routine. | 50% OFF Yearly |
 
 [⬆️ Go to Top](#table-of-contents)
 
