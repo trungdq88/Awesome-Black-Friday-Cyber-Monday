@@ -220,6 +220,7 @@ Don't forget to:
 |  💵 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | 15% OFF the annual Ghostfolio Premium subscription |
 |  🤑 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule) | This book explains the famous 4% rule, and how to optimize it, and also outlines the concrete steps for execution. Beyond all the calculations, she also offers insights into making informed career decisions that can eventually lead to financial independence. | 50% OFF with code **BLACKFRIDAY2023** |
+|  🤑 | [Finmei](https://finmei.com) | Professional invoicing for small businesses and freelancers. | $59 Lifetime Deal |
 
 [⬆️ Go to Top](#table-of-contents)
 
