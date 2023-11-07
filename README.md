@@ -36,7 +36,6 @@ Don't forget to:
 - [💅 Boilerplates, Starter-Kit, Templates (2)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
-	- [📙 AI & Machine Learning Books (1)](#-ai--machine-learning-books)
 	- [📗 Programming Books (4)](#-programming-books)
 	- [📘 Startup & Career Books (3)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
@@ -204,13 +203,6 @@ Don't forget to:
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📚 Books
-### 📙 AI & Machine Learning Books
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
-
-[⬆️ Go to Top](#table-of-contents)
 
 ### 📗 Programming Books
 
@@ -220,6 +212,7 @@ Don't forget to:
 |  🤑 | [Soccer Betting Books](https://tropianhs.gumroad.com/) | How to create a soccer betting model with Python and ML and how to build an automated betting strategy | 50% discount on all books with code BLACKFRIDAY23 |
 |  💰 | [Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/BlackFridayAnytime) | Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview. | 30% FLAT discount automatically applied only till Black Friday|
 |  🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid) | Become a Pro at building components & layouts with CSS Flexbox and Grid. Explained with 70+ real world use cases and examples. Gain access to Private CodePen links with working demos for all examples. Choose Vanilla CSS or Tailwind CSS eBook version | 50% discount on all versions with code **BLACKFRIDAY23** valid from 17th November until Cyber Monday |
+|  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
