@@ -151,7 +151,7 @@ Don't forget to:
 [⬆️ Go to Top](#table-of-contents)
 
 
-## 🚀 Startup SaaS/Tools/Agencies
+## 🚀 Startup SaaS/Tools
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
