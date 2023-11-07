@@ -110,6 +110,8 @@ Don't forget to:
 | 🤑 | [ToDoBar](https://todobar.compzets.com/) | Effortlessly manage to-dos from your Mac menu bar | >= 50% OFF auto-discount |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon. | 30% OFF with code **BLACK23** |
 | 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting apps & websites on iPhone, iPad, and Mac. | 50% OFF Monthly/Yearly |
+| 💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **NEATBF2023** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -188,7 +190,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 💰 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **NEATBF2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
