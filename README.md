@@ -213,6 +213,7 @@ Don't forget to:
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📚 Books
+
 ### 📗 Programming Books
 
 |  | Name | Description | Discount Code & Terms |
@@ -226,6 +227,7 @@ Don't forget to:
 |  🤑 | [Nail A Coding Interview](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
+|  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
 
 
 [⬆️ Go to Top](#table-of-contents)
