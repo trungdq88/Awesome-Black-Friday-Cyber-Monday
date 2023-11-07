@@ -219,6 +219,7 @@ Don't forget to:
 |  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50% OFF with code **G5NJE1MW** |
 | 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
 |  🤑 | [Blog Website Template, Ready to deploy](https://gracehuang.gumroad.com/l/blog-template) | This fully-functional blog template is built in Next.js and Tailwind CSS, with all the essential integrations such as EmailOctopus and Google Analytics included out-of-the-box. Simply customize the design to fit your brand and start writing your first post. | 50% OFF with code **BLACKFRIDAY2023** |
+|  💰 | [Gravity](https://usegravity.app) | Spin up a SaaS product in 5 minutes with the leading Node.js & React SaaS boilerplate. | 30% OFF from Black Friday to Cyber Monday with code **BLACKFRIDAY23** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -284,6 +285,8 @@ Don't forget to:
 |  💰 | [Front Line PHP](https://front-line-php.com) | Learn how to build modern applications with PHP 8.2 | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Event Sourcing in Laravel](https://event-sourcing-laravel.com) | A hands-on course to start using event sourcing in large Laravel applications. | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Testing Laravel](https://testing-laravel.com) | Learn how to automatically test your Laravel app using PHPUnit and Pest. | 30 % discount from 20 November until Cyber Monday. |
+|  💰 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | 25+ hours of video content teaching you everything you need to build
+a SaaS product. From authentication, design and payments to security and more. | 30 % OFF from Black Friday until Cyber Monday. |
 
 
 
