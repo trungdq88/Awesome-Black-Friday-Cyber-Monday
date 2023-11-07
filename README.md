@@ -74,7 +74,8 @@ Don't forget to:
 | 🤑 | [Deutsch Mentor](https://www.deutsch-mentor.com/en) | Experience a revolutionary way to learn German with the power of AI. Join Deutsch Mentor and learn German with a tutor that is always available for you. | The 50% discount will be available from 24 to 27 November directly on the webpage
 | 🤑 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats, various languages etc | Get 50% discount until November 28th
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app
-
+| 💰 | [Sourcely](https://sourcely.net/) | AI-powered tool for finding, summarizing, and formatting sources for your academic papers. That's something Google Scholar can't do. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27.
+| 💰 | [Yomu AI](https://yomu.ai/) | AI-powered editor for writing, editing, citing, and proofreading papers and essays. Save time and write superior academic papers with Yomu AI. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27.
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -107,6 +108,7 @@ Don't forget to:
 | 🤑 | [MindPal](https://mindpal.space/) | Effortlessly build AI Agents for your tasks, on your custom data. The easiest way to double your brainpower, 10x your productivity with an AI-powered second brain that knows it all and does it all. | 50% OFF with code **BLACKFRIDAY50** |
 | 🤑 | [ToDoBar](https://todobar.compzets.com/) | Effortlessly manage to-dos from your Mac menu bar | >= 50% OFF auto-discount |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon. | 30% OFF with code **BLACK23** |
+| 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting apps & websites on iPhone, iPad, and Mac. | 50% OFF Monthly/Yearly |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -116,6 +118,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 | 🤑 | [Email Me](https://emailmeapp.net) | The fastest way to capture your thoughts. Email yourself in one tap. | 50% OFF Lifetime Access |
 | 💰 | [Changes for Linear](https://changes.app/) | A native and minimal iOS app for linear. | Get 50% off by downloading the app |
+| 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you focus and be productive. | 50% OFF Monthly/Yearly |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -195,6 +198,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50% OFF with code **G5NJE1MW** |
+| 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
 |  🤑 | [Blog Website Template, Ready to deploy](https://gracehuang.gumroad.com/l/blog-template) | This fully-functional blog template is built in Next.js and Tailwind CSS, with all the essential integrations such as EmailOctopus and Google Analytics included out-of-the-box. Simply customize the design to fit your brand and start writing your first post. | 50% OFF with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -263,6 +267,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Get Your First Gig On Upwork](https://k2a2.gumroad.com/l/get-first-gig-upwork/BLACKFRIDAY) | A one-hour course to get your first gig on Upwork within days! | Get a 50% discount by following the link |
+|  💰 | [The RemindMe Course](https://www.tryd.com/remindmecourse) | RemindMe is a simple productivity system that will help you organize your to-dos and ensure enough balance for work and play. | 20% OFF with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
