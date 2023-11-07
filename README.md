@@ -29,7 +29,7 @@ Don't forget to:
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (13)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (8)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (4)](#-marketing-tools)
 - [🔍 SEO Tools (2)](#-seo-tools)
@@ -162,7 +162,7 @@ Don't forget to:
 | 🤑 | [Clean Sweep](https://apps.apple.com/app/id6449146108) | Declutter your similar photos, videos and contacts. | 50% OFF Lifetime Access |
 | 🤑 | [TextMask](https://apps.apple.com/app/id6467501452) | Redact, highlight, blur, or pixelate live text on your images. | 50% OFF Lifetime Access |
 | 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680) | Universal app to save, organize, and sync across links for all your devices. | 45% OFF Lifetime Access |
-
+| 💰 | [Journal it!](https://apps.apple.com/us/app/id1501944799)  | All-in-one life planner. The combination of journal, planner, note-taking, tracker, habit,... (iOS, Android, web). Local first, auto-sync, end-to-end encryption.                                                            | 50% OFF Lifetime Access            |
 
 [⬆️ Go to Top](#table-of-contents)
 
