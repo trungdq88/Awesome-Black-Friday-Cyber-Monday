@@ -21,7 +21,10 @@ Don't forget to:
 ## Table of Contents
 
 - [👨‍💻 Developer Tools (8)](#-developer-tools)
-- [🤖 AI Tools (19)](#-ai-tools)
+- [🤖 AI Tools ](#-ai-tools)
+	- [💬 AI Chat UI (4)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (7)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (4)](#-other-ai-tools)
 - [🌅 Design Tools (3)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
@@ -47,7 +50,6 @@ Don't forget to:
 	- [🔒 Information Security Courses (1)](#-information-security-courses)
 - [💪 Health and Fitness (1)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (6)](#-miscellaneous)
-
 
 ## 👨‍💻 Developer Tools
 
