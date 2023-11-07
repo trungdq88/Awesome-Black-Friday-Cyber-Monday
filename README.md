@@ -63,6 +63,7 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | Easily explore large databases, SQL or document. Also design, document and even analyze them. It's the perfect mix between an ERD, a SQL client and a data catalog. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Aptakube](https://aptakube.com/) | Desktop Client for Kubernetes. Modern, fast and multi-cluster. Runs on macOS, Windows, and Linux | 30% OFF on personal licenses with code **BLACKFRIDAY2023** |
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
+|  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
