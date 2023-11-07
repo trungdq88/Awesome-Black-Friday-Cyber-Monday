@@ -143,7 +143,9 @@ Don't forget to:
 | 🤑 | [ScreenMemory](https://screenmemory.app/) | Record your screen and play it back to remember what you worked on, with text search. macOS only. | 25% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [DevControls](https://jontelang.com/DevControls/) | Access and manage all your project from the macOS menu bar. | 25% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [Xbase](https://getxbase.com/) | Upgrade your Twitter with our powerful Twitter Bookmark Manager, with instant search and effortless note-taking.| 50% OFF auto-discount
+| 🤑 | [Breather](https://indiegoodies.com/breather) | A macOS Menu Bar application that provides a seamless and intuitive break management experience. | >= 50% OFF auto-discount |
 | 💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% OFF auto-discount |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -155,6 +157,9 @@ Don't forget to:
 | 💰 | [Changes for Linear](https://changes.app/) | A native and minimal iOS app for linear. | Get 50% off by downloading the app |
 | 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you focus and be productive. | 50% OFF Monthly/Yearly |
 | 💰 | [Myday](https://apps.apple.com/app/id1631348027) | Myday is a powerful daily planner app that is designed to boost productivity and help users achieve their daily goals. Myday is perfect for those who struggle with time management and need a better way to plan their day. | 50% OFF Lifetime Purchase |
+| 🤑 | [Clean Sweep](https://apps.apple.com/app/id6449146108) | Declutter your similar photos, videos and contacts. | 50% OFF Lifetime Access |
+| 🤑 | [TextMask](https://apps.apple.com/app/id6467501452) | Redact, highlight, blur, or pixelate live text on your images. | 50% OFF Lifetime Access |
+| 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680) | Universal app to save, organize, and sync across links for all your devices. | 45% OFF Lifetime Access |
 
 
 [⬆️ Go to Top](#table-of-contents)
