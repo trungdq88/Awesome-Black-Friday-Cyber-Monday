@@ -25,7 +25,7 @@ Don't forget to:
 - [🌅 Design Tools (3)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (7)](#️-productivity-desktop-apps)
+	- [🖥️ Productivity Desktop Apps (9)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (4)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (3)](#-marketing-tools)
@@ -86,6 +86,7 @@ Don't forget to:
 | 💰 | [Yomu AI](https://yomu.ai/) | AI-powered editor for writing, editing, citing, and proofreading papers and essays. Save time and write superior academic papers with Yomu AI. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27. |
 | 💰 | [SiteSpeakAI](https://sitespeak.ai/) | Automate your customer support with ChatGPT | Get 30% off with discount code **`BLACKFRIDAY2023`** |
 | 💰 | [PROMPTMETHEUS](https://promptmetheus.com) | Cross-platform Prompt IDE. Take your Prompt Engineering to the next level and augment your apps and workflows with the mighty capabilities of Generative AI. | Get 35% off with the code **`BLACKF23`**. Valid until Nov 24.
+| 🤑 | [GasbyAI](https://gasbyai.com) | Fancy AI Assistant - Work with URL/Docs/Audio/Video, generate images, 600+ Prompts, 100+ AI Characters. Support OpenAI, Azure Openai, Claude, OpenRouter and Custom API services | Use **BF23** to get 40% off for all licenses, 20% off for all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -123,6 +124,8 @@ Don't forget to:
 | 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting apps & websites on iPhone, iPad, and Mac. | 50% OFF Monthly/Yearly |
 | 💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **NEATBF2023** |
 | 🤑 | [NoteSLAYER](https://note-slayer.com/) | Organizes Notes & Tasks Effortlessly. Available for macOS, Windows & Linux. Mobile sync is on the horizon. | 50% OFF with code **BLACKFRIDAY23** |
+| 🤑 | [ScreenMemory](https://screenmemory.app/) | Record your screen and play it back to remember what you worked on, with text search. macOS only. | 25% OFF with code **BLACKFRIDAY2023** |
+| 🤑 | [DevControls](https://jontelang.com/DevControls/) | Access and manage all your project from the macOS menu bar. | 25% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [Xbase](https://getxbase.com/) | Upgrade your Twitter with our powerful Twitter Bookmark Manager, with instant search and effortless note-taking.| 50% OFF auto-discount
 
 [⬆️ Go to Top](#table-of-contents)
@@ -161,6 +164,7 @@ Don't forget to:
 | 🤑 | [Clippulse](https://www.clippulse.com) | Clippulse empowers you to create captivating, professional-grade promo videos that resonate with your audience, drive more traffic, and elevate brand awareness, without video editing headaches. | $59 Lifetime Deal |
 | 🤑 | [Dopplio](https://www.dopplio.com) | AI-personalized videos for SMBs. Record a video once, and personalize it forever with AI Lip-Sync and voice cloning to reach more prospects. | 25% OFF Annual Plan with code **BLACKFRIDAY23** from Nov 24-27|
 | 🤑 | [Uneed](https://www.uneed.best) | Tool directory: promote your tools and projects in front of thousands of people 🤩! | 50% off everything with the code **BLACKFRIDAY2023**! |
+| 💰 | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | 40% OFF auto-discount |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -208,6 +212,7 @@ Don't forget to:
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **NEATBF2023** |
+| 🤑 | [ISHIM - OAI Domain Tools](https://ish.im) | Find the perfect name for your next project - Bulk domain WHOIS - for MacOS, Windows and Linux | Use **BF23** to get 40% off for all licenses |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -220,6 +225,7 @@ Don't forget to:
 |  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50% OFF with code **G5NJE1MW** |
 | 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
 |  🤑 | [Blog Website Template, Ready to deploy](https://gracehuang.gumroad.com/l/blog-template) | This fully-functional blog template is built in Next.js and Tailwind CSS, with all the essential integrations such as EmailOctopus and Google Analytics included out-of-the-box. Simply customize the design to fit your brand and start writing your first post. | 50% OFF with code **BLACKFRIDAY2023** |
+|  💰 | [Gravity](https://usegravity.app) | Spin up a SaaS product in 5 minutes with the leading Node.js & React SaaS boilerplate. | 30% OFF from Black Friday to Cyber Monday with code **BLACKFRIDAY23** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -285,6 +291,7 @@ Don't forget to:
 |  💰 | [Front Line PHP](https://front-line-php.com) | Learn how to build modern applications with PHP 8.2 | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Event Sourcing in Laravel](https://event-sourcing-laravel.com) | A hands-on course to start using event sourcing in large Laravel applications. | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Testing Laravel](https://testing-laravel.com) | Learn how to automatically test your Laravel app using PHPUnit and Pest. | 30 % discount from 20 November until Cyber Monday. |
+|  💰 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | 25+ hours of video content teaching you everything you need to build a SaaS product. From authentication, design and payments to security and more. | 30 % OFF from Black Friday until Cyber Monday with code **BLACKFRIDAY23** |
 
 
 
