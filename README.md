@@ -230,6 +230,7 @@ Don't forget to:
 |  🤑 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule) | This book explains the famous 4% rule, and how to optimize it, and also outlines the concrete steps for execution. Beyond all the calculations, she also offers insights into making informed career decisions that can eventually lead to financial independence. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Finmei](https://finmei.com) | Professional invoicing for small businesses and freelancers. | $59 Lifetime Deal |
+|  💰 | [Self-Employed FAQ Library Pass](https://www.selfemployedfaq.com/) | A library of answers to newcomers' questions about self-employment, focusing on taxes, income/expense tracking, ACA healthcare enrollment, and more. | 33% off lifetime pass thru 11/25 |
 
 [⬆️ Go to Top](#table-of-contents)
 
