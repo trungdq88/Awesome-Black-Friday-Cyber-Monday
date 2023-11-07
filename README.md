@@ -278,6 +278,7 @@ Don't forget to:
 |  🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
+|  💰 | [Python Problem-Solving](https://mathspp.com/pythonbootcamp) | eBook with 42 challenges and multiple solutions in Python, comparing different approaches and algorithms and showing how to make effective use of Python's features and modules in code. | 40 % off on Black Friday with code `bootcampbf23`. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -317,6 +318,7 @@ Don't forget to:
 |  💰 | [Event Sourcing in Laravel](https://event-sourcing-laravel.com) | A hands-on course to start using event sourcing in large Laravel applications. | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Testing Laravel](https://testing-laravel.com) | Learn how to automatically test your Laravel app using PHPUnit and Pest. | 30 % discount from 20 November until Cyber Monday. |
 |  💰 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | 25+ hours of video content teaching you everything you need to build a SaaS product. From authentication, design and payments to security and more. | 30 % OFF from Black Friday until Cyber Monday with code **BLACKFRIDAY23** |
+|  💰 | [Python Problem-Solving Bootcamp](https://mathspp.com/pythonbootcamp) | 21-day intensive asynchronous bootcamp where we solve 42 programming challenges in Python. | 40 % off on Black Friday with code `bootcampbf23`. |
 
 
 
