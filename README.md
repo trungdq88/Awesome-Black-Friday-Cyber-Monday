@@ -280,6 +280,8 @@ Don't forget to:
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
 |  💰 | [Python Problem-Solving](https://mathspp.com/pythonbootcamp) | eBook with 42 challenges and multiple solutions in Python, comparing different approaches and algorithms and showing how to make effective use of Python's features and modules in code. | 40 % off on Black Friday with code `bootcampbf23`. |
+|  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | The ultimate guide to auditing, testing, fixing and improving your Laravel applications so you can build better apps faster and with more confidence. | 30% off with code **BLACKFRIDAY2023** |
+|  💰 | [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com) | Learn how to confidently integrate third-party APIs in your Laravel projects using maintainable, testable and extensible code. | 30% off with code **BLACKFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
