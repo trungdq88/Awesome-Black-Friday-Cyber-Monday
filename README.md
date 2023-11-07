@@ -236,7 +236,6 @@ Don't forget to:
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📹 Courses
-|  💰 | [Testing Laravel](https://testing-laravel.com) | Learn how to automatically test your Laravel app using PHPUnit and Pest. | 30 % discount from 20 November until Cyber Monday. |
 
 ### 💻 Programming Courses
 
@@ -250,6 +249,7 @@ Don't forget to:
 |  💰 | [Laravel Beyond CRUD](https://laravel-beyond-crud.com) | Learn how to build larger-than-average Laravel applications and how to maintain them for years to come. | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Front Line PHP](https://front-line-php.com) | Learn how to build modern applications with PHP 8.2 | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Event Sourcing in Laravel](https://event-sourcing-laravel.com) | A hands-on course to start using event sourcing in large Laravel applications. | 30 % discount from 20th November until Cyber Monday. |
+|  💰 | [Testing Laravel](https://testing-laravel.com) | Learn how to automatically test your Laravel app using PHPUnit and Pest. | 30 % discount from 20 November until Cyber Monday. |
 
 
 
