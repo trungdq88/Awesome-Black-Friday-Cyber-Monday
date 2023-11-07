@@ -148,6 +148,7 @@ Don't forget to:
 | 🤑 | [One Tab Group](https://onetab.group) | One Tab Group is a chromium based extension that allows you to manage your tabs & tab groups in one place. One-click to aggregate all tabs & tab groups into one session. | Use code **Y1MDUXNW** to redeem this while checking out |
 | 💰 | [Buildstreak](https://www.buildstreak.com/) | Stop abandoning projects, start shipping more. | 30% off the lifetime deal. Use code **BF30** at checkout. |
 |  🤑 | [Redac](https://gracehuang.gumroad.com/l/redac) | Redac is a macOS app that makes redacting information in images easier | 50% OFF with code **BLACKFRIDAY2023** |
+| 💰 | [Scribbler](https://app.scribbler.so/) | Summarizer and chat tool for any youtube video or podcast.  | 30% off with code **BLACKFRIDAY2023** at checkout. |
 
 
 [⬆️ Go to Top](#table-of-contents)
