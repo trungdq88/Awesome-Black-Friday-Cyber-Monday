@@ -123,6 +123,8 @@ Don't forget to:
 | 🤑 | [Email Me](https://emailmeapp.net) | The fastest way to capture your thoughts. Email yourself in one tap. | 50% OFF Lifetime Access |
 | 💰 | [Changes for Linear](https://changes.app/) | A native and minimal iOS app for linear. | Get 50% off by downloading the app |
 | 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you focus and be productive. | 50% OFF Monthly/Yearly |
+| 💰 | [Myday](https://apps.apple.com/app/id1631348027) | Myday is a powerful daily planner app that is designed to boost productivity and help users achieve their daily goals. Myday is perfect for those who struggle with time management and need a better way to plan their day. | 50% OFF Lifetime Purchase |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
