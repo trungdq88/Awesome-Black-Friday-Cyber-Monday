@@ -29,7 +29,7 @@ Don't forget to:
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (13)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (8)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (4)](#-marketing-tools)
 - [🔍 SEO Tools (2)](#-seo-tools)
@@ -153,16 +153,15 @@ Don't forget to:
 
 ### 📱 Productivity Mobile Apps
 
-|  | Name                                                    | Description                                                                                                                                                                                                                  | Discount Code & Terms              |
-| -- |---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
-| 🤑 | [Email Me](https://emailmeapp.net)                      | The fastest way to capture your thoughts. Email yourself in one tap.                                                                                                                                                         | 50% OFF Lifetime Access            |
-| 💰 | [Changes for Linear](https://changes.app/)              | A native and minimal iOS app for linear.                                                                                                                                                                                     | Get 50% off by downloading the app |
-| 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you focus and be productive.                                                                                                                                                                     | 50% OFF Monthly/Yearly             |
-| 💰 | [Myday](https://apps.apple.com/app/id1631348027)        | Myday is a powerful daily planner app that is designed to boost productivity and help users achieve their daily goals. Myday is perfect for those who struggle with time management and need a better way to plan their day. | 50% OFF Lifetime Purchase          |
-| 🤑 | [Clean Sweep](https://apps.apple.com/app/id6449146108)  | Declutter your similar photos, videos and contacts.                                                                                                                                                                          | 50% OFF Lifetime Access            |
-| 🤑 | [TextMask](https://apps.apple.com/app/id6467501452)     | Redact, highlight, blur, or pixelate live text on your images.                                                                                                                                                               | 50% OFF Lifetime Access            |
-| 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680)    | Universal app to save, organize, and sync across links for all your devices.                                                                                                                                                 | 45% OFF Lifetime Access            |
-| 💰 | [Journal it!](https://apps.apple.com/us/app/id1501944799)  | All-in-one life planner. The combination of journal, planner, note-taking, tracker, habit,... (iOS, Android, web). Local first, auto-sync, end-to-end encryption.                                                            | 50% OFF Lifetime Access            |
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🤑 | [Email Me](https://emailmeapp.net) | The fastest way to capture your thoughts. Email yourself in one tap. | 50% OFF Lifetime Access |
+| 💰 | [Changes for Linear](https://changes.app/) | A native and minimal iOS app for linear. | Get 50% off by downloading the app |
+| 💰 | [Focused Work](https://apps.apple.com/app/id1523968394) | A powerful timer that helps you focus and be productive. | 50% OFF Monthly/Yearly |
+| 💰 | [Myday](https://apps.apple.com/app/id1631348027) | Myday is a powerful daily planner app that is designed to boost productivity and help users achieve their daily goals. Myday is perfect for those who struggle with time management and need a better way to plan their day. | 50% OFF Lifetime Purchase |
+| 🤑 | [Clean Sweep](https://apps.apple.com/app/id6449146108) | Declutter your similar photos, videos and contacts. | 50% OFF Lifetime Access |
+| 🤑 | [TextMask](https://apps.apple.com/app/id6467501452) | Redact, highlight, blur, or pixelate live text on your images. | 50% OFF Lifetime Access |
+| 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680) | Universal app to save, organize, and sync across links for all your devices. | 45% OFF Lifetime Access |
 
 
 [⬆️ Go to Top](#table-of-contents)
