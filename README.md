@@ -126,6 +126,7 @@ Don't forget to:
 | 🤑 | [NoteSLAYER](https://note-slayer.com/) | Organizes Notes & Tasks Effortlessly. Available for macOS, Windows & Linux. Mobile sync is on the horizon. | 50% OFF with code **BLACKFRIDAY23** |
 | 🤑 | [ScreenMemory](https://screenmemory.app/) | Record your screen and play it back to remember what you worked on, with text search. macOS only. | 25% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [DevControls](https://jontelang.com/DevControls/) | Access and manage all your project from the macOS menu bar. | 25% OFF with code **BLACKFRIDAY2023** |
+| 🤑 | [Xbase](https://getxbase.com/) | Upgrade your Twitter with our powerful Twitter Bookmark Manager, with instant search and effortless note-taking.| 50% OFF auto-discount
 
 [⬆️ Go to Top](#table-of-contents)
 
