@@ -163,6 +163,7 @@ Don't forget to:
 | 🤑 | [Clippulse](https://www.clippulse.com) | Clippulse empowers you to create captivating, professional-grade promo videos that resonate with your audience, drive more traffic, and elevate brand awareness, without video editing headaches. | $59 Lifetime Deal |
 | 🤑 | [Dopplio](https://www.dopplio.com) | AI-personalized videos for SMBs. Record a video once, and personalize it forever with AI Lip-Sync and voice cloning to reach more prospects. | 25% OFF Annual Plan with code **BLACKFRIDAY23** from Nov 24-27|
 | 🤑 | [Uneed](https://www.uneed.best) | Tool directory: promote your tools and projects in front of thousands of people 🤩! | 50% off everything with the code **BLACKFRIDAY2023**! |
+| 💰 | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | 40% OFF auto-discount |
 
 
 [⬆️ Go to Top](#table-of-contents)
