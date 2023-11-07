@@ -217,6 +217,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2023 for 50% off first year on annual plan |
 |  🤑 | [Assembly](https://assembly.marketing?utm_source=black_friday) | Assembly offers end to end tooling for your social workflow. Draft posts with a Notion-like editor, manage approvals of posts using Slack, and analyze your posts analytics across every social channel all in one place. P.S. if you do a lot of content, we also support bulk uploading and scheduling of social posts via CSV! | BLACKFRIDAY2023 for 50% off for 3 months |
+|  💰 | [Mixpost](https://mixpost.app?utm_source=awesome_black_friday) | Self-hosted software that allows you to schedule and organize all of your social content in one place, without limits or monthly subscriptions. Run Mixpost on your server, take control of your data, and pay less for a powerful social media management tool. | 30% OFF - auto-discount |
 
 
 [⬆️ Go to Top](#table-of-contents)
