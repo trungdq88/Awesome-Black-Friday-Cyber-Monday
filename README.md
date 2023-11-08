@@ -65,7 +65,8 @@ Don't forget to:
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
 |  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
 | 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
-
+|  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually
+with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
 
 [⬆️ Go to Top](#table-of-contents)
 
