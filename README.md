@@ -220,7 +220,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 | 🤑 | [InclusionKit](https://www.inclusionkit.com) | Make your native iOS and Android apps accessible! Accessibility auditing/testing subscription that saves your developers' time. | 50% OFF monthly subscription (forever) with code **BLACKFRIDAY50** |
 | 💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
-| 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week November **`WITHOUT CODE`** |
+| 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
 
 [⬆️ Go to Top](#table-of-contents)
