@@ -394,5 +394,6 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 |  💼 | [DevITjobs](https://devitjobs.com) | Transparent Tech Job Board with salary info. Over 1500 IT / Dev Jobs with salary ranges and tech stack info. | 25% off the Annual Subscription with code **GITHUB_BF_DEAL** |
 |  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
 |  💰 | [SponsorLeads](https://getsponsorleads.com/#pricing) | A (daily updated) Airtable base with companies that are actively advertising in other newsletters to help you find new sponsors for yours. | Daily decreasing discount until Christmas |
+| 🤑 | [Blog Money DB](https://blogmoneydb.com) | A complete collection of 60,000+ profitable blogs earning at least $50K per year. Created for content creators, brands and businesses. Updated regularly. | 50% Off Liftime access. Applied Automatically |
 
 [⬆️ Go to Top](#table-of-contents)
