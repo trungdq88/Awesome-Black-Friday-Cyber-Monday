@@ -29,7 +29,7 @@ Don't forget to:
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (13)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (8)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (4)](#-marketing-tools)
 - [🔍 SEO Tools (2)](#-seo-tools)
@@ -63,6 +63,8 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | Easily explore large databases, SQL or document. Also design, document and even analyze them. It's the perfect mix between an ERD, a SQL client and a data catalog. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Aptakube](https://aptakube.com/) | Desktop Client for Kubernetes. Modern, fast and multi-cluster. Runs on macOS, Windows, and Linux | 30% OFF on personal licenses with code **BLACKFRIDAY2023** |
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
+|  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
+| 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -147,6 +149,7 @@ Don't forget to:
 | 🤑 | [Breather](https://indiegoodies.com/breather) | A macOS Menu Bar application that provides a seamless and intuitive break management experience. | >= 50% OFF auto-discount |
 | 💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% OFF auto-discount |
 | 💰 | [SMBAct](https://smblob.com/products/smbact/) | Simplify the process of interacting with all your windows and applications using an all-in-one cross-platform window manager and switcher. Main features: control windows with keyboard, fuzzy search of window actions, switch focus to any window, multi-display support. Available for Windows, macOS and Linux. | 40% OFF with code **BF2023** |
+| 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | [50% OFF on the first year](https://buy.stripe.com/7sIaEOfeT06ugKI5km?prefilled_promo_code=BLACKFRIDAY), or [25% OFF on the Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY23) purchase. |
 | 🤑 | [AudioWrangler](https://audiowrangler.app/) | macOS app that automatically switches to your favorite mic/speakers based on what is currently connected | 50% OFF auto-discount |
 
 
@@ -163,7 +166,9 @@ Don't forget to:
 | 🤑 | [Clean Sweep](https://apps.apple.com/app/id6449146108) | Declutter your similar photos, videos and contacts. | 50% OFF Lifetime Access |
 | 🤑 | [TextMask](https://apps.apple.com/app/id6467501452) | Redact, highlight, blur, or pixelate live text on your images. | 50% OFF Lifetime Access |
 | 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680) | Universal app to save, organize, and sync across links for all your devices. | 45% OFF Lifetime Access |
-
+| 💰 | [Journal it!](https://apps.apple.com/us/app/id1501944799)  | All-in-one life planner. The combination of journal, planner, note-taking, tracker, habit,... (iOS, Android, web). Local first, auto-sync, end-to-end encryption.                                                            | 50% OFF Lifetime Access            |
+| 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | 50% OFF on the first year |
+| 💰 | [RewardMe](https://apps.apple.com/app/id6444321059) | Looking for a fun and engaging way to motivate your child? RewardMe is the answer. Promote productivity and a positive daily routine. | 50% OFF Yearly |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -209,6 +214,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 | 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 | 🤑 | [InclusionKit](https://www.inclusionkit.com) | Make your native iOS and Android apps accessible! Accessibility auditing/testing subscription that saves your developers' time. | 50% OFF monthly subscription (forever) with code **BLACKFRIDAY50** |
+|  💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -231,6 +237,7 @@ Don't forget to:
 |  🤑 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule) | This book explains the famous 4% rule, and how to optimize it, and also outlines the concrete steps for execution. Beyond all the calculations, she also offers insights into making informed career decisions that can eventually lead to financial independence. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Finmei](https://finmei.com) | Professional invoicing for small businesses and freelancers. | $59 Lifetime Deal |
+|  💰 | [Self-Employed FAQ Library Pass](https://www.selfemployedfaq.com/) | A library of answers to newcomers' questions about self-employment, focusing on taxes, income/expense tracking, ACA healthcare enrollment, and more. | 33% off lifetime pass thru 11/25 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -279,8 +286,11 @@ Don't forget to:
 |  🤑 | [Nail A Coding Interview](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
-|  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
+|  💰 | [Inside the Machine Learning Interview](https://pengshao.gumroad.com/l/insidethemachinelearninginterview) | Dive into the world of machine learning interviews with Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF with discount code **BLACKFRIDAY2023** |
 |  💰 | [Python Problem-Solving](https://mathspp.com/pythonbootcamp) | eBook with 42 challenges and multiple solutions in Python, comparing different approaches and algorithms and showing how to make effective use of Python's features and modules in code. | 40 % off on Black Friday with code `bootcampbf23`. |
+|  🤑 | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Proven rules and guidelines to build better React applications. You will learn everything about application structure, component design, testing and performance. | 50% OFF with code **BLACKFRIDAY23** |
+|  🤑 | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Guidelines and best practices to build better REST APIs with Node and Express. | 50% OFF with code **BLACKFRIDAY23** |
+|  🤑 | [JavaScript Interview Flashcards](https://darakondoff.gumroad.com/l/syzcwy/TPC50) | An effortless way to learn fundamental JS concepts and prepare for your next interview. | 50% off with code `TPC50`. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -371,5 +381,6 @@ Don't forget to:
 |  🤑 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | Turn your iPad into a beautiful and powerful digital photo frame! | 50% off lifetime access. Applied automatically. |
 |  💼 | [DevITjobs](https://devitjobs.com) | Transparent Tech Job Board with salary info. Over 1500 IT / Dev Jobs with salary ranges and tech stack info. | 25% off the Annual Subscription with code **GITHUB_BF_DEAL** |
 |  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
+|  💰 | [SponsorLeads](https://getsponsorleads.com/#pricing) | A (daily updated) Airtable base with companies that are actively advertising in other newsletters to help you find new sponsors for yours. | Daily decreasing discount until Christmas |
 
 [⬆️ Go to Top](#table-of-contents)
