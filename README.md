@@ -291,6 +291,8 @@ Don't forget to:
 |  🤑 | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Proven rules and guidelines to build better React applications. You will learn everything about application structure, component design, testing and performance. | 50% OFF with code **BLACKFRIDAY23** |
 |  🤑 | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Guidelines and best practices to build better REST APIs with Node and Express. | 50% OFF with code **BLACKFRIDAY23** |
 |  🤑 | [JavaScript Interview Flashcards](https://darakondoff.gumroad.com/l/syzcwy/TPC50) | An effortless way to learn fundamental JS concepts and prepare for your next interview. | 50% off with code `TPC50`. |
+|  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | The ultimate guide to auditing, testing, fixing and improving your Laravel applications so you can build better apps faster and with more confidence. | 30% off with code **BLACKFRIDAY2023** |
+|  💰 | [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com) | Learn how to confidently integrate third-party APIs in your Laravel projects using maintainable, testable and extensible code. | 30% off with code **BLACKFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
