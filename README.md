@@ -149,6 +149,7 @@ Don't forget to:
 | 🤑 | [Breather](https://indiegoodies.com/breather) | A macOS Menu Bar application that provides a seamless and intuitive break management experience. | >= 50% OFF auto-discount |
 | 💰 | [Spaces for macOS](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% OFF auto-discount |
 | 💰 | [SMBAct](https://smblob.com/products/smbact/) | Simplify the process of interacting with all your windows and applications using an all-in-one cross-platform window manager and switcher. Main features: control windows with keyboard, fuzzy search of window actions, switch focus to any window, multi-display support. Available for Windows, macOS and Linux. | 40% OFF with code **BF2023** |
+| 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | [50% OFF on the first year](https://buy.stripe.com/7sIaEOfeT06ugKI5km?prefilled_promo_code=BLACKFRIDAY), or [25% OFF on the Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY23) purchase. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -165,6 +166,7 @@ Don't forget to:
 | 🤑 | [TextMask](https://apps.apple.com/app/id6467501452) | Redact, highlight, blur, or pixelate live text on your images. | 50% OFF Lifetime Access |
 | 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680) | Universal app to save, organize, and sync across links for all your devices. | 45% OFF Lifetime Access |
 | 💰 | [Journal it!](https://apps.apple.com/us/app/id1501944799)  | All-in-one life planner. The combination of journal, planner, note-taking, tracker, habit,... (iOS, Android, web). Local first, auto-sync, end-to-end encryption.                                                            | 50% OFF Lifetime Access            |
+| 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | 50% OFF on the first year |
 
 [⬆️ Go to Top](#table-of-contents)
 
