@@ -29,7 +29,7 @@ Don't forget to:
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (13)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (8)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (4)](#-marketing-tools)
 - [🔍 SEO Tools (2)](#-seo-tools)
@@ -63,6 +63,7 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | Easily explore large databases, SQL or document. Also design, document and even analyze them. It's the perfect mix between an ERD, a SQL client and a data catalog. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Aptakube](https://aptakube.com/) | Desktop Client for Kubernetes. Modern, fast and multi-cluster. Runs on macOS, Windows, and Linux | 30% OFF on personal licenses with code **BLACKFRIDAY2023** |
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
+|  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
 | 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
 
 
@@ -163,7 +164,7 @@ Don't forget to:
 | 🤑 | [Clean Sweep](https://apps.apple.com/app/id6449146108) | Declutter your similar photos, videos and contacts. | 50% OFF Lifetime Access |
 | 🤑 | [TextMask](https://apps.apple.com/app/id6467501452) | Redact, highlight, blur, or pixelate live text on your images. | 50% OFF Lifetime Access |
 | 💰 | [Bookmarks](https://apps.apple.com/app/id1614129680) | Universal app to save, organize, and sync across links for all your devices. | 45% OFF Lifetime Access |
-
+| 💰 | [Journal it!](https://apps.apple.com/us/app/id1501944799)  | All-in-one life planner. The combination of journal, planner, note-taking, tracker, habit,... (iOS, Android, web). Local first, auto-sync, end-to-end encryption.                                                            | 50% OFF Lifetime Access            |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -371,5 +372,6 @@ Don't forget to:
 |  🤑 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | Turn your iPad into a beautiful and powerful digital photo frame! | 50% off lifetime access. Applied automatically. |
 |  💼 | [DevITjobs](https://devitjobs.com) | Transparent Tech Job Board with salary info. Over 1500 IT / Dev Jobs with salary ranges and tech stack info. | 25% off the Annual Subscription with code **GITHUB_BF_DEAL** |
 |  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
+|  💰 | [SponsorLeads](https://getsponsorleads.com/#pricing) | A (daily updated) Airtable base with companies that are actively advertising in other newsletters to help you find new sponsors for yours. | Daily decreasing discount until Christmas |
 
 [⬆️ Go to Top](#table-of-contents)
