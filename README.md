@@ -63,7 +63,6 @@ Don't forget to:
 |  🤑 | [Azimutt](https://azimutt.app) | Easily explore large databases, SQL or document. Also design, document and even analyze them. It's the perfect mix between an ERD, a SQL client and a data catalog. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Aptakube](https://aptakube.com/) | Desktop Client for Kubernetes. Modern, fast and multi-cluster. Runs on macOS, Windows, and Linux | 30% OFF on personal licenses with code **BLACKFRIDAY2023** |
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
-|  💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -209,6 +208,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 | 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 | 🤑 | [InclusionKit](https://www.inclusionkit.com) | Make your native iOS and Android apps accessible! Accessibility auditing/testing subscription that saves your developers' time. | 50% OFF monthly subscription (forever) with code **BLACKFRIDAY50** |
+|  💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
