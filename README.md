@@ -284,6 +284,9 @@ Don't forget to:
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Inside the Machine Learning Interview](https://leanpub.com/insidethemachinelearninginterview/c/BlackFridaySale2023) | Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them. Dive into the world of machine learning interviews with Inside the Machine Learning Interview, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF automatically applied |
 |  💰 | [Python Problem-Solving](https://mathspp.com/pythonbootcamp) | eBook with 42 challenges and multiple solutions in Python, comparing different approaches and algorithms and showing how to make effective use of Python's features and modules in code. | 40 % off on Black Friday with code `bootcampbf23`. |
+|  🤑 | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Proven rules and guidelines to build better React applications. You will learn everything about application structure, component design, testing and performance. | 50% OFF with code **BLACKFRIDAY23** |
+|  🤑 | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Guidelines and best practices to build better REST APIs with Node and Express. | 50% OFF with code **BLACKFRIDAY23** |
+|  🤑 | [JavaScript Interview Flashcards](https://darakondoff.gumroad.com/l/syzcwy/TPC50) | An effortless way to learn fundamental JS concepts and prepare for your next interview. | 50% off with code `TPC50`. |
 
 
 [⬆️ Go to Top](#table-of-contents)
