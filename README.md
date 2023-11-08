@@ -37,6 +37,7 @@ Don't forget to:
 - [🌏 Social Media Tools (3)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
 - [🎛 Utility Tools (2)](#-utility-tools)
+- [💬 Customer Support Tools (1)](#-customer-support-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (5)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
