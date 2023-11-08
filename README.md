@@ -106,6 +106,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 🤑 | [JSON Data AI](https://jsondataai.com) | Create AI-generated API endpoints. Get JSON data about anything with a prompt. Turn it into an API endpoint. Start fetching. | Enjoy 50% off with this discount code **`BLACKFRIDAY50`** |
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app |
 | 💰 | [PROMPTMETHEUS](https://promptmetheus.com) | Cross-platform Prompt IDE. Take your Prompt Engineering to the next level and augment your apps and workflows with the mighty capabilities of Generative AI. | Get 35% off with the code **`BLACKF23`**. Valid until Nov 24.
+| 💰 | [Written Labs](https://writtenlabs.com) | Generate hundreds of articles in a few clicks. Analyze your SERP competitors and outrank them. | Get 50% off with the code **`BF50`**.
 
 [⬆️ Go to Top](#table-of-contents)
 
