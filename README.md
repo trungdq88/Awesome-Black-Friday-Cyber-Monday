@@ -172,6 +172,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [Journal it!](https://apps.apple.com/us/app/id1501944799)  | All-in-one life planner. The combination of journal, planner, note-taking, tracker, habit,... (iOS, Android, web). Local first, auto-sync, end-to-end encryption.                                                            | 50% OFF Lifetime Access            |
 | 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | 50% OFF on the first year |
 | 💰 | [RewardMe](https://apps.apple.com/app/id6444321059) | Looking for a fun and engaging way to motivate your child? RewardMe is the answer. Promote productivity and a positive daily routine. | 50% OFF Yearly |
+| 🤑 | [one sec](https://one-sec.app?qu=blackfridaygithub) | Forces you to take a deep breath every time you open social media.  | 2 Months for Free |
 
 [⬆️ Go to Top](#table-of-contents)
 
