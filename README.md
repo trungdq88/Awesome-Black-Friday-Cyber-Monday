@@ -95,6 +95,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [Sourcely](https://sourcely.net/) | AI-powered tool for finding, summarizing, and formatting sources for your academic papers. That's something Google Scholar can't do. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27. |
 | 💰 | [Yomu AI](https://yomu.ai/) | AI-powered editor for writing, editing, citing, and proofreading papers and essays. Save time and write superior academic papers with Yomu AI. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27. |
 | 💰 | [SiteSpeakAI](https://sitespeak.ai/) | Automate your customer support with ChatGPT | Get 30% off with discount code **`BLACKFRIDAY2023`** |
+| 💰 | [Userdesk](https://userdesk.io/) | Leads generation for your business with AI Chatbots | Get 30% off with discount code **`AWESOMEBF2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
