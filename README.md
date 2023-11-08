@@ -25,7 +25,7 @@ Don't forget to:
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (7)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (4)](#-other-ai-tools)
-- [🌅 Design Tools (4)](#-design-tools)
+- [🌅 Design Tools (5)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (15)](#️-productivity-desktop-apps)
@@ -117,6 +117,7 @@ Don't forget to:
 |  🤑 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | ResizeGenius is a macOS app for effortless batch resizing and editing of images. This powerful yet user-friendly application is designed to streamline your image processing tasks, enabling you to resize multiple images simultaneously while maintaining your preferred configurations, just like following a resizing recipe. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [snappify](https://snappify.com) | Create stunning Code Presentations with smooth animations and export them as Videos. From creating Social Media content, to Explanatory Videos and Technical Slides - snappify got you covered! | 30% OFF first year with code **BLACKFRIDAY_2023** |
 |  💰 | [SMBImg](https://smbimg.com) | Take screenshots, apply unique backgrounds and customize the watermarks. Features: rounded corners, shadows, predefined image sizes, zooming, custom offsets. Export to webp, jpeg, png and gif. | 40% OFF first year with code **BF2023** |
+|  💰 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 60% discount on biannual plans. |
 
 
 
