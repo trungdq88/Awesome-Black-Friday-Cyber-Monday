@@ -250,6 +250,15 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
+## 💬 Customer Support Tools
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
 
 ## 💅 Boilerplates, Starter-Kit, Templates
 
@@ -372,6 +381,7 @@ Don't forget to:
 
 
 [⬆️ Go to Top](#table-of-contents)
+
 
 ## 👨‍🎨 Miscellaneous
 
