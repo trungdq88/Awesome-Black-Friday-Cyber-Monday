@@ -20,7 +20,7 @@ Don't forget to:
 
 ## Table of Contents
 
-- [👨‍💻 Developer Tools (10)](#-developer-tools)
+- [👨‍💻 Developer Tools (12)](#-developer-tools)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (7)](#-ai-productivity--learning-tools)
@@ -30,10 +30,10 @@ Don't forget to:
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (15)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
+	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (5)](#-marketing-tools)
 - [🔍 SEO Tools (2)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (3)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (4)](#-startup-saastools)
 - [🌏 Social Media Tools (3)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
 - [🎛 Utility Tools (2)](#-utility-tools)
@@ -50,6 +50,7 @@ Don't forget to:
 	- [🔒 Information Security Courses (1)](#-information-security-courses)
 - [💪 Health and Fitness (1)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (7)](#-miscellaneous)
+
 
 ## 👨‍💻 Developer Tools
 
