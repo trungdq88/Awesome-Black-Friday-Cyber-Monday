@@ -109,6 +109,8 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app |
 | 💰 | [PROMPTMETHEUS](https://promptmetheus.com) | Cross-platform Prompt IDE. Take your Prompt Engineering to the next level and augment your apps and workflows with the mighty capabilities of Generative AI. | Get 35% off with the code **`BLACKF23`**. Valid until Nov 24.
 | 💰 | [Written Labs](https://writtenlabs.com) | Use AI to generate hundreds of articles in a few clicks. Analyze your SERP competitors and outrank them. Scrape websites and use their content in AI prompts. | Get 50% FOREVER off with the code **`BF50`**.
+| 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday. |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
