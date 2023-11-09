@@ -109,7 +109,8 @@ Don't forget to:
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app |
 | 💰 | [PROMPTMETHEUS](https://promptmetheus.com) | Cross-platform Prompt IDE. Take your Prompt Engineering to the next level and augment your apps and workflows with the mighty capabilities of Generative AI. | Get 35% off with the code **`BLACKF23`**. Valid until Nov 24.
 | 💰 | [Written Labs](https://writtenlabs.com) | Use AI to generate hundreds of articles in a few clicks. Analyze your SERP competitors and outrank them. Scrape websites and use their content in AI prompts. | Get 50% FOREVER off with the code **`BF50`**.
-| 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday. | 💰 | [Easy-Peasy.AI](https://easy-peasy.ai/?utm_source=trungdq88) | Your One-Stop Solution for Content Creation powered by GPT-4/Claude 2, Image Crafting (DALL-E 3/SDXL), Audio Generation, and AI Transcription.| 40% OFF with code **BFRIDAY2023** |
+| 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday.
+| 💰 | [Easy-Peasy.AI](https://easy-peasy.ai/?utm_source=trungdq88) | Your One-Stop Solution for Content Creation powered by GPT-4/Claude 2, Image Crafting (DALL-E 3/SDXL), Audio Generation, and AI Transcription.| 40% OFF with code **BFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
