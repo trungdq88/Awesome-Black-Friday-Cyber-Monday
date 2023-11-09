@@ -227,6 +227,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
 | 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
+| 💰 | [ComplyDog](https://complydog.com) | GDPR compliance software for B2B SaaS startups | 30% lifetime discount valid until end of November. Sign up using code **`2023BLACKFRIDAY`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
