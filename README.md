@@ -32,7 +32,7 @@ Don't forget to:
 	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (6)](#-marketing-tools)
-- [🔍 SEO Tools (2)](#-seo-tools)
+- [🔍 SEO Tools (3)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (5)](#-startup-saastools)
 - [🌏 Social Media Tools (4)](#-social-media-tools)
 - [💸 Finance Tools (6)](#-finance-tools)
@@ -214,6 +214,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | -- | ---| ------ | ------ |
 |  💰 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | 25% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Docswrite](https://docswrite.com/) | Export Google Docs to WordPress in 1-Click. Clean SEO-optimized exports including your images without any copy-paste. | 25% OFF with code **`25BLACK`** |
+|  💰 | [Qualitycs](https://qualitycs.dev/) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website regularly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
 
 [⬆️ Go to Top](#table-of-contents)
 
