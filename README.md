@@ -18,7 +18,7 @@ Don't forget to:
 - 👉 ...[follow me on Twitter](https://twitter.com/tdinh_me) 😉
 
 
-## Table of Contents
+## Table of Contents (154 deals total)
 
 - [👨‍💻 Developer Tools (12)](#-developer-tools)
 - [🤖 AI Tools ](#-ai-tools)
