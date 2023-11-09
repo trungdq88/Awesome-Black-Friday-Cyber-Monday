@@ -276,6 +276,7 @@ Don't forget to:
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  💰 | [LaunchFa.st](https://www.launchfa.st) | Rapidly launch apps with Astro, SvelteKit and Next.js. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50% OFF with code **G5NJE1MW** |
 | 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
