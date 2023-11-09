@@ -31,7 +31,7 @@ Don't forget to:
 	- [🖥️ Productivity Desktop Apps (16)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (7)](#-marketing-tools)
+- [🌈 Marketing Tools (8)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (6)](#-startup-saastools)
 - [🌏 Social Media Tools (5)](#-social-media-tools)
@@ -208,7 +208,7 @@ Don't forget to:
 | 💰 | [ProductVideoExamples.com](https://www.productvideoexamples.com) | Learn from a library of over 100 hand-picked engaging SaaS product video examples. Video examples are labled and can be filtered by length, type, industry and more. | 50% OFF Lifetime Deal with code **BLACKFRIDAY2023** |
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal $49](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 | 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
-
+| 🤑 | [T.LY URL Shortener](https://t.ly/register) | T.LY is the World's Shortest Link Shortener service to track, brand, and share short URLs. | 50% OFF with coupon code **blackfriday**
 
 [⬆️ Go to Top](#table-of-contents)
 
