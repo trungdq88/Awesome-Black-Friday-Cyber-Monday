@@ -193,6 +193,7 @@ Don't forget to:
 |  🤑 | [Redac](https://gracehuang.gumroad.com/l/redac) | Redac is a macOS app that makes redacting information in images easier | 50% OFF with code **BLACKFRIDAY2023** |
 | 💰 | [Scribbler](https://app.scribbler.so/) | Summarizer and chat tool for any youtube video or podcast.  | 30% off with code **BLACKFRIDAY2023** at checkout. |
 | 💰 | [Side Space](https://sidespace.app/) | Your browser tabs, organized. Take control of your web browsing with our Vertical Tabs Manager browser extension.  | 20% off with code **BLACKFRIDAY20** redeem this while checkout. |
+| 🤑 | [Hirevire](https://hirevire.com) | Hirevire's automated screening software lets you collect video, audio and file responses from candidates. Stop wasting time on candidates you'll never hire. | 50% Off on new subscriptions with **BlackFriday50Off** |
 
 
 [⬆️ Go to Top](#table-of-contents)
