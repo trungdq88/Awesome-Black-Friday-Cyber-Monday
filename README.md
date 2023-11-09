@@ -24,20 +24,20 @@ Don't forget to:
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (9)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (5)](#-other-ai-tools)
+	- [✨ Other AI tools (6)](#-other-ai-tools)
 - [🌅 Design Tools (5)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (16)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (6)](#-marketing-tools)
+- [🌈 Marketing Tools (7)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (5)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (6)](#-startup-saastools)
 - [🌏 Social Media Tools (5)](#-social-media-tools)
-- [💸 Finance Tools (6)](#-finance-tools)
+- [💸 Finance Tools (7)](#-finance-tools)
 - [🎛 Utility Tools (2)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (7)](#-boilerplates-starter-kit-templates)
+- [💅 Boilerplates, Starter-Kit, Templates (6)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books (16)](#-programming-books)
@@ -207,7 +207,7 @@ Don't forget to:
 | 💰 | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | 40% OFF auto-discount |
 | 💰 | [ProductVideoExamples.com](https://www.productvideoexamples.com) | Learn from a library of over 100 hand-picked engaging SaaS product video examples. Video examples are labled and can be filtered by length, type, industry and more. | 50% OFF Lifetime Deal with code **BLACKFRIDAY2023** |
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal $49](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
-| 🤑 | [Product Hunt Workbook] (https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
+| 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
 
 
 [⬆️ Go to Top](#table-of-contents)
