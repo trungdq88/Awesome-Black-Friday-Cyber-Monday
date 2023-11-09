@@ -387,6 +387,11 @@ Don't forget to:
 
 [⬆️ Go to Top](#table-of-contents)
 
+
+### 🌐 Languages Learning
+
+| 🤑 | [Vocala](https://vocala.app) | Vocala is a vocabulary learning app that helps you learn and memorize new words in a better way. | 50% OFF with code **`BLACKFRIDAY2023`**
+
 ## 💪 Health and Fitness
 
 |  | Name | Description | Discount Code & Terms |
