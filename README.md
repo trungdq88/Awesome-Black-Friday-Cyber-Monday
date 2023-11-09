@@ -34,7 +34,7 @@ Don't forget to:
 - [🌈 Marketing Tools (6)](#-marketing-tools)
 - [🔍 SEO Tools (2)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (5)](#-startup-saastools)
-- [🌏 Social Media Tools (4)](#-social-media-tools)
+- [🌏 Social Media Tools (5)](#-social-media-tools)
 - [💸 Finance Tools (6)](#-finance-tools)
 - [🎛 Utility Tools (2)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (7)](#-boilerplates-starter-kit-templates)
