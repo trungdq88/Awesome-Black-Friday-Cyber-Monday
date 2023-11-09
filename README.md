@@ -244,6 +244,7 @@ Don't forget to:
 |  💰 | [Mixpost](https://mixpost.app?utm_source=awesome_black_friday) | Self-hosted software that allows you to schedule and organize all of your social content in one place, without limits or monthly subscriptions. Run Mixpost on your server, take control of your data, and pay less for a powerful social media management tool. | 30% OFF - auto-discount |
 |  💰 | [Hypefury](https://hypefury.com/) | Get inspiration to write your next viral post, bulk-write and schedule your content, and get more engagement on auto-pilot. | **BLACKFRIDAY2023PR** (35% off One year Premium)<br/>**BLACKFRIDAY2023ST** (30% off One year Standard) |
 |  🤑 | [TinyZap⚡️](https://tinyzap.com?utm_source=black_friday) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social media posts. More people visit these visual links and spend time on your 🫵 websites, apps, and web destinations. | 50% off when you checkout at https://tinyzap.com/plus |
+| 💰 | [WritePanda](https://writepanda.ai/) | Repurpurpose your youtube/podcast content by automatically creating blogs, newsletters, tweets and captioned short clips for instagram, youtube and tiktok | 40% OFF with coupon code **UWODA2NG**.
 
 [⬆️ Go to Top](#table-of-contents)
 
