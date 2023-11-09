@@ -252,6 +252,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 |  🤑 | [Finmei](https://finmei.com) | Professional invoicing for small businesses and freelancers. | $59 Lifetime Deal |
 |  💰 | [Self-Employed FAQ Library Pass](https://www.selfemployedfaq.com/) | A library of answers to newcomers' questions about self-employment, focusing on taxes, income/expense tracking, ACA healthcare enrollment, and more. | 33% off lifetime pass thru 11/25 |
 |  🤑 | [Tilla Premium](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla.premium) | Android app to manage your subscriptions without hustle and get notified when a bill date is due. | 50% off for lifetime from 11/21 till 11/28 |
+|  💰 | [Fin - Budget Tracker](https://apps.apple.com/app/apple-store/id1489698531) | Beautiful budget tracker for iOS | 30% OFF the annual subscription
 
 [⬆️ Go to Top](#table-of-contents)
 
