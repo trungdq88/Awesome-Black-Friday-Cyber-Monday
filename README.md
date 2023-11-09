@@ -356,6 +356,7 @@ Don't forget to:
 |  💰 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | 25+ hours of video content teaching you everything you need to build a SaaS product. From authentication, design and payments to security and more. | 30 % OFF from Black Friday until Cyber Monday with code **BLACKFRIDAY23** |
 |  💰 | [Python Problem-Solving Bootcamp](https://mathspp.com/pythonbootcamp) | 21-day intensive asynchronous bootcamp where we solve 42 programming challenges in Python. | 40 % off on Black Friday with code `bootcampbf23`. |
 |  💰 | [Zero To Pro Bubble.io Course](https://zerotoprocourse.com) | A comprehensive beginner-to-pro course teaching how to build apps with no-code platform Bubble.io. Become a software entrepreneur, freelancer, or just build for fun! | 40 % off from now until Cyber Monday with code **BLACKFRIDAY2023** |
+|  🤑 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style | 62 % discount from now until Cyber Monday. |
 
 
 
