@@ -95,6 +95,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [Sourcely](https://sourcely.net/) | AI-powered tool for finding, summarizing, and formatting sources for your academic papers. That's something Google Scholar can't do. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27. |
 | 💰 | [Yomu AI](https://yomu.ai/) | AI-powered editor for writing, editing, citing, and proofreading papers and essays. Save time and write superior academic papers with Yomu AI. | Enjoy 25% off by using **`BLACKFRIDAY23`** code until November 27. |
 | 💰 | [SiteSpeakAI](https://sitespeak.ai/) | Automate your customer support with ChatGPT | Get 30% off with discount code **`BLACKFRIDAY2023`** |
+| 💰 | [Userdesk](https://userdesk.io/) | Leads generation for your business with AI Chatbots | Get 30% off with discount code **`AWESOMEBF2023`** |
 | 💰 | [Heuristica](https://www.heuristi.ca/) | Heuristi.ca is a simpler and better way to learn, research, and write using AI-powered concept maps. Dive deep into any topic via branching explorations using a mindmap-like interface. | Enjoy 40% off by using **`BFRIDAY2023`** code on checkout until December 1. |
 
 
@@ -201,6 +202,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 🤑 | [Uneed](https://www.uneed.best) | Tool directory: promote your tools and projects in front of thousands of people 🤩! | 50% off everything with the code **BLACKFRIDAY2023**! |
 | 💰 | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | 40% OFF auto-discount |
 | 💰 | [ProductVideoExamples.com](https://www.productvideoexamples.com) | Learn from a library of over 100 hand-picked engaging SaaS product video examples. Video examples are labled and can be filtered by length, type, industry and more. | 50% OFF Lifetime Deal with code **BLACKFRIDAY2023** |
+| 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal $49](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -269,6 +271,8 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
 |  🤑 | [Blog Website Template, Ready to deploy](https://gracehuang.gumroad.com/l/blog-template) | This fully-functional blog template is built in Next.js and Tailwind CSS, with all the essential integrations such as EmailOctopus and Google Analytics included out-of-the-box. Simply customize the design to fit your brand and start writing your first post. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Gravity](https://usegravity.app) | Spin up a SaaS product in 5 minutes with the leading Node.js & React SaaS boilerplate. | 30% OFF from Black Friday to Cyber Monday with code **BLACKFRIDAY23** |
+|  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks.
+. | 30% OFF with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
