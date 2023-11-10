@@ -460,6 +460,7 @@ Total deals: 180
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🤑 | [Gym Diary](https://apps.apple.com/us/app/gym-diary-workout-tracker-note/id1328908841) | Simple & beautiful iOS App to track all your workout activities | 50% off on Annual Plan |
+| 💰 | [Watch to 5K](https://apps.apple.com/us/app/watchto5k-couch-to-5km-watch/id1517914828) | Train to run 5K in 9 weeks with just your Apple Watch. | 25% off Lifetime Access |
 
 
 [⬆️ Go to Top](#table-of-contents)
