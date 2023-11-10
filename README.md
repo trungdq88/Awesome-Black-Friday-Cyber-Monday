@@ -56,7 +56,7 @@ Total deals: 180
 
 ## 👨‍💻 Developer Tools
 
-### 💻 macOS apps
+### 💻 Developer macOS Apps
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
