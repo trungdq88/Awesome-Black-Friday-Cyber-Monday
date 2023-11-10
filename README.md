@@ -33,7 +33,7 @@ Total deals: 180
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (17)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (11)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (8)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
@@ -203,6 +203,8 @@ Total deals: 180
 | 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | 50% OFF on the first year |
 | 💰 | [RewardMe](https://apps.apple.com/app/id6444321059) | Looking for a fun and engaging way to motivate your child? RewardMe is the answer. Promote productivity and a positive daily routine. | 50% OFF Yearly |
 | 💰 | [Clendar - Minimal Calendar](https://apps.apple.com/app/id1548102041) | Clendar is an minimal calendar app that focus on the simplicity of uses. Natural language parsing is supported. | 50% OFF Clendar+ Access |
+| 🤑 | [Itemlist](https://getitemlist.app) | Itemlist is a home inventory app for iOS. Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% OFF Lifetime PRO |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
