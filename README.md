@@ -327,29 +327,50 @@ Total deals: 180
 
 ### 📗 Programming Books
 
+#### Web Dev & Design
+
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  💰 | [Indexing Beyond the Basics](https://sqlfordevs.com/ebooks/indexing) | Learn to create database indexes for your slow queries by ~~studying complicated database internals~~ following simple principles. | 20-33% discount automatically applied |
-|  🤑 | [Soccer Betting Books](https://tropianhs.gumroad.com/) | How to create a soccer betting model with Python and ML and how to build an automated betting strategy | 50% discount on all books with code BLACKFRIDAY23 |
-|  💰 | [Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/BlackFridayAnytime) | Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview. | 30% FLAT discount automatically applied only till Black Friday|
 |  🤑 | [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid) | Become a Pro at building components & layouts with CSS Flexbox and Grid. Explained with 70+ real world use cases and examples. Gain access to Private CodePen links with working demos for all examples. Choose Vanilla CSS or Tailwind CSS eBook version | 50% discount on all versions with code **BLACKFRIDAY23** valid from 17th November until Cyber Monday |
 |  🤑 | [Dynamic Trio](https://gracehuang.gumroad.com/l/dynamic-trio) | Dynamic Trio is a practical guide for web developers and entrepreneurs who want to learn how to use React, Next.js, and Tailwind CSS to create modern web applications. | 50% OFF with code **BLACKFRIDAY2023** |
-|  🤑 | [Building macOS apps with SwiftUI: A Practical Learning Guide](https://gracehuang.gumroad.com/l/macOS-swift) | This book will primarily focus on building macOS apps with SwiftUI, including both coding and releasing apps. | 50% OFF with code **BLACKFRIDAY2023** |
-|  🤑 | [Nail A Coding Interview](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers. | 50% OFF with code **BLACKFRIDAY2023** |
-|  🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples. | 50% OFF with code **BLACKFRIDAY2023** |
-|  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
-|  💰 | [Inside the Machine Learning Interview](https://pengshao.gumroad.com/l/insidethemachinelearninginterview) | Dive into the world of machine learning interviews with Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF with discount code **BLACKFRIDAY2023** |
-|  💰 | [Python Problem-Solving](https://mathspp.com/pythonbootcamp) | eBook with 42 challenges and multiple solutions in Python, comparing different approaches and algorithms and showing how to make effective use of Python's features and modules in code. | 40 % off on Black Friday with code `bootcampbf23`. |
 |  🤑 | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Proven rules and guidelines to build better React applications. You will learn everything about application structure, component design, testing and performance. | 50% OFF with code **BLACKFRIDAY23** |
 |  🤑 | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Guidelines and best practices to build better REST APIs with Node and Express. | 50% OFF with code **BLACKFRIDAY23** |
 |  🤑 | [JavaScript Interview Flashcards](https://darakondoff.gumroad.com/l/syzcwy/TPC50) | An effortless way to learn fundamental JS concepts and prepare for your next interview. | 50% off with code `TPC50`. |
 |  💰 | [Battle Ready Laravel](https://battle-ready-laravel.com) | The ultimate guide to auditing, testing, fixing and improving your Laravel applications so you can build better apps faster and with more confidence. | 30% off with code **BLACKFRIDAY2023** |
 |  💰 | [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com) | Learn how to confidently integrate third-party APIs in your Laravel projects using maintainable, testable and extensible code. | 30% off with code **BLACKFRIDAY2023** |
-| 🤑 | [Pair Programming with ChatGPT: AI-Enhanced Coding for the Modern Developer (Covers ChatGPT 4)](https://walkingriver.gumroad.com/l/pair-programming-chatgpt?layout=profile) | AI-Enhanced Coding for the Modern Developer | $2.49. No code needed. Valid Through November 30, 2023 |
-| 🤑 | [P-AI-R Programming: How AI tools like GitHub Copilot and ChatGPT Can Radically Transform Your Development Workflow](https://walkingriver.gumroad.com/l/p-ai-r-programming?layout=profile) | How AI tools can transform your development workflow | $2.49. No code needed. Valid Through November 30, 2023 |
 | 🤑 | [Angular Advocate - How to Awaken the Champion Within and Become the Go-to Expert at Work (DRM-Free eBook)](https://walkingriver.gumroad.com/l/angular-advocate?layout=profile) | Awaken the champion within and become the go-to Angular expert | $2.49. No code needed. Valid Through November 30, 2023 |
 | 🤑 | [Developing Progressive Web Applications with Angular (DRM-free eBook)](https://walkingriver.gumroad.com/l/pwa-angular?layout=profile) | Mastering PWA development with Angular | $2.49. No code needed. Valid Through November 30, 2023 |
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### Apps Development (Mobile/Desktop)
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/BlackFridayAnytime) | Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview. | 30% FLAT discount automatically applied only till Black Friday|
+|  🤑 | [Building macOS apps with SwiftUI: A Practical Learning Guide](https://gracehuang.gumroad.com/l/macOS-swift) | This book will primarily focus on building macOS apps with SwiftUI, including both coding and releasing apps. | 50% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [Developing Mobile Apps with Ionic Framework - Angular Edition (DRM-Free eBook)](https://walkingriver.gumroad.com/l/NlVUr?layout=profile) | Building mobile apps with Ionic Framework and Angular | $2.49. No code needed. Valid Through November 30, 2023 |
+
+[⬆️ Go to Top](#table-of-contents)
+
+
+#### Backend Dev / Data Science
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [Indexing Beyond the Basics](https://sqlfordevs.com/ebooks/indexing) | Learn to create database indexes for your slow queries by ~~studying complicated database internals~~ following simple principles. | 20-33% discount automatically applied |
+|  🤑 | [Soccer Betting Books](https://tropianhs.gumroad.com/) | How to create a soccer betting model with Python and ML and how to build an automated betting strategy | 50% discount on all books with code BLACKFRIDAY23 |
+|  💰 | [Inside the Machine Learning Interview](https://pengshao.gumroad.com/l/insidethemachinelearninginterview) | Dive into the world of machine learning interviews with Inside the Machine Learning Interview: 151 Real Questions from FAANG and How to Answer Them, a comprehensive 314-page guide crafted by an ex-Amazonian and former Twitter Staff ML Engineer. | 25% OFF with discount code **BLACKFRIDAY2023** |
+|  💰 | [Python Problem-Solving](https://mathspp.com/pythonbootcamp) | eBook with 42 challenges and multiple solutions in Python, comparing different approaches and algorithms and showing how to make effective use of Python's features and modules in code. | 40 % off on Black Friday with code `bootcampbf23`. |
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### Misc Programming Books
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🤑 | [Pair Programming with ChatGPT: AI-Enhanced Coding for the Modern Developer (Covers ChatGPT 4)](https://walkingriver.gumroad.com/l/pair-programming-chatgpt?layout=profile) | AI-Enhanced Coding for the Modern Developer | $2.49. No code needed. Valid Through November 30, 2023 |
+| 🤑 | [P-AI-R Programming: How AI tools like GitHub Copilot and ChatGPT Can Radically Transform Your Development Workflow](https://walkingriver.gumroad.com/l/p-ai-r-programming?layout=profile) | How AI tools can transform your development workflow | $2.49. No code needed. Valid Through November 30, 2023 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -361,6 +382,9 @@ Total deals: 180
 |  🤑 | [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/blackfriday) | A Practical Guide to Earning Income through Blogging. | Already applied "BLACKFRIDAY" for 50% off untill cyber monday. |
 |  🤑 | [Wifi Money Bible](https://www.wifimoneyplant.com/l/wifimoneybible/BLACKFRIDAY) | Learn How to Start, Grow and Automate an Online Business (210+ happy customers) | Link already discounted 75%, valid till Cyber Monday|
 | 🤑 | [Don't Say That at Work - Essential Communications Skills for Software Professionals](https://walkingriver.gumroad.com/l/dont-say-that?layout=profile) | Essential communication skills for software professionals | $2.49. No code needed. Valid Through November 30, 2023 |
+|  🤑 | [Nail A Coding Interview](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers. | 50% OFF with code **BLACKFRIDAY2023** |
+|  🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples. | 50% OFF with code **BLACKFRIDAY2023** |
+|  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
