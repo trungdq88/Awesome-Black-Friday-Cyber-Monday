@@ -86,6 +86,10 @@ Total deals: 180
 | 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
 |  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
 | 💰 | [Verbcode](https://www.verbcode.com/?ref=awesomebf2023) | Simplify your localization journey using Verbcode to manage your json, yaml and strings files. <br> DeepL integration to bring your own API Key. | 25% discount for the whole November with coupon: **`BLACKFRIDAY`** |
+|  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
+|  💰 | [Flare](https://flareapp.io) | Flare is a Laravel error tracker. Track all your PHP and JavaScript errors in one place | Enjoy a 50% discount on your first 3 months of Flare with the code **FLAREBLACKFRIDAY** from 20th November until Cyber Monday. |
+
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -235,6 +239,8 @@ Total deals: 180
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal $49](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 | 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
 | 🤑 | [T.LY URL Shortener](https://t.ly/register) | T.LY is the World's Shortest Link Shortener service to track, brand, and share short URLs. | 50% OFF with coupon code **blackfriday**
+|  💰   | [Mailcoach](https://mailcoach.app) | Mailcoach is the email marketing platform that covers all your email needs for a fraction of the cost. Don't pay for having a list of subscribers, pay for what you send. | Get $30 off your first invoice with coupon code **MAILCOACHBLACKFRIDAY** from 20th November until Cyber Monday. |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
