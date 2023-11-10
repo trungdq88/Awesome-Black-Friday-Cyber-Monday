@@ -114,6 +114,7 @@ Don't forget to:
 | 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday. |
 | 🤑 | [SaaS Pricing Optimizer](https://ai-pricing.co/?ref=awesomebf) | Give your pricing page link and receive 6 tailored optimizations to boost your SaaS profit. | Get 70% off with the code **`BLACKFRIDAY70`**, only valid until Nov 24. |
 | 🤑 | [OptiClean](https://opticlean.io/) | The easiest way to remove object from images on macOS. | 50% off until Nov 24. |
+| 💰 | [Easy-Peasy.AI](https://easy-peasy.ai/?utm_source=trungdq88) | Your One-Stop Solution for Content Creation powered by GPT-4/Claude 2, Image Crafting (DALL-E 3/SDXL), Audio Generation, and AI Transcription.| 40% OFF with code **BFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
