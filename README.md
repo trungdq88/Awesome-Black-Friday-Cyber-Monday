@@ -23,7 +23,7 @@ Don't forget to:
 Total deals: 180
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 macOS apps (7)](#-macos-apps)
+	- [💻 Developer macOS Apps (7)](#-developer-macos-apps)
 	- [💻 Tools & Services (6)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
@@ -44,8 +44,12 @@ Total deals: 180
 - [💅 Boilerplates, Starter-Kit, Templates (8)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
-	- [📗 Programming Books (21)](#-programming-books)
-	- [📘 Startup & Career Books (3)](#-startup--career-books)
+	- [📗 Programming Books ](#-programming-books)
+		- [Web Dev & Design (9)](#web-dev--design)
+		- [Apps Development (Mobile/Desktop) (3)](#apps-development-mobiledesktop)
+		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
+		- [Misc Programming Books (2)](#misc-programming-books)
+	- [📘 Startup & Career Books (6)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (13)](#-programming-courses)
