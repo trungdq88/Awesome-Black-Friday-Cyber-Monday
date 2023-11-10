@@ -24,14 +24,14 @@ Don't forget to:
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (9)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (6)](#-other-ai-tools)
+	- [✨ Other AI tools (7)](#-other-ai-tools)
 - [🌅 Design Tools (5)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (16)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (7)](#-marketing-tools)
+- [🌈 Marketing Tools (8)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (6)](#-startup-saastools)
 - [🌏 Social Media Tools (5)](#-social-media-tools)
@@ -68,6 +68,7 @@ Don't forget to:
 | 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
 |  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
 | 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
+|  🤑 | [DronaHQ](https://www.dronahq.com/) | DronaHQ, a low-code developer toolset, accelerates custom app development by 10X. | 30% OFF on annual plans with 5 Free co-building sessions [Get your code here](https://www.dronahq.com/black-friday-offer/) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -97,6 +98,7 @@ Don't forget to:
 | 💰 | [SiteSpeakAI](https://sitespeak.ai/) | Automate your customer support with ChatGPT | Get 30% off with discount code **`BLACKFRIDAY2023`** |
 | 💰 | [Userdesk](https://userdesk.io/) | Leads generation for your business with AI Chatbots | Get 30% off with discount code **`AWESOMEBF2023`** |
 | 💰 | [Heuristica](https://www.heuristi.ca/) | Heuristi.ca is a simpler and better way to learn, research, and write using AI-powered concept maps. Dive deep into any topic via branching explorations using a mindmap-like interface. | Enjoy 40% off by using **`BFRIDAY2023`** code on checkout until December 1. |
+| 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -109,7 +111,9 @@ Don't forget to:
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app |
 | 💰 | [PROMPTMETHEUS](https://promptmetheus.com) | Cross-platform Prompt IDE. Take your Prompt Engineering to the next level and augment your apps and workflows with the mighty capabilities of Generative AI. | Get 35% off with the code **`BLACKF23`**. Valid until Nov 24.
 | 💰 | [Written Labs](https://writtenlabs.com) | Use AI to generate hundreds of articles in a few clicks. Analyze your SERP competitors and outrank them. Scrape websites and use their content in AI prompts. | Get 50% FOREVER off with the code **`BF50`**.
-| 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday.
+| 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday. |
+| 🤑 | [SaaS Pricing Optimizer](https://ai-pricing.co/?ref=awesomebf) | Give your pricing page link and receive 6 tailored optimizations to boost your SaaS profit. | Get 70% off with the code **`BLACKFRIDAY70`**, only valid until Nov 24. |
+| 🤑 | [OptiClean](https://opticlean.io/) | The easiest way to remove object from images on macOS. | 50% off until Nov 24. |
 | 💰 | [Easy-Peasy.AI](https://easy-peasy.ai/?utm_source=trungdq88) | Your One-Stop Solution for Content Creation powered by GPT-4/Claude 2, Image Crafting (DALL-E 3/SDXL), Audio Generation, and AI Transcription.| 40% OFF with code **BFRIDAY2023** |
 
 
@@ -161,6 +165,7 @@ Don't forget to:
 | 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | [50% OFF on the first year](https://buy.stripe.com/7sIaEOfeT06ugKI5km?prefilled_promo_code=BLACKFRIDAY), or [25% OFF on the Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY23) purchase. |
 | 🤑 | [AudioWrangler](https://audiowrangler.app/) | macOS app that automatically switches to your favorite mic/speakers based on what is currently connected | 50% OFF auto-discount |
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that saves hours on video/audio editing by automatically cutting pauses. | 50% OFF auto-discount |
+| 💰 | [Daily Time Tracking](https://dailytimetracking.com/download?ref=awesome) | Time tracking for Mac without toggling timers by periodically asking what you are doing. | 50% OFF on the lifetime license and annual licence (first year only) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -194,6 +199,7 @@ Don't forget to:
 |  🤑 | [Redac](https://gracehuang.gumroad.com/l/redac) | Redac is a macOS app that makes redacting information in images easier | 50% OFF with code **BLACKFRIDAY2023** |
 | 💰 | [Scribbler](https://app.scribbler.so/) | Summarizer and chat tool for any youtube video or podcast.  | 30% off with code **BLACKFRIDAY2023** at checkout. |
 | 💰 | [Side Space](https://sidespace.app/) | Your browser tabs, organized. Take control of your web browsing with our Vertical Tabs Manager browser extension.  | 20% off with code **BLACKFRIDAY20** redeem this while checkout. |
+| 🤑 | [Hirevire](https://hirevire.com) | Hirevire's automated screening software lets you collect video, audio and file responses from candidates. Stop wasting time on candidates you'll never hire. | 50% Off on new subscriptions with **BlackFriday50Off** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -209,7 +215,7 @@ Don't forget to:
 | 💰 | [ProductVideoExamples.com](https://www.productvideoexamples.com) | Learn from a library of over 100 hand-picked engaging SaaS product video examples. Video examples are labled and can be filtered by length, type, industry and more. | 50% OFF Lifetime Deal with code **BLACKFRIDAY2023** |
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal $49](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 | 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
-
+| 🤑 | [T.LY URL Shortener](https://t.ly/register) | T.LY is the World's Shortest Link Shortener service to track, brand, and share short URLs. | 50% OFF with coupon code **blackfriday**
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -233,6 +239,7 @@ Don't forget to:
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
 | 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
 | 💰 | [ComplyDog](https://complydog.com) | GDPR compliance software for B2B SaaS startups | 30% lifetime discount valid until end of November. Sign up using code **`2023BLACKFRIDAY`** |
+| 🤑 | [BCMS](https://thebcms.com) | Open-source, Headless CMS for developers | 50% OFF on both monthly and annual plans with `BLACKFRIDAY2024` from November 21st - 28th (limited spots) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -245,6 +252,8 @@ Don't forget to:
 |  💰 | [Mixpost](https://mixpost.app?utm_source=awesome_black_friday) | Self-hosted software that allows you to schedule and organize all of your social content in one place, without limits or monthly subscriptions. Run Mixpost on your server, take control of your data, and pay less for a powerful social media management tool. | 30% OFF - auto-discount |
 |  💰 | [Hypefury](https://hypefury.com/) | Get inspiration to write your next viral post, bulk-write and schedule your content, and get more engagement on auto-pilot. | **BLACKFRIDAY2023PR** (35% off One year Premium)<br/>**BLACKFRIDAY2023ST** (30% off One year Standard) |
 |  🤑 | [TinyZap⚡️](https://tinyzap.com?utm_source=black_friday) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social media posts. More people visit these visual links and spend time on your 🫵 websites, apps, and web destinations. | 50% off when you checkout at https://tinyzap.com/plus |
+|  🤑 | [LiveReacting](https://www.livereacting.com) | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | BLACK_FRIDAY_2023_G for 50% off for Pay as you go plan |
+|  🤑 | [Countdow Timer App](https://www.countdown-timer.app) | Publish auto-updating countdown timers directly on your Facebook page. | BLACKFRIDAY2023 for 30% off for PRO plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -268,6 +277,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 | 💰 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **NEATBF2023** |
 | 🤑 | [ISHIM - OAI Domain Tools](https://ish.im) | Find the perfect name for your next project - Bulk domain WHOIS - for MacOS, Windows and Linux | Use **BF23** to get 40% off for all licenses |
+| 🤑 | [Vocala](https://vocala.app) | Vocala is a vocabulary learning app that helps you learn and memorize new words in a better way. | 50% OFF with code **`BLACKFRIDAY2023`**
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -283,6 +293,7 @@ Don't forget to:
 |  🤑 | [Blog Website Template, Ready to deploy](https://gracehuang.gumroad.com/l/blog-template) | This fully-functional blog template is built in Next.js and Tailwind CSS, with all the essential integrations such as EmailOctopus and Google Analytics included out-of-the-box. Simply customize the design to fit your brand and start writing your first post. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Gravity](https://usegravity.app) | Spin up a SaaS product in 5 minutes with the leading Node.js & React SaaS boilerplate. | 30% OFF from Black Friday to Cyber Monday with code **BLACKFRIDAY23** |
 |  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks. | 30% OFF with code **BLACKFRIDAY2023** |
+| 🤑 | [Launch Leopard](https://launchleopard.com) | SvelteKit SaaS Boilerplate to launch your app in a day. | 70% discount valid until end of November. **`no code needed`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -357,6 +368,7 @@ Don't forget to:
 |  💰 | [How To Build a SaaS Product](https://usegravity.app/how-to-build-a-saas) | 25+ hours of video content teaching you everything you need to build a SaaS product. From authentication, design and payments to security and more. | 30 % OFF from Black Friday until Cyber Monday with code **BLACKFRIDAY23** |
 |  💰 | [Python Problem-Solving Bootcamp](https://mathspp.com/pythonbootcamp) | 21-day intensive asynchronous bootcamp where we solve 42 programming challenges in Python. | 40 % off on Black Friday with code `bootcampbf23`. |
 |  💰 | [Zero To Pro Bubble.io Course](https://zerotoprocourse.com) | A comprehensive beginner-to-pro course teaching how to build apps with no-code platform Bubble.io. Become a software entrepreneur, freelancer, or just build for fun! | 40 % off from now until Cyber Monday with code **BLACKFRIDAY2023** |
+|  🤑 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style | 62 % discount from now until Cyber Monday. |
 
 
 
@@ -369,6 +381,7 @@ Don't forget to:
 | -- | ---| ------ | ------ |
 |  🤑 | [Get Your First Gig On Upwork](https://k2a2.gumroad.com/l/get-first-gig-upwork/BLACKFRIDAY) | A one-hour course to get your first gig on Upwork within days! | Get a 50% discount by following the link |
 |  💰 | [The RemindMe Course](https://www.tryd.com/remindmecourse) | RemindMe is a simple productivity system that will help you organize your to-dos and ensure enough balance for work and play. | 20% OFF with code **BLACKFRIDAY2023** |
+|  💰 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1/BLACKFRIDAY) | This guide will help you to conduct better 1:1s, it includes a Notion template with simple yet effective 1:1 management setup. | 50% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -387,6 +400,7 @@ Don't forget to:
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 
 [⬆️ Go to Top](#table-of-contents)
+
 
 ## 💪 Health and Fitness
 
