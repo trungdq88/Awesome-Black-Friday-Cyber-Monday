@@ -317,7 +317,7 @@ Total deals: 180
 |  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks. | 30% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [Launch Leopard](https://launchleopard.com) | SvelteKit SaaS Boilerplate to launch your app in a day. | 70% discount valid until end of November. **`no code needed`** |
 |  💰 | [ShipThat.App](https://www.shipthat.app/) | SwiftUI Boilerplate saving over 50hrs of initial development! Comes with user login flow, onboarding screen, in-app payments, and more! | 30% OFF with code **BLACKFRIDAY23** - valid until Cyber Monday |
-| 🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The fully customizable Django SaaS boilerplate trusted by over 1,000 people. | 50% off an unlimited license with coupon code **bf2023** (automatically applied Nov 17-28) |
+| 🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The fully customizable Django SaaS boilerplate trusted by over 1,000 people. | 50% off a lifetime, unlimited license with coupon code **bf2023** (automatically applied Nov 17-28) |
 
 
 [⬆️ Go to Top](#table-of-contents)
