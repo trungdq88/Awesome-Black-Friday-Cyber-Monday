@@ -22,7 +22,9 @@ Don't forget to:
 
 Total deals: 180
 
-- [👨‍💻 Developer Tools (14)](#-developer-tools)
+- [👨‍💻 Developer Tools ](#-developer-tools)
+	- [💻 macOS apps (7)](#-macos-apps)
+	- [💻 Tools & Services (6)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (10)](#-ai-productivity--learning-tools)
@@ -35,7 +37,7 @@ Total deals: 180
 	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (8)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (7)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (8)](#-startup-saastools)
 - [🌏 Social Media Tools (8)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
 - [🎛 Utility Tools (4)](#-utility-tools)
