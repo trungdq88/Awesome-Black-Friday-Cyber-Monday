@@ -24,20 +24,20 @@ Don't forget to:
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (9)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (5)](#-other-ai-tools)
+	- [✨ Other AI tools (6)](#-other-ai-tools)
 - [🌅 Design Tools (5)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (16)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (6)](#-marketing-tools)
-- [🔍 SEO Tools (2)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (5)](#-startup-saastools)
-- [🌏 Social Media Tools (4)](#-social-media-tools)
-- [💸 Finance Tools (6)](#-finance-tools)
+- [🌈 Marketing Tools (7)](#-marketing-tools)
+- [🔍 SEO Tools (3)](#-seo-tools)
+- [🚀 Startup SaaS/Tools (6)](#-startup-saastools)
+- [🌏 Social Media Tools (5)](#-social-media-tools)
+- [💸 Finance Tools (7)](#-finance-tools)
 - [🎛 Utility Tools (2)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (7)](#-boilerplates-starter-kit-templates)
+- [💅 Boilerplates, Starter-Kit, Templates (6)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books (16)](#-programming-books)
@@ -66,9 +66,10 @@ Don't forget to:
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
 |  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
 | 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
-|  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually
-with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
+|  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
+| 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
 |  🤑 | [DronaHQ](https://www.dronahq.com/) | DronaHQ, a low-code developer toolset, accelerates custom app development by 10X. | 30% OFF on annual plans with 5 Free co-building sessions [Get your code here] (https://www.dronahq.com/black-friday-offer/) |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
@@ -109,6 +110,8 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app |
 | 💰 | [PROMPTMETHEUS](https://promptmetheus.com) | Cross-platform Prompt IDE. Take your Prompt Engineering to the next level and augment your apps and workflows with the mighty capabilities of Generative AI. | Get 35% off with the code **`BLACKF23`**. Valid until Nov 24.
 | 💰 | [Written Labs](https://writtenlabs.com) | Use AI to generate hundreds of articles in a few clicks. Analyze your SERP competitors and outrank them. Scrape websites and use their content in AI prompts. | Get 50% FOREVER off with the code **`BF50`**.
+| 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday. |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -205,6 +208,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | 40% OFF auto-discount |
 | 💰 | [ProductVideoExamples.com](https://www.productvideoexamples.com) | Learn from a library of over 100 hand-picked engaging SaaS product video examples. Video examples are labled and can be filtered by length, type, industry and more. | 50% OFF Lifetime Deal with code **BLACKFRIDAY2023** |
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal $49](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
+| 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -214,6 +218,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | -- | ---| ------ | ------ |
 |  💰 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | 25% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Docswrite](https://docswrite.com/) | Export Google Docs to WordPress in 1-Click. Clean SEO-optimized exports including your images without any copy-paste. | 25% OFF with code **`25BLACK`** |
+|  💰 | [Qualitycs](https://qualitycs.dev/) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website regularly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -227,6 +232,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
 | 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
+| 💰 | [ComplyDog](https://complydog.com) | GDPR compliance software for B2B SaaS startups | 30% lifetime discount valid until end of November. Sign up using code **`2023BLACKFRIDAY`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -238,7 +244,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 |  🤑 | [Assembly](https://assembly.marketing?utm_source=black_friday) | Assembly offers end to end tooling for your social workflow. Draft posts with a Notion-like editor, manage approvals of posts using Slack, and analyze your posts analytics across every social channel all in one place. P.S. if you do a lot of content, we also support bulk uploading and scheduling of social posts via CSV! | BLACKFRIDAY2023 for 50% off for 3 months |
 |  💰 | [Mixpost](https://mixpost.app?utm_source=awesome_black_friday) | Self-hosted software that allows you to schedule and organize all of your social content in one place, without limits or monthly subscriptions. Run Mixpost on your server, take control of your data, and pay less for a powerful social media management tool. | 30% OFF - auto-discount |
 |  💰 | [Hypefury](https://hypefury.com/) | Get inspiration to write your next viral post, bulk-write and schedule your content, and get more engagement on auto-pilot. | **BLACKFRIDAY2023PR** (35% off One year Premium)<br/>**BLACKFRIDAY2023ST** (30% off One year Standard) |
-
+|  🤑 | [TinyZap⚡️](https://tinyzap.com?utm_source=black_friday) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social media posts. More people visit these visual links and spend time on your 🫵 websites, apps, and web destinations. | 50% off when you checkout at https://tinyzap.com/plus |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -252,6 +258,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 |  🤑 | [Finmei](https://finmei.com) | Professional invoicing for small businesses and freelancers. | $59 Lifetime Deal |
 |  💰 | [Self-Employed FAQ Library Pass](https://www.selfemployedfaq.com/) | A library of answers to newcomers' questions about self-employment, focusing on taxes, income/expense tracking, ACA healthcare enrollment, and more. | 33% off lifetime pass thru 11/25 |
 |  🤑 | [Tilla Premium](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla.premium) | Android app to manage your subscriptions without hustle and get notified when a bill date is due. | 50% off for lifetime from 11/21 till 11/28 |
+|  💰 | [Fin - Budget Tracker](https://apps.apple.com/app/apple-store/id1489698531) | Beautiful budget tracker for iOS | 30% OFF the annual subscription
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -275,8 +282,7 @@ with Tailscan, right within the browser. | 20% discount from 13th November until
 | 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
 |  🤑 | [Blog Website Template, Ready to deploy](https://gracehuang.gumroad.com/l/blog-template) | This fully-functional blog template is built in Next.js and Tailwind CSS, with all the essential integrations such as EmailOctopus and Google Analytics included out-of-the-box. Simply customize the design to fit your brand and start writing your first post. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Gravity](https://usegravity.app) | Spin up a SaaS product in 5 minutes with the leading Node.js & React SaaS boilerplate. | 30% OFF from Black Friday to Cyber Monday with code **BLACKFRIDAY23** |
-|  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks.
-. | 30% OFF with code **BLACKFRIDAY2023** |
+|  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks. | 30% OFF with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
