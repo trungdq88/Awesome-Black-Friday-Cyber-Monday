@@ -232,7 +232,6 @@ Don't forget to:
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
 | 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
 | 💰 | [ComplyDog](https://complydog.com) | GDPR compliance software for B2B SaaS startups | 30% lifetime discount valid until end of November. Sign up using code **`2023BLACKFRIDAY`** |
-| 🤑 | [Launch Leopard](https://launchleopard.com) | SvelteKit SaaS Boilerplate to launch your app in a day. | 70% discount valid until end of November. **`no code needed`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -283,6 +282,7 @@ Don't forget to:
 |  🤑 | [Blog Website Template, Ready to deploy](https://gracehuang.gumroad.com/l/blog-template) | This fully-functional blog template is built in Next.js and Tailwind CSS, with all the essential integrations such as EmailOctopus and Google Analytics included out-of-the-box. Simply customize the design to fit your brand and start writing your first post. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Gravity](https://usegravity.app) | Spin up a SaaS product in 5 minutes with the leading Node.js & React SaaS boilerplate. | 30% OFF from Black Friday to Cyber Monday with code **BLACKFRIDAY23** |
 |  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks. | 30% OFF with code **BLACKFRIDAY2023** |
+| 🤑 | [Launch Leopard](https://launchleopard.com) | SvelteKit SaaS Boilerplate to launch your app in a day. | 70% discount valid until end of November. **`no code needed`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
