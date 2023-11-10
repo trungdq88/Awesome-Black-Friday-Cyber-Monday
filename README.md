@@ -296,6 +296,7 @@ Don't forget to:
 |  💰 | [Gravity](https://usegravity.app) | Spin up a SaaS product in 5 minutes with the leading Node.js & React SaaS boilerplate. | 30% OFF from Black Friday to Cyber Monday with code **BLACKFRIDAY23** |
 |  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks. | 30% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [Launch Leopard](https://launchleopard.com) | SvelteKit SaaS Boilerplate to launch your app in a day. | 70% discount valid until end of November. **`no code needed`** |
+|  💰 | [ShipThat.App](https://www.shipthat.app/) | SwiftUI Boilerplate saving over 50hrs of initial development! Comes with user login flow, onboarding screen, in-app payments, and more! | 30% OFF with code **BLACKFRIDAY23** - valid until Cyber Monday |
 
 [⬆️ Go to Top](#table-of-contents)
 
