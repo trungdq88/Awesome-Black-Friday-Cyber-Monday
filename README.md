@@ -73,7 +73,7 @@ Total deals: 181
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
 |  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
 | 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
-| 🤑 | [OK JSON](https://okjson.app) | A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code **`indiefriday2023`** from Nov 23 – Nov 29 |
+| 🤑 | [OK JSON](https://okjson.app) | A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code **`BF2023`** from Nov 23 – Nov 29 |
 
 [⬆️ Go to Top](#table-of-contents)
 
