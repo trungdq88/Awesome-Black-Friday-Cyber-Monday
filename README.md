@@ -260,6 +260,7 @@ Total deals: 180
 | 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
 | 💰 | [ComplyDog](https://complydog.com) | GDPR compliance software for B2B SaaS startups | 30% lifetime discount valid until end of November. Sign up using code **`2023BLACKFRIDAY`** |
 | 🤑 | [BCMS](https://thebcms.com) | Open-source, Headless CMS for developers | 50% OFF on both monthly and annual plans with `BLACKFRIDAY2024` from November 21st - 28th (limited spots) |
+|  💰 | [StatusPal](https://statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday22) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code `AWESOME_BLACKFRIDAY` until Nov. 29th |
 
 [⬆️ Go to Top](#table-of-contents)
 
