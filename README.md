@@ -390,6 +390,7 @@ Total deals: 180
 |  🤑 | [Nail A Coding Interview](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
+| 💰 | [The100kDatabase - idea to $82k+ ARR database saas in 12 months](https://buy.stripe.com/9AQcPd4PbbbpgeIeUV) | Learn exactly how to go from idea to $320,000 boring database saas business in 12 months while keeping monthly costs to ~$800/m.  | $42 OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -477,5 +478,6 @@ Total deals: 180
 |  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
 |  💰 | [SponsorLeads](https://getsponsorleads.com/#pricing) | A (daily updated) Airtable base with companies that are actively advertising in other newsletters to help you find new sponsors for yours. | Daily decreasing discount until Christmas |
 | 🤑 | [Blog Money DB](https://blogmoneydb.com) | A complete collection of 60,000+ profitable blogs earning at least $50K per year. Created for content creators, brands and businesses. Updated regularly. | 50% Off Liftime access. Applied Automatically |
+| 🤑 | [The OutSource Playbook](https://buy.stripe.com/6oEg1D6MY2YkayI8wz) | Learn the tips and tricks to find, screen and hire A+ offshore talent. Examples test tasks, jobs descriptions and much more! | 50% Off with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
