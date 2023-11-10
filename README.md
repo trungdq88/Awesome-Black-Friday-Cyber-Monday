@@ -112,6 +112,7 @@ Don't forget to:
 | 💰 | [Written Labs](https://writtenlabs.com) | Use AI to generate hundreds of articles in a few clicks. Analyze your SERP competitors and outrank them. Scrape websites and use their content in AI prompts. | Get 50% FOREVER off with the code **`BF50`**.
 | 💰 | [A.I.C.](https://getaic.app) | AI image generator app that uses Stable Diffusion as a core technology. It's easy to use and perfect for generating images on the go. | 50% off on the annual plan. From Black Friday till the end of Cyber Monday. |
 | 🤑 | [SaaS Pricing Optimizer](https://ai-pricing.co/?ref=awesomebf) | Give your pricing page link and receive 6 tailored optimizations to boost your SaaS profit. | Get 70% off with the code **`BLACKFRIDAY70`**, only valid until Nov 24. |
+| 🤑 | [OptiClean](https://opticlean.io/) | The easiest way to remove object from images on macOS. | 50% off until Nov 24. |
 
 
 [⬆️ Go to Top](#table-of-contents)
