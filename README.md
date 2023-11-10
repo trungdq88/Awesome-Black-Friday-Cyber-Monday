@@ -56,21 +56,29 @@ Total deals: 180
 
 ## 👨‍💻 Developer Tools
 
+### 💻 macOS apps
+
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
 |  🤑 | [Find My Ports](https://findmyports.com) | Manage all your open development ports, resolve conflicts, and Vercel deployment status integration. Supports Apple Silicon & macOS Sonoma+. | 50% OFF with code **`BLACKFRIDAY2023`** |
 |  💰 | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster & Smarter with Proxyman. Support Apple Silicon & macOS Sonoma. Run on macOS, iOS, Windows, and Linux. | 30% OFF with code **PROXYMAN_BLACKFRIDAY_2023** |
-|  🤑 | [Dotenv](https://dotenv.org) | Secrets for developers. Sync your .env files across machines, environments, and team members. | 25% OFF forever with code **BLACKFRIDAY_2023** Sign up and then email [support@dotenv.org](mailto:support@dotenv.org) with the code. |
-|  💰 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code **BF2023** |
-|  🤑 | [Azimutt](https://azimutt.app) | Easily explore large databases, SQL or document. Also design, document and even analyze them. It's the perfect mix between an ERD, a SQL client and a data catalog. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Aptakube](https://aptakube.com/) | Desktop Client for Kubernetes. Modern, fast and multi-cluster. Runs on macOS, Windows, and Linux | 30% OFF on personal licenses with code **BLACKFRIDAY2023** |
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
 |  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
+| 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
+
+[⬆️ Go to Top](#table-of-contents)
+
+### 💻 Tools & Services
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  🤑 | [Dotenv](https://dotenv.org) | Secrets for developers. Sync your .env files across machines, environments, and team members. | 25% OFF forever with code **BLACKFRIDAY_2023** Sign up and then email [support@dotenv.org](mailto:support@dotenv.org) with the code. |
+|  💰 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code **BF2023** |
+|  🤑 | [Azimutt](https://azimutt.app) | Easily explore large databases, SQL or document. Also design, document and even analyze them. It's the perfect mix between an ERD, a SQL client and a data catalog. | 50% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
 |  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
-| 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
-|  🤑 | [DronaHQ](https://www.dronahq.com/) | DronaHQ, a low-code developer toolset, accelerates custom app development by 10X. | 30% OFF on annual plans with 5 Free co-building sessions [Get your code here](https://www.dronahq.com/black-friday-offer/) |
 | 💰 | [Verbcode](https://www.verbcode.com/?ref=awesomebf2023) | Simplify your localization journey using Verbcode to manage your json, yaml and strings files. <br> DeepL integration to bring your own API Key. | 25% discount for the whole November with coupon: **`BLACKFRIDAY`** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -239,6 +247,7 @@ Total deals: 180
 | -- | ---| ------ | ------ |
 | 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 | 🤑 | [InclusionKit](https://www.inclusionkit.com) | Make your native iOS and Android apps accessible! Accessibility auditing/testing subscription that saves your developers' time. | 50% OFF monthly subscription (forever) with code **BLACKFRIDAY50** |
+|  🤑 | [DronaHQ](https://www.dronahq.com/) | DronaHQ, a low-code developer toolset, accelerates custom app development by 10X. | 30% OFF on annual plans with 5 Free co-building sessions [Get your code here](https://www.dronahq.com/black-friday-offer/) |
 | 💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
 | 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
