@@ -475,6 +475,7 @@ Total deals: 181
 | -- | ---| ------ | ------ |
 | 🤑 | [Gym Diary](https://apps.apple.com/us/app/gym-diary-workout-tracker-note/id1328908841) | Simple & beautiful iOS App to track all your workout activities | 50% off on Annual Plan |
 | 💰 | [Watch to 5K](https://apps.apple.com/us/app/watchto5k-couch-to-5km-watch/id1517914828) | Train to run 5K in 9 weeks with just your Apple Watch. | 25% off Lifetime Access |
+| 🤑 | [Zenitizer](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BLACKFRIDAY2023) | Modern & Clutter-Free Meditation Timer for  Devices | **50% Off** Zenitizer+ Yearly with code **`BLACKFRIDAY2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
