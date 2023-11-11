@@ -56,7 +56,7 @@ Total deals: 181
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (1)](#-marketing-courses)
 	- [🔒 Information Security Courses (1)](#-information-security-courses)
-- [💪 Health and Fitness (1)](#-health-and-fitness)
+- [💪 Health and Fitness (3)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (8)](#-miscellaneous)
 
 
@@ -475,6 +475,7 @@ Total deals: 181
 | -- | ---| ------ | ------ |
 | 🤑 | [Gym Diary](https://apps.apple.com/us/app/gym-diary-workout-tracker-note/id1328908841) | Simple & beautiful iOS App to track all your workout activities | 50% off on Annual Plan |
 | 💰 | [Watch to 5K](https://apps.apple.com/us/app/watchto5k-couch-to-5km-watch/id1517914828) | Train to run 5K in 9 weeks with just your Apple Watch. | 25% off Lifetime Access |
+| 💰 | [Swim Coach](https://swimcoachapp.com/) | The #1 Training App for Swimmers and Triathletes. | Get 4 extra months when purchasing a 1-year Gold subscription |
 
 
 [⬆️ Go to Top](#table-of-contents)
