@@ -20,10 +20,10 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 180
+Total deals: 181
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (7)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (8)](#-developer-macos-apps)
 	- [💻 Tools & Services (6)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (4)](#-ai-chat-ui)
@@ -73,6 +73,7 @@ Total deals: 180
 |  💰 | [Ray](https://myray.app) | Debug your code easier with Ray. Ray is a desktop application that serves as the dedicated home for debugging output. | 30 % discount from 20th November until Cyber Monday. |
 |  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
 | 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
+| 🤑 | [OK JSON](https://okjson.app) | A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code **`BF2023`** from Nov 23 – Nov 29 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -86,8 +87,8 @@ Total deals: 180
 | 🤑 | [LambdaTest](https://www.lambdatest.com) | Perform unlimited website and app testing on LambdaTest’s cloud of 3000+ desktop and mobile browser environments up to 70% faster than any cloud grid. ⚡ | Get a flat 30% off on all LambdaTest Annual plans (Use Coupon code **BFCM30** on the checkout page) |
 |  💰 | [Tailscan](https://tailscan.com) | The ultimate devtool for Tailwind CSS. Build, design and debug any Tailwind website visually with Tailscan, right within the browser. | 20% discount from 13th November until Cyber Monday (limited slots) |
 | 💰 | [Verbcode](https://www.verbcode.com/?ref=awesomebf2023) | Simplify your localization journey using Verbcode to manage your json, yaml and strings files. <br> DeepL integration to bring your own API Key. | 25% discount for the whole November with coupon: **`BLACKFRIDAY`** |
+| 💰 | [Blade Mail](https://blademail.app) | Sending test emails locally never been easier with Blade Mail (mailhog alternative) | 50% discount with coupon: **`BLACKFRIDAY`** |
 |  💰 | [Flare](https://flareapp.io) | Flare is a Laravel error tracker. Track all your PHP and JavaScript errors in one place | Enjoy a 50% discount on your first 3 months of Flare with the code **FLAREBLACKFRIDAY** from 20th November until Cyber Monday. |
-
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -150,7 +151,7 @@ Total deals: 180
 |  🤑 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | ResizeGenius is a macOS app for effortless batch resizing and editing of images. This powerful yet user-friendly application is designed to streamline your image processing tasks, enabling you to resize multiple images simultaneously while maintaining your preferred configurations, just like following a resizing recipe. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [snappify](https://snappify.com) | Create stunning Code Presentations with smooth animations and export them as Videos. From creating Social Media content, to Explanatory Videos and Technical Slides - snappify got you covered! | 30% OFF first year with code **BLACKFRIDAY_2023** |
 |  💰 | [SMBImg](https://smbimg.com) | Take screenshots, apply unique backgrounds and customize the watermarks. Features: rounded corners, shadows, predefined image sizes, zooming, custom offsets. Export to webp, jpeg, png and gif. | 40% OFF first year with code **BF2023** |
-|  🤑 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 60% discount on biannual plans. |
+|  🤑 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 63% discount on biannual plans. |
 
 
 
@@ -262,9 +263,10 @@ Total deals: 180
 |  🤑 | [DronaHQ](https://www.dronahq.com/) | DronaHQ, a low-code developer toolset, accelerates custom app development by 10X. | 30% OFF on annual plans with 5 Free co-building sessions [Get your code here](https://www.dronahq.com/black-friday-offer/) |
 | 💰 | [Appliku](https://appliku.com/) | Deploy and manage your apps with ease on your own servers | 30% discount valid whole November **`BLACKFRIDAY2023`** |
 | 💰 | [HelpKit.so](https://www.helpkit.so) | Turn your Notion pages into a professional help center or documentation site. HelpKit comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions much more. Deliver instant help to your customers without ever leaving Notion.  | 35% OFF with code **black_friday_23** |
-| 🤑 | [DeplotBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
+| 🤑 | [DeployBot](https://deploybot.com) | Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. | 80% discount valid the last week of November **`WITHOUT CODE`** |
 | 💰 | [ComplyDog](https://complydog.com) | GDPR compliance software for B2B SaaS startups | 30% lifetime discount valid until end of November. Sign up using code **`2023BLACKFRIDAY`** |
 | 🤑 | [BCMS](https://thebcms.com) | Open-source, Headless CMS for developers | 50% OFF on both monthly and annual plans with `BLACKFRIDAY2024` from November 21st - 28th (limited spots) |
+|  💰 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday23) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code `AWESOME_BLACKFRIDAY` until Nov. 29th |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -305,6 +307,7 @@ Total deals: 180
 | 🤑 | [ISHIM - OAI Domain Tools](https://ish.im) | Find the perfect name for your next project - Bulk domain WHOIS - for MacOS, Windows and Linux | Use **BF23** to get 40% off for all licenses |
 | 🤑 | [Vocala](https://vocala.app) | Vocala is a vocabulary learning app that helps you learn and memorize new words in a better way. | 50% OFF with code **`BLACKFRIDAY2023`**
 | 🤑 | [Morpho Converter](https://apps.apple.com/redeem?ctx=offercodes&id=1494942612&code=HALFOFF2023) | Instant unit and currency converter for iPhone, iPad, Mac, and Apple Watch. | 50% OFF first year of Morpho Pro by redeeming linked offer |
+| 🤑 | [Bezel — iPhone mirroring](https://getbezel.app) | Show your iPhone on your Mac, beautifully and with ease. | 50% OFF with code **BLACKFRIDAY** during Black Friday & Cyber Monday only! |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -322,6 +325,7 @@ Total deals: 180
 |  💰 | [AI Launch Guide](https://www.boostaitraffic.com/) | AI Launch Guide + Curated directories for AI startups, Indie Makers to launch and submit their products. Increase your product's visibility and gain quality backlinks. | 30% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [Launch Leopard](https://launchleopard.com) | SvelteKit SaaS Boilerplate to launch your app in a day. | 70% discount valid until end of November. **`no code needed`** |
 |  💰 | [ShipThat.App](https://www.shipthat.app/) | SwiftUI Boilerplate saving over 50hrs of initial development! Comes with user login flow, onboarding screen, in-app payments, and more! | 30% OFF with code **BLACKFRIDAY23** - valid until Cyber Monday |
+|  💰 | [LaunchFa.st](https://www.launchfa.st) | Rapidly launch apps with Astro, SvelteKit and Next.js. | 50% OFF with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -427,6 +431,7 @@ Total deals: 180
 |  💰 | [Python Problem-Solving Bootcamp](https://mathspp.com/pythonbootcamp) | 21-day intensive asynchronous bootcamp where we solve 42 programming challenges in Python. | 40 % off on Black Friday with code `bootcampbf23`. |
 |  💰 | [Zero To Pro Bubble.io Course](https://zerotoprocourse.com) | A comprehensive beginner-to-pro course teaching how to build apps with no-code platform Bubble.io. Become a software entrepreneur, freelancer, or just build for fun! | 40 % off from now until Cyber Monday with code **BLACKFRIDAY2023** |
 |  🤑 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style | 62 % discount from now until Cyber Monday. |
+|  🤑 | [Build an MVP with Elixir](https://pjullrich.gumroad.com/l/bmvp/BLACKFRIDAY2023) | You have a great product idea but struggle to bring it to life? This video course guides you through the entire process from idea to finished product. Learn how to quickly develop, deploy, and monetize your MVP with Elixir. | 50% OFF with **BLACKFRIDAY2023** |
 
 
 
