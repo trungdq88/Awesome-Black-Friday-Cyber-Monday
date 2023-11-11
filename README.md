@@ -436,7 +436,9 @@ Total deals: 181
 |  💰 | [Zero To Pro Bubble.io Course](https://zerotoprocourse.com) | A comprehensive beginner-to-pro course teaching how to build apps with no-code platform Bubble.io. Become a software entrepreneur, freelancer, or just build for fun! | 40 % off from now until Cyber Monday with code **BLACKFRIDAY2023** |
 |  🤑 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style | 62 % discount from now until Cyber Monday. |
 |  🤑 | [Build an MVP with Elixir](https://pjullrich.gumroad.com/l/bmvp/BLACKFRIDAY2023) | You have a great product idea but struggle to bring it to life? This video course guides you through the entire process from idea to finished product. Learn how to quickly develop, deploy, and monetize your MVP with Elixir. | 50% OFF with **BLACKFRIDAY2023** |
-
+|  🤑 | [Filament Admin Panel Course for Laravel (Updated for V3)](https://www.udemy.com/course/laravel-filament-admin-panel-course/?couponCode=BLACKFRIDAY2023) | Learn to build Admin Panels using FilamentPHP practically by building two projects along the way. | 50% OFF with **BLACKFRIDAY2023** |
+|  🤑 | [Laravel with Inertia.js & Svelte: A Practical Guide](https://www.udemy.com/course/learn-laravel-with-inertiajs-and-svelte/?couponCode=BLACKFRIDAY2023) | Learn Inertia.js Practically using Laravel, Inertia.js and Svelte by building three projects along the way. | 50% OFF with **BLACKFRIDAY2023** |
+|  🤑 | [Custom Auth Implementation In Laravel: A Practical Guide](https://www.udemy.com/course/custom-auth-implementation-in-laravel/?couponCode=BLACKFRIDAY2023) | Learn how to implement Custom Authentication System in Laravel. | 50% OFF with **BLACKFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
