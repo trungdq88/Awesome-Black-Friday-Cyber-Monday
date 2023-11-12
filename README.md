@@ -456,6 +456,7 @@ Total deals: 181
 |  🤑 | [Get Your First Gig On Upwork](https://k2a2.gumroad.com/l/get-first-gig-upwork/BLACKFRIDAY) | A one-hour course to get your first gig on Upwork within days! | Get a 50% discount by following the link |
 |  💰 | [The RemindMe Course](https://www.tryd.com/remindmecourse) | RemindMe is a simple productivity system that will help you organize your to-dos and ensure enough balance for work and play. | 20% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1/BLACKFRIDAY) | This guide will help you to conduct better 1:1s, it includes a Notion template with simple yet effective 1:1 management setup. | 50% OFF with code **BLACKFRIDAY** |
+| 💰 | [The 100K Database Course and Community](https://100kdatabase.com) | A complete course and community that teaches how to build a profitable Subscription Database SaaS. Created for entrepreneurs, founders, agencies and businesses to learn, build and grow. Data is the new oil. Learn how to profit from selling valuable data today. | 20% Off lifetime access and membership applied automatically |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -503,5 +504,6 @@ Total deals: 181
 |  💰 | [SponsorLeads](https://getsponsorleads.com/#pricing) | A (daily updated) Airtable base with companies that are actively advertising in other newsletters to help you find new sponsors for yours. | Daily decreasing discount until Christmas |
 | 🤑 | [Blog Money DB](https://blogmoneydb.com) | A complete collection of 60,000+ profitable blogs earning at least $50K per year. Created for content creators, brands and businesses. Updated regularly. | 50% Off Liftime access. Applied Automatically |
 | 🤑 | [SaaS Pricer](https://www.saaspricer.com/) | A collection of more than 300 SaaS Product pricing that could be filtered by freemium, free trial, subscription and other pricing options, products' value metrics and screen shots of their pricing pages. | 50% off Lifetime with code Saas_Friday on Gumroad |
+| 💰 | [The 100K Database Course and Community](https://100kdatabase.com) | A complete course and community that teaches how to build a profitable Subscription Database SaaS. Created for entrepreneurs, founders, agencies and businesses to learn, build and grow. Data is the new oil. Learn how to profit from selling valuable data today. | 20% Off lifetime access and membership applied automatically |
 
 [⬆️ Go to Top](#table-of-contents)
