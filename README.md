@@ -19,7 +19,7 @@ Don't forget to:
 
 ## Meet our sponsors
 
-| [TypingMind.com](https://www.typingmind.com) (Web App/Self-host) <br/> 🔥 40% OFF | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Xnapper](https://xnapper.com) (macOS app) <br/> 🔥 50% OFF |
+| [TypingMind.com](https://www.typingmind.com)<br/> 🔥 40% OFF | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Xnapper](https://xnapper.com) (macOS app) <br/> 🔥 50% OFF |
 | --- | ------ | ------|
 | <a href="https://www.typingmind.com"><img src="https://www.typingmind.com/poster.png"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://xnapper.com"><img src="https://xnapper.com/assets/poster.png"></a> |
 | Professional UI for ChatGPT/Anthropic Claude/Open Source LLM<br/><br/>🔵 No monthly fee, use your own API key <br/>🔵  Text-to-speech, Web Search, DALL-E 3<br/>🔵 Chat folders, search, export<br/>🔵 Prompt library, AI characters, Plugins | All-in-one toolbox for developers. <br/><br/>🟢 42+ carefully crafted developer tools. <br/>🟢 Native macOS app, fast & beautiful. <br/>🟢 Work offline, and respect your data. <br/>🟢 Fully supports Apple Silicon & macOS Ventura. | Take beautiful screenshot easy and fast for social media.<br/><br/> 🟣 Beautiful screenshots in 2 seconds <br/>🟣 Auto balance screenshot <br/>🟣 Auto hide sensitive info <br/>🟣 Annotations |
