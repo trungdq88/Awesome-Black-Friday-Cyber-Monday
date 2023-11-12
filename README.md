@@ -310,6 +310,8 @@ Total deals: 181
 | 🤑 | [Vocala](https://vocala.app) | Vocala is a vocabulary learning app that helps you learn and memorize new words in a better way. | 50% OFF with code **`BLACKFRIDAY2023`**
 | 🤑 | [Morpho Converter](https://apps.apple.com/redeem?ctx=offercodes&id=1494942612&code=HALFOFF2023) | Instant unit and currency converter for iPhone, iPad, Mac, and Apple Watch. | 50% OFF first year of Morpho Pro by redeeming linked offer |
 | 🤑 | [Bezel — iPhone mirroring](https://getbezel.app) | Show your iPhone on your Mac, beautifully and with ease. | 50% OFF with code **BLACKFRIDAY** during Black Friday & Cyber Monday only! |
+| 🤑 | [TimeWave: Timer Chains](https://apps.apple.com/us/app/timewave-timer-chains/id1524345488) | Build Flowing Timers on iPad, iPhone & Apple Watch. | 50% OFF Lifetime Premium |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
