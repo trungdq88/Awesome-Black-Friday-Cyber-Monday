@@ -20,28 +20,28 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 181
+Total deals: 204
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (8)](#-developer-macos-apps)
-	- [💻 Tools & Services (6)](#-tools--services)
+	- [💻 Tools & Services (8)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (5)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (10)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (11)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (9)](#-other-ai-tools)
 - [🌅 Design Tools (5)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (17)](#️-productivity-desktop-apps)
+	- [🖥️ Productivity Desktop Apps (18)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (8)](#-marketing-tools)
+- [🌈 Marketing Tools (9)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (8)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (10)](#-startup-saastools)
 - [🌏 Social Media Tools (8)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
-- [🎛 Utility Tools (4)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (8)](#-boilerplates-starter-kit-templates)
+- [🎛 Utility Tools (6)](#-utility-tools)
+- [💅 Boilerplates, Starter-Kit, Templates (11)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
@@ -52,12 +52,12 @@ Total deals: 181
 	- [📘 Startup & Career Books (6)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (13)](#-programming-courses)
+	- [💻 Programming Courses (17)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
 	- [📈 Marketing Courses (1)](#-marketing-courses)
 	- [🔒 Information Security Courses (1)](#-information-security-courses)
-- [💪 Health and Fitness (3)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (8)](#-miscellaneous)
+- [💪 Health and Fitness (5)](#-health-and-fitness)
+- [👨‍🎨 Miscellaneous (9)](#-miscellaneous)
 
 
 ## 👨‍💻 Developer Tools
