@@ -464,7 +464,7 @@ Total deals: 181
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 | [AppSecEngineer](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture.  | 25% OFF all annual plans with code **PUMPKINPIE25** |
 
 [⬆️ Go to Top](#table-of-contents)
 
