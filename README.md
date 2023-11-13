@@ -36,7 +36,7 @@ Total deals: 204
 	- [📖 AI Productivity & Learning Tools (11)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (9)](#-other-ai-tools)
 - [🌅 Design Tools (5)](#-design-tools)
-- [⌨️ Code Libraries (1)](#️-code-libraries)
+- [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (18)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
@@ -170,6 +170,8 @@ Total deals: 204
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY_2023** |
+|  💰 | [fullPage.js Slider](https://alvarotrigo.com/fullPage/black-friday) | Create Beautiful Fullscreen Scrolling Websites. | Up to 40% OFF ** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
