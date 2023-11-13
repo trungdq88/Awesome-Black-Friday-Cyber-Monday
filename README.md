@@ -477,7 +477,7 @@ Total deals: 204
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+| 💰 | Practical DevSecOps | [Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling courses](https://www.practical-devsecops.com/black-friday/) | 15% off all courses |
 
 [⬆️ Go to Top](#table-of-contents)
 
