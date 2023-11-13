@@ -144,7 +144,7 @@ Total deals: 204
 | 🤑 | [SaaS Pricing Optimizer](https://ai-pricing.co/?ref=awesomebf) | Give your pricing page link and receive 6 tailored optimizations to boost your SaaS profit. | Get 70% off with the code **`BLACKFRIDAY70`**, only valid until Nov 24. |
 | 🤑 | [OptiClean](https://opticlean.io/) | The easiest way to remove object from images on macOS. | 50% off until Nov 24. |
 | 💰 | [Easy-Peasy.AI](https://easy-peasy.ai/?utm_source=trungdq88) | Your One-Stop Solution for Content Creation powered by GPT-4/Claude 2, Image Crafting (DALL-E 3/SDXL), Audio Generation, and AI Transcription.| 40% OFF with code **BFRIDAY2023** |
-
+| 🤑 | [Dream Decoder](https://dreamdecoder.me/?ref=trungdq88) | Explore, understand, and connect your dreams to your waking life with AI.| 70% OFF on the annual plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
