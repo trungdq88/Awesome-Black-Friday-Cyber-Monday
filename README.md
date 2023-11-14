@@ -353,6 +353,7 @@ Total deals: 204
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🐿️ | [Chipmunk WordPress Theme](https://chipmunktheme.com) | The perfect choice for creating a directory website in WordPress. | 40% OFF with code **`BLACKFRIDAY40`** |
+|  💰 | [Coupon Affiliates for WooCommerce](https://couponaffiliates.com) | Easily create a coupon-based affiliate program for your WooCommerce site. | 30% OFF with code **`BF2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
