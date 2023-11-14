@@ -26,7 +26,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 204
+Total deals: 224
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (8)](#-developer-macos-apps)
@@ -34,36 +34,37 @@ Total deals: 204
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (5)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (11)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (9)](#-other-ai-tools)
+	- [✨ Other AI tools (10)](#-other-ai-tools)
 - [🌅 Design Tools (5)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (18)](#️-productivity-desktop-apps)
+	- [🖥️ Productivity Desktop Apps (20)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (9)](#-marketing-tools)
+	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
+- [🌈 Marketing Tools (11)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (10)](#-startup-saastools)
 - [🌏 Social Media Tools (8)](#-social-media-tools)
-- [💸 Finance Tools (7)](#-finance-tools)
+- [💸 Finance Tools (8)](#-finance-tools)
 - [🎛 Utility Tools (6)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (11)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (1)](#-themes-plugins)
+- [💅 Boilerplates, Starter-Kit, Templates (12)](#-boilerplates-starter-kit-templates)
+- [🧩 Themes, Plugins (3)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
-		- [Web Dev & Design (9)](#web-dev--design)
+		- [Web Dev & Design (11)](#web-dev--design)
 		- [Apps Development (Mobile/Desktop) (3)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
-		- [Misc Programming Books (3)](#misc-programming-books)
+		- [Misc Programming Books (4)](#misc-programming-books)
 	- [📘 Startup & Career Books (6)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (17)](#-programming-courses)
 	- [🎢 Career Courses (3)](#-career-courses)
-	- [📈 Marketing Courses (1)](#-marketing-courses)
-	- [🔒 Information Security Courses (1)](#-information-security-courses)
+	- [📈 Marketing Courses (2)](#-marketing-courses)
+	- [🔒 Information Security Courses (2)](#-information-security-courses)
 - [💪 Health and Fitness (5)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (9)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (10)](#-miscellaneous)
+
 
 
 ## 👨‍💻 Developer Tools
