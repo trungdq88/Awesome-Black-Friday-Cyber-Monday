@@ -199,6 +199,8 @@ Total deals: 204
 | 💰 | [Daily Time Tracking](https://dailytimetracking.com/download?ref=awesome) | Time tracking for Mac without toggling timers by periodically asking what you are doing. | 50% OFF on the lifetime license and annual licence (first year only) |
 | 🤑 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2023**|
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY**|
+| 💰 | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 2,69 (33% off!) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
