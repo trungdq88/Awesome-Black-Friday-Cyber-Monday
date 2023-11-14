@@ -256,6 +256,8 @@ Total deals: 204
 | 🤑 | [T.LY URL Shortener](https://t.ly/register) | T.LY is the World's Shortest Link Shortener service to track, brand, and share short URLs. | 50% OFF with coupon code **blackfriday**
 |  💰   | [Mailcoach](https://mailcoach.app) | Mailcoach is the email marketing platform that covers all your email needs for a fraction of the cost. Don't pay for having a list of subscribers, pay for what you send. | Get $30 off your first invoice with coupon code **MAILCOACHBLACKFRIDAY** from 20th November until Cyber Monday. |
 | 💰 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | [Get $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
+| 💰 | [FounderPal](https://founderpal.ai/marketing-strategy-generator) | AI-powered marketing strategy generator for Solopreneurs ! | 30% off with the promo code **BLACKFRIDAY**! |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -486,6 +488,7 @@ Total deals: 204
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 | [Complete Marketing Bundle](https://www.makerbox.club/complete-marketing-bundle) | A collection of 5 actionable marketing resources for Solopreneurs. | 30% OFF with a promo code **BLACKFRIDAY**! |
 
 [⬆️ Go to Top](#table-of-contents)
 
