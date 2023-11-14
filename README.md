@@ -481,6 +481,8 @@ Total deals: 204
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [AppSecEngineer](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture.  | 25% OFF all annual plans with code **PUMPKINPIE25** |
+| 💰 | Practical DevSecOps | [Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling courses](https://www.practical-devsecops.com/black-friday/) | 15% off all courses |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
