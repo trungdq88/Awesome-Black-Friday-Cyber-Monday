@@ -196,6 +196,7 @@ Total deals: 204
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that saves hours on video/audio editing by automatically cutting pauses. | 50% OFF auto-discount |
 | 💰 | [Daily Time Tracking](https://dailytimetracking.com/download?ref=awesome) | Time tracking for Mac without toggling timers by periodically asking what you are doing. | 50% OFF on the lifetime license and annual licence (first year only) |
 | 🤑 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2023**|
+| 💰 | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 2,69 (33% off!) |
 
 [⬆️ Go to Top](#table-of-contents)
 
