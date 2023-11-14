@@ -158,7 +158,7 @@ Total deals: 204
 |  🤑 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | ResizeGenius is a macOS app for effortless batch resizing and editing of images. This powerful yet user-friendly application is designed to streamline your image processing tasks, enabling you to resize multiple images simultaneously while maintaining your preferred configurations, just like following a resizing recipe. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [snappify](https://snappify.com) | Create stunning Code Presentations with smooth animations and export them as Videos. From creating Social Media content, to Explanatory Videos and Technical Slides - snappify got you covered! | 30% OFF first year with code **BLACKFRIDAY_2023** |
 |  💰 | [SMBImg](https://smbimg.com) | Take screenshots, apply unique backgrounds and customize the watermarks. Features: rounded corners, shadows, predefined image sizes, zooming, custom offsets. Export to webp, jpeg, png and gif. | 40% OFF first year with code **BF2023** |
-|  🤑 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 63% discount on biannual plans. |
+|  🤑 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and  tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 63% discount on biannual plans. |
 
 
 
@@ -249,6 +249,7 @@ Total deals: 204
 | 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
 | 🤑 | [T.LY URL Shortener](https://t.ly/register) | T.LY is the World's Shortest Link Shortener service to track, brand, and share short URLs. | 50% OFF with coupon code **blackfriday**
 |  💰   | [Mailcoach](https://mailcoach.app) | Mailcoach is the email marketing platform that covers all your email needs for a fraction of the cost. Don't pay for having a list of subscribers, pay for what you send. | Get $30 off your first invoice with coupon code **MAILCOACHBLACKFRIDAY** from 20th November until Cyber Monday. |
+| 💰 | [FounderPal](https://founderpal.ai/marketing-strategy-generator) | AI-powered marketing strategy generator for Solopreneurs ! | 30% off with the promo code **BLACKFRIDAY**! |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -470,6 +471,7 @@ Total deals: 204
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
+|  💰 | [Complete Marketing Bundle](https://www.makerbox.club/complete-marketing-bundle) | A collection of 5 actionable marketing resources for Solopreneurs. | 30% OFF with a promo code **BLACKFRIDAY**! |
 
 [⬆️ Go to Top](#table-of-contents)
 
