@@ -96,6 +96,7 @@ Total deals: 224
 | 🤑  | [Verbcode](https://www.verbcode.com/?ref=awesomebf2023) | Simplify your localization journey using Verbcode to manage your json, yaml and strings files. <br> DeepL integration to bring your own API Key. | 50% discount for the whole November with coupon: **`BLACKFRIDAY`** |
 | 💰 | [Blade Mail](https://blademail.app) | Sending test emails locally never been easier with Blade Mail (mailhog alternative) | 50% discount with coupon: **`BLACKFRIDAY`** |
 |  💰 | [Flare](https://flareapp.io) | Flare is a Laravel error tracker. Track all your PHP and JavaScript errors in one place | Enjoy a 50% discount on your first 3 months of Flare with the code **FLAREBLACKFRIDAY** from 20th November until Cyber Monday. |
+| 🤑  | [myJson](https://myjson.online/?ref=awesomebf2023) | A RESTful API for flexible storage of JSON data. | 50% discount for 100k credits **`BF2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
