@@ -341,6 +341,7 @@ Total deals: 204
 |  💰 | [LaunchFa.st](https://www.launchfa.st) | Rapidly launch apps with Astro, SvelteKit and Next.js. | 50% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The fully customizable Django SaaS boilerplate trusted by over 1,000 people. | 50% off a lifetime, unlimited license with coupon code **bf2023** (automatically applied Nov 17-28) |
 | 🤑 | [BoilerCode.co](https://www.boilercode.co/) | NextJs SaaS + AI Boilerplates | 50% off with coupon code **50FRIDAY** (valid until Cyber Monday) |
+| 💰 | [Substackr](https://substackr.framer.website/) | Substackr is Framer website template for Substack & ConvertKit newsletters. Convert visitors into subscribers, sell digital products, and launch on ProductHunt with this easy-to-customize website template. The template comes with a free course on how to customize the template | 40% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/30) |
 
 
 [⬆️ Go to Top](#table-of-contents)
