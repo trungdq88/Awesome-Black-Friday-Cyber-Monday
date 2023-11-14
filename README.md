@@ -370,6 +370,8 @@ Total deals: 204
 |  💰 | [Consuming APIs in Laravel](https://consuming-apis-in-laravel.com) | Learn how to confidently integrate third-party APIs in your Laravel projects using maintainable, testable and extensible code. | 30% off with code **BLACKFRIDAY2023** |
 | 🤑 | [Angular Advocate - How to Awaken the Champion Within and Become the Go-to Expert at Work (DRM-Free eBook)](https://walkingriver.gumroad.com/l/angular-advocate?layout=profile) | Awaken the champion within and become the go-to Angular expert | $2.49. No code needed. Valid Through November 30, 2023 |
 | 🤑 | [Developing Progressive Web Applications with Angular (DRM-free eBook)](https://walkingriver.gumroad.com/l/pwa-angular?layout=profile) | Mastering PWA development with Angular | $2.49. No code needed. Valid Through November 30, 2023 |
+| 🤑 | [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx) | Tools and techniques to improve your Django development experience. | 50% off from $39 to $19.50. No code needed. |
+| 🤑 | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -401,7 +403,7 @@ Total deals: 204
 | -- | ---| ------ | ------ |
 | 🤑 | [Pair Programming with ChatGPT: AI-Enhanced Coding for the Modern Developer (Covers ChatGPT 4)](https://walkingriver.gumroad.com/l/pair-programming-chatgpt?layout=profile) | AI-Enhanced Coding for the Modern Developer | $2.49. No code needed. Valid Through November 30, 2023 |
 | 🤑 | [P-AI-R Programming: How AI tools like GitHub Copilot and ChatGPT Can Radically Transform Your Development Workflow](https://walkingriver.gumroad.com/l/p-ai-r-programming?layout=profile) | How AI tools can transform your development workflow | $2.49. No code needed. Valid Through November 30, 2023 |
-
+| 🤑 | [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) | Make your Git development experience super smooth. | 50% off from $39 to $19.50. No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
