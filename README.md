@@ -249,6 +249,7 @@ Total deals: 204
 | 🤑 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A step-by-step blueprint to rank on top of Product Hunt. Get a list of 125 proven launch tasks, 63 post templates and 99 communities to share your Product Hunt launch | 50% OFF with coupon code **BF50**
 | 🤑 | [T.LY URL Shortener](https://t.ly/register) | T.LY is the World's Shortest Link Shortener service to track, brand, and share short URLs. | 50% OFF with coupon code **blackfriday**
 |  💰   | [Mailcoach](https://mailcoach.app) | Mailcoach is the email marketing platform that covers all your email needs for a fraction of the cost. Don't pay for having a list of subscribers, pay for what you send. | Get $30 off your first invoice with coupon code **MAILCOACHBLACKFRIDAY** from 20th November until Cyber Monday. |
+| 💰 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | [Get $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
 
 
 [⬆️ Go to Top](#table-of-contents)
