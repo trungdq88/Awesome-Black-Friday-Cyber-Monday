@@ -349,6 +349,7 @@ Total deals: 204
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🐿️ | [Chipmunk WordPress Theme](https://chipmunktheme.com) | The perfect choice for creating a directory website in WordPress. | 40% OFF with code **`BLACKFRIDAY40`** |
+|  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?tony) | Plugins, widgets to extend & power up your Carrd sites. | 40% OFF with code **`BF2023`**. Will DM you a 50% code if you [retweet this](https://x.com/jasonleowsg/status/1724355482310337006?s=20) |
 
 [⬆️ Go to Top](#table-of-contents)
 
