@@ -239,7 +239,7 @@ Total deals: 224
 | 💰 | [Side Space](https://sidespace.app/) | Your browser tabs, organized. Take control of your web browsing with our Vertical Tabs Manager browser extension.  | 20% off with code **BLACKFRIDAY20** redeem this while checkout. |
 | 🤑 | [Hirevire](https://hirevire.com) | Hirevire's automated screening software lets you collect video, audio and file responses from candidates. Stop wasting time on candidates you'll never hire. | 50% Off on new subscriptions with **BlackFriday50Off** |
 | 🤑 | [PodPulse](https://podpulse.ai) | Top Podcasts notes and takeaways with request on demand feature  | 60% off the annual plan. Use coupon code **BLACKFRIDAY** |
-| 💰 | [InboxPurge](https://inboxpurge.com) | The fastest way to unsubscribe and delete unwanted emails  | 25% OFF the PRO plan. Use discount code **BLACKFRIDAY2023** |
+| 💰 | [InboxPurge](https://www.inboxpurge.com/?utm_campaign=bf&utm_source=awesomebf) | The fastest way to unsubscribe and delete unwanted emails  | 25% OFF the PRO plan. Use discount code **BLACKFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
