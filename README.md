@@ -151,6 +151,8 @@ Total deals: 224
 | 💰 | [Easy-Peasy.AI](https://easy-peasy.ai/?utm_source=trungdq88) | Your One-Stop Solution for Content Creation powered by GPT-4/Claude 2, Image Crafting (DALL-E 3/SDXL), Audio Generation, and AI Transcription.| 40% OFF with code **BFRIDAY2023** |
 | 🤑 | [Dream Decoder](https://dreamdecoder.me/?ref=trungdq88) | Explore, understand, and connect your dreams to your waking life with AI.| 70% OFF on the annual plan |
 | 🤑 | [AI Spend](https://aispend.io/?ref=ghawesomebf23) | Keep track of your OpenAI usage and costs with AI Spend, and never be surprised again. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
+| 💰 | [ChatUML](https://chatuml.com/?utm_source=tony) | AI diagram generator that helps you brainstorm, explore, and design your next great application | 50% OFF on the Pro package (x2 credits) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
