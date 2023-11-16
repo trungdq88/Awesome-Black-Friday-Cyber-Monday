@@ -203,6 +203,7 @@ Total deals: 224
 | 💰 | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 2,69 (33% off!) |
 | 🤑 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning | 50% OFF one-time purchase |
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 ### 📱 Productivity Mobile Apps
