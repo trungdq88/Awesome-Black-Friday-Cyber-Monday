@@ -66,7 +66,6 @@ Total deals: 224
 - [👨‍🎨 Miscellaneous (10)](#-miscellaneous)
 
 
-
 ## 👨‍💻 Developer Tools
 
 ### 💻 Developer macOS Apps
@@ -133,7 +132,7 @@ Total deals: 224
 | 💰 | [Heuristica](https://www.heuristi.ca/) | Heuristi.ca is a simpler and better way to learn, research, and write using AI-powered concept maps. Dive deep into any topic via branching explorations using a mindmap-like interface. | Enjoy 40% off by using **`BFRIDAY2023`** code on checkout until December 1. |
 | 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
 | 🤑 | [Enconvo](https://enconvo.com) | The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. | Enjoy 53% off with this discount code **`AWESOMEBF2023`** |
-
+| 💰 | [Interview Igniter](https://interviewigniter.com) | A collection of AI-based practice tools designed to help job seekers excel in interviews, including role play and coding prep. | Enjoy 50% off with this discount code **`BF2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
