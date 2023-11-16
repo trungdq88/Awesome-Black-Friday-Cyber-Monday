@@ -368,6 +368,7 @@ Total deals: 240
 | 💰 | [Substackr](https://substackr.framer.website/) | Substackr is Framer website template for Substack & ConvertKit newsletters. Convert visitors into subscribers, sell digital products, and launch on ProductHunt with this easy-to-customize website template. The template comes with a free course on how to customize the template | 40% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/30) |
 | 💰 | [Polo Themes](https://polothemes.gumroad.com/) | Figma E-commerce UI Kits by Polo Themes. 100s of designers use our UI kits to kickstart their e-commerce design system on right foot. | $20 off per checkout with coupon code **BLACK20F** (valid from 11/13 - 12/20) |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
+| 🤑 | [BoilerCode.app](https://boilercode.app) | NextJs Boilerplates From Idea to SaaS  in 24 Hours! | 50% off with coupon code **FRIDAY50** (valid until Cyber Monday) |
 
 
 [⬆️ Go to Top](#table-of-contents)
