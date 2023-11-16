@@ -47,7 +47,7 @@ Total deals: 224
 - [🌏 Social Media Tools (8)](#-social-media-tools)
 - [💸 Finance Tools (8)](#-finance-tools)
 - [🎛 Utility Tools (6)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (12)](#-boilerplates-starter-kit-templates)
+- [💅 Boilerplates, Starter-Kit, Templates (13)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (3)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
@@ -59,7 +59,7 @@ Total deals: 224
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (17)](#-programming-courses)
-	- [🎢 Career Courses (3)](#-career-courses)
+	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (2)](#-marketing-courses)
 	- [🔒 Information Security Courses (2)](#-information-security-courses)
 - [💪 Health and Fitness (5)](#-health-and-fitness)
@@ -362,6 +362,8 @@ Total deals: 224
 | 🤑 | [BoilerCode.co](https://www.boilercode.co/) | NextJs SaaS + AI Boilerplates | 50% off with coupon code **50FRIDAY** (valid until Cyber Monday) |
 | 💰 | [Substackr](https://substackr.framer.website/) | Substackr is Framer website template for Substack & ConvertKit newsletters. Convert visitors into subscribers, sell digital products, and launch on ProductHunt with this easy-to-customize website template. The template comes with a free course on how to customize the template | 40% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/30) |
 | 💰 | [Polo Themes](https://polothemes.gumroad.com/) | Figma E-commerce UI Kits by Polo Themes. 100s of designers use our UI kits to kickstart their e-commerce design system on right foot. | $20 off per checkout with coupon code **BLACK20F** (valid from 11/13 - 12/20) |
+| 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -491,6 +493,7 @@ Total deals: 224
 |  🤑 | [Get Your First Gig On Upwork](https://k2a2.gumroad.com/l/get-first-gig-upwork/BLACKFRIDAY) | A one-hour course to get your first gig on Upwork within days! | Get a 50% discount by following the link |
 |  💰 | [The RemindMe Course](https://www.tryd.com/remindmecourse) | RemindMe is a simple productivity system that will help you organize your to-dos and ensure enough balance for work and play. | 20% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1/BLACKFRIDAY) | This guide will help you to conduct better 1:1s, it includes a Notion template with simple yet effective 1:1 management setup. | 50% OFF with code **BLACKFRIDAY** |
+| 🤑 | [Knowledge Worker Kit](https://developassion.gumroad.com/l/knowledge-worker-kit?layout=profile) | The Knowledge Worker Kit is the ideal resource and community for Knowledge Workers who want to be on top of their game and Lifelong Learners  | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
 
 [⬆️ Go to Top](#table-of-contents)
 
