@@ -132,6 +132,7 @@ Total deals: 240
 | 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
 | 🤑 | [Enconvo](https://enconvo.com) | The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. | Enjoy 53% off with this discount code **`AWESOMEBF2023`** |
 | 💰 | [Interview Igniter](https://interviewigniter.com) | A collection of AI-based practice tools designed to help job seekers excel in interviews, including role play and coding prep. | Enjoy 50% off with this discount code **`BF2023`** |
+| 🤑 | [Hexomatic](https://hexomatic.com/EVERYTHING-BF-2023/) | Web scraping + AI work automation, made easy Tap into the internet as your own data source and automate 100+ sales, marketing, or research tasks on autopilot. | Get access to all products and save 70% OFF with the Everything Bundle **`AWESOMEBF2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
