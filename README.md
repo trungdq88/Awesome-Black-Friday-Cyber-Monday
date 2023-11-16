@@ -360,7 +360,7 @@ Total deals: 224
 | 🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The fully customizable Django SaaS boilerplate trusted by over 1,000 people. | 50% off a lifetime, unlimited license with coupon code **bf2023** (automatically applied Nov 17-28) |
 | 🤑 | [BoilerCode.co](https://www.boilercode.co/) | NextJs SaaS + AI Boilerplates | 50% off with coupon code **50FRIDAY** (valid until Cyber Monday) |
 | 💰 | [Substackr](https://substackr.framer.website/) | Substackr is Framer website template for Substack & ConvertKit newsletters. Convert visitors into subscribers, sell digital products, and launch on ProductHunt with this easy-to-customize website template. The template comes with a free course on how to customize the template | 40% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/30) |
-
+| 💰 | [Polo Themes](https://polothemes.gumroad.com/) | Figma E-commerce UI Kits by Polo Themes. 100s of designers use our UI kits to kickstart their e-commerce design system on right foot. | $20 off per checkout with coupon code **BLACK20F** (valid from 11/13 - 12/20) |
 
 [⬆️ Go to Top](#table-of-contents)
 
