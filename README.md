@@ -96,6 +96,9 @@ Total deals: 224
 | 🤑  | [Verbcode](https://www.verbcode.com/?ref=awesomebf2023) | Simplify your localization journey using Verbcode to manage your json, yaml and strings files. <br> DeepL integration to bring your own API Key. | 50% discount for the whole November with coupon: **`BLACKFRIDAY`** |
 | 💰 | [Blade Mail](https://blademail.app) | Sending test emails locally never been easier with Blade Mail (mailhog alternative) | 50% discount with coupon: **`BLACKFRIDAY`** |
 |  💰 | [Flare](https://flareapp.io) | Flare is a Laravel error tracker. Track all your PHP and JavaScript errors in one place | Enjoy a 50% discount on your first 3 months of Flare with the code **FLAREBLACKFRIDAY** from 20th November until Cyber Monday. |
+| 🤑  | [myJson](https://myjson.online/?ref=awesomebf2023) | A RESTful API for flexible storage of JSON data. | 50% discount for 100k credits **`BF2023`** |
+|  💰 | [ChatDB](https://chatdb.ai) | Finally, let AI write your SQL. Do advanced data analysis on your database and get insights without SQL! | 20% discount on all plans by using the code **FRIYAY**. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -110,6 +113,7 @@ Total deals: 224
 | 🤑 | [ChatHub](https://chathub.gg/?utm_source=awesomebf) | All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. | Enjoy 30% off with this discount code **`BLACKFRIDAY2023`** |
 | 🤑 | [GasbyAI](https://gasbyai.com) | Fancy AI Assistant - Work with URL/Docs/Audio/Video, generate images, 600+ Prompts, 100+ AI Characters. Support OpenAI, Azure Openai, Claude, OpenRouter and Custom API services | Use **BF23** to get 40% off for all licenses, 20% off for all plans |
 | 🤑 | [Beam](https://getbeam.ai) | Enjoy the launcher-like native macOS experience. You'll never have to switch the context again! Simply press a hotkey and work with ChatGPT anytime, anywhere on your Mac. | 70% OFF if you use **`BLACKFRIDAY23`** |
+| 🤑 | [DeckAssistant](https://deckassistant.io/?ref=ghawesomebf23) | An AI Assistant for Stream Deck with a better ChatGPT. A.I. at your fingertips. Literally. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -146,6 +150,7 @@ Total deals: 224
 | 🤑 | [OptiClean](https://opticlean.io/) | The easiest way to remove object from images on macOS. | 50% off until Nov 24. |
 | 💰 | [Easy-Peasy.AI](https://easy-peasy.ai/?utm_source=trungdq88) | Your One-Stop Solution for Content Creation powered by GPT-4/Claude 2, Image Crafting (DALL-E 3/SDXL), Audio Generation, and AI Transcription.| 40% OFF with code **BFRIDAY2023** |
 | 🤑 | [Dream Decoder](https://dreamdecoder.me/?ref=trungdq88) | Explore, understand, and connect your dreams to your waking life with AI.| 70% OFF on the annual plan |
+| 🤑 | [AI Spend](https://aispend.io/?ref=ghawesomebf23) | Keep track of your OpenAI usage and costs with AI Spend, and never be surprised again. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -160,6 +165,7 @@ Total deals: 224
 |  💰 | [snappify](https://snappify.com) | Create stunning Code Presentations with smooth animations and export them as Videos. From creating Social Media content, to Explanatory Videos and Technical Slides - snappify got you covered! | 30% OFF first year with code **BLACKFRIDAY_2023** |
 |  💰 | [SMBImg](https://smbimg.com) | Take screenshots, apply unique backgrounds and customize the watermarks. Features: rounded corners, shadows, predefined image sizes, zooming, custom offsets. Export to webp, jpeg, png and gif. | 40% OFF first year with code **BF2023** |
 |  🤑 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 63% discount on biannual plans. |
+|  💰 | [Sparkle 5](https://sparkleapp.com) | Visual Website Builder for macOS · Build the website you always wanted, visually, on your Mac. | 40% OFF (automatically applied) |
 
 
 
@@ -201,6 +207,7 @@ Total deals: 224
 | 🤑 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac | 50% OFF with code **BLACKFRIDAY_2023**|
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY**|
 | 💰 | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 2,69 (33% off!) |
+| 🤑 | [MuteDeck](https://mutedeck.com/?ref=ghawesomebf23) | Never hear "hey, you're on mute" again. Say goodbye to meeting stress and mistakes with MuteDeck. | Enjoy 50% off with this discount code **BLACKFRIDAY23**|
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -287,6 +294,7 @@ Total deals: 224
 | 🤑 | [BCMS](https://thebcms.com) | Open-source, Headless CMS for developers | 50% OFF on both monthly and annual plans with `BLACKFRIDAY2024` from November 21st - 28th (limited spots) |
 |  💰 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday23) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code `AWESOME_BLACKFRIDAY` until Nov. 29th |
 | 💰 | [OpenformStack](https://www.openformstack.com) | Open Source, Form backend that allows you to collect form submissions without writing any backend code | 30% OFF on both monthly and annual plans with `BLACKFRIDAY23` |
+| 💰 | [Pico](https://picoapps.xyz?ref=awesome-black-friday) | Build SaaS Apps by Simply Describing What You Want. Unlimited hosting and AI APIs included. | 50% discount valid until Nov 28th. Sign up using code **`BLACKFRIDAY2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -309,7 +317,7 @@ Total deals: 224
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  💵 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | 15% OFF the annual Ghostfolio Premium subscription |
+| 💰 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | 33% OFF the annual Ghostfolio Premium subscription |
 |  🤑 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule) | This book explains the famous 4% rule, and how to optimize it, and also outlines the concrete steps for execution. Beyond all the calculations, she also offers insights into making informed career decisions that can eventually lead to financial independence. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Finmei](https://finmei.com) | Professional invoicing for small businesses and freelancers. | $59 Lifetime Deal |
@@ -331,7 +339,7 @@ Total deals: 224
 | 🤑 | [Morpho Converter](https://apps.apple.com/redeem?ctx=offercodes&id=1494942612&code=HALFOFF2023) | Instant unit and currency converter for iPhone, iPad, Mac, and Apple Watch. | 50% OFF first year of Morpho Pro by redeeming linked offer |
 | 🤑 | [Bezel — iPhone mirroring](https://getbezel.app) | Show your iPhone on your Mac, beautifully and with ease. | 50% OFF with code **BLACKFRIDAY** during Black Friday & Cyber Monday only! |
 | 🤑 | [TimeWave: Timer Chains](https://apps.apple.com/us/app/timewave-timer-chains/id1524345488) | Build Flowing Timers on iPad, iPhone & Apple Watch. | 50% OFF Lifetime Premium |
-
+| 💰 | [OnioGo - advanced Tor controller](https://oniontools.github.io/) | Control and Monitor the Tor software with User-friendly interface (Windows + Linux 64 bit). | 40% OFF **No code needed** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -353,6 +361,7 @@ Total deals: 224
 | 🤑 | [SaaS Pegasus](https://www.saaspegasus.com/) | The fully customizable Django SaaS boilerplate trusted by over 1,000 people. | 50% off a lifetime, unlimited license with coupon code **bf2023** (automatically applied Nov 17-28) |
 | 🤑 | [BoilerCode.co](https://www.boilercode.co/) | NextJs SaaS + AI Boilerplates | 50% off with coupon code **50FRIDAY** (valid until Cyber Monday) |
 | 💰 | [Substackr](https://substackr.framer.website/) | Substackr is Framer website template for Substack & ConvertKit newsletters. Convert visitors into subscribers, sell digital products, and launch on ProductHunt with this easy-to-customize website template. The template comes with a free course on how to customize the template | 40% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/30) |
+| 💰 | [Polo Themes](https://polothemes.gumroad.com/) | Figma E-commerce UI Kits by Polo Themes. 100s of designers use our UI kits to kickstart their e-commerce design system on right foot. | $20 off per checkout with coupon code **BLACK20F** (valid from 11/13 - 12/20) |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
 
 
