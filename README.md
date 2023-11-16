@@ -150,6 +150,7 @@ Total deals: 240
 | 🤑 | [Dream Decoder](https://dreamdecoder.me/?ref=trungdq88) | Explore, understand, and connect your dreams to your waking life with AI.| 70% OFF on the annual plan |
 | 🤑 | [AI Spend](https://aispend.io/?ref=ghawesomebf23) | Keep track of your OpenAI usage and costs with AI Spend, and never be surprised again. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
 | 💰 | [ChatUML](https://chatuml.com/?utm_source=tony) | AI diagram generator that helps you brainstorm, explore, and design your next great application | 50% OFF on the Pro package (x2 credits) |
+| 💰 | [ColorBliss.art](https://colorbliss.art.com/?utm_source=trungdq88) | Create printable custom coloring sheets in seconds. Generate any coloring sheet you (or your kid) can imagine. | 25% OFF your first 12 months with code **BF23** |
 
 
 [⬆️ Go to Top](#table-of-contents)
