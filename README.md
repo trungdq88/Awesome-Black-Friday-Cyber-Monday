@@ -378,6 +378,8 @@ Total deals: 240
 | 💰 | [Polo Themes](https://polothemes.gumroad.com/) | Figma E-commerce UI Kits by Polo Themes. 100s of designers use our UI kits to kickstart their e-commerce design system on right foot. | $20 off per checkout with coupon code **BLACK20F** (valid from 11/13 - 12/20) |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
 | 💰 | [Volca SaaS Boilerplate](https://volca.io/) | SaaS Boilerplate and Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. | 25% off with coupon code **BLACK** (valid from 11/16 - 11/30) |
+| 🤑 | [BoilerCode.app](https://boilercode.app) | NextJs Boilerplates From Idea to SaaS  in 24 Hours! | 50% off with coupon code **FRIDAY50** (valid until Cyber Monday) |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
