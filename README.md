@@ -353,6 +353,7 @@ Total deals: 240
 | 💰 | [OnioGo - advanced Tor controller](https://oniontools.github.io/) | Control and Monitor the Tor software with User-friendly interface (Windows + Linux 64 bit). | 40% OFF **No code needed** |
 | 💰 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | 42% off of a yearly plan (promo code **`BLACKFRIDAY2023`**) |
 | 💰 | [NFT Art Generator](https://nft-generator.art) | No-Code tools to generate and deploy your NFT collection | 30% off (promo code **`BLACKFRIDAY2023`**) |
+|  💰 | [Domains Book](https://domainsbook.app/) | Losing a domain can easily be avoided. Keep an eye on your domains expiration dates. | 35% discount for the first year with coupon: **`BLACKFRIDAY_2023`** until 31th of December  |
 
 
 
