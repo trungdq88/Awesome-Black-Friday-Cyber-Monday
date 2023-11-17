@@ -286,6 +286,7 @@ Total deals: 256
 |  💰 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | 25% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Docswrite](https://docswrite.com/) | Export Google Docs to WordPress in 1-Click. Clean SEO-optimized exports including your images without any copy-paste. | 25% OFF with code **`25BLACK`** |
 |  💰 | [Qualitycs](https://qualitycs.dev/) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website regularly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
+| 💰 | [Checkbot](https://www.checkbot.io) | Tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. Test unlimited sites as often as you want including localhost. | 50% OFF first year of yearly plan with code **NOV23** |
 
 [⬆️ Go to Top](#table-of-contents)
 
