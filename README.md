@@ -275,7 +275,7 @@ Total deals: 256
 | 💰 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | [Get $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
 | 💰 | [FounderPal](https://founderpal.ai/marketing-strategy-generator) | AI-powered marketing strategy generator for Solopreneurs ! | 30% off with the promo code **BLACKFRIDAY**! |
 | 💰 | [Markopolo.ai](https://www.markopolo.ai/?utm_campaign=github-trungdq88) | Markopolo AI: A powerhouse in AI-driven paid marketing optimization, offering comprehensive first-party tracking across devices, with best-in-class analytics suite. | 50% off on all products using the code **BFD50MT** |
-
+| 💰 | [Affiliate Corner](https://www.affiliatecorner.co) |  A done-for-you solution for affiliate marketers. Find affiliate programs, filter across 20+ data points and get valuable insights across affiliate niches easily. | 50% OFF with code **BFCM50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -308,7 +308,6 @@ Total deals: 256
 | 💰 | [HelpBell](https://helpbell.ai) | Cut down on support time with our AI-powered Knowledge Base. Engage customers with AI-powered conversations. If queries get complex, direct email assistance | 30% OFF with code **`AWESOMEFRIDAY30`** |
 | 💰 | [Sotion.so](https://www.sotion.so) | Membership Management for Notion → Create a Notion website in 2 minutes and publish it to your own custom domain. Control access to your Notion site with Password Protection, Email Signup, Email Whitelist, or Paid Membership. Loads of customization options.  | 40% OFF with code **BFCM2023** |
 | 💰 | [Cloakist](https://www.cloak.ist) | Rehost any webpage on your own domain, remove branding and add your own, keep visitors on your website. Works with 30+ platforms, incluring: Calendly, Linktree, Airtable, Typeform, ClickUp, Canva, Jotform, Adobe Express, Google Docs, Coda, Cal.com, Microsoft Sway, and more.  | 40% OFF with code **BFCM2023** |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
