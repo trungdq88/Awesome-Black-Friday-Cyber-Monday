@@ -155,7 +155,7 @@ Total deals: 240
 | 💰 | [ChatUML](https://chatuml.com/?utm_source=tony) | AI diagram generator that helps you brainstorm, explore, and design your next great application | 50% OFF on the Pro package (x2 credits) |
 | 💰 | [Clevis](https://clevis.app) | Build AI powered apps and automation flows without code. | 25% off with code **BLACK** |
 | 🤑 | [ArtSmart.ai](https://artsmart.ai/black-friday) | Use AI to generate hundreds of images in a few clicks. Perfect for bloggers, SEO agencies, small businesses, print on demand services. Any scenario where you need to create a lot of images quickly and cheaply. | Enjoy up to 50% OFF, only valid from Nov 24 – Nov 30 (automatically applied by this URL) |
-
+| 💰 | [ColorBliss.art](https://colorbliss.art.com/?utm_source=trungdq88) | Create printable custom coloring sheets in seconds. Generate any coloring sheet you (or your kid) can imagine. | 25% OFF your first 12 months with code **BF23** |
 
 
 [⬆️ Go to Top](#table-of-contents)
