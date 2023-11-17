@@ -26,29 +26,29 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 240
+Total deals: 256
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (8)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (9)](#-developer-macos-apps)
 	- [💻 Tools & Services (10)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (6)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (12)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (12)](#-other-ai-tools)
+	- [📖 AI Productivity & Learning Tools (14)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (15)](#-other-ai-tools)
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps (22)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (11)](#-marketing-tools)
+- [🌈 Marketing Tools (12)](#-marketing-tools)
 - [🔍 SEO Tools (3)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (11)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (14)](#-startup-saastools)
 - [🌏 Social Media Tools (8)](#-social-media-tools)
 - [💸 Finance Tools (8)](#-finance-tools)
-- [🎛 Utility Tools (8)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (14)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (3)](#-themes-plugins)
+- [🎛 Utility Tools (10)](#-utility-tools)
+- [💅 Boilerplates, Starter-Kit, Templates (16)](#-boilerplates-starter-kit-templates)
+- [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
 		- [Web Dev & Design (11)](#web-dev--design)
@@ -63,8 +63,7 @@ Total deals: 240
 	- [📈 Marketing Courses (2)](#-marketing-courses)
 	- [🔒 Information Security Courses (2)](#-information-security-courses)
 - [💪 Health and Fitness (5)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (10)](#-miscellaneous)
-- [📺 Entertainment (1)](#-entertainment)
+- [👨‍🎨 Miscellaneous (11)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
