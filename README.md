@@ -80,6 +80,7 @@ Total deals: 256
 | 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
 | 🤑 | [OK JSON](https://okjson.app) | A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code **`BF2023`** from Nov 23 – Nov 29 |
 | 🤑 | [Gitonium](https://gitonium.com) | Opinionated Git Client with AI-generated commit messages and a better way to solve merge conflicts. | 50% OFF on the Mac App Store |
+| 🤑 | [Sequence Diagram Tool by ZenUML](https://zenuml.com) | Generate Sequence Diagrams from text. | $0.99 (down from $29.99) on 24th Nov on the Mac App Store |
 
 [⬆️ Go to Top](#table-of-contents)
 
