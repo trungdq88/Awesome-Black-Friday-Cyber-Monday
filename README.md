@@ -275,6 +275,8 @@ Total deals: 256
 | 💰 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | [Get $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
 | 💰 | [FounderPal](https://founderpal.ai/marketing-strategy-generator) | AI-powered marketing strategy generator for Solopreneurs ! | 30% off with the promo code **BLACKFRIDAY**! |
 | 💰 | [Markopolo.ai](https://www.markopolo.ai/?utm_campaign=github-trungdq88) | Markopolo AI: A powerhouse in AI-driven paid marketing optimization, offering comprehensive first-party tracking across devices, with best-in-class analytics suite. | 50% off on all products using the code **BFD50MT** |
+| 🤑 | [Motionscribe](https://motionscribe.com/) | Turn your text and images into great looking promo videos. No editing skills required. Built for macOS. | 50% off until Cyber Monday |
+
 
 
 
