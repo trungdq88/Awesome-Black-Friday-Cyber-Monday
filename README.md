@@ -551,13 +551,9 @@ Total deals: 240
 | 🤑 | [Blog Money DB](https://blogmoneydb.com) | A complete collection of 60,000+ profitable blogs earning at least $50K per year. Created for content creators, brands and businesses. Updated regularly. | 50% Off Liftime access. Applied Automatically |
 | 🤑 | [SaaS Pricer](https://www.saaspricer.com/) | A collection of more than 300 SaaS Product pricing that could be filtered by freemium, free trial, subscription and other pricing options, products' value metrics and screen shots of their pricing pages. | 50% off Lifetime with code Saas_Friday on Gumroad |
 | 💰 | [The 100K Database Course and Community](https://100kdatabase.com) | A complete course and community that teaches how to build a profitable Subscription Database SaaS. Created for entrepreneurs, founders, agencies and businesses to learn, build and grow. Data is the new oil. Learn how to profit from selling valuable data today. | 20% Off lifetime access and membership applied automatically |
+| 🤑 | [FilmNoir for Trakt.tv](https://apps.apple.com/us/app/film-noir-by-trakt-just-watch/id1528417240) | Explore and track your favorite movies & TV shows with FilmNoir, the ultimate visually stunning tracker. | Up to 50% off the Lifetime purchase and the first year on Plus Annual with code [BLACKFRIDAY23](https://apps.apple.com/redeem?ctx=offercodes&id=1528417240&code=BLACKFRIDAY23) |
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📺 Entertainment
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🤑 | [FilmNoir for Trakt.tv](https://apps.apple.com/us/app/film-noir-by-trakt-just-watch/id1528417240) | Explore and track your favorite movies & TV shows with FilmNoir, the ultimate visually stunning tracker. | Up to 50% off the Lifetime purchase and the first year on Plus Annual with code [BLACKFRIDAY23](https://apps.apple.com/redeem?ctx=offercodes&id=1528417240&code=BLACKFRIDAY23) |
 
 [⬆️ Go to Top](#table-of-contents)
