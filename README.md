@@ -129,9 +129,10 @@ Total deals: 240
 | 💰 | [SiteSpeakAI](https://sitespeak.ai/) | Automate your customer support with ChatGPT | Get 30% off with discount code **`BLACKFRIDAY2023`** |
 | 💰 | [Userdesk](https://userdesk.io/) | Leads generation for your business with AI Chatbots | Get 30% off with discount code **`AWESOMEBF2023`** |
 | 💰 | [Heuristica](https://www.heuristi.ca/) | Heuristi.ca is a simpler and better way to learn, research, and write using AI-powered concept maps. Dive deep into any topic via branching explorations using a mindmap-like interface. | Enjoy 40% off by using **`BFRIDAY2023`** code on checkout until December 1. |
-| 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
+| 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably*) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
 | 🤑 | [Enconvo](https://enconvo.com) | The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. | Enjoy 53% off with this discount code **`AWESOMEBF2023`** |
 | 💰 | [Interview Igniter](https://interviewigniter.com) | A collection of AI-based practice tools designed to help job seekers excel in interviews, including role play and coding prep. | Enjoy 50% off with this discount code **`BF2023`** |
+| 🤑 | [AI.toWatch](https://aitodo.co) | summarize content from YouTube, Podcasts, TikTok, and even local files like Meeting recordings and Lecture videos with our AI-driven Video Summarizer. Discover a smarter way to learn with ChatGPT, your best AI-powered study companion! | Get 50% discount with this discount code **`AITODO`** until November 28th |
 | 🤑 | [Hexomatic](https://hexomatic.com/EVERYTHING-BF-2023/) | Web scraping + AI work automation, made easy Tap into the internet as your own data source and automate 100+ sales, marketing, or research tasks on autopilot. | Get access to all products and save 70% OFF with the Everything Bundle **`AWESOMEBF2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -151,6 +152,7 @@ Total deals: 240
 | 🤑 | [Dream Decoder](https://dreamdecoder.me/?ref=trungdq88) | Explore, understand, and connect your dreams to your waking life with AI.| 70% OFF on the annual plan |
 | 🤑 | [AI Spend](https://aispend.io/?ref=ghawesomebf23) | Keep track of your OpenAI usage and costs with AI Spend, and never be surprised again. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
 | 💰 | [ChatUML](https://chatuml.com/?utm_source=tony) | AI diagram generator that helps you brainstorm, explore, and design your next great application | 50% OFF on the Pro package (x2 credits) |
+| 💰 | [Clevis](https://clevis.app) | Build AI powered apps and automation flows without code. | 25% off with code **BLACK** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -269,6 +271,7 @@ Total deals: 240
 |  💰   | [Mailcoach](https://mailcoach.app) | Mailcoach is the email marketing platform that covers all your email needs for a fraction of the cost. Don't pay for having a list of subscribers, pay for what you send. | Get $30 off your first invoice with coupon code **MAILCOACHBLACKFRIDAY** from 20th November until Cyber Monday. |
 | 💰 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | [Get $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
 | 💰 | [FounderPal](https://founderpal.ai/marketing-strategy-generator) | AI-powered marketing strategy generator for Solopreneurs ! | 30% off with the promo code **BLACKFRIDAY**! |
+| 💰 | [Markopolo.ai](https://www.markopolo.ai/?utm_campaign=github-trungdq88) | Markopolo AI: A powerhouse in AI-driven paid marketing optimization, offering comprehensive first-party tracking across devices, with best-in-class analytics suite. | 50% off on all products using the code **BFD50MT** |
 
 
 
@@ -345,6 +348,7 @@ Total deals: 240
 | 🤑 | [TimeWave: Timer Chains](https://apps.apple.com/us/app/timewave-timer-chains/id1524345488) | Build Flowing Timers on iPad, iPhone & Apple Watch. | 50% OFF Lifetime Premium |
 | 💰 | [OnioGo - advanced Tor controller](https://oniontools.github.io/) | Control and Monitor the Tor software with User-friendly interface (Windows + Linux 64 bit). | 40% OFF **No code needed** |
 | 💰 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | 42% off of a yearly plan (promo code **`BLACKFRIDAY2023`**) |
+| 💰 | [NFT Art Generator](https://nft-generator.art) | No-Code tools to generate and deploy your NFT collection | 30% off (promo code **`BLACKFRIDAY2023`**) |
 
 
 
@@ -369,6 +373,7 @@ Total deals: 240
 | 💰 | [Substackr](https://substackr.framer.website/) | Substackr is Framer website template for Substack & ConvertKit newsletters. Convert visitors into subscribers, sell digital products, and launch on ProductHunt with this easy-to-customize website template. The template comes with a free course on how to customize the template | 40% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/30) |
 | 💰 | [Polo Themes](https://polothemes.gumroad.com/) | Figma E-commerce UI Kits by Polo Themes. 100s of designers use our UI kits to kickstart their e-commerce design system on right foot. | $20 off per checkout with coupon code **BLACK20F** (valid from 11/13 - 12/20) |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
+| 💰 | [Volca SaaS Boilerplate](https://volca.io/) | SaaS Boilerplate and Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. | 25% off with coupon code **BLACK** (valid from 11/16 - 11/30) |
 
 
 [⬆️ Go to Top](#table-of-contents)
