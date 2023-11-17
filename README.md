@@ -215,7 +215,7 @@ Total deals: 256
 | 💰 | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 2,69 (33% off!) |
 | 🤑 | [MuteDeck](https://mutedeck.com/?ref=ghawesomebf23) | Never hear "hey, you're on mute" again. Say goodbye to meeting stress and mistakes with MuteDeck. | Enjoy 50% off with this discount code **BLACKFRIDAY23**|
 | 🤑 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
-| 🤑 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% OFF for the first year |
+| 🤑 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% OFF for the first year with code BLACKFRIDAY2023 |
 
 
 
