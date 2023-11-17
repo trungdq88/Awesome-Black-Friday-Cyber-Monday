@@ -79,6 +79,7 @@ Total deals: 240
 |  🤑 | [claws](https://clawsapp.com) | CLI & AI developer playgrounds for AWS. Runs on macOS, Windows, and Linux. | 50% OFF with code **`BF2023`** |
 | 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
 | 🤑 | [OK JSON](https://okjson.app) | A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code **`BF2023`** from Nov 23 – Nov 29 |
+| 🤑 | [Gitonium](https://gitonium.com) | Opinionated Git Client with AI-generated commit messages and a better way to solve merge conflicts. | 50% OFF on the Mac App Store |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -129,9 +130,11 @@ Total deals: 240
 | 💰 | [SiteSpeakAI](https://sitespeak.ai/) | Automate your customer support with ChatGPT | Get 30% off with discount code **`BLACKFRIDAY2023`** |
 | 💰 | [Userdesk](https://userdesk.io/) | Leads generation for your business with AI Chatbots | Get 30% off with discount code **`AWESOMEBF2023`** |
 | 💰 | [Heuristica](https://www.heuristi.ca/) | Heuristi.ca is a simpler and better way to learn, research, and write using AI-powered concept maps. Dive deep into any topic via branching explorations using a mindmap-like interface. | Enjoy 40% off by using **`BFRIDAY2023`** code on checkout until December 1. |
-| 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
+| 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably*) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
 | 🤑 | [Enconvo](https://enconvo.com) | The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. | Enjoy 53% off with this discount code **`AWESOMEBF2023`** |
 | 💰 | [Interview Igniter](https://interviewigniter.com) | A collection of AI-based practice tools designed to help job seekers excel in interviews, including role play and coding prep. | Enjoy 50% off with this discount code **`BF2023`** |
+| 🤑 | [AI.toWatch](https://aitodo.co) | summarize content from YouTube, Podcasts, TikTok, and even local files like Meeting recordings and Lecture videos with our AI-driven Video Summarizer. Discover a smarter way to learn with ChatGPT, your best AI-powered study companion! | Get 50% discount with this discount code **`AITODO`** until November 28th |
+| 🤑 | [Hexomatic](https://hexomatic.com/EVERYTHING-BF-2023/) | Web scraping + AI work automation, made easy Tap into the internet as your own data source and automate 100+ sales, marketing, or research tasks on autopilot. | Get access to all products and save 70% OFF with the Everything Bundle **`AWESOMEBF2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -150,6 +153,9 @@ Total deals: 240
 | 🤑 | [Dream Decoder](https://dreamdecoder.me/?ref=trungdq88) | Explore, understand, and connect your dreams to your waking life with AI.| 70% OFF on the annual plan |
 | 🤑 | [AI Spend](https://aispend.io/?ref=ghawesomebf23) | Keep track of your OpenAI usage and costs with AI Spend, and never be surprised again. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
 | 💰 | [ChatUML](https://chatuml.com/?utm_source=tony) | AI diagram generator that helps you brainstorm, explore, and design your next great application | 50% OFF on the Pro package (x2 credits) |
+| 💰 | [Clevis](https://clevis.app) | Build AI powered apps and automation flows without code. | 25% off with code **BLACK** |
+| 🤑 | [ArtSmart.ai](https://artsmart.ai/black-friday) | Use AI to generate hundreds of images in a few clicks. Perfect for bloggers, SEO agencies, small businesses, print on demand services. Any scenario where you need to create a lot of images quickly and cheaply. | Enjoy up to 50% OFF, only valid from Nov 24 – Nov 30 (automatically applied by this URL) |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -268,6 +274,7 @@ Total deals: 240
 |  💰   | [Mailcoach](https://mailcoach.app) | Mailcoach is the email marketing platform that covers all your email needs for a fraction of the cost. Don't pay for having a list of subscribers, pay for what you send. | Get $30 off your first invoice with coupon code **MAILCOACHBLACKFRIDAY** from 20th November until Cyber Monday. |
 | 💰 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | [Get $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
 | 💰 | [FounderPal](https://founderpal.ai/marketing-strategy-generator) | AI-powered marketing strategy generator for Solopreneurs ! | 30% off with the promo code **BLACKFRIDAY**! |
+| 💰 | [Markopolo.ai](https://www.markopolo.ai/?utm_campaign=github-trungdq88) | Markopolo AI: A powerhouse in AI-driven paid marketing optimization, offering comprehensive first-party tracking across devices, with best-in-class analytics suite. | 50% off on all products using the code **BFD50MT** |
 
 
 
@@ -298,6 +305,7 @@ Total deals: 240
 |  💰 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday23) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code `AWESOME_BLACKFRIDAY` until Nov. 29th |
 | 💰 | [OpenformStack](https://www.openformstack.com) | Open Source, Form backend that allows you to collect form submissions without writing any backend code | 30% OFF on both monthly and annual plans with `BLACKFRIDAY23` |
 | 💰 | [Pico](https://picoapps.xyz?ref=awesome-black-friday) | Build SaaS Apps by Simply Describing What You Want. Unlimited hosting and AI APIs included. | 50% discount valid until Nov 28th. Sign up using code **`BLACKFRIDAY2023`** |
+| 💰 | [HelpBell](https://helpbell.ai) | Cut down on support time with our AI-powered Knowledge Base. Engage customers with AI-powered conversations. If queries get complex, direct email assistance | 30% OFF with code **`AWESOMEFRIDAY30`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -344,6 +352,7 @@ Total deals: 240
 | 🤑 | [TimeWave: Timer Chains](https://apps.apple.com/us/app/timewave-timer-chains/id1524345488) | Build Flowing Timers on iPad, iPhone & Apple Watch. | 50% OFF Lifetime Premium |
 | 💰 | [OnioGo - advanced Tor controller](https://oniontools.github.io/) | Control and Monitor the Tor software with User-friendly interface (Windows + Linux 64 bit). | 40% OFF **No code needed** |
 | 💰 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | 42% off of a yearly plan (promo code **`BLACKFRIDAY2023`**) |
+| 💰 | [NFT Art Generator](https://nft-generator.art) | No-Code tools to generate and deploy your NFT collection | 30% off (promo code **`BLACKFRIDAY2023`**) |
 
 
 
@@ -368,7 +377,9 @@ Total deals: 240
 | 💰 | [Substackr](https://substackr.framer.website/) | Substackr is Framer website template for Substack & ConvertKit newsletters. Convert visitors into subscribers, sell digital products, and launch on ProductHunt with this easy-to-customize website template. The template comes with a free course on how to customize the template | 40% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/30) |
 | 💰 | [Polo Themes](https://polothemes.gumroad.com/) | Figma E-commerce UI Kits by Polo Themes. 100s of designers use our UI kits to kickstart their e-commerce design system on right foot. | $20 off per checkout with coupon code **BLACK20F** (valid from 11/13 - 12/20) |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
+| 💰 | [Volca SaaS Boilerplate](https://volca.io/) | SaaS Boilerplate and Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. | 25% off with coupon code **BLACK** (valid from 11/16 - 11/30) |
 | 🤑 | [BoilerCode.app](https://boilercode.app) | NextJs Boilerplates From Idea to SaaS  in 24 Hours! | 50% off with coupon code **FRIDAY50** (valid until Cyber Monday) |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
