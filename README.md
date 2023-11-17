@@ -302,6 +302,7 @@ Total deals: 240
 |  💰 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday&utm_id=blackfriday23) | Communicate about incidents and maintenance effectively with a beautiful Status Page - Powerful automations and API enable you to focus on solving rather than communicating. | 30% OFF for 1 year with code `AWESOME_BLACKFRIDAY` until Nov. 29th |
 | 💰 | [OpenformStack](https://www.openformstack.com) | Open Source, Form backend that allows you to collect form submissions without writing any backend code | 30% OFF on both monthly and annual plans with `BLACKFRIDAY23` |
 | 💰 | [Pico](https://picoapps.xyz?ref=awesome-black-friday) | Build SaaS Apps by Simply Describing What You Want. Unlimited hosting and AI APIs included. | 50% discount valid until Nov 28th. Sign up using code **`BLACKFRIDAY2023`** |
+| 💰 | [HelpBell](https://helpbell.ai) | Cut down on support time with our AI-powered Knowledge Base. Engage customers with AI-powered conversations. If queries get complex, direct email assistance | 30% OFF with code **`AWESOMEFRIDAY30`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
