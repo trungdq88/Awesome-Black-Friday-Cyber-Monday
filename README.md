@@ -96,7 +96,6 @@ Total deals: 240
 |  💰 | [Flare](https://flareapp.io) | Flare is a Laravel error tracker. Track all your PHP and JavaScript errors in one place | Enjoy a 50% discount on your first 3 months of Flare with the code **FLAREBLACKFRIDAY** from 20th November until Cyber Monday. |
 | 🤑  | [myJson](https://myjson.online/?ref=awesomebf2023) | A RESTful API for flexible storage of JSON data. | 50% discount for 100k credits **`BF2023`** |
 |  💰 | [ChatDB](https://chatdb.ai) | Finally, let AI write your SQL. Do advanced data analysis on your database and get insights without SQL! | 20% discount on all plans by using the code **FRIYAY**. |
-|  💰 | [Domains Book](https://domainsbook.app/) | Losing a domain can easily be avoided. Keep an eye on your domains expiration dates. | 35% discount for the first year with coupon: **`BLACKFRIDAY_2023`** until 31th of December  |
 
 
 
@@ -345,6 +344,7 @@ Total deals: 240
 | 🤑 | [TimeWave: Timer Chains](https://apps.apple.com/us/app/timewave-timer-chains/id1524345488) | Build Flowing Timers on iPad, iPhone & Apple Watch. | 50% OFF Lifetime Premium |
 | 💰 | [OnioGo - advanced Tor controller](https://oniontools.github.io/) | Control and Monitor the Tor software with User-friendly interface (Windows + Linux 64 bit). | 40% OFF **No code needed** |
 | 💰 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | 42% off of a yearly plan (promo code **`BLACKFRIDAY2023`**) |
+|  💰 | [Domains Book](https://domainsbook.app/) | Losing a domain can easily be avoided. Keep an eye on your domains expiration dates. | 35% discount for the first year with coupon: **`BLACKFRIDAY_2023`** until 31th of December  |
 
 
 
