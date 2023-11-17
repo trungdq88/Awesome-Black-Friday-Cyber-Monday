@@ -324,6 +324,7 @@ Total deals: 256
 |  🤑 | [LiveReacting](https://www.livereacting.com) | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | BLACK_FRIDAY_2023_G for 50% off for Pay as you go plan |
 |  🤑 | [Countdow Timer App](https://www.countdown-timer.app) | Publish auto-updating countdown timers directly on your Facebook page. | BLACKFRIDAY2023 for 30% off for PRO plan |
 | 💰 | [WritePanda](https://writepanda.ai/) | Repurpurpose your youtube/podcast content by automatically creating blogs, newsletters, tweets and captioned short clips for instagram, youtube and tiktok | 40% OFF with coupon code **UWODA2NG**.
+| 💰 | [Typefully](https://typefully.com/) | Write and publish on 𝕏, LinkedIn and Mastodon, with AI; get personalized post ideas; share drafts and collaborate; and much more | 40% OFF on yearly plans, auto-applies
 
 [⬆️ Go to Top](#table-of-contents)
 
