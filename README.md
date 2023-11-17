@@ -129,10 +129,11 @@ Total deals: 240
 | 💰 | [SiteSpeakAI](https://sitespeak.ai/) | Automate your customer support with ChatGPT | Get 30% off with discount code **`BLACKFRIDAY2023`** |
 | 💰 | [Userdesk](https://userdesk.io/) | Leads generation for your business with AI Chatbots | Get 30% off with discount code **`AWESOMEBF2023`** |
 | 💰 | [Heuristica](https://www.heuristi.ca/) | Heuristi.ca is a simpler and better way to learn, research, and write using AI-powered concept maps. Dive deep into any topic via branching explorations using a mindmap-like interface. | Enjoy 40% off by using **`BFRIDAY2023`** code on checkout until December 1. |
-| 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
+| 🤑 | [Bunni](https://bunni.ai/) | The best* document summarizer in the world (*probably*) | 50% off any credit pack using this code at checkout: **`BLACKFRIDAY50`**. |
 | 🤑 | [Enconvo](https://enconvo.com) | The most productive all-in-one AI tool (Vision Chat, ChatPDF, TTS) with an easy plug-in system for macOS users. | Enjoy 53% off with this discount code **`AWESOMEBF2023`** |
 | 💰 | [Interview Igniter](https://interviewigniter.com) | A collection of AI-based practice tools designed to help job seekers excel in interviews, including role play and coding prep. | Enjoy 50% off with this discount code **`BF2023`** |
 | 🤑 | [AI.toWatch](https://aitodo.co) | summarize content from YouTube, Podcasts, TikTok, and even local files like Meeting recordings and Lecture videos with our AI-driven Video Summarizer. Discover a smarter way to learn with ChatGPT, your best AI-powered study companion! | Get 50% discount with this discount code **`AITODO`** until November 28th |
+| 🤑 | [Hexomatic](https://hexomatic.com/EVERYTHING-BF-2023/) | Web scraping + AI work automation, made easy Tap into the internet as your own data source and automate 100+ sales, marketing, or research tasks on autopilot. | Get access to all products and save 70% OFF with the Everything Bundle **`AWESOMEBF2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
