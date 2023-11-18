@@ -59,6 +59,7 @@ Total deals: 256
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (17)](#-programming-courses)
+ 	- [💻 Ethical Hacking Courses (1)](#-ethical-hacking-courses)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (2)](#-marketing-courses)
 	- [🔒 Information Security Courses (2)](#-information-security-courses)
@@ -505,6 +506,11 @@ Total deals: 256
 |  🤑 | [Laravel with Inertia.js & Svelte: A Practical Guide](https://www.udemy.com/course/learn-laravel-with-inertiajs-and-svelte/?couponCode=BLACKFRIDAY2023) | Learn Inertia.js Practically using Laravel, Inertia.js and Svelte by building three projects along the way. | 50% OFF with **BLACKFRIDAY2023** |
 |  🤑 | [Custom Auth Implementation In Laravel: A Practical Guide](https://www.udemy.com/course/custom-auth-implementation-in-laravel/?couponCode=BLACKFRIDAY2023) | Learn how to implement Custom Authentication System in Laravel. | 50% OFF with **BLACKFRIDAY2023** |
 
+### 💻 Ethical Hacking Courses
+
+|  | Name | Description | Discount Code & Terms | Start Time | End Time
+| -- | ---| ------ | ------ | ---| ---|
+|  🤑 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 11/25/2023 8:00 AM PST |
 
 [⬆️ Go to Top](#table-of-contents)
 
