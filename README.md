@@ -504,7 +504,7 @@ Total deals: 256
 |  🤑 | [Filament Admin Panel Course for Laravel (Updated for V3)](https://www.udemy.com/course/laravel-filament-admin-panel-course/?couponCode=BLACKFRIDAY2023) | Learn to build Admin Panels using FilamentPHP practically by building two projects along the way. | 50% OFF with **BLACKFRIDAY2023** |
 |  🤑 | [Laravel with Inertia.js & Svelte: A Practical Guide](https://www.udemy.com/course/learn-laravel-with-inertiajs-and-svelte/?couponCode=BLACKFRIDAY2023) | Learn Inertia.js Practically using Laravel, Inertia.js and Svelte by building three projects along the way. | 50% OFF with **BLACKFRIDAY2023** |
 |  🤑 | [Custom Auth Implementation In Laravel: A Practical Guide](https://www.udemy.com/course/custom-auth-implementation-in-laravel/?couponCode=BLACKFRIDAY2023) | Learn how to implement Custom Authentication System in Laravel. | 50% OFF with **BLACKFRIDAY2023** |
-
+|  🤑 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2023) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
