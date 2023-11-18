@@ -549,6 +549,7 @@ Total deals: 256
 | 💰 | [Swim Coach](https://swimcoachapp.com/) | The Number 1 Training App for Swimmers and Triathletes. | Get 4 extra months when purchasing a 1-year Gold subscription |
 | 🤑 | [Zenitizer](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BLACKFRIDAY2023) | Modern & Clutter-Free Meditation Timer for  Devices | **50% Off** Zenitizer+ Yearly with code **`BLACKFRIDAY2023`** |
 | 🤑 | [Bolt - Workout & Gym Planner](https://apps.apple.com/us/app/bolt-workout-gym-planner/id1439649927) | ** Apple's App of the Day**, Bolt simplifies workouts and tracking progress. It's the ultimate iOS fitness tracker for strength training achievement. | 50% off from Bolt Settings screen |
+| 🤑 | [Glucomate: Glucose Tracker](https://apps.apple.com/app/apple-store/id1574243765?pt=1448096&ct=blackfri23&mt=8) | A clean and simple iOS app for recording and reviewing blood glucose data recorded in HealthKit. | **50% off** first year subscription - no code required |
 
 
 [⬆️ Go to Top](#table-of-contents)
