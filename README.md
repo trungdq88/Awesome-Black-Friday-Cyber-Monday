@@ -215,6 +215,7 @@ Total deals: 256
 | 💰 | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 2,69 (33% off!) |
 | 🤑 | [MuteDeck](https://mutedeck.com/?ref=ghawesomebf23) | Never hear "hey, you're on mute" again. Say goodbye to meeting stress and mistakes with MuteDeck. | Enjoy 50% off with this discount code **BLACKFRIDAY23**|
 | 🤑 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
+| 🤑 | [CleanClip](https://cleanclip.cc/?ref=awesomebf) | The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function. | 50% OFF with code **BF2023** |
 
 
 
