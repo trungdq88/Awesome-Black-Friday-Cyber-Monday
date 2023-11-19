@@ -118,6 +118,7 @@ Total deals: 256
 | 🤑 | [GasbyAI](https://gasbyai.com) | Fancy AI Assistant - Work with URL/Docs/Audio/Video, generate images, 600+ Prompts, 100+ AI Characters. Support OpenAI, Azure Openai, Claude, OpenRouter and Custom API services | Use **BF23** to get 40% off for all licenses, 20% off for all plans |
 | 🤑 | [Beam](https://getbeam.ai) | Enjoy the launcher-like native macOS experience. You'll never have to switch the context again! Simply press a hotkey and work with ChatGPT anytime, anywhere on your Mac. | 70% OFF if you use **`BLACKFRIDAY23`** |
 | 🤑 | [DeckAssistant](https://deckassistant.io/?ref=ghawesomebf23) | An AI Assistant for Stream Deck with a better ChatGPT. A.I. at your fingertips. Literally. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
+| 🤑 | [AnySelect](http://anyselectai.com/) | The best and quickest way to use ChatGPT from anywhere on your Mac. | 70% OFF with this discount code **`AWESOMEBF2023`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
