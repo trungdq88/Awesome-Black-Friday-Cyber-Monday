@@ -266,7 +266,7 @@ Total deals: 280
 | 🤑 | [PodPulse](https://podpulse.ai) | Top Podcasts notes and takeaways with request on demand feature  | 60% off the annual plan. Use coupon code **BLACKFRIDAY** |
 | 💰 | [InboxPurge](https://www.inboxpurge.com/?utm_campaign=bf&utm_source=awesomebf) | The fastest way to unsubscribe and delete unwanted emails  | 25% OFF the PRO plan. Use discount code **BLACKFRIDAY2023** |
 | 🤑 | [Voices.ink](https://voices.ink) | Transcribe your spoken ideas directly into Notion. Your voice is now your most powerful productivity tool.  | 50% off with coupon code **BLACKFRIDAY2023**|
-
+| 💰 | [Readine](https://readine.app/?utm_source=ghawesomebf) | Universal reader (RSS and more)  | 25% OFF, "BF 2023" pack |
 
 [⬆️ Go to Top](#table-of-contents)
 
