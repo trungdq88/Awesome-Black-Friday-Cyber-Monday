@@ -342,7 +342,7 @@ Total deals: 256
 |  🤑 | [Tilla Premium](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla.premium) | Android app to manage your subscriptions without hustle and get notified when a bill date is due. | 50% off for lifetime from 11/21 till 11/28 |
 |  💰 | [Fin - Budget Tracker](https://apps.apple.com/app/apple-store/id1489698531) | Beautiful budget tracker for iOS | 30% OFF the annual subscription |
 |  🤑 | [M1 Spreadsheet](https://m1spreadsheet.com/) | Portfolio management tool. Automatically track target weights, rebalance, dividend growth, and much more. | 60% OFF with code **BLACKFRIDAY2023** |
-
+| 🤑 | [ShiftApp Shift Planning](https://shiftapp.com) | Shift Planning and Employee Scheduling - simple and easy to use on both Web and Mobile. | 77% OFF for SEVEN MONTHS with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
