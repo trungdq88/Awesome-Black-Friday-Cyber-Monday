@@ -362,6 +362,7 @@ Total deals: 256
 | 💰 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | 42% off of a yearly plan (promo code **`BLACKFRIDAY2023`**) |
 | 💰 | [NFT Art Generator](https://nft-generator.art) | No-Code tools to generate and deploy your NFT collection | 30% off (promo code **`BLACKFRIDAY2023`**) |
 |  💰 | [Domains Book](https://domainsbook.app/) | Losing a domain can easily be avoided. Keep an eye on your domains expiration dates. | 35% discount for the first year with coupon: **`BLACKFRIDAY_2023`** until 31th of December  |
+| 💰 | [UpVPN: Serverless VPN](https://upvpn.app/) | Modern VPN for unlimited devices and unlimited data. Available for macOS, Linux, Windows, Android, iOS, and Raspberry Pi OS. With prepaid, yearly, or lifetime plan | 20% OFF, promo code for checkout **`UPVPN20BF2023`**, valid until 30th November  |
 
 
 
