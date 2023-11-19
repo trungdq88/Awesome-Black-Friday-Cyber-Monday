@@ -340,7 +340,7 @@ Total deals: 256
 |  🤑 | [Tilla Premium](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla.premium) | Android app to manage your subscriptions without hustle and get notified when a bill date is due. | 50% off for lifetime from 11/21 till 11/28 |
 |  💰 | [Fin - Budget Tracker](https://apps.apple.com/app/apple-store/id1489698531) | Beautiful budget tracker for iOS | 30% OFF the annual subscription |
 |  🤑 | [M1 Spreadsheet](https://m1spreadsheet.com/) | Portfolio management tool. Automatically track target weights, rebalance, dividend growth, and much more. | 60% OFF with code **BLACKFRIDAY2023** |
-|  💰 | [SubManager](https://getsubmanager.app/) | Track your subscriptions all in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Apple Silicon Macs. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime during Black Friday Week starting 20th November. |
+|  💰 | [SubManager](https://getsubmanager.app/) | Track your subscriptions all in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime during Black Friday Week starting 20th November. |
 
 
 [⬆️ Go to Top](#table-of-contents)
