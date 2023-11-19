@@ -119,6 +119,7 @@ Total deals: 280
 | 🤑 | [Beam](https://getbeam.ai) | Enjoy the launcher-like native macOS experience. You'll never have to switch the context again! Simply press a hotkey and work with ChatGPT anytime, anywhere on your Mac. | 70% OFF if you use **`BLACKFRIDAY23`** |
 | 🤑 | [DeckAssistant](https://deckassistant.io/?ref=ghawesomebf23) | An AI Assistant for Stream Deck with a better ChatGPT. A.I. at your fingertips. Literally. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
 | 🤑 | [AnySelect](http://anyselectai.com/) | The best and quickest way to use ChatGPT from anywhere on your Mac. | 70% OFF with this discount code **`AWESOMEBF2023`** |
+| 💰 | [ChatTab](https://chattab.app) | A ChatGPT Mac App Designed for Minimalists       | 70% OFF if you use **`BLACKFRIDAY23`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
