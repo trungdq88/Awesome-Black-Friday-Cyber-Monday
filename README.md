@@ -573,6 +573,8 @@ Total deals: 256
 | 💰 | [The 100K Database Course and Community](https://100kdatabase.com) | A complete course and community that teaches how to build a profitable Subscription Database SaaS. Created for entrepreneurs, founders, agencies and businesses to learn, build and grow. Data is the new oil. Learn how to profit from selling valuable data today. | 20% Off lifetime access and membership applied automatically |
 | 🤑 | [FilmNoir for Trakt.tv](https://apps.apple.com/us/app/film-noir-by-trakt-just-watch/id1528417240) | Explore and track your favorite movies & TV shows with FilmNoir, the ultimate visually stunning tracker. | Up to 50% off the Lifetime purchase and the first year on Plus Annual with code [BLACKFRIDAY23](https://apps.apple.com/redeem?ctx=offercodes&id=1528417240&code=BLACKFRIDAY23) |
 | 🤑 | [GP Calendar Mac](https://cyrilniobe.gumroad.com/l/gp-calendar/BF2023) | Never miss a Formula1 race start (or qualifications/practices) with this native Mac app that lives in the top menu bar | 50% off (= $1.50 for lifetime!) with code [BF2023](https://cyrilniobe.gumroad.com/l/gp-calendar/BF2023) |
+| 💰 | [Plan2Wed Online wedding planning](https://plan2wed.app) | Plan your or someones wedding with Plan2Wed, an online collaborative platform for engaged couples and wedding planners | 50% Off a wedding with **PLANFRIDAY** (no subscription) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
