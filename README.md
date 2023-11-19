@@ -81,6 +81,8 @@ Total deals: 256
 | 🤑 | [OK JSON](https://okjson.app) | A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code **`BF2023`** from Nov 23 – Nov 29 |
 | 🤑 | [Gitonium](https://gitonium.com) | Opinionated Git Client with AI-generated commit messages and a better way to solve merge conflicts. | 50% OFF on the Mac App Store |
 | 🤑 | [Sequence Diagram Tool by ZenUML](https://zenuml.com) | Generate Sequence Diagrams from text. | $0.99 (down from $29.99) on 24th Nov on the Mac App Store |
+| 💰 | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 20% OFF with code **BLACKFRIDAY_2023**. Valid until Nov 24. |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
