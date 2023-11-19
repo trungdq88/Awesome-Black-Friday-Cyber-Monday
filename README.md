@@ -80,6 +80,7 @@ Total deals: 256
 | 🤑 | [RocketSim for Xcode Simulator](https://avanderlee.gumroad.com/l/rocketsim) | Apple's "Essential Apps for Developers" — Save hours optimizing repetitive tasks and build apps faster. | 50% OFF on Team Licenses with **BLACKFRIDAY** from November 21st - 28th (limited spots) |
 | 🤑 | [OK JSON](https://okjson.app) | A scriptable JSON formatter for macOS. | 50% OFF, both on the Mac App Store and the website with code **`BF2023`** from Nov 23 – Nov 29 |
 | 🤑 | [Gitonium](https://gitonium.com) | Opinionated Git Client with AI-generated commit messages and a better way to solve merge conflicts. | 50% OFF on the Mac App Store |
+| 🤑 | [Sequence Diagram Tool by ZenUML](https://zenuml.com) | Generate Sequence Diagrams from text. | $0.99 (down from $29.99) on 24th Nov on the Mac App Store |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -97,7 +98,7 @@ Total deals: 256
 |  💰 | [Flare](https://flareapp.io) | Flare is a Laravel error tracker. Track all your PHP and JavaScript errors in one place | Enjoy a 50% discount on your first 3 months of Flare with the code **FLAREBLACKFRIDAY** from 20th November until Cyber Monday. |
 | 🤑  | [myJson](https://myjson.online/?ref=awesomebf2023) | A RESTful API for flexible storage of JSON data. | 50% discount for 100k credits **`BF2023`** |
 |  💰 | [ChatDB](https://chatdb.ai) | Finally, let AI write your SQL. Do advanced data analysis on your database and get insights without SQL! | 20% discount on all plans by using the code **FRIYAY**. |
-
+| 🤑  | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine & Datastore Emulator. | 50% OFF (automatically applied) until Dec 15 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -275,7 +276,9 @@ Total deals: 256
 | 💰 | [PushAlert](https://pushalert.co) | PushAlert (Web Push Notifications) is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | [Get $30 Off on All Annual Plans](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=github-trungdq88) |
 | 💰 | [FounderPal](https://founderpal.ai/marketing-strategy-generator) | AI-powered marketing strategy generator for Solopreneurs ! | 30% off with the promo code **BLACKFRIDAY**! |
 | 💰 | [Markopolo.ai](https://www.markopolo.ai/?utm_campaign=github-trungdq88) | Markopolo AI: A powerhouse in AI-driven paid marketing optimization, offering comprehensive first-party tracking across devices, with best-in-class analytics suite. | 50% off on all products using the code **BFD50MT** |
+| 🤑 | [Motionscribe](https://motionscribe.com/) | Turn your text and images into great looking promo videos. No editing skills required. Built for macOS. | 50% off until Cyber Monday |
 | 💰 | [Affiliate Corner](https://www.affiliatecorner.co) |  A done-for-you solution for affiliate marketers. Find affiliate programs, filter across 20+ data points and get valuable insights across affiliate niches easily. | 50% OFF with code **BFCM50** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -286,6 +289,7 @@ Total deals: 256
 |  💰 | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | 25% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [Docswrite](https://docswrite.com/) | Export Google Docs to WordPress in 1-Click. Clean SEO-optimized exports including your images without any copy-paste. | 25% OFF with code **`25BLACK`** |
 |  💰 | [Qualitycs](https://qualitycs.dev/) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website regularly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
+| 💰 | [Checkbot](https://www.checkbot.io) | Tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. Test unlimited sites as often as you want including localhost. | 50% OFF first year of yearly plan with code **NOV23** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -323,6 +327,7 @@ Total deals: 256
 |  🤑 | [LiveReacting](https://www.livereacting.com) | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your stream. | BLACK_FRIDAY_2023_G for 50% off for Pay as you go plan |
 |  🤑 | [Countdow Timer App](https://www.countdown-timer.app) | Publish auto-updating countdown timers directly on your Facebook page. | BLACKFRIDAY2023 for 30% off for PRO plan |
 | 💰 | [WritePanda](https://writepanda.ai/) | Repurpurpose your youtube/podcast content by automatically creating blogs, newsletters, tweets and captioned short clips for instagram, youtube and tiktok | 40% OFF with coupon code **UWODA2NG**.
+| 💰 | [Typefully](https://typefully.com/) | Write and publish on 𝕏, LinkedIn and Mastodon, with AI; get personalized post ideas; share drafts and collaborate; and much more | 40% OFF on yearly plans, auto-applies
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -338,7 +343,7 @@ Total deals: 256
 |  🤑 | [Tilla Premium](https://play.google.com/store/apps/details?id=com.pavelrekun.tilla.premium) | Android app to manage your subscriptions without hustle and get notified when a bill date is due. | 50% off for lifetime from 11/21 till 11/28 |
 |  💰 | [Fin - Budget Tracker](https://apps.apple.com/app/apple-store/id1489698531) | Beautiful budget tracker for iOS | 30% OFF the annual subscription |
 |  🤑 | [M1 Spreadsheet](https://m1spreadsheet.com/) | Portfolio management tool. Automatically track target weights, rebalance, dividend growth, and much more. | 60% OFF with code **BLACKFRIDAY2023** |
-
+| 🤑 | [ShiftApp Shift Planning](https://shiftapp.com) | Shift Planning and Employee Scheduling - simple and easy to use on both Web and Mobile. | 77% OFF for SEVEN MONTHS with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
