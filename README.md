@@ -26,27 +26,27 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 256
+Total deals: 280
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (9)](#-developer-macos-apps)
-	- [💻 Tools & Services (10)](#-tools--services)
+	- [💻 Developer macOS Apps (12)](#-developer-macos-apps)
+	- [💻 Tools & Services (11)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (6)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (14)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (15)](#-other-ai-tools)
+	- [💬 AI Chat UI (7)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (15)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (16)](#-other-ai-tools)
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (22)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (12)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (11)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (12)](#-marketing-tools)
-- [🔍 SEO Tools (3)](#-seo-tools)
+	- [🖥️ Productivity Desktop Apps (24)](#️-productivity-desktop-apps)
+	- [📱 Productivity Mobile Apps (13)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (12)](#️-productivity-tools--services)
+- [🌈 Marketing Tools (15)](#-marketing-tools)
+- [🔍 SEO Tools (4)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (14)](#-startup-saastools)
-- [🌏 Social Media Tools (8)](#-social-media-tools)
-- [💸 Finance Tools (8)](#-finance-tools)
-- [🎛 Utility Tools (10)](#-utility-tools)
+- [🌏 Social Media Tools (9)](#-social-media-tools)
+- [💸 Finance Tools (10)](#-finance-tools)
+- [🎛 Utility Tools (11)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (16)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -58,13 +58,13 @@ Total deals: 256
 	- [📘 Startup & Career Books (6)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (17)](#-programming-courses)
- 	- [💻 Ethical Hacking Courses (1)](#-ethical-hacking-courses)
+	- [💻 Programming Courses (18)](#-programming-courses)
+	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (2)](#-marketing-courses)
-	- [🔒 Information Security Courses (2)](#-information-security-courses)
-- [💪 Health and Fitness (5)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (11)](#-miscellaneous)
+- [💪 Health and Fitness (6)](#-health-and-fitness)
+- [👨‍🎨 Miscellaneous (13)](#-miscellaneous)
+
 
 ## 👨‍💻 Developer Tools
 
