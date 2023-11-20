@@ -38,7 +38,7 @@ Total deals: 280
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (24)](#️-productivity-desktop-apps)
+	- [🖥️ `Productivity Desktop` Apps (24)](#️`-productivity-desktop-apps`)
 	- [📱 Productivity Mobile Apps (13)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (12)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
@@ -226,6 +226,8 @@ Total deals: 280
 | 🤑 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
 | 🤑 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% OFF for the first year with code BLACKFRIDAY2023 |
 | 🤑 | [CleanClip](https://cleanclip.cc/?ref=awesomebf) | The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function. | 50% OFF with code **BF2023** |
+| 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side while working, reading, browsing, studying. Always with you. With dozens of features. | 40% off (automatically applied) until Dec 1st |
+| 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 40% off (automatically applied) until Dec 1st |
 
 
 
@@ -248,6 +250,7 @@ Total deals: 280
 | 💰 | [Clendar - Minimal Calendar](https://apps.apple.com/app/id1548102041) | Clendar is an minimal calendar app that focus on the simplicity of uses. Natural language parsing is supported. | 50% OFF Clendar+ Access |
 | 🤑 | [Itemlist](https://getitemlist.app) | Itemlist is a home inventory app for iOS. Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% OFF Lifetime PRO |
 | 🤑 | [Teleprompter](https://apple.co/49F7sbN) | Teleprompter helps you record your speeches on camera confidently. | 60% OFF Lifetime PRO until Nov 24 |
+| 💰 | [SideNotes for iOS / iPadOS ](https://www.apptorium.com/sidenotes/ios) | Mobile, companion app for SideNotes users. To take your quick notes with you.| 40% off (automatically applied) until Dec 1st |
 
 [⬆️ Go to Top](#table-of-contents)
 
