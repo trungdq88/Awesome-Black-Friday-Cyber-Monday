@@ -357,6 +357,7 @@ Total deals: 280
 |  🤑 | [M1 Spreadsheet](https://m1spreadsheet.com/) | Portfolio management tool. Automatically track target weights, rebalance, dividend growth, and much more. | 60% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [ShiftApp Shift Planning](https://shiftapp.com) | Shift Planning and Employee Scheduling - simple and easy to use on both Web and Mobile. | 77% OFF for SEVEN MONTHS with code **BLACKFRIDAY2023** |
 |  💰 | [SubManager](https://getsubmanager.app/) | Track your subscriptions all in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime during Black Friday Week starting 20th November. |
+|💵  | [MesoSim](https://blog.deltaray.io/2023-black-friday) | Advanced Options Backtesting service | $60 one time OFF for new annual subscriptions |
 
 
 [⬆️ Go to Top](#table-of-contents)
