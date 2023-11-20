@@ -324,6 +324,7 @@ Total deals: 280
 | 💰 | [HelpBell](https://helpbell.ai) | Cut down on support time with our AI-powered Knowledge Base. Engage customers with AI-powered conversations. If queries get complex, direct email assistance | 30% OFF with code **`AWESOMEFRIDAY30`** |
 | 💰 | [Sotion.so](https://www.sotion.so) | Membership Management for Notion → Create a Notion website in 2 minutes and publish it to your own custom domain. Control access to your Notion site with Password Protection, Email Signup, Email Whitelist, or Paid Membership. Loads of customization options.  | 40% OFF with code **BFCM2023** |
 | 💰 | [Cloakist](https://www.cloak.ist) | Rehost any webpage on your own domain, remove branding and add your own, keep visitors on your website. Works with 30+ platforms, incluring: Calendly, Linktree, Airtable, Typeform, ClickUp, Canva, Jotform, Adobe Express, Google Docs, Coda, Cal.com, Microsoft Sway, and more.  | 40% OFF with code **BFCM2023** |
+| 💰 | [Moonship](https://moonship.app) | Automated deployments on your AWS - in minutes! Experience Heroku-like developer experience on your own AWS account. Deploy to a production-ready infrastructure with minimal effort with Moonship.  | 50% OFF with code **BLACK2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
