@@ -103,6 +103,7 @@ Total deals: 280
 | 🤑  | [myJson](https://myjson.online/?ref=awesomebf2023) | A RESTful API for flexible storage of JSON data. | 50% discount for 100k credits **`BF2023`** |
 |  💰 | [ChatDB](https://chatdb.ai) | Finally, let AI write your SQL. Do advanced data analysis on your database and get insights without SQL! | 20% discount on all plans by using the code **FRIYAY**. |
 | 🤑  | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine & Datastore Emulator. | 50% OFF (automatically applied) until Dec 15 |
+| 🤑 | [Contabo](https://contabo.com/) | Cloud Instances and Dedicated servers available in 11 locations & 8 Regions | No Setup Fee, Free Extra Storage, Object Storage and Outlet server discounts   |
 
 
 [⬆️ Go to Top](#table-of-contents)
