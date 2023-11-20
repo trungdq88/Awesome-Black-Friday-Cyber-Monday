@@ -562,7 +562,7 @@ Total deals: 280
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 |  💰 | [Complete Marketing Bundle](https://www.makerbox.club/complete-marketing-bundle) | A collection of 5 actionable marketing resources for Solopreneurs. | 30% OFF with a promo code **BLACKFRIDAY**! |
 |  🤑 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF** |
-
+|  💰 | [The Idea Sniper Crash Course - ](https://byhazellim.gumroad.com/l/Ideation/) by Hazel Lim| Ideation bootcamp for founders who are sick of building stuff no one wants | 40% OFF with a promo code **BLACKFRIDAY23**! |
 
 [⬆️ Go to Top](#table-of-contents)
 
