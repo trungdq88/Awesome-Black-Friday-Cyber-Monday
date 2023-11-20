@@ -44,7 +44,7 @@ Total deals: 280
 - [🌈 Marketing Tools (15)](#-marketing-tools)
 - [🔍 SEO Tools (4)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (14)](#-startup-saastools)
-- [🌏 Social Media Tools (9)](#-social-media-tools)
+- [🌏 Social Media Tools (10)](#-social-media-tools)
 - [💸 Finance Tools (10)](#-finance-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (16)](#-boilerplates-starter-kit-templates)
