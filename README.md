@@ -165,7 +165,7 @@ Total deals: 280
 | 🤑 | [ArtSmart.ai](https://artsmart.ai/black-friday) | Use AI to generate hundreds of images in a few clicks. Perfect for bloggers, SEO agencies, small businesses, print on demand services. Any scenario where you need to create a lot of images quickly and cheaply. | Enjoy up to 50% OFF, only valid from Nov 24 – Nov 30 (automatically applied by this URL) |
 | 💰 | [ColorBliss.art](https://colorbliss.art.com/?utm_source=trungdq88) | Create printable custom coloring sheets in seconds. Generate any coloring sheet you (or your kid) can imagine. | 25% OFF your first 12 months with code **BF23** |
 | 🤑 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using **`BLACKFRIDAY23`** |
-
+| 🤑 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code **`HOLIDAY2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
