@@ -360,6 +360,7 @@ Total deals: 280
 | 🤑 | [ShiftApp Shift Planning](https://shiftapp.com) | Shift Planning and Employee Scheduling - simple and easy to use on both Web and Mobile. | 77% OFF for SEVEN MONTHS with code **BLACKFRIDAY2023** |
 |  💰 | [SubManager](https://getsubmanager.app/) | Track your subscriptions all in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime during Black Friday Week starting 20th November. |
 |💵  | [MesoSim](https://blog.deltaray.io/2023-black-friday) | Advanced Options Backtesting service | $60 one time OFF for new annual subscriptions |
+| 🤑 | [CheckCraft](https://apps.apple.com/us/app/checkcraft/id6469945468) | Printing checks from your Mac, iPhone or iPad | 50% OFF on the Mac App Store |
 
 
 [⬆️ Go to Top](#table-of-contents)
