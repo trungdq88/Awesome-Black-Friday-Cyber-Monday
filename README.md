@@ -486,6 +486,10 @@ Total deals: 280
 |  🤑 | [Nail A Coding Interview](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews) | This tiny book outlines intentions and etiquettes that have been tested in my whole engineering career, along with examples. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
+|  🤑 | [Zero to Sold](https://bootstrappedfounder.gumroad.com/l/zerotosold/BFF) by Arvid Kahl | An actionable no-fluff guide to bootstrapping a business. Your manual from "I have no idea" to "I just sold my SaaS business." | 50% OFF with code **BFF** |
+|  🤑 | [The Embedded Entrepreneur](https://bootstrappedfounder.gumroad.com/l/embedded-entrepreneur/BFF) by Arvid Kahl | Your practical guide to finding the right audience and building the product they need. Validate your ideas, and build a legacy. | 50% OFF with code **BFF** |
+
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -556,6 +560,8 @@ Total deals: 280
 | -- | ---| ------ | ------ |
 |  👑 | Your Spot | [Submit your discount](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368) now to secure the top spot! | 💸 |
 |  💰 | [Complete Marketing Bundle](https://www.makerbox.club/complete-marketing-bundle) | A collection of 5 actionable marketing resources for Solopreneurs. | 30% OFF with a promo code **BLACKFRIDAY**! |
+|  🤑 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
