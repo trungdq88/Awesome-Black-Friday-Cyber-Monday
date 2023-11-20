@@ -143,6 +143,7 @@ Total deals: 280
 | 🤑 | [AI.toWatch](https://aitodo.co) | summarize content from YouTube, Podcasts, TikTok, and even local files like Meeting recordings and Lecture videos with our AI-driven Video Summarizer. Discover a smarter way to learn with ChatGPT, your best AI-powered study companion! | Get 50% discount with this discount code **`AITODO`** until November 28th |
 | 🤑 | [Hexomatic](https://hexomatic.com/EVERYTHING-BF-2023/) | Web scraping + AI work automation, made easy Tap into the internet as your own data source and automate 100+ sales, marketing, or research tasks on autopilot. | Get access to all products and save 70% OFF with the Everything Bundle **`AWESOMEBF2023`** |
 | 🤑 | [Audionotes](https://www.audionotes.app) | Capture and Transform your voice and text notes into customizable text summaries and content. Chat with your notes and connect your notes with Zapier, Notion, and Whatsapp. | Flat 60% Off on all Annual Plans with code **`BLACKFRIDAY60`** |
+| 🤑 | [Chatwith](https://chatwith.tools/) | Custom chatbot for your website; trained on your files, urls, and with 5000+ integrations that allow you automate lead generation, customer support and more. | Enjoy 50% off (perpetually) with code **`BLACKFRIDAY`** (expires on Cyber Monday) |
 
 [⬆️ Go to Top](#table-of-contents)
 
