@@ -439,7 +439,7 @@ Total deals: 280
 | 🤑 | [Developing Progressive Web Applications with Angular (DRM-free eBook)](https://walkingriver.gumroad.com/l/pwa-angular?layout=profile) | Mastering PWA development with Angular | $2.49. No code needed. Valid Through November 30, 2023 |
 | 🤑 | [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx) | Tools and techniques to improve your Django development experience. | 50% off from $39 to $19.50. No code needed. |
 | 🤑 | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
-| 🤑 | [Django for Full Stack Web Applications](https://www.amazon.com/dp/B0CKFLHS7B) |Build and Deploy an e-commerce application with Python and Django| | $2.99. No code needed. Valid from November 23 - November 30, 2023 |
+| 🤑 | [Django for Full Stack Web Applications](https://www.amazon.com/dp/B0CKFLHS7B) |Build and Deploy an e-commerce application with Python and Django | $2.99. No code needed. Valid from November 23 - November 30, 2023 |
 
 [⬆️ Go to Top](#table-of-contents)
 
