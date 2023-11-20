@@ -528,6 +528,7 @@ Total deals: 280
 |  🤑 | [Laravel with Inertia.js & Svelte: A Practical Guide](https://www.udemy.com/course/learn-laravel-with-inertiajs-and-svelte/?couponCode=BLACKFRIDAY2023) | Learn Inertia.js Practically using Laravel, Inertia.js and Svelte by building three projects along the way. | 50% OFF with **BLACKFRIDAY2023** |
 |  🤑 | [Custom Auth Implementation In Laravel: A Practical Guide](https://www.udemy.com/course/custom-auth-implementation-in-laravel/?couponCode=BLACKFRIDAY2023) | Learn how to implement Custom Authentication System in Laravel. | 50% OFF with **BLACKFRIDAY2023** |
 |  🤑 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2023) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
+|  💰 | [Codepip](https://codepip.com/) | Coding games for learning CSS, JavaScript, SQL, and more. | 30% off with code **CYBER23** |
 
 
 [⬆️ Go to Top](#table-of-contents)
