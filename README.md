@@ -60,6 +60,7 @@ Total deals: 280
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (18)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
+ 	- [🔒 Information Security Tools (1)](#-information-security-tools)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (2)](#-marketing-courses)
 - [💪 Health and Fitness (6)](#-health-and-fitness)
@@ -541,6 +542,12 @@ Total deals: 280
 | 💰 | Practical DevSecOps | [Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling courses](https://www.practical-devsecops.com/black-friday/) | 15% off all courses |
 |  🤑 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 11/25/2023 8:00 AM PST |
 
+[⬆️ Go to Top](#table-of-contents)
+
+## 🔍 Information Security Tools
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [ExploitPack.com](https://exploitpack.com/order.html) | Advanced exploitation framework with 0days and 39.000+ exploits | LIFETIME License - Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) |
 
 [⬆️ Go to Top](#table-of-contents)
 
