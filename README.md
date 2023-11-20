@@ -226,6 +226,8 @@ Total deals: 280
 | 🤑 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
 | 🤑 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% OFF for the first year with code BLACKFRIDAY2023 |
 | 🤑 | [CleanClip](https://cleanclip.cc/?ref=awesomebf) | The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function. | 50% OFF with code **BF2023** |
+| 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new users |
+
 
 
 
