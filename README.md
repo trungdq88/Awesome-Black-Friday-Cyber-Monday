@@ -84,6 +84,7 @@ Total deals: 280
 | 🤑 | [Sequence Diagram Tool by ZenUML](https://zenuml.com) | Generate Sequence Diagrams from text. | $0.99 (down from $29.99) on 24th Nov on the Mac App Store |
 | 💰 | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 20% OFF with code **BLACKFRIDAY_2023**. Valid until Nov 24. |
 | 🤑 | [Star Order](https://starorder.akring.com) | Best GitHub Star Tool with tags and categories. You can easily find and manage your stared repos on GitHub| 50% OFF on the Mac App Store |
+| 🤑 | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | With the ShellHistory, you can easily keep years of shell history, search history using Full-Text Search, back it up to your private iCloud, and create Notebooks. | 50% OFF on the Mac App Store |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -226,6 +227,7 @@ Total deals: 280
 | 🤑 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
 | 🤑 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% OFF for the first year with code BLACKFRIDAY2023 |
 | 🤑 | [CleanClip](https://cleanclip.cc/?ref=awesomebf) | The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function. | 50% OFF with code **BF2023** |
+| 🤑 | [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) | Advanced Link Handler for Browsers, e-Mails and Files | 50% OFF on the Mac App Store |
 
 
 
