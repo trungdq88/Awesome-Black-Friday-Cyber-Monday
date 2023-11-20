@@ -165,6 +165,7 @@ Total deals: 280
 | 🤑 | [ArtSmart.ai](https://artsmart.ai/black-friday) | Use AI to generate hundreds of images in a few clicks. Perfect for bloggers, SEO agencies, small businesses, print on demand services. Any scenario where you need to create a lot of images quickly and cheaply. | Enjoy up to 50% OFF, only valid from Nov 24 – Nov 30 (automatically applied by this URL) |
 | 💰 | [ColorBliss.art](https://colorbliss.art.com/?utm_source=trungdq88) | Create printable custom coloring sheets in seconds. Generate any coloring sheet you (or your kid) can imagine. | 25% OFF your first 12 months with code **BF23** |
 | 🤑 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using **`BLACKFRIDAY23`** |
+| 🤑 | [Storyleo](https://storyleo.app) | Create bedtime stories with audio for children using AI. | Enjoy 70% OFF on Generating 40 stories |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -248,6 +249,7 @@ Total deals: 280
 | 💰 | [Clendar - Minimal Calendar](https://apps.apple.com/app/id1548102041) | Clendar is an minimal calendar app that focus on the simplicity of uses. Natural language parsing is supported. | 50% OFF Clendar+ Access |
 | 🤑 | [Itemlist](https://getitemlist.app) | Itemlist is a home inventory app for iOS. Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% OFF Lifetime PRO |
 | 🤑 | [Teleprompter](https://apple.co/49F7sbN) | Teleprompter helps you record your speeches on camera confidently. | 60% OFF Lifetime PRO until Nov 24 |
+| 🤑 | [Limory](https://limory.app) | Vibrant memories through photos! Use AR technology to create captivating videos. | Annual subscription is 54% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
