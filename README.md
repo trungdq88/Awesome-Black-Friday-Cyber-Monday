@@ -122,6 +122,7 @@ Total deals: 280
 | 🤑 | [DeckAssistant](https://deckassistant.io/?ref=ghawesomebf23) | An AI Assistant for Stream Deck with a better ChatGPT. A.I. at your fingertips. Literally. | Enjoy 50% off with this discount code **BLACKFRIDAY23** |
 | 🤑 | [AnySelect](http://anyselectai.com/) | The best and quickest way to use ChatGPT from anywhere on your Mac. | 70% OFF with this discount code **`AWESOMEBF2023`** |
 | 💰 | [ChatTab](https://chattab.app) | A ChatGPT Mac App Designed for Minimalists       | 30% OFF if you use **`Y2NTY3MW`** from 23th November until November 28th |
+| 💰 | [My AskAI](https://myaskai.com) | Create an AI assistant, trained on your Help Docs, quicker than it takes to make a coffee. Perfect for automating customer support. | 33% OFF (lifetime) with a promo code **BLACKFRIDAY23**! |
 
 
 [⬆️ Go to Top](#table-of-contents)
