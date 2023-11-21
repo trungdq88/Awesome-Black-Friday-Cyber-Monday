@@ -26,27 +26,27 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 325
+Total deals: 339
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (16)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (17)](#-developer-macos-apps)
 	- [💻 Tools & Services (12)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (9)](#-ai-chat-ui)
+	- [💬 AI Chat UI (10)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (17)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (18)](#-other-ai-tools)
+	- [✨ Other AI tools (20)](#-other-ai-tools)
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (27)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (14)](#-productivity-mobile-apps)
+	- [🖥️ Productivity Desktop Apps (26)](#️-productivity-desktop-apps)
+	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
-- [🔍 SEO Tools (4)](#-seo-tools)
+- [🔍 SEO Tools (5)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
-- [🌏 Social Media Tools (10)](#-social-media-tools)
-- [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (14)](#-utility-tools)
+- [🌏 Social Media Tools (12)](#-social-media-tools)
+- [💸 Finance Tools (13)](#-finance-tools)
+- [🎛 Utility Tools (15)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -63,7 +63,7 @@ Total deals: 325
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (4)](#-marketing-courses)
 - [💪 Health and Fitness (7)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (15)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (16)](#-miscellaneous)
 
 
 ## 👨‍💻 Developer Tools
