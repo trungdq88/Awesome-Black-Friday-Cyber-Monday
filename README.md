@@ -58,7 +58,7 @@ Total deals: 319
 	- [📘 Startup & Career Books (8)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (22)](#-programming-courses)
+	- [💻 Programming Courses (25)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (4)](#-marketing-courses)
