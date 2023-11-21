@@ -88,6 +88,7 @@ Total deals: 325
 | 💰 | [Kaleidoscope](https://kaleidoscope.app/) | Spot the differences in text and image files, or even folders full of files. Review changes in seconds, with the world's most powerful file comparison and merge app for macOS. | 40% OFF for a year of subscription using promo code BLACKFRIDAY23 |
 | 💰 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript | 30% OFF (automatically applied) until 30th November |
 | 🤑 | [Tower](https://www.git-tower.com) | Powerful Git client | 50% OFF |
+| 💰 | [LocalCan™](https://www.localcan.com/) | Ngrok alternative, allowing developers to build and test apps with .local domains and persistent Public URLs | 25% off with BLACKFRIDAY25 code! |
 
 [⬆️ Go to Top](#table-of-contents)
 
