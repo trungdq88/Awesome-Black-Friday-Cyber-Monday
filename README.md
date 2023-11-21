@@ -89,7 +89,7 @@ Total deals: 339
 | 💰 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript | 30% OFF (automatically applied) until 30th November |
 | 🤑 | [Tower](https://www.git-tower.com) | Powerful Git client | 50% OFF |
 | 💰 | [LocalCan™](https://www.localcan.com/) | Ngrok alternative, allowing developers to build and test apps with .local domains and persistent Public URLs | 25% off with BLACKFRIDAY25 code! |
-| 💰 | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=sale&mt=8)) | Powerful SSH terminal for iOS & Mac | 33% off Lifetime Pro Unlock |
+| 💰 | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=sale&mt=8) | Powerful SSH terminal for iOS & Mac | 33% off Lifetime Pro Unlock |
 
 [⬆️ Go to Top](#table-of-contents)
 
