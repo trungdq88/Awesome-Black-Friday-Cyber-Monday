@@ -362,6 +362,7 @@ Total deals: 325
 | 💰 | [Typefully](https://typefully.com/) | Write and publish on 𝕏, LinkedIn and Mastodon, with AI; get personalized post ideas; share drafts and collaborate; and much more | 40% OFF on yearly plans, auto-applies
 | 💰 | [Superstatz](https://superstatz.co/) | Showcase your Statistics using Awesome animations and build public credibility | 50% OFF for first period on monthly or yearly plans. Code: **BLACKFRIDAY50**
 | 🤑 | [Xbase](https://getxbase.com/) | Upgrade your Twitter with our powerful Twitter Bookmark Manager, with instant search and effortless note-taking.| 50% OFF auto-discount|
+| 💰 | [Usebiolink](https://usebiolink.com) | Build beautiful bio-link websites in minutes | **BLCK2023** for 50% off for yearly subscriptions |
 
 [⬆️ Go to Top](#table-of-contents)
 
