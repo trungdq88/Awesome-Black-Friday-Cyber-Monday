@@ -60,6 +60,7 @@ Total deals: 280
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (18)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
+ 	- [🔒 Information Security Tools (1)](#-information-security-tools)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (2)](#-marketing-courses)
 - [💪 Health and Fitness (6)](#-health-and-fitness)
@@ -622,6 +623,7 @@ fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at 
 | 🤑 | [GP Calendar Mac](https://cyrilniobe.gumroad.com/l/gp-calendar/BF2023) | Never miss a Formula1 race start (or qualifications/practices) with this native Mac app that lives in the top menu bar | 50% off (= $1.50 for lifetime!) with code [BF2023](https://cyrilniobe.gumroad.com/l/gp-calendar/BF2023) |
 | 💰 | [Plan2Wed Online wedding planning](https://plan2wed.app) | Plan your or someones wedding with Plan2Wed, an online collaborative platform for engaged couples and wedding planners | 50% Off a wedding with **PLANFRIDAY** (no subscription) |
 | 💰 | [Latest Garbage Collector Techonology: GEME Composter](https://www.geme.bio)                                    | The real-world garbage collector for both programers and non-programers. Turn food waste into organic compost, feed your plants, bug free!                                                                                                                                                          | $60 OFF with **[BlackFriday](https://www.geme.bio/product/geme?discount-code=blackfriday)** (no subscription, life time!)                                                                                                                                 |
+|  💰 | [ExploitPack.com](https://exploitpack.com/order.html) | Advanced exploitation framework with 0days and 39.000+ exploits | LIFETIME License - Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) |
 
 
 [⬆️ Go to Top](#table-of-contents)
