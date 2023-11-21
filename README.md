@@ -542,12 +542,6 @@ Total deals: 280
 | 💰 | Practical DevSecOps | [Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling courses](https://www.practical-devsecops.com/black-friday/) | 15% off all courses |
 |  🤑 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 11/25/2023 8:00 AM PST |
 
-[⬆️ Go to Top](#table-of-contents)
-
-## 🔍 Information Security Tools
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  💰 | [ExploitPack.com](https://exploitpack.com/order.html) | Advanced exploitation framework with 0days and 39.000+ exploits | LIFETIME License - Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -606,6 +600,7 @@ Total deals: 280
 | 🤑 | [FilmNoir for Trakt.tv](https://apps.apple.com/us/app/film-noir-by-trakt-just-watch/id1528417240) | Explore and track your favorite movies & TV shows with FilmNoir, the ultimate visually stunning tracker. | Up to 50% off the Lifetime purchase and the first year on Plus Annual with code [BLACKFRIDAY23](https://apps.apple.com/redeem?ctx=offercodes&id=1528417240&code=BLACKFRIDAY23) |
 | 🤑 | [GP Calendar Mac](https://cyrilniobe.gumroad.com/l/gp-calendar/BF2023) | Never miss a Formula1 race start (or qualifications/practices) with this native Mac app that lives in the top menu bar | 50% off (= $1.50 for lifetime!) with code [BF2023](https://cyrilniobe.gumroad.com/l/gp-calendar/BF2023) |
 | 💰 | [Plan2Wed Online wedding planning](https://plan2wed.app) | Plan your or someones wedding with Plan2Wed, an online collaborative platform for engaged couples and wedding planners | 50% Off a wedding with **PLANFRIDAY** (no subscription) |
+|  💰 | [ExploitPack.com](https://exploitpack.com/order.html) | Advanced exploitation framework with 0days and 39.000+ exploits | LIFETIME License - Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) |
 
 
 [⬆️ Go to Top](#table-of-contents)
