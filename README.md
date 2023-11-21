@@ -262,6 +262,7 @@ Total deals: 325
 | 🤑 | [Itemlist](https://getitemlist.app) | Itemlist is a home inventory app for iOS. Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% OFF Lifetime PRO |
 | 🤑 | [Teleprompter](https://apple.co/49F7sbN) | Teleprompter helps you record your speeches on camera confidently. | 60% OFF Lifetime PRO until Nov 24 |
 | 🤑 | [Limory](https://limory.app) | Vibrant memories through photos! Use AR technology to create captivating videos. | Annual subscription is 54% OFF |
+| 🤑 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) | Intuitive habit tracker with interactive widgets | 50% OFF HabitLoop Pro (Lifetime) |
 
 [⬆️ Go to Top](#table-of-contents)
 
