@@ -418,7 +418,6 @@ Total deals: 339
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🤑 | [Shipixen](https://shipixen.com) | Make customized Next.js boilerplates with a landing page & blog, complete with your own branding, theme, and selected pages. | 50% OFF with code **BF2023** |
 |  💰 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50% OFF with code **G5NJE1MW** |
 | 💰 | [AI Startup Kit](https://www.aistartupkit.com/) | Launch your AI Startup using No Code with our 12+ Ready to Use AI Web app Templates | Get 25% off with this discount code **`BF25`** |
@@ -438,6 +437,7 @@ Total deals: 339
 | 🤑 | [NextAppFast.com](https://nextappfast.com) | Go from Idea to Running App in Minutes!🚀 Our production-ready starter kit gives you a solid foundation to build on, and No-Code App Builder with AI makes it easy to develop your app without writing any code. Just download your custom generated SaaS app's code and fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at checkout) |
 | 🤑 | [Cruip](https://cruip.com) | Beautifully designed Tailwind CSS templates for your next project. | 50% OFF Unlimited Access and 20% OFF all templates |
 | 🤑 | [Classic Glide App Templates](https://sardamit.gumroad.com/l/glide-template-giveaway?layout=profile) | Classic Glide App Templates | Each template for a flat $10 |
+| 🤑 | [Shipixen](https://shipixen.com) | Make customized Next.js boilerplates with a landing page & blog, complete with your own branding, theme, and selected pages. | 50% OFF with code **BF2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
