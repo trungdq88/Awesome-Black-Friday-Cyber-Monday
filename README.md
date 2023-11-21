@@ -548,6 +548,7 @@ fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at 
 |  🤑 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2023) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 |  🤑 | [useEffect.dev](https://useeffect.dev/?ref=trungdq88) | React Hooks are ~~hard~~ awesome! Master the best invention since React itself, and take your React experience to the next level. | 68% off with code **FRIDAY23** |
 |  💰 | [Building Modern Web Apps with React and Next.js](https://learn.scastiel.dev/?ref=trungdq88) | A beginner-friendly online course to build your first full-stack application with React, leveraging the power of Next.js. | 43% off with code **FRIDAY23** |
+|  💰 | [Codepip](https://codepip.com/) | Coding games for learning CSS, JavaScript, SQL, and more. | 30% off with code **CYBER23** |
 
 
 [⬆️ Go to Top](#table-of-contents)
