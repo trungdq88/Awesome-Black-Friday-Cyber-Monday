@@ -84,6 +84,7 @@ Total deals: 280
 | 🤑 | [Sequence Diagram Tool by ZenUML](https://zenuml.com) | Generate Sequence Diagrams from text. | $0.99 (down from $29.99) on 24th Nov on the Mac App Store |
 | 💰 | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 20% OFF with code **BLACKFRIDAY_2023**. Valid until Nov 24. |
 | 🤑 | [Star Order](https://starorder.akring.com) | Best GitHub Star Tool with tags and categories. You can easily find and manage your stared repos on GitHub| 50% OFF on the Mac App Store |
+| 🤑 | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | With the ShellHistory, you can easily keep years of shell history, search history using Full-Text Search, back it up to your private iCloud, and create Notebooks. | 50% OFF on the Mac App Store |
 | 💰 | [Kaleidoscope](https://kaleidoscope.app/) | Spot the differences in text and image files, or even folders full of files. Review changes in seconds, with the world's most powerful file comparison and merge app for macOS. | 40% OFF for a year of subscription using promo code BLACKFRIDAY23 |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -165,6 +166,7 @@ Total deals: 280
 | 🤑 | [ArtSmart.ai](https://artsmart.ai/black-friday) | Use AI to generate hundreds of images in a few clicks. Perfect for bloggers, SEO agencies, small businesses, print on demand services. Any scenario where you need to create a lot of images quickly and cheaply. | Enjoy up to 50% OFF, only valid from Nov 24 – Nov 30 (automatically applied by this URL) |
 | 💰 | [ColorBliss.art](https://colorbliss.art.com/?utm_source=trungdq88) | Create printable custom coloring sheets in seconds. Generate any coloring sheet you (or your kid) can imagine. | 25% OFF your first 12 months with code **BF23** |
 | 🤑 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using **`BLACKFRIDAY23`** |
+| 🤑 | [Storyleo](https://storyleo.app) | Create bedtime stories with audio for children using AI. | Enjoy 70% OFF on Generating 40 stories |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -226,6 +228,7 @@ Total deals: 280
 | 🤑 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
 | 🤑 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% OFF for the first year with code BLACKFRIDAY2023 |
 | 🤑 | [CleanClip](https://cleanclip.cc/?ref=awesomebf) | The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function. | 50% OFF with code **BF2023** |
+| 🤑 | [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) | Advanced Link Handler for Browsers, e-Mails and Files | 50% OFF on the Mac App Store |
 
 
 
@@ -248,6 +251,7 @@ Total deals: 280
 | 💰 | [Clendar - Minimal Calendar](https://apps.apple.com/app/id1548102041) | Clendar is an minimal calendar app that focus on the simplicity of uses. Natural language parsing is supported. | 50% OFF Clendar+ Access |
 | 🤑 | [Itemlist](https://getitemlist.app) | Itemlist is a home inventory app for iOS. Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% OFF Lifetime PRO |
 | 🤑 | [Teleprompter](https://apple.co/49F7sbN) | Teleprompter helps you record your speeches on camera confidently. | 60% OFF Lifetime PRO until Nov 24 |
+| 🤑 | [Limory](https://limory.app) | Vibrant memories through photos! Use AR technology to create captivating videos. | Annual subscription is 54% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -358,6 +362,7 @@ Total deals: 280
 | 🤑 | [ShiftApp Shift Planning](https://shiftapp.com) | Shift Planning and Employee Scheduling - simple and easy to use on both Web and Mobile. | 77% OFF for SEVEN MONTHS with code **BLACKFRIDAY2023** |
 |  💰 | [SubManager](https://getsubmanager.app/) | Track your subscriptions all in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime during Black Friday Week starting 20th November. |
 |💵  | [MesoSim](https://blog.deltaray.io/2023-black-friday) | Advanced Options Backtesting service | $60 one time OFF for new annual subscriptions |
+| 🤑 | [CheckCraft](https://apps.apple.com/us/app/checkcraft/id6469945468) | Printing checks from your Mac, iPhone or iPad | 50% OFF on the Mac App Store |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -403,7 +408,8 @@ Total deals: 280
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
 | 💰 | [Volca SaaS Boilerplate](https://volca.io/) | SaaS Boilerplate and Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. | 25% off with coupon code **BLACK** (valid from 11/16 - 11/30) |
 | 🤑 | [BoilerCode.app](https://boilercode.app) | NextJs Boilerplates From Idea to SaaS  in 24 Hours! | 50% off with coupon code **FRIDAY50** (valid until Cyber Monday) |
-
+| 🤑 | [NextAppFast.com](https://nextappfast.com) | Go from Idea to Running App in Minutes!🚀 Our production-ready starter kit gives you a solid foundation to build on, and No-Code App Builder with AI makes it easy to develop your app without writing any code. Just download your custom generated SaaS app's code and
+fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at checkout) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -439,6 +445,7 @@ Total deals: 280
 | 🤑 | [Developing Progressive Web Applications with Angular (DRM-free eBook)](https://walkingriver.gumroad.com/l/pwa-angular?layout=profile) | Mastering PWA development with Angular | $2.49. No code needed. Valid Through November 30, 2023 |
 | 🤑 | [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx) | Tools and techniques to improve your Django development experience. | 50% off from $39 to $19.50. No code needed. |
 | 🤑 | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
+| 🤑 | [Django for Full Stack Web Applications](https://www.amazon.com/dp/B0CKFLHS7B) |Build and Deploy an e-commerce application with Python and Django | $3.99. No code needed. Valid from November 23 - November 30, 2023 |
 
 [⬆️ Go to Top](#table-of-contents)
 
