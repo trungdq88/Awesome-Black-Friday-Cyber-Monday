@@ -468,6 +468,7 @@ fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at 
 |  💰 | [Cracking the iOS Interview](https://swiftanytime.gumroad.com/l/cracking-the-ios-interview/BlackFridayAnytime) | Are you eager to secure your dream job as an iOS developer? Do you want to stand out from the competition and impress hiring managers with your iOS expertise? Look no further! "Cracking the iOS Interview" is the ultimate resource that will equip you with the knowledge, confidence, and insights needed to conquer any iOS interview. | 30% FLAT discount automatically applied only till Black Friday|
 |  🤑 | [Building macOS apps with SwiftUI: A Practical Learning Guide](https://gracehuang.gumroad.com/l/macOS-swift) | This book will primarily focus on building macOS apps with SwiftUI, including both coding and releasing apps. | 50% OFF with code **BLACKFRIDAY2023** |
 | 🤑 | [Developing Mobile Apps with Ionic Framework - Angular Edition (DRM-Free eBook)](https://walkingriver.gumroad.com/l/NlVUr?layout=profile) | Building mobile apps with Ionic Framework and Angular | $2.49. No code needed. Valid Through November 30, 2023 |
+| 🤑 | [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) | A detailed guide on gradually adopting SwiftUI in UIKit projects | $50% OFF no code needed. Valid Through November 30, 2023 |
 
 [⬆️ Go to Top](#table-of-contents)
 
