@@ -265,6 +265,7 @@ Total deals: 339
 | 🤑 | [Teleprompter](https://apple.co/49F7sbN) | Teleprompter helps you record your speeches on camera confidently. | 60% OFF Lifetime PRO until Nov 24 |
 | 🤑 | [Limory](https://limory.app) | Vibrant memories through photos! Use AR technology to create captivating videos. | Annual subscription is 54% OFF |
 | 🤑 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) | Intuitive habit tracker with interactive widgets | 50% OFF HabitLoop Pro (Lifetime) |
+| 💰 | [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414?platform=iphone) | A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. | 35% OFF Gold Yearly with code **BLACKFRIDAY2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
