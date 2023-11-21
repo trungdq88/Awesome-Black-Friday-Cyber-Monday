@@ -132,6 +132,7 @@ Total deals: 319
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🤑 | [PDF Pals](https://pdfpals.com?ref=awesomebf) | Native ChatPDF app for Mac. It allows users to chat with any PDF document on their Mac without the need for uploading or file size limitations. The tool offers a fast and powerful OCR engine, enabling it to handle scanned PDFs and complex forms effectively | Enjoy 53% off with this discount code **`AWESOMEBF2023`** |
+| 🤑 | [MindPal](https://mindpal.space/) | Effortlessly build AI Agents for your tasks, on your custom data. The easiest way to double your brainpower, 10x your productivity with an AI-powered second brain that knows it all and does it all. | 50% OFF with code **BLACKFRIDAY50** |
 | 🤑 | [Deutsch Mentor](https://www.deutsch-mentor.com/en) | Experience a revolutionary way to learn German with the power of AI. Join Deutsch Mentor and learn German with a tutor that is always available for you. | The 50% discount will be available from 24 to 27 November directly on the webpage |
 | 🤑 | [Writers brew](https://writersbrew.app) | An AI writing assistant app for Mac. It works across your macOS. It has 50+ writing tools, presets, utilities, OCR etc | Get 50% OFF - Discount auto-applied** |
 | 🤑 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats, various languages etc | Get 50% discount until November 28th |
@@ -208,7 +209,6 @@ Total deals: 319
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 30% OFF auto-discount |
-| 🤑 | [MindPal](https://mindpal.space/) | Effortlessly build AI Agents for your tasks, on your custom data. The easiest way to double your brainpower, 10x your productivity with an AI-powered second brain that knows it all and does it all. | 50% OFF with code **BLACKFRIDAY50** |
 | 🤑 | [ToDoBar](https://todobar.compzets.com/) | Effortlessly manage to-dos from your Mac menu bar | >= 50% OFF auto-discount |
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon. | 30% OFF with code **BLACK23** |
 | 💰 | [Ochi](https://apps.apple.com/app/id1603024803) | Block distracting apps & websites on iPhone, iPad, and Mac. | 50% OFF Monthly/Yearly |
