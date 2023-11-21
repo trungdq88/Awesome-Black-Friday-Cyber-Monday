@@ -172,7 +172,7 @@ Total deals: 280
 | 💰 | [ColorBliss.art](https://colorbliss.art.com/?utm_source=trungdq88) | Create printable custom coloring sheets in seconds. Generate any coloring sheet you (or your kid) can imagine. | 25% OFF your first 12 months with code **BF23** |
 | 🤑 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using **`BLACKFRIDAY23`** |
 | 🤑 | [Storyleo](https://storyleo.app) | Create bedtime stories with audio for children using AI. | Enjoy 70% OFF on Generating 40 stories |
-
+| 🤑 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code **`HOLIDAY2023`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
