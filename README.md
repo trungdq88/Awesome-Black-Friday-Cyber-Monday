@@ -26,14 +26,14 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 319
+Total deals: 325
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (16)](#-developer-macos-apps)
 	- [💻 Tools & Services (11)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (9)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (16)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (17)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (18)](#-other-ai-tools)
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
@@ -43,10 +43,10 @@ Total deals: 319
 	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
 - [🔍 SEO Tools (4)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
 - [🌏 Social Media Tools (10)](#-social-media-tools)
 - [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (12)](#-utility-tools)
+- [🎛 Utility Tools (14)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -64,6 +64,7 @@ Total deals: 319
 	- [📈 Marketing Courses (4)](#-marketing-courses)
 - [💪 Health and Fitness (7)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (15)](#-miscellaneous)
+
 
 ## 👨‍💻 Developer Tools
 
