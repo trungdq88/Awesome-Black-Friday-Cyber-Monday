@@ -58,7 +58,7 @@ Total deals: 325
 	- [📘 Startup & Career Books (8)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (22)](#-programming-courses)
+	- [💻 Programming Courses (25)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (4)](#-marketing-courses)
@@ -563,6 +563,9 @@ Total deals: 325
 |  💰 | [Building Modern Web Apps with React and Next.js](https://learn.scastiel.dev/?ref=trungdq88) | A beginner-friendly online course to build your first full-stack application with React, leveraging the power of Next.js. | 43% off with code **FRIDAY23** |
 |  💰 | [Codepip](https://codepip.com/) | Coding games for learning CSS, JavaScript, SQL, and more. | 30% off with code **CYBER23** |
 |  💰 | [Python Essentials for Data Scientists](https://courses.dataschool.io/python-essentials-for-data-scientists) | Build a solid foundation in Python and launch your Data Science career! | 43% off from Black Friday through Cyber Monday |
+|  💰 | [Conscious Angular Testing](https://courses.decodedfrontend.io/courses/conscious-angular-testing?coupon=BLACK_FRIDAY_2023) | Testing in Angular is much easier than you think | 20% off with code BLACK_FRIDAY_2023 |
+|  🤑 | [CSS for JS devs](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 50% off through Cyber Monday |
+|  💰 | [Total TypeScript](https://www.totaltypescript.com/) | Become the TypeScript Wizard at Your Company | 20% off through Cyber Monday |
 
 
 [⬆️ Go to Top](#table-of-contents)
