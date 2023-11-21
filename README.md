@@ -596,6 +596,7 @@ fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at 
 | 🤑 | [Zenitizer](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BLACKFRIDAY2023) | Modern & Clutter-Free Meditation Timer for  Devices | **50% Off** Zenitizer+ Yearly with code **`BLACKFRIDAY2023`** |
 | 🤑 | [Bolt - Workout & Gym Planner](https://apps.apple.com/us/app/bolt-workout-gym-planner/id1439649927) | ** Apple's App of the Day**, Bolt simplifies workouts and tracking progress. It's the ultimate iOS fitness tracker for strength training achievement. | 50% off from Bolt Settings screen |
 | 🤑 | [Glucomate: Glucose Tracker](https://apps.apple.com/app/apple-store/id1574243765?pt=1448096&ct=blackfri23&mt=8) | A clean and simple iOS app for recording and reviewing blood glucose data recorded in HealthKit. | **50% off** first year subscription - no code required |
+| 💰 | [DogNote - Pet journal](https://dognote.app) | App for journaling pet-related activities with your family. | **40% off** Annual Plan |
 
 
 [⬆️ Go to Top](#table-of-contents)
