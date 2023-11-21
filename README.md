@@ -492,6 +492,16 @@ Total deals: 325
 
 [⬆️ Go to Top](#table-of-contents)
 
+
+#### Cloud (AWS, Azure, GCP)
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [AWS Fundamentals - AWS for the real world](https://awsfundamentals.lemonsqueezy.com/checkout/buy/eb26c80b-f9b1-48fa-a34f-b10bba15a139?checkout[discount_code]=BLACK30) | In AWS Fundamentals, you will learn the basic AWS services and how you can get started building with AWS. We love to learn and teach visually. This is why we've created infographics for every service within the book. | 30% OFF with discount code **BLACK30** |
+
+[⬆️ Go to Top](#table-of-contents)
+
+
 #### Misc Programming Books
 
 |  | Name | Description | Discount Code & Terms |
