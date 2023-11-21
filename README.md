@@ -408,7 +408,8 @@ Total deals: 280
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
 | 💰 | [Volca SaaS Boilerplate](https://volca.io/) | SaaS Boilerplate and Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. | 25% off with coupon code **BLACK** (valid from 11/16 - 11/30) |
 | 🤑 | [BoilerCode.app](https://boilercode.app) | NextJs Boilerplates From Idea to SaaS  in 24 Hours! | 50% off with coupon code **FRIDAY50** (valid until Cyber Monday) |
-
+| 🤑 | [NextAppFast.com](https://nextappfast.com) | Go from Idea to Running App in Minutes!🚀 Our production-ready starter kit gives you a solid foundation to build on, and No-Code App Builder with AI makes it easy to develop your app without writing any code. Just download your custom generated SaaS app's code and
+fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at checkout) |
 
 
 [⬆️ Go to Top](#table-of-contents)
