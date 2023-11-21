@@ -525,7 +525,7 @@ Total deals: 339
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Zero to Sold](https://bootstrappedfounder.gumroad.com/l/zerotosold/BFF) by Arvid Kahl | An actionable no-fluff guide to bootstrapping a business. Your manual from "I have no idea" to "I just sold my SaaS business." | 50% OFF with code **BFF** |
 |  🤑 | [The Embedded Entrepreneur](https://bootstrappedfounder.gumroad.com/l/embedded-entrepreneur/BFF) by Arvid Kahl | Your practical guide to finding the right audience and building the product they need. Validate your ideas, and build a legacy. | 50% OFF with code **BFF** |
-
+|  🤑 | [Engineering Leader's Playbook](https://kulkarniankita.gumroad.com/l/growthfor90days) | A comprehensive guide for aspiring or newer Engineering Leaders, offering insights & practical exercises, focusing on the crucial first 90 days of leadership, accompanied by a Notion workbook. | 50% OFF with code **`BLACKFRIDAY`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -571,6 +571,7 @@ Total deals: 339
 |  💰 | [Conscious Angular Testing](https://courses.decodedfrontend.io/courses/conscious-angular-testing?coupon=BLACK_FRIDAY_2023) | Testing in Angular is much easier than you think | 20% off with code BLACK_FRIDAY_2023 |
 |  🤑 | [CSS for JS devs](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 50% off through Cyber Monday |
 |  💰 | [Total TypeScript](https://www.totaltypescript.com/) | Become the TypeScript Wizard at Your Company | 20% off through Cyber Monday |
+|  🤑 | [Developer to Leader](https://www.developertoleader.com/?utm_source=tonydinhbf) | Learn how to lead a team successfully even if you've never managed or led anyone before. | 50% off with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
