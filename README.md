@@ -540,14 +540,14 @@ Total deals: 339
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 📹 Courses
+## 📹 
 
-### 💻 Programming Courses
+### 💻 Programming 
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Learn Programming with Go (Golang), One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY) | Learn Programming using the Go (Golang) programming language by building your own games. Excellent for beginners, who are starting out w/ programming or want to pick up Golang. | 80% OFF with code **BLACKFRIDAY** |
-|  🤑 | [Learn Programming in Python at The Python Coding Place](https://thepythoncodingplace.com) | Are you in the early or intermediate stages of learning to code? Membership of The Python Coding Place gives you access to courses in Python at all levels, both video-based and live courses, workshops and regular deep-dives on topics in Python Programming. You can become a Lifetime Member of The Python Coding Place's Members' Area (it's the only membership type available, there are no subscriptions!). The one-time membership fee is normally $350 and is now discounted to $95 - This is a one-time payment that gives you lifetime membership–access to everything, forever. And if you're a beginner, you can start having a look at A Python Tale, the course for complete beginners learning to code, which is free | 70% OFF Membership |
+|  🤑 | [Learn Programming in Python at The Python Coding Place](https://thepythoncodingplace.com) | Are you in the early or intermediate stages of learning to code? Membership of The Python Coding Place gives you access to  in Python at all levels, both video-based and live , workshops and regular deep-dives on topics in Python Programming. You can become a Lifetime Member of The Python Coding Place's Members' Area (it's the only membership type available, there are no subscriptions!). The one-time membership fee is normally $350 and is now discounted to $95 - This is a one-time payment that gives you lifetime membership–access to everything, forever. And if you're a beginner, you can start having a look at A Python Tale, the course for complete beginners learning to code, which is free | 70% OFF Membership |
 |  🤑 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css) | Level up with Tailwind CSS is your journey into mastering Tailwind CSS. With in-depth insights into advanced concepts, tips and tricks, this book will enable you to work faster and with more skill. This also includes multiple real-world examples that you've always wanted to see in Tailwind CSS. | 50% discount on eBook and Video Course with code **BLACKFRIDAY23** valid from 17th November until Cyber Monday |
 |  💰 | [Writing Readable PHP](https://writing-readable-php.com) | Learn how to write PHP that is a joy to read and easy to understand for you and your team. | 30 % discount from 20th November until Cyber Monday. |
 |  💰 | [Laravel Package Training](https://laravelpackage.training) | Learn how to create a Laravel package from scratch. | 30 % discount from 20th November until Cyber Monday. |
@@ -567,8 +567,8 @@ Total deals: 339
 |  🤑 | [useEffect.dev](https://useeffect.dev/?ref=trungdq88) | React Hooks are ~~hard~~ awesome! Master the best invention since React itself, and take your React experience to the next level. | 68% off with code **FRIDAY23** |
 |  💰 | [Building Modern Web Apps with React and Next.js](https://learn.scastiel.dev/?ref=trungdq88) | A beginner-friendly online course to build your first full-stack application with React, leveraging the power of Next.js. | 43% off with code **FRIDAY23** |
 |  💰 | [Codepip](https://codepip.com/) | Coding games for learning CSS, JavaScript, SQL, and more. | 30% off with code **CYBER23** |
-|  💰 | [Python Essentials for Data Scientists](https://courses.dataschool.io/python-essentials-for-data-scientists) | Build a solid foundation in Python and launch your Data Science career! | 43% off from Black Friday through Cyber Monday |
-|  💰 | [Conscious Angular Testing](https://courses.decodedfrontend.io/courses/conscious-angular-testing?coupon=BLACK_FRIDAY_2023) | Testing in Angular is much easier than you think | 20% off with code BLACK_FRIDAY_2023 |
+|  💰 | [Python Essentials for Data Scientists](https://.dataschool.io/python-essentials-for-data-scientists) | Build a solid foundation in Python and launch your Data Science career! | 43% off from Black Friday through Cyber Monday |
+|  💰 | [Conscious Angular Testing](https://.decodedfrontend.io//conscious-angular-testing?coupon=BLACK_FRIDAY_2023) | Testing in Angular is much easier than you think | 20% off with code BLACK_FRIDAY_2023 |
 |  🤑 | [CSS for JS devs](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 50% off through Cyber Monday |
 |  💰 | [Total TypeScript](https://www.totaltypescript.com/) | Become the TypeScript Wizard at Your Company | 20% off through Cyber Monday |
 
@@ -576,12 +576,12 @@ Total deals: 339
 [⬆️ Go to Top](#table-of-contents)
 
 
-### 🔒 Information Security Courses
+### 🔒 Information Security 
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [AppSecEngineer](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture.  | 25% OFF all annual plans with code **PUMPKINPIE25** |
-| 💰 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/) | Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling courses | 15% off all courses |
+| 💰 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/) | Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling  | 15% off all  |
 |  🤑 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 11/25/2023 8:00 AM PST |
 
 
@@ -595,6 +595,7 @@ Total deals: 339
 |  💰 | [The RemindMe Course](https://www.tryd.com/remindmecourse) | RemindMe is a simple productivity system that will help you organize your to-dos and ensure enough balance for work and play. | 20% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1/BLACKFRIDAY) | This guide will help you to conduct better 1:1s, it includes a Notion template with simple yet effective 1:1 management setup. | 50% OFF with code **BLACKFRIDAY** |
 | 🤑 | [Knowledge Worker Kit](https://developassion.gumroad.com/l/knowledge-worker-kit?layout=profile) | The Knowledge Worker Kit is the ideal resource and community for Knowledge Workers who want to be on top of their game and Lifelong Learners  | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
+| 🤑 | [How to Get Your First Client]([https://developassion.gumroad.com/l/knowledge-worker-kit?layout=profile](https://getyourfirstclient.freelancerpath.com/)) | A complete step by step guide to get your first client as a freelancer from scratch.  | 50% off with coupon code **BLACK** |
 
 [⬆️ Go to Top](#table-of-contents)
 
