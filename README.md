@@ -234,6 +234,7 @@ Total deals: 280
 | 🤑 | [CleanClip](https://cleanclip.cc/?ref=awesomebf) | The cleanest Clipboard Manager on macOS, ever! Say goodbye to clipboard content overwrite. Master your clipboard with precision using the paste stack function. | 50% OFF with code **BF2023** |
 | 🤑 | [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) | Advanced Link Handler for Browsers, e-Mails and Files | 50% OFF on the Mac App Store |
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new users |
+| 🤑 | [Silenz](https://apps.apple.com/us/app/silenz/id1126098076?mt=12&at=1010lLeR&ct=Awesome-Black-Friday-Cyber-Monday) | Mix your music and the sounds of the outside world in a smart way. Stay focused. Hear with your headphones on. Reduce distractions. | 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
