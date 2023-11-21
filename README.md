@@ -319,8 +319,6 @@ Total deals: 319
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🤑 | [HR Kit](https://leoai.gumroad.com/l/human-resource-kit) | Comprehensive HR solutions for small and medium business | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
-| 🤑 | [Recruitment Flow Master](https://leoai.gumroad.com/l/recruit-flow) | Recruitment Flow Master is designed with startups and SMBs in mind. Whether you're a small team or a growing organization, this template is your secret weapon to compete for top talent efficiently and effectively. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 | 🤑 | [BoloForms Signature](https://boloforms.com/signature) | Take digital signatures in pdf & forms using dashboard or using our API, a better and cheaper alternative to Docusign | 20% OFF with code **`20BOLOBFCM`** |
 | 🤑 | [InclusionKit](https://www.inclusionkit.com) | Make your native iOS and Android apps accessible! Accessibility auditing/testing subscription that saves your developers' time. | 50% OFF monthly subscription (forever) with code **BLACKFRIDAY50** |
 | 🤑 | [DronaHQ](https://www.dronahq.com/) | DronaHQ, a low-code developer toolset, accelerates custom app development by 10X. | 30% OFF on annual plans with 5 Free co-building sessions [Get your code here](https://www.dronahq.com/black-friday-offer/) |
@@ -337,7 +335,8 @@ Total deals: 319
 | 💰 | [Cloakist](https://www.cloak.ist) | Rehost any webpage on your own domain, remove branding and add your own, keep visitors on your website. Works with 30+ platforms, incluring: Calendly, Linktree, Airtable, Typeform, ClickUp, Canva, Jotform, Adobe Express, Google Docs, Coda, Cal.com, Microsoft Sway, and more.  | 40% OFF with code **BFCM2023** |
 | 💰 | [SaaS Interface](https://saasinterface.com/) | The world’s largest gallery of SaaS app design inspiration. | 20% OFF all plans |
 | 💰 | [Moonship](https://moonship.app) | Automated deployments on your AWS - in minutes! Experience Heroku-like developer experience on your own AWS account. Deploy to a production-ready infrastructure with minimal effort with Moonship.  | 50% OFF with code **BLACK2023** |
-
+| 🤑 | [HR Kit](https://leoai.gumroad.com/l/human-resource-kit) | Comprehensive HR solutions for small and medium business | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
+| 🤑 | [Recruitment Flow Master](https://leoai.gumroad.com/l/recruit-flow) | Recruitment Flow Master is designed with startups and SMBs in mind. Whether you're a small team or a growing organization, this template is your secret weapon to compete for top talent efficiently and effectively. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
@@ -391,11 +390,10 @@ Total deals: 319
 | 💰 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | 42% off of a yearly plan (promo code **`BLACKFRIDAY2023`**) |
 | 💰 | [NFT Art Generator](https://nft-generator.art) | No-Code tools to generate and deploy your NFT collection | 30% off (promo code **`BLACKFRIDAY2023`**) |
 |  💰 | [Domains Book](https://domainsbook.app/) | Losing a domain can easily be avoided. Keep an eye on your domains expiration dates. | 35% discount for the first year with coupon: **`BLACKFRIDAY_2023`** until 31th of December  |
-| 🤑 | [Domain Tracker Suite](https://leoai.gumroad.com/l/domain-tracker-suite) | Your All-in-One Domain Management Solution. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
-| 🤑 | [Meeting Room Manage System](https://leoai.gumroad.com/l/umwds) | Meeting Room manage System makes scheduling meeting rooms effortless. Our all-in-one solution provides a centralized place to book, manage and monitor your meeting rooms and resources. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 | 💰 | [UpVPN: Serverless VPN](https://upvpn.app/) | Modern VPN for unlimited devices and unlimited data. Available for macOS, Linux, Windows, Android, iOS, and Raspberry Pi OS. With prepaid, yearly, or lifetime plan | 20% OFF, promo code for checkout **`UPVPN20BF2023`**, valid until 30th November  |
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
-
+| 🤑 | [Domain Tracker Suite](https://leoai.gumroad.com/l/domain-tracker-suite) | Your All-in-One Domain Management Solution. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
+| 🤑 | [Meeting Room Manage System](https://leoai.gumroad.com/l/umwds) | Meeting Room manage System makes scheduling meeting rooms effortless. Our all-in-one solution provides a centralized place to book, manage and monitor your meeting rooms and resources. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 
 
 [⬆️ Go to Top](#table-of-contents)
