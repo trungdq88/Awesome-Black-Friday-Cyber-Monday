@@ -89,6 +89,7 @@ Total deals: 339
 | 💰 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript | 30% OFF (automatically applied) until 30th November |
 | 🤑 | [Tower](https://www.git-tower.com) | Powerful Git client | 50% OFF |
 | 💰 | [LocalCan™](https://www.localcan.com/) | Ngrok alternative, allowing developers to build and test apps with .local domains and persistent Public URLs | 25% off with BLACKFRIDAY25 code! |
+| 💰 | [Polypane](https://polypane.app/) | The browser for developers that helps you build better sites in less time. Like Devtools with cheats enabled. Also for Windows and Linux | 30% off yearly plans on [polypane.app/black-friday/](https://polypane.app/black-friday/) |
 
 [⬆️ Go to Top](#table-of-contents)
 
