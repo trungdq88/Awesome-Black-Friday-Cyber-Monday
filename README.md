@@ -26,7 +26,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 339
+Total deals: 340
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (17)](#-developer-macos-apps)
@@ -44,7 +44,7 @@ Total deals: 339
 - [🌈 Marketing Tools (15)](#-marketing-tools)
 - [🔍 SEO Tools (5)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
-- [🌏 Social Media Tools (12)](#-social-media-tools)
+- [🌏 Social Media Tools (13)](#-social-media-tools)
 - [💸 Finance Tools (13)](#-finance-tools)
 - [🎛 Utility Tools (15)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
@@ -366,6 +366,7 @@ Total deals: 339
 | 💰 | [Superstatz](https://superstatz.co/) | Showcase your Statistics using Awesome animations and build public credibility | 50% OFF for first period on monthly or yearly plans. Code: **BLACKFRIDAY50**
 | 🤑 | [Xbase](https://getxbase.com/) | Upgrade your Twitter with our powerful Twitter Bookmark Manager, with instant search and effortless note-taking.| 50% OFF auto-discount|
 | 💰 | [Usebiolink](https://usebiolink.com) | Build beautiful bio-link websites in minutes | **BLCK2023** for 50% off for yearly subscriptions |
+| 🤑 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download thousands of comments from YouTube in minutes, saving yourself hours of manual work. | [Multiple discount codes avaliable up to 70% off](https://youtubecommentsdownloader.com/black-friday) |
 
 [⬆️ Go to Top](#table-of-contents)
 
