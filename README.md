@@ -26,14 +26,14 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 325
+Total deals: 319
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (16)](#-developer-macos-apps)
 	- [💻 Tools & Services (11)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (9)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (17)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (16)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (18)](#-other-ai-tools)
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
@@ -43,10 +43,10 @@ Total deals: 325
 	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
 - [🔍 SEO Tools (4)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
 - [🌏 Social Media Tools (10)](#-social-media-tools)
 - [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (14)](#-utility-tools)
+- [🎛 Utility Tools (12)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -64,7 +64,6 @@ Total deals: 325
 	- [📈 Marketing Courses (4)](#-marketing-courses)
 - [💪 Health and Fitness (7)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (15)](#-miscellaneous)
-
 
 ## 👨‍💻 Developer Tools
 
@@ -235,7 +234,6 @@ Total deals: 325
 | 🤑 | [OpenIn 4](https://apps.apple.com/us/app/openin-4-advanced-link-handler/id1643649331) | Advanced Link Handler for Browsers, e-Mails and Files | 50% OFF on the Mac App Store |
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new users |
 | 🤑 | [Silenz](https://apps.apple.com/us/app/silenz/id1126098076?mt=12&at=1010lLeR&ct=Awesome-Black-Friday-Cyber-Monday) | Mix your music and the sounds of the outside world in a smart way. Stay focused. Hear with your headphones on. Reduce distractions. | 50% OFF |
-| 💰 | [BetterTouchTool](https://folivora.ai) | Automate your Mac & customize all of your input devices. | 25% OFF with code **BTT_BLACK_FRIDAY_2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -337,8 +335,7 @@ Total deals: 325
 | 💰 | [Cloakist](https://www.cloak.ist) | Rehost any webpage on your own domain, remove branding and add your own, keep visitors on your website. Works with 30+ platforms, incluring: Calendly, Linktree, Airtable, Typeform, ClickUp, Canva, Jotform, Adobe Express, Google Docs, Coda, Cal.com, Microsoft Sway, and more.  | 40% OFF with code **BFCM2023** |
 | 💰 | [SaaS Interface](https://saasinterface.com/) | The world’s largest gallery of SaaS app design inspiration. | 20% OFF all plans |
 | 💰 | [Moonship](https://moonship.app) | Automated deployments on your AWS - in minutes! Experience Heroku-like developer experience on your own AWS account. Deploy to a production-ready infrastructure with minimal effort with Moonship.  | 50% OFF with code **BLACK2023** |
-| 🤑 | [HR Kit](https://leoai.gumroad.com/l/human-resource-kit) | Comprehensive HR solutions for small and medium business | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
-| 🤑 | [Recruitment Flow Master](https://leoai.gumroad.com/l/recruit-flow) | Recruitment Flow Master is designed with startups and SMBs in mind. Whether you're a small team or a growing organization, this template is your secret weapon to compete for top talent efficiently and effectively. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
@@ -394,8 +391,7 @@ Total deals: 325
 |  💰 | [Domains Book](https://domainsbook.app/) | Losing a domain can easily be avoided. Keep an eye on your domains expiration dates. | 35% discount for the first year with coupon: **`BLACKFRIDAY_2023`** until 31th of December  |
 | 💰 | [UpVPN: Serverless VPN](https://upvpn.app/) | Modern VPN for unlimited devices and unlimited data. Available for macOS, Linux, Windows, Android, iOS, and Raspberry Pi OS. With prepaid, yearly, or lifetime plan | 20% OFF, promo code for checkout **`UPVPN20BF2023`**, valid until 30th November  |
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
-| 🤑 | [Domain Tracker Suite](https://leoai.gumroad.com/l/domain-tracker-suite) | Your All-in-One Domain Management Solution. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
-| 🤑 | [Meeting Room Manage System](https://leoai.gumroad.com/l/umwds) | Meeting Room manage System makes scheduling meeting rooms effortless. Our all-in-one solution provides a centralized place to book, manage and monitor your meeting rooms and resources. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -421,9 +417,10 @@ Total deals: 325
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
 | 💰 | [Volca SaaS Boilerplate](https://volca.io/) | SaaS Boilerplate and Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. | 25% off with coupon code **BLACK** (valid from 11/16 - 11/30) |
 | 🤑 | [BoilerCode.app](https://boilercode.app) | NextJs Boilerplates From Idea to SaaS  in 24 Hours! | 50% off with coupon code **FRIDAY50** (valid until Cyber Monday) |
-| 🤑 | [NextAppFast.com](https://nextappfast.com) | Go from Idea to Running App in Minutes!🚀 Our production-ready starter kit gives you a solid foundation to build on, and No-Code App Builder with AI makes it easy to develop your app without writing any code. Just download your custom generated SaaS app's code and fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at checkout) |
+| 🤑 | [NextAppFast.com](https://nextappfast.com) | Go from Idea to Running App in Minutes!🚀 Our production-ready starter kit gives you a solid foundation to build on, and No-Code App Builder with AI makes it easy to develop your app without writing any code. Just download your custom generated SaaS app's code and
+fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at checkout) |
 | 🤑 | [Cruip](https://cruip.com) | Beautifully designed Tailwind CSS templates for your next project. | 50% OFF Unlimited Access and 20% OFF all templates |
-| 🤑 | [Classic Glide App Templates](https://sardamit.gumroad.com/l/glide-template-giveaway?layout=profile) | Classic Glide App Templates | Each template for a flat $10 |
+| 💰 | [Web3Templates](https://web3templates.com) | High Performant Astro & Next.js Website Templates | 30% off on all templates. Use code **BLACKFRIDAY** (valid up to 28th Nov) |
 
 [⬆️ Go to Top](#table-of-contents)
 
