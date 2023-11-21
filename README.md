@@ -26,44 +26,46 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 319
+Total deals: 280
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (16)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (12)](#-developer-macos-apps)
 	- [💻 Tools & Services (11)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (9)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (16)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (18)](#-other-ai-tools)
+	- [💬 AI Chat UI (7)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (15)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (16)](#-other-ai-tools)
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (27)](#️-productivity-desktop-apps)
-	- [📱 Productivity Mobile Apps (14)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
+	- [🖥️ Productivity Desktop Apps (24)](#️-productivity-desktop-apps)
+	- [📱 Productivity Mobile Apps (13)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (12)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
 - [🔍 SEO Tools (4)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (14)](#-startup-saastools)
 - [🌏 Social Media Tools (10)](#-social-media-tools)
-- [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (12)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (19)](#-boilerplates-starter-kit-templates)
+- [💸 Finance Tools (10)](#-finance-tools)
+- [🎛 Utility Tools (11)](#-utility-tools)
+- [💅 Boilerplates, Starter-Kit, Templates (16)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
-		- [Web Dev & Design (14)](#web-dev--design)
-		- [Apps Development (Mobile/Desktop) (4)](#apps-development-mobiledesktop)
+		- [Web Dev & Design (11)](#web-dev--design)
+		- [Apps Development (Mobile/Desktop) (3)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
 		- [Misc Programming Books (4)](#misc-programming-books)
-	- [📘 Startup & Career Books (8)](#-startup--career-books)
+	- [📘 Startup & Career Books (6)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (22)](#-programming-courses)
+	- [💻 Programming Courses (18)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
+ 	- [🔒 Information Security Tools (1)](#-information-security-tools)
 	- [🎢 Career Courses (4)](#-career-courses)
-	- [📈 Marketing Courses (4)](#-marketing-courses)
-- [💪 Health and Fitness (7)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (15)](#-miscellaneous)
+	- [📈 Marketing Courses (2)](#-marketing-courses)
+- [💪 Health and Fitness (6)](#-health-and-fitness)
+- [👨‍🎨 Miscellaneous (13)](#-miscellaneous)
+
 
 ## 👨‍💻 Developer Tools
 
@@ -335,6 +337,8 @@ Total deals: 319
 | 💰 | [Cloakist](https://www.cloak.ist) | Rehost any webpage on your own domain, remove branding and add your own, keep visitors on your website. Works with 30+ platforms, incluring: Calendly, Linktree, Airtable, Typeform, ClickUp, Canva, Jotform, Adobe Express, Google Docs, Coda, Cal.com, Microsoft Sway, and more.  | 40% OFF with code **BFCM2023** |
 | 💰 | [SaaS Interface](https://saasinterface.com/) | The world’s largest gallery of SaaS app design inspiration. | 20% OFF all plans |
 | 💰 | [Moonship](https://moonship.app) | Automated deployments on your AWS - in minutes! Experience Heroku-like developer experience on your own AWS account. Deploy to a production-ready infrastructure with minimal effort with Moonship.  | 50% OFF with code **BLACK2023** |
+| 💰 | [Cloudways](https://www.cloudways.com/en/promo-code.php) | The leading cloud-based hosting platform popular for its scalability, user-friendliness, and impeccable customer support.  | 40% OFF for 4 Months on all hosting plans + Upto 40 Free Migrations **BFCM4040** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -550,7 +554,6 @@ fast-forward to launch! ⏩ | 50% Off (no code required, coupon auto applied at 
 |  🤑 | [useEffect.dev](https://useeffect.dev/?ref=trungdq88) | React Hooks are ~~hard~~ awesome! Master the best invention since React itself, and take your React experience to the next level. | 68% off with code **FRIDAY23** |
 |  💰 | [Building Modern Web Apps with React and Next.js](https://learn.scastiel.dev/?ref=trungdq88) | A beginner-friendly online course to build your first full-stack application with React, leveraging the power of Next.js. | 43% off with code **FRIDAY23** |
 |  💰 | [Codepip](https://codepip.com/) | Coding games for learning CSS, JavaScript, SQL, and more. | 30% off with code **CYBER23** |
-|  💰 | [Python Essentials for Data Scientists](https://courses.dataschool.io/python-essentials-for-data-scientists) | Build a solid foundation in Python and launch your Data Science career! | 43% off from Black Friday through Cyber Monday |
 
 
 [⬆️ Go to Top](#table-of-contents)
