@@ -124,6 +124,8 @@ Total deals: 325
 | 🤑 | [AnySelect](http://anyselectai.com/) | The best and quickest way to use ChatGPT from anywhere on your Mac. | 70% OFF with this discount code **`AWESOMEBF2023`** |
 | 💰 | [ChatTab](https://chattab.app) | A ChatGPT Mac App Designed for Minimalists       | 30% OFF if you use **`Y2NTY3MW`** from 23th November until November 28th |
 | 💰 | [My AskAI](https://myaskai.com) | Create an AI assistant, trained on your Help Docs, quicker than it takes to make a coffee. Perfect for automating customer support. | 33% OFF (lifetime) with a promo code **BLACKFRIDAY23**! |
+| 🤑 | [olly.bot](https://olly.bot) | Olly is your virtual assistant in iMessage. It can search the web, generate images, set reminders, answer questions from PDFs and more! | 50% off lifetime with code **BLACKFRIDAY23** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -173,6 +175,8 @@ Total deals: 325
 | 🤑 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using **`BLACKFRIDAY23`** |
 | 🤑 | [Storyleo](https://storyleo.app) | Create bedtime stories with audio for children using AI. | Enjoy 70% OFF on Generating 40 stories |
 | 🤑 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code **`HOLIDAY2023`** |
+| 💰 | [unstock.ai](https://unstock.ai) | Generate *vector* icons, logos and illustrations for your project in seconds. | 30% OFF with code **BLACKFRIDAY23** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
