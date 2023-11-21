@@ -276,6 +276,7 @@ Total deals: 280
 | 💰 | [InboxPurge](https://www.inboxpurge.com/?utm_campaign=bf&utm_source=awesomebf) | The fastest way to unsubscribe and delete unwanted emails  | 30% OFF the PRO plan. Use discount code **BLACKFRIDAY2023** |
 | 🤑 | [Voices.ink](https://voices.ink) | Transcribe your spoken ideas directly into Notion. Your voice is now your most powerful productivity tool.  | 50% off with coupon code **BLACKFRIDAY2023**|
 | 💰 | [Readine](https://readine.app/?utm_source=ghawesomebf) | Universal reader (RSS and more)  | 25% OFF, "BF 2023" pack |
+| 🤑 | [RogerRoger](https://rogerroger.io/?utm_source=awesomebf) |RogerRoger is the ultimate crossover between a shared inbox and project management. It wraps CRM, shared inbox, and task management in one easy-to-use tool. Finally, all your customer details, emails, tasks, and actions stay together for maximum context. | 50% Off with **BlackFriday2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
