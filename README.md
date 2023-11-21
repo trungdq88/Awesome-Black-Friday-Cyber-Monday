@@ -44,7 +44,7 @@ Total deals: 280
 - [🌈 Marketing Tools (15)](#-marketing-tools)
 - [🔍 SEO Tools (4)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (14)](#-startup-saastools)
-- [🌏 Social Media Tools (9)](#-social-media-tools)
+- [🌏 Social Media Tools (10)](#-social-media-tools)
 - [💸 Finance Tools (10)](#-finance-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (16)](#-boilerplates-starter-kit-templates)
@@ -348,6 +348,7 @@ Total deals: 280
 |  🤑 | [Countdow Timer App](https://www.countdown-timer.app) | Publish auto-updating countdown timers directly on your Facebook page. | BLACKFRIDAY2023 for 30% off for PRO plan |
 | 💰 | [WritePanda](https://writepanda.ai/) | Repurpurpose your youtube/podcast content by automatically creating blogs, newsletters, tweets and captioned short clips for instagram, youtube and tiktok | 40% OFF with coupon code **UWODA2NG**.
 | 💰 | [Typefully](https://typefully.com/) | Write and publish on 𝕏, LinkedIn and Mastodon, with AI; get personalized post ideas; share drafts and collaborate; and much more | 40% OFF on yearly plans, auto-applies
+| 💰 | [Superstatz](https://superstatz.co/) | Showcase your Statistics using Awesome animations and build public credibility | 50% OFF for first period on monthly or yearly plans. Code: **BLACKFRIDAY50**
 
 [⬆️ Go to Top](#table-of-contents)
 
