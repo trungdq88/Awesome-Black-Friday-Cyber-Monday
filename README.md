@@ -133,7 +133,7 @@ Total deals: 340
 | 💰 | [ChatTab](https://chattab.app) | A ChatGPT Mac App Designed for Minimalists       | 30% OFF if you use **`Y2NTY3MW`** from 23th November until November 28th |
 | 💰 | [My AskAI](https://myaskai.com) | Create an AI assistant, trained on your Help Docs, quicker than it takes to make a coffee. Perfect for automating customer support. | 33% OFF (lifetime) with a promo code **BLACKFRIDAY23**! |
 | 🤑 | [olly.bot](https://olly.bot) | Olly is your virtual assistant in iMessage. It can search the web, generate images, set reminders, answer questions from PDFs and more! | 50% off lifetime with code **BLACKFRIDAY23** |
-
+| 💰 | [Plus AI](https://noteifyapp.com/plus-ai/) | Plus AI: Your AI text assistant. Write efficiently with Plus! This AI assistant will free you from routine,speeding up the creation of emails, presentations, and other texts.| 40% OFF (lifetime) with a promo code **MACPLUSBLACKFRIDAY2023**! or [using the link](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -250,6 +250,15 @@ Total deals: 340
 | 🤑 | [Silenz](https://apps.apple.com/us/app/silenz/id1126098076?mt=12&at=1010lLeR&ct=Awesome-Black-Friday-Cyber-Monday) | Mix your music and the sounds of the outside world in a smart way. Stay focused. Hear with your headphones on. Reduce distractions. | 50% OFF |
 | 💰 | [BetterTouchTool](https://folivora.ai) | Automate your Mac & customize all of your input devices. | 25% OFF with code **BTT_BLACK_FRIDAY_2023** |
 | 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 40% off (automatically applied) until Dec 1st |
+| 💰 | [DockView](https://noteifyapp.com/dockview/) | Enhance your Mac experience with live window previews in the Dock for easy application management.| 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)|
+| 💰 | [ActiveDock](https://noteifyapp.com/activedock/) | Customizable Dock for Mac.| 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)|
+| 💰 | [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) | Keyboard-centric application and window switcher for your Mac. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)|
+| 💰 | [Tab Finder](https://noteifyapp.com/tab-finder/) | A list of all your open tabs across all browser windows in one place. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)|
+| 💰 | [Quick Exposé](https://noteifyapp.com/quick-expose/) | Enhancing macOS Navigation Using Mission Control. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) |
+| 💰 | [MultiDock](https://noteifyapp.com/multidock/) | Organize your favorite folders, files and applications with Dock's. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)|
+| 💰 | [Stage View](https://noteifyapp.com/stage-view/) | Stage View is a utility app that adds a preview of the windows in the group in the macOS Ventura Stage Manager app. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) |
+
+
 
 [⬆️ Go to Top](#table-of-contents)
 
