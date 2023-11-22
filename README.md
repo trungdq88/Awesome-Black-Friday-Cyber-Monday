@@ -390,6 +390,7 @@ Total deals: 340
 | 🤑 | [Recruitment Flow Master](https://leoai.gumroad.com/l/recruit-flow) | Recruitment Flow Master is designed with startups and SMBs in mind. Whether you're a small team or a growing organization, this template is your secret weapon to compete for top talent efficiently and effectively. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 | 💰 | [Project Profit](https://projectprof.it?utm_campaign=bf2023&utm_source=github) | Project Profit is a user-friendly tool for tracking project expenses and revenues. Monitor all your project finances in one place with a simple interface. | 20% OFF first payment with `BFGH20` valid until December 3th |
 | 💰 | [Engyne](https://engyne.ai) | Grow your SaaS startup with content marketing and SEO on autopilot. | 50% OFF for 1 month with code **`LAUNCH50`** |
+| 🤑 | [Resmume.com](https://resmume.com/) | A resume builder helps you shape your resume into the perfect resume in 10 minutes with the power of AI and ready to use professional resume templates. | $5 75% OFF Lifetime deal |
 
 
 [⬆️ Go to Top](#table-of-contents)
