@@ -42,7 +42,7 @@ Total deals: 340
 	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
-- [🔍 SEO Tools (5)](#-seo-tools)
+- [🔍 SEO Tools (6)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
 - [🌏 Social Media Tools (13)](#-social-media-tools)
 - [💸 Finance Tools (13)](#-finance-tools)
@@ -330,6 +330,7 @@ Total deals: 340
 |  💰 | [Qualitycs](https://qualitycs.dev/) | Audit your website's performance and user experience automatically. Qualitycs runs lighthouse on all pages of your website regularly and create aggregated reports to focus on the right issues. | 25% OFF automatically |
 | 💰 | [Checkbot](https://www.checkbot.io) | Tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. Test unlimited sites as often as you want including localhost. | 50% OFF first year of yearly plan with code **NOV23** |
 |  💰 | [BacklinkManager](https://backlinkmanager.io/) | Link-building platform for SaaS companies & digital agencies. Keep track of your links, get notifications on status changes, manage partnerships, reports, dashboards and more! | 30% OFF with code **`bf2023`** |
+|  🤑 | [Foudroyer](https://www.foudroyer.com) | Index your pages in less than 10 hours! Then, follow your keywords, analyze traffic in all search engines (Bing, Google, Yandex) | 50% OFF for the Pro subscription with code **`BLACKFRIDAY`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
