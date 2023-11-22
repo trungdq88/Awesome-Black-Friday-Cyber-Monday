@@ -226,6 +226,7 @@ Total deals: 340
 |  🤑 | [Qlone 3D Scanner](https://www.qlone.pro) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% off on Premium Upgrade |
 |  💰 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) | Affinity Designer, Affinity Photo, Affinity Publisher or all products. | 40% OFF (automatically applied) |
 | 💰 | [Siter](https://siter.io/) | No-Code Website Builder. Craft websites in minutes, no coding needed, and tailor every detail to your vision. The ideal tool for creating portfolios, landing pages, and presentation websites. | 30% discount with coupon: **`000000`** until Dec 1 |
+|  💰 | [Postcards](https://designmodo.com/postcards/) | No-code email template builder. | 40% OFF with code **BLACK** |
 
 
 
