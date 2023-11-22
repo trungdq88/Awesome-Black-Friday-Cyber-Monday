@@ -118,6 +118,7 @@ Total deals: 340
 | 🤑 | [GitKraken](https://www.gitkraken.com/) | The world's most powerful suite of Git tools for developers and their teams, now at 50% off your first Pro license - just $4 a month! | No code necessary, deal runs until 12/4 |
 | 💵 | [Statussync](https://statussync.dev) | Sync with Third-party Services. Keep in touch with third-party services and get notified when they go down. | 15% OFF when subscribe to Growth Plan with code **BLACKFRIDAY2023** |
 | 💰 | [WhaleDeck](https://whaledeck.io/?ref=awesomebf2023) | It's the only Docker manager you will ever need. Comprehensively manage, monitor, and debug your Docker servers. Available for iOS, iPadOS, and macOS. | 20% off (lifetime) |
+| 🤑 | [Write Loops](https://writeloops.com/pricing) | Get code reviews on your snippets with just links. | 50% forever discount with coupon: **`BLACKFRIDAY2`** until Dec 3rd |
 
 
 
