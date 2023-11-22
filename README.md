@@ -38,7 +38,7 @@ Total deals: 339
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (26)](#️-productivity-desktop-apps)
+	- [🖥️ Productivity Desktop Apps (27)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
