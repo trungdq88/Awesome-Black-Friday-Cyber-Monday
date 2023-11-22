@@ -713,7 +713,7 @@ Total deals: 420
 | 🤑 | [Bolt - Workout & Gym Planner](https://apps.apple.com/us/app/bolt-workout-gym-planner/id1439649927) | ** Apple's App of the Day**, Bolt simplifies workouts and tracking progress. It's the ultimate iOS fitness tracker for strength training achievement. | 50% off from Bolt Settings screen |
 | 🤑 | [Glucomate: Glucose Tracker](https://apps.apple.com/app/apple-store/id1574243765?pt=1448096&ct=blackfri23&mt=8) | A clean and simple iOS app for recording and reviewing blood glucose data recorded in HealthKit. | **50% off** first year subscription - no code required |
 | 💰 | [DogNote - Pet journal](https://dognote.app) | App for journaling pet-related activities with your family. | **40% off** Annual Plan |
-
+| 💰 | [Libra Meditation](https://www.getlibra.ai/?utm_source=github&utm_campaign=awesome-bfcm-deals) | Libra helps you deal with your daily thoughts and struggles through personalized AI generated meditations | 30% off on Monthly and Annual Plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
