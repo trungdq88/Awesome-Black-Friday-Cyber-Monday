@@ -175,6 +175,7 @@ Total deals: 340
 | 🤑 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_tony) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 31st Nov) |
 | 💰 | [Page2API](https://www.page2api.com/) | A delightful and versatile API that empowers you to scrape the web like a PRO. | 20% OFF for your first month with code **BF2023** |
 | 💰 | [Essay Builder AI](https://essay-builder.ai) | Best Free Essay Maker, Writer & Generator for Students powered by AI | 88% OFF (lifetime) and up to 68% OFF the other subscriptions! |
+| 💰 | [Letty](https://www.useletty.com/?utm_campaign=bf&utm_source=awesomebf) | Craft perfect emails faster with Letty - Your Personal AI Email Assistant | Enjoy 30% OFF the Premium plan. Use discount code **BLACKFRIDAY2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
