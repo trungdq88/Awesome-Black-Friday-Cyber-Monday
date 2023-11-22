@@ -475,6 +475,8 @@ Total deals: 340
 | 🤑 | [Linktopus](https://linktopus.co) | Your own page. All your links and information in one place. Ready in minutes. | Lifetime access for $30 |
 | 💰 | [ManGo - Anime & Manga Tracker](https://apps.apple.com/app/apple-store/id1604385869) | Track Anime & Manga with interactive widgets, live activities, an Apple Watch app, and more. | ManGo+ Lifetime $8.99 (25% off!) |
 | 🤑 | [Pi-hole Remote](https://apps.apple.com/app/apple-store/id1515445551) | The best Pi-hole companion on iOS, macOS, and watchOS. | One-time app purchase 50% off |
+| 🤑 | [Cork](https://corkmac.app) | The Ultimate Homebrew Companion - Cork is the most fully-featured and intuitive GUI for Homebrew, native to the Mac. | 50% OFF the LIFETIME LICENSE with code **`BFINDIEOFF`** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
