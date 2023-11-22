@@ -163,6 +163,7 @@ Total deals: 340
 | 🤑 | [Chatwith](https://chatwith.tools/) | Custom chatbot for your website; trained on your files, urls, and with 5000+ integrations that allow you automate lead generation, customer support and more. | Enjoy 50% off (perpetually) with code **`BLACKFRIDAY`** (expires on Cyber Monday) |
 | 💰 | [superwhisper](https://superwhisper.com) | AI powered voice to text for macOS - offline, fast and secure. | 40% OFF with promo code **BLACKFRIDAY40**! |
 | 🤑 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_tony) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 31st Nov) |
+| 💰 | [Page2API](https://www.page2api.com/) | A delightful and versatile API that empowers you to scrape the web like a PRO. | 20% OFF for your first month with code **BF2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
