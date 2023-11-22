@@ -242,7 +242,6 @@ Total deals: 339
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new users |
 | 🤑 | [Silenz](https://apps.apple.com/us/app/silenz/id1126098076?mt=12&at=1010lLeR&ct=Awesome-Black-Friday-Cyber-Monday) | Mix your music and the sounds of the outside world in a smart way. Stay focused. Hear with your headphones on. Reduce distractions. | 50% OFF |
 | 💰 | [BetterTouchTool](https://folivora.ai) | Automate your Mac & customize all of your input devices. | 25% OFF with code **BTT_BLACK_FRIDAY_2023** |
-| 💰 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side while working, reading, browsing, studying. Always with you. With dozens of features. | 40% off (automatically applied) until Dec 1st |
 | 💰 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 40% off (automatically applied) until Dec 1st |
 
 [⬆️ Go to Top](#table-of-contents)
