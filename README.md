@@ -122,7 +122,6 @@ Total deals: 420
 | 💰 | [Static.app](https://static.app/) | Static website hosting. Upload your HTML website archive in a few simple steps, and we'll take care of displaying it online. Your website will be up and running in a matter of moments. | 30% discount with coupon: **`BLACK`** until Dec 1 |
 | 💰 | [Startup](https://designmodo.com/startup/) | Bootstrap 5 builder. | 40% discount with coupon: **`BLACK`** until Dec 1 |
 | 💰 | [Slides](https://designmodo.com/slides/) | Static website generator, create websites easily. | 40% discount with coupon: **`BLACK`** until Dec 1 |
-| 🤑 | [Microanalytics](https://microanalytics.io/) | Microanalytics is a simple, clean, user-friendly website analytics tool; a perfect Google Analytics alternative. Fully compliant with GDPR, PECR and CCPA. | 50% OFF with coupon code **BLACK**
 
 
 
@@ -412,6 +411,8 @@ Total deals: 420
 | 💰 | [Engyne](https://engyne.ai) | Grow your SaaS startup with content marketing and SEO on autopilot. | 50% OFF for 1 month with code **`LAUNCH50`** |
 | 🤑 | [Resmume.com](https://resmume.com/) | A resume builder helps you shape your resume into the perfect resume in 10 minutes with the power of AI and ready to use professional resume templates. | $5 75% OFF Lifetime deal |
 | 🤑 | [Desku.io](https://desku.io) | Empower Your Support with AI! Desku, the top alternative to Intercom and Zendesk, offers an AI-powered inbox for unparalleled customer support efficiency. Our platform blends the best features at a more affordable price, ensuring a seamless, effective support experience. Elevate your customer interactions with Desku's intuitive tools and advanced analytics. | Upgrade Now and Enjoy 35% OFF with Code SAVE2023 |
+| 🤑 | [Microanalytics](https://microanalytics.io/) | Microanalytics is a simple, clean, user-friendly website analytics tool; a perfect Google Analytics alternative. Fully compliant with GDPR, PECR and CCPA. | 50% OFF with coupon code **BLACK**
+
 
 [⬆️ Go to Top](#table-of-contents)
 
