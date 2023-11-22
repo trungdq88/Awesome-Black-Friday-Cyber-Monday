@@ -117,6 +117,7 @@ Total deals: 340
 | 🤑  | [GrayGrids](https://graygrids.com/?ref=Github_Vinish1) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` |
 | 🤑 | [GitKraken](https://www.gitkraken.com/) | The world's most powerful suite of Git tools for developers and their teams, now at 50% off your first Pro license - just $4 a month! | No code necessary, deal runs until 12/4 |
 | 💵 | [Statussync](https://statussync.dev) | Sync with Third-party Services. Keep in touch with third-party services and get notified when they go down. | 15% OFF when subscribe to Growth Plan with code **BLACKFRIDAY2023** |
+| 💰 | [WhaleDeck](https://whaledeck.io/?ref=awesomebf2023) | It's the only Docker manager you will ever need. Comprehensively manage, monitor, and debug your Docker servers. Available for iOS, iPadOS, and macOS. | 20% off (lifetime) |
 
 
 
@@ -365,7 +366,7 @@ Total deals: 340
 |  💰 | [BacklinkManager](https://backlinkmanager.io/) | Link-building platform for SaaS companies & digital agencies. Keep track of your links, get notifications on status changes, manage partnerships, reports, dashboards and more! | 30% OFF with code **`bf2023`** |
 |  🤑 | [Foudroyer](https://www.foudroyer.com) | Index your pages in less than 10 hours! Then, follow your keywords, analyze traffic in all search engines (Bing, Google, Yandex) | 50% OFF for the Pro subscription with code **`BLACKFRIDAY`** |
 |  💰 | [SEO Utils](http://seoutils.app/) | A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23** |
-
+| 💰 | [Umami Manager](https://apple.co/40MP50F) | Find out how your websites are doing on the go. Monitor your Umami analytics and add fancy widgets to your iPhone. Supports Umami self-hosted and Umami Cloud.! | 30% off (lifetime) |
 
 
 [⬆️ Go to Top](#table-of-contents)
