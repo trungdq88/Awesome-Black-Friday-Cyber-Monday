@@ -228,6 +228,8 @@ Total deals: 420
 |  💰 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) | Affinity Designer, Affinity Photo, Affinity Publisher or all products. | 40% OFF (automatically applied) |
 | 💰 | [Siter](https://siter.io/) | No-Code Website Builder. Craft websites in minutes, no coding needed, and tailor every detail to your vision. The ideal tool for creating portfolios, landing pages, and presentation websites. | 30% discount with coupon: **`000000`** until Dec 1 |
 |  💰 | [Postcards](https://designmodo.com/postcards/) | No-code email template builder. | 40% OFF with code **BLACK** |
+|  💰 | [Pixen](https://pixenapp.com) | Pixen is a pixel art and animation editor for Mac and iOS. | 20% OFF in the App Store |
+|  💰 | [RetinaCapture](https://furnacecreek.org/retinacapture) | Simultaneously take 1x and 2x screenshots on Retina Macs | Free in the App Store until November 28 |
 
 
 
@@ -288,6 +290,9 @@ Total deals: 420
 | 💰 | [timeMaster](https://www.timemaster.ai/) | Enhance Focus & Productivity with Automated, Privacy-First Time Tracking. | 40% OFF with code **BF40** |
 | 💰 | [Octoparse](https://www.octoparse.com/black-friday-sale-2023?utm_source=github&utm_medium=github&utm_campaign=23bf) |  No-code web scraping platform. Turn webpages into structured data within clicks.| 30% OFF No Code Needed until Dec 1 **BTT_BLACK_FRIDAY_2023** |
 | 🤑 | [LinkYourFile](https://www.linkyourfile.com/) | Open any file from Notion, Monday.com or Asana without downloading it. | 50% off lifetime with code **BLACKFRIDAY_2023** |
+| 💰 | [Archimedes](https://archimedesapp.com) | Archimedes is a Markdown and LaTeX editor for Mac and iOS. | 20% OFF in the App Store |
+| 💰 | [Unite](https://furnacecreek.org/unite) | GroupMe client for Mac. | 20% OFF in the Mac App Store |
+| 💰 | [Simplefax](https://furnacecreek.org/simplefax) | Fax without subscriptions on Mac. | 20% OFF in the Mac App Store |
 
 
 
