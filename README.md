@@ -562,7 +562,7 @@ Total deals: 340
 |  🤑 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt) | This book will guide you through the writing process of a Technical Design Doc. It also comes with a real-life example of a Technical Design Document. | 50% OFF with code **BLACKFRIDAY2023** |
 |  🤑 | [Zero to Sold](https://bootstrappedfounder.gumroad.com/l/zerotosold/BFF) by Arvid Kahl | An actionable no-fluff guide to bootstrapping a business. Your manual from "I have no idea" to "I just sold my SaaS business." | 50% OFF with code **BFF** |
 |  🤑 | [The Embedded Entrepreneur](https://bootstrappedfounder.gumroad.com/l/embedded-entrepreneur/BFF) by Arvid Kahl | Your practical guide to finding the right audience and building the product they need. Validate your ideas, and build a legacy. | 50% OFF with code **BFF** |
-
+|  🤑 | [Engineering Leader's Playbook](https://kulkarniankita.gumroad.com/l/growthfor90days) | A comprehensive guide for aspiring or newer Engineering Leaders, offering insights & practical exercises, focusing on the crucial first 90 days of leadership, accompanied by a Notion workbook. | 50% OFF with code **`BLACKFRIDAY`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -611,6 +611,7 @@ Total deals: 340
 |  💰 | [Leetcode](https://leetcode.com) | Prepare for coding interviews. | 30% off with the code THANKS2023 |
 |  🤑 | [JavaScript Fundamentals in Visual Studio Code](https://store.coderslang.com/l/beginner-js/BF23) | Gain mastery over JavaScript variables, types, functions, loops, objects, arrays, exceptions and more, as we lay the groundwork for your journey into dynamic web development. No fluff, just actionable knowledge to propel your skills forward. | 70% DISCOUNT with the code **BF23** |
 |  🤑 | [4x Flutter Course Bundle](https://codewithandrea.com/courses/all-courses-bundle/) | Advance your skills and learn how to build scalable apps with Dart, Flutter, and Firebase | 50% off until November 30th |
+|  🤑 | [Developer to Leader](https://www.developertoleader.com/?utm_source=tonydinhbf) | Learn how to lead a team successfully even if you've never managed or led anyone before. | 50% off with code **BLACKFRIDAY** |
 
 
 
