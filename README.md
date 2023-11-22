@@ -364,6 +364,7 @@ Total deals: 420
 | 🤑 | [Reetail](https://reetail.store) | Create an e-commerce store from your Stripe products | 50% OFF for 3 months with code **BLACKFRIDAY50**
 | 💰 | [CustomerPing.ai](https://customerping.ai/) | Get new customers while you sleep: This AI listens to online audiences and alerts you when *they* discuss the problems that *your business* could solve! | 42% OFF with code **BLACKFRIDAY** |
 | 💰 | [Rafflys](https://app-sorteos.com/en/black-friday?utm_source=github&utm_campaign=github-trungdq88) | The app #1 to run social media giveaways and online promotions that integrate with Zapier, Shopify, WordPress, and any website. | 60% OFF on all Annual Plans, **renew at the same price, forever**. |
+| 🤑 | [Unspam](https://unspam.email/) | Email spam checker and email deliverability tester | 50% OFF with coupon code **BLACK**
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -410,6 +411,8 @@ Total deals: 420
 | 💰 | [Engyne](https://engyne.ai) | Grow your SaaS startup with content marketing and SEO on autopilot. | 50% OFF for 1 month with code **`LAUNCH50`** |
 | 🤑 | [Resmume.com](https://resmume.com/) | A resume builder helps you shape your resume into the perfect resume in 10 minutes with the power of AI and ready to use professional resume templates. | $5 75% OFF Lifetime deal |
 | 🤑 | [Desku.io](https://desku.io) | Empower Your Support with AI! Desku, the top alternative to Intercom and Zendesk, offers an AI-powered inbox for unparalleled customer support efficiency. Our platform blends the best features at a more affordable price, ensuring a seamless, effective support experience. Elevate your customer interactions with Desku's intuitive tools and advanced analytics. | Upgrade Now and Enjoy 35% OFF with Code SAVE2023 |
+| 🤑 | [Microanalytics](https://microanalytics.io/) | Microanalytics is a simple, clean, user-friendly website analytics tool; a perfect Google Analytics alternative. Fully compliant with GDPR, PECR and CCPA. | 50% OFF with coupon code **BLACK**
+
 
 [⬆️ Go to Top](#table-of-contents)
 
