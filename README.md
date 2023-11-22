@@ -437,6 +437,8 @@ Total deals: 340
 | 🤑 | [Domain Tracker Suite](https://leoai.gumroad.com/l/domain-tracker-suite) | Your All-in-One Domain Management Solution. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 | 🤑 | [Meeting Room Manage System](https://leoai.gumroad.com/l/umwds) | Meeting Room manage System makes scheduling meeting rooms effortless. Our all-in-one solution provides a centralized place to book, manage and monitor your meeting rooms and resources. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 | 🤑 | [Linktopus](https://linktopus.co) | Your own page. All your links and information in one place. Ready in minutes. | Lifetime access for $30 |
+| 💰 | [ManGo - Anime & Manga Tracker](https://apps.apple.com/app/apple-store/id1604385869) | Track Anime & Manga with interactive widgets, live activities, an Apple Watch app, and more. | ManGo+ Lifetime $8.99 (25% off!) |
+| 🤑 | [Pi-hole Remote](https://apps.apple.com/app/apple-store/id1515445551) | The best Pi-hole companion on iOS, macOS, and watchOS. | One-time app purchase 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
