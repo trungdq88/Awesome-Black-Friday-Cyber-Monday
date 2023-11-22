@@ -115,6 +115,8 @@ Total deals: 340
 | 🤑 | [Webhookify](https://webhookify.io?ref=awesomebf2023) | Simplify webhook integration with our desktop app. Easily generate, manage, and test custom webhook URLs for seamless third-party service connections. | 50% discount with coupon: **`BLACKFRIDAY2023`** until Dec 1 |
 |  💰 | [FormBold](https://formbold.com/?ref=Github_Vinish1) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
 | 🤑  | [GrayGrids](https://graygrids.com/?ref=Github_Vinish1) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` |
+| 🤑 | [GitKraken](https://www.gitkraken.com/) | The world's most powerful suite of Git tools for developers and their teams, now at 50% off your first Pro license - just $4 a month! | No code necessary, deal runs until 12/4 |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
