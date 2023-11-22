@@ -344,7 +344,7 @@ Total deals: 340
 | 🤑 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intelligence and intuitive tools for App Store Optimization and competitior intelligence. | 50% OFF with code **BF2350S**
 | 🤑 | [Portfolio Maker Pro](https://manishh.gumroad.com/l/portfolio-maker-pro) | Create Impressive Portfolios Effortlessly. (No-Code Tool) | 50% OFF |
 | 🤑 | [Reetail](https://reetail.store) | Create an e-commerce store from your Stripe products | 50% OFF for 3 months with code **BLACKFRIDAY50**
-
+| 💰 | [CustomerPing.ai](https://customerping.ai/) | Get new customers while you sleep: This AI listens to online audiences and alerts you when *they* discuss the problems that *your business* could solve! | 42% OFF with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
