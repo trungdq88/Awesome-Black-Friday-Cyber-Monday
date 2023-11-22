@@ -348,6 +348,8 @@ Total deals: 339
 | 💰 | [Moonship](https://moonship.app) | Automated deployments on your AWS - in minutes! Experience Heroku-like developer experience on your own AWS account. Deploy to a production-ready infrastructure with minimal effort with Moonship.  | 50% OFF with code **BLACK2023** |
 | 🤑 | [HR Kit](https://leoai.gumroad.com/l/human-resource-kit) | Comprehensive HR solutions for small and medium business | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
 | 🤑 | [Recruitment Flow Master](https://leoai.gumroad.com/l/recruit-flow) | Recruitment Flow Master is designed with startups and SMBs in mind. Whether you're a small team or a growing organization, this template is your secret weapon to compete for top talent efficiently and effectively. | 50% OFF with `BF50` from November 21st - 28th (limited spots) |
+| 🤑 | [Resmume.com](https://resmume.com/) | A resume builder helps you shape your resume into the perfect resume in 10 minutes with the power of AI and ready to use professional resume templates. | $5 75% OFF Lifetime deal |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
