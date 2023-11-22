@@ -398,7 +398,7 @@ Total deals: 340
 | 💰 | [Project Profit](https://projectprof.it?utm_campaign=bf2023&utm_source=github) | Project Profit is a user-friendly tool for tracking project expenses and revenues. Monitor all your project finances in one place with a simple interface. | 20% OFF first payment with `BFGH20` valid until December 3th |
 | 💰 | [Engyne](https://engyne.ai) | Grow your SaaS startup with content marketing and SEO on autopilot. | 50% OFF for 1 month with code **`LAUNCH50`** |
 | 🤑 | [Resmume.com](https://resmume.com/) | A resume builder helps you shape your resume into the perfect resume in 10 minutes with the power of AI and ready to use professional resume templates. | $5 75% OFF Lifetime deal |
-
+| 🤑 | [Desku.io](https://desku.io) | Empower Your Support with AI! Desku, the top alternative to Intercom and Zendesk, offers an AI-powered inbox for unparalleled customer support efficiency. Our platform blends the best features at a more affordable price, ensuring a seamless, effective support experience. Elevate your customer interactions with Desku's intuitive tools and advanced analytics. | Upgrade Now and Enjoy 35% OFF with Code SAVE2023 |
 
 [⬆️ Go to Top](#table-of-contents)
 
