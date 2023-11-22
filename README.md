@@ -176,7 +176,7 @@ Total deals: 420
 | 💰 | [Page2API](https://www.page2api.com/) | A delightful and versatile API that empowers you to scrape the web like a PRO. | 20% OFF for your first month with code **BF2023** |
 | 💰 | [Essay Builder AI](https://essay-builder.ai) | Best Free Essay Maker, Writer & Generator for Students powered by AI | 88% OFF (lifetime) and up to 68% OFF the other subscriptions! |
 | 💰 | [Letty](https://www.useletty.com/?utm_campaign=bf&utm_source=awesomebf) | Craft perfect emails faster with Letty - Your Personal AI Email Assistant | Enjoy 30% OFF the Premium plan. Use discount code **BLACKFRIDAY2023** |
-
+| 💰 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_tony) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** | Valid till 27th Nov, 2023 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -522,6 +522,7 @@ Total deals: 420
 |  💰 | [LaunchToday™](https://launchtoday.dev/) | Ship your mobile apps faster with the React Native Boilerplate. Popular integrations such as Stripe, Supabase, Sentry and Aptabase included.   | 20% OFF with discount code **BFLAUNCH** |
 | 🤑 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_tony) | Make customized Next.js boilerplates & deploy to Vercel with a click | 50% on yearly plans with Discount code **`BF2023`**(Valid till 26th Nov) |
 | 🤑 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
+| 🤑 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_tony) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages | Valid till 31st Dec, 2023 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -739,6 +740,7 @@ Total deals: 420
 | 💰 | [Latest Garbage Collector Techonology: GEME Composter](https://www.geme.bio) | The real-world garbage collector for both programers and non-programers. Turn food waste into organic compost, feed your plants, bug free! | $60 OFF with **[BlackFriday](https://www.geme.bio/product/geme?discount-code=blackfriday)** (no subscription, life time!)|
 |  💰 | [ExploitPack.com](https://exploitpack.com/order.html) | Advanced exploitation framework with 0days and 39.000+ exploits | LIFETIME License - Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) |
 |  💰 | [AWS Fundamentals - AWS for the real world](https://awsfundamentals.lemonsqueezy.com/checkout/buy/eb26c80b-f9b1-48fa-a34f-b10bba15a139?checkout[discount_code]=BLACK30) | In AWS Fundamentals, you will learn the basic AWS services and how you can get started building with AWS. We love to learn and teach visually. This is why we've created infographics for every service within the book. | 30% OFF with discount code **BLACK30** |
-
+| 💰 | [Indie Masterminds](https://indiemasterminds.com/?ref=black_friday_deals_by_tony) | Tight knit community of indie founders. Private slack with 90+ members, premium courses, sprints and more. | 20% off on lifetime or annual plan with the code **`BFCM23`** | Valid till 27th Nov, 2023 |
+| 💰 | [BoringCashCow](https://boringcashcow.com/?ref=black_friday_deals_by_tony) | Discover Boring Businesses that Quietly Rake in the Cash Home. | 30% off with code **`godalRdf`** | Valid till 27th Nov, 2023 |
 
 [⬆️ Go to Top](#table-of-contents)
