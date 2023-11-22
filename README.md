@@ -91,6 +91,7 @@ Total deals: 340
 | 💰 | [LocalCan™](https://www.localcan.com/) | Ngrok alternative, allowing developers to build and test apps with .local domains and persistent Public URLs | 25% off with BLACKFRIDAY25 code! |
 | 💰 | [Polypane](https://polypane.app/) | The browser for developers that helps you build better sites in less time. Like Devtools with cheats enabled. Also for Windows and Linux | 30% off yearly plans on [polypane.app/black-friday/](https://polypane.app/black-friday/) |
 | 💰 | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=sale&mt=8) | Powerful SSH terminal for iOS & Mac | 33% off Lifetime Pro Unlock |
+| 💰 | [Source Files](https://apps.apple.com/app/apple-store/id6450856155?pt=125181172&ct=sale&mt=8) | Access GitHub, GitLab & BitBucket repos as cloud storage on iOS and Mac | Lifetime unlock 25% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
