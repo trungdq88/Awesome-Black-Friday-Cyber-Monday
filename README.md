@@ -480,6 +480,8 @@ Total deals: 340
 | 🤑 | [Django for Full Stack Web Applications](https://www.amazon.com/dp/B0CKFLHS7B) |Build and Deploy an e-commerce application with Python and Django | $3.99. No code needed. Valid from November 23 - November 30, 2023 |
 |  🤑 | [Serverless Web Applications with React and Next.js](https://scastiel.gumroad.com/l/serverless-apps-react-nextjs?ref=trungdq88) | Remember when you would use React only for the frontend of your applications, and create a whole server application to act as a backend? Those days are gone! Using Next.js, you can develop serverless web full-stack applications with ease. This book provides a guide to this powerful combination of technologies. | 50% off with code **FRIDAY23**. |
 |  🤑 | [A Guide to React Hooks](https://scastiel.gumroad.com/l/use-hooks?ref=trungdq88) | Learn more about the different ways you can use hooks to take your React application development experience to the next level. This new way of writing React components will make your code cleaner and more comfortable to test! | 50% off with code **FRIDAY23**. |
+|  🤑 | [Vue Mastery](https://www.vuemastery.com/black-friday/) | Take your Vue.js skills to the next level with the highest quality Vue courses. Learn from the experts and build amazing web applications. | Get 60% off a year |
+|  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Master Vue.js and the Ecosystem | Get 60% OFF on a Vue School subscription |
 
 [⬆️ Go to Top](#table-of-contents)
 
