@@ -522,6 +522,7 @@ Total deals: 420
 |  💰 | [LaunchToday™](https://launchtoday.dev/) | Ship your mobile apps faster with the React Native Boilerplate. Popular integrations such as Stripe, Supabase, Sentry and Aptabase included.   | 20% OFF with discount code **BFLAUNCH** |
 | 🤑 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_tony) | Make customized Next.js boilerplates & deploy to Vercel with a click | 50% on yearly plans with Discount code **`BF2023`**(Valid till 26th Nov) |
 | 🤑 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
+| 🤑 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. |
 
 [⬆️ Go to Top](#table-of-contents)
 
