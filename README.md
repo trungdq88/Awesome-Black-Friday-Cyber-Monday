@@ -38,7 +38,7 @@ Total deals: 340
 - [🌅 Design Tools (6)](#-design-tools)
 - [⌨️ Code Libraries (2)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (26)](#️-productivity-desktop-apps)
+	- [🖥️ Productivity Desktop Apps (27)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (15)](#-marketing-tools)
@@ -284,6 +284,7 @@ Total deals: 340
 | 💰 | [Stage View](https://noteifyapp.com/stage-view/) | Stage View is a utility app that adds a preview of the windows in the group in the macOS Ventura Stage Manager app. | 40% OFF with code **MACPLUSBLACKFRIDAY2023** [Get It](https://sites.fastspring.com/noteifyapp/product/MacPlusStore?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) |
 | 💰 | [Lasso](https://thelasso.app) | Move and resize windows with your mouse. | 40% OFF with code **BLACKBLACK40** |
 | 💰 | [timeMaster](https://www.timemaster.ai/) | Enhance Focus & Productivity with Automated, Privacy-First Time Tracking. | 40% OFF with code **BF40** |
+| 💰 | [Octoparse](https://www.octoparse.com/black-friday-sale-2023?utm_source=github&utm_medium=github&utm_campaign=23bf) |  No-code web scraping platform. Turn webpages into structured data within clicks.| 30% OFF No Code Needed until Dec 1 **BTT_BLACK_FRIDAY_2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
