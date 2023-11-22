@@ -233,6 +233,7 @@ Total deals: 340
 | -- | ---| ------ | ------ |
 |  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY_2023** |
 |  💰 | [fullPage.js Slider](https://alvarotrigo.com/fullPage/black-friday) | Create Beautiful Fullscreen Scrolling Websites. | Up to 40% OFF ** |
+|  🤑 | [WishKit](https://www.wishkit.io/) | Collect and analyze product feedback and feature requests in one place. | 50% OFF ** |
 
 
 [⬆️ Go to Top](#table-of-contents)
