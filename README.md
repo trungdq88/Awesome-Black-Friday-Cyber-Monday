@@ -343,6 +343,8 @@ Total deals: 340
 | 💰 | [Affiliate Corner](https://www.affiliatecorner.co) |  A done-for-you solution for affiliate marketers. Find affiliate programs, filter across 20+ data points and get valuable insights across affiliate niches easily. | 50% OFF with code **BFCM50** |
 | 🤑 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intelligence and intuitive tools for App Store Optimization and competitior intelligence. | 50% OFF with code **BF2350S**
 | 🤑 | [Portfolio Maker Pro](https://manishh.gumroad.com/l/portfolio-maker-pro) | Create Impressive Portfolios Effortlessly. (No-Code Tool) | 50% OFF |
+| 🤑 | [Reetail](https://reetail.store) | Create an e-commerce store from your Stripe products | 50% OFF for 3 months with code **BLACKFRIDAY50**
+
 
 
 [⬆️ Go to Top](#table-of-contents)
