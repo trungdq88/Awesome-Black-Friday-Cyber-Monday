@@ -94,6 +94,7 @@ Total deals: 340
 | 💰 | [Source Files](https://apps.apple.com/app/apple-store/id6450856155?pt=125181172&ct=sale&mt=8) | Access GitHub, GitLab & BitBucket repos as cloud storage on iOS and Mac | Lifetime unlock 25% off |
 
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 ### 💻 Tools & Services
@@ -334,7 +335,7 @@ Total deals: 340
 | 🤑 | [Motionscribe](https://motionscribe.com/) | Turn your text and images into great looking promo videos. No editing skills required. Built for macOS. | 50% off until Cyber Monday |
 | 💰 | [Affiliate Corner](https://www.affiliatecorner.co) |  A done-for-you solution for affiliate marketers. Find affiliate programs, filter across 20+ data points and get valuable insights across affiliate niches easily. | 50% OFF with code **BFCM50** |
 | 🤑 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intelligence and intuitive tools for App Store Optimization and competitior intelligence. | 50% OFF with code **BF2350S**
-
+| 🤑 | [Portfolio Maker Pro](https://manishh.gumroad.com/l/portfolio-maker-pro) | Create Impressive Portfolios Effortlessly. (No-Code Tool) | 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
