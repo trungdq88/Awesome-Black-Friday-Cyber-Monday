@@ -119,6 +119,10 @@ Total deals: 340
 | 💵 | [Statussync](https://statussync.dev) | Sync with Third-party Services. Keep in touch with third-party services and get notified when they go down. | 15% OFF when subscribe to Growth Plan with code **BLACKFRIDAY2023** |
 | 💰 | [WhaleDeck](https://whaledeck.io/?ref=awesomebf2023) | It's the only Docker manager you will ever need. Comprehensively manage, monitor, and debug your Docker servers. Available for iOS, iPadOS, and macOS. | 20% off (lifetime) |
 | 🤑 | [Write Loops](https://writeloops.com/pricing) | Get code reviews on your snippets with just links. | 50% forever discount with coupon: **`BLACKFRIDAY2`** until Dec 3rd |
+| 💰 | [Pulsetic](https://pulsetic.com/) | Website uptime monitoring service. Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% discount with coupon: **`BLACK`** until Dec 1 |
+| 💰 | [Static.app](https://static.app/) | Static website hosting. Upload your HTML website archive in a few simple steps, and we'll take care of displaying it online. Your website will be up and running in a matter of moments. | 30% discount with coupon: **`BLACK`** until Dec 1 |
+| 💰 | [Startup](https://designmodo.com/startup/) | Bootstrap 5 builder. | 40% discount with coupon: **`BLACK`** until Dec 1 |
+| 💰 | [Slides](https://designmodo.com/slides/) | Static website generator, create websites easily. | 40% discount with coupon: **`BLACK`** until Dec 1 |
 
 
 
@@ -221,6 +225,7 @@ Total deals: 340
 | 🤑  | [GrayGrids](https://graygrids.com/?ref=Github_Vinish1) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` |
 |  🤑 | [Qlone 3D Scanner](https://www.qlone.pro) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% off on Premium Upgrade |
 |  💰 | [Affinity Designer](https://affinity.serif.com/en-us/designer/) | Affinity Designer, Affinity Photo, Affinity Publisher or all products. | 40% OFF (automatically applied) |
+| 💰 | [Siter](https://siter.io/) | No-Code Website Builder. Craft websites in minutes, no coding needed, and tailor every detail to your vision. The ideal tool for creating portfolios, landing pages, and presentation websites. | 30% discount with coupon: **`000000`** until Dec 1 |
 
 
 
