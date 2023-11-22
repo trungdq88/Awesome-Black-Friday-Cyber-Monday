@@ -159,6 +159,8 @@ Total deals: 340
 | 🤑 | [Audionotes](https://www.audionotes.app) | Capture and Transform your voice and text notes into customizable text summaries and content. Chat with your notes and connect your notes with Zapier, Notion, and Whatsapp. | Flat 60% Off on all Annual Plans with code **`BLACKFRIDAY60`** |
 | 🤑 | [Chatwith](https://chatwith.tools/) | Custom chatbot for your website; trained on your files, urls, and with 5000+ integrations that allow you automate lead generation, customer support and more. | Enjoy 50% off (perpetually) with code **`BLACKFRIDAY`** (expires on Cyber Monday) |
 | 💰 | [superwhisper](https://superwhisper.com) | AI powered voice to text for macOS - offline, fast and secure. | 40% OFF with promo code **BLACKFRIDAY40**! |
+| 🤑 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_tony) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 31st Nov) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -478,6 +480,8 @@ Total deals: 340
 | 💰 | [NexJSTemplate](https://nextjstemplates.com/all-access?ref=Github_Vinish1) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
 | 💰 | [TailwindTemplates](https://tailwindtemplates.co/all-access?ref=Github_Vinish1) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
 |  💰 | [LaunchToday™](https://launchtoday.dev/) | Ship your mobile apps faster with the React Native Boilerplate. Popular integrations such as Stripe, Supabase, Sentry and Aptabase included.   | 20% OFF with discount code **BFLAUNCH** |
+| 🤑 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_tony) | Make customized Next.js boilerplates & deploy to Vercel with a click | 50% on yearly plans with Discount code **`BF2023`**(Valid till 26th Nov) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
