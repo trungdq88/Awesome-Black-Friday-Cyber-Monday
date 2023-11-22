@@ -308,7 +308,6 @@ Total deals: 339
 | 🤑 | [Motionscribe](https://motionscribe.com/) | Turn your text and images into great looking promo videos. No editing skills required. Built for macOS. | 50% off until Cyber Monday |
 | 💰 | [Affiliate Corner](https://www.affiliatecorner.co) |  A done-for-you solution for affiliate marketers. Find affiliate programs, filter across 20+ data points and get valuable insights across affiliate niches easily. | 50% OFF with code **BFCM50** |
 | 🤑 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intelligence and intuitive tools for App Store Optimization and competitior intelligence. | 50% OFF with code **BF2350S**
-intuitive tools for App Store Optimization and competitior intelligence. | 50% OFF with code **BF2350S**
 | 💰 | [Rafflys](https://app-sorteos.com/en/black-friday?utm_source=github&utm_campaign=github-trungdq88) | The app #1 to run social media giveaways and online promotions that integrate with Zapier, Shopify, WordPress, and any website. | 60% OFF on all Annual Plans, **renew at the same price, forever**. |
 
 
