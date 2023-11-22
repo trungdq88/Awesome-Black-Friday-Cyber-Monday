@@ -640,6 +640,7 @@ Total deals: 340
 |  🤑 | [JavaScript Fundamentals in Visual Studio Code](https://store.coderslang.com/l/beginner-js/BF23) | Gain mastery over JavaScript variables, types, functions, loops, objects, arrays, exceptions and more, as we lay the groundwork for your journey into dynamic web development. No fluff, just actionable knowledge to propel your skills forward. | 70% DISCOUNT with the code **BF23** |
 |  🤑 | [4x Flutter Course Bundle](https://codewithandrea.com/courses/all-courses-bundle/) | Advance your skills and learn how to build scalable apps with Dart, Flutter, and Firebase | 50% off until November 30th |
 |  🤑 | [Developer to Leader](https://www.developertoleader.com/?utm_source=tonydinhbf) | Learn how to lead a team successfully even if you've never managed or led anyone before. | 50% off with code **BLACKFRIDAY** |
+|  🤑 | [Develop and Deploy Laravel Applications with Docker](https://laraveldocker.com/) | Learn how to use Docker to develop, test, and deploy Laravel applications with this video course. | 50% off with code **BLACKFRIDAY** through Cyber Monday |
 
 
 
