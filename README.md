@@ -111,6 +111,8 @@ Total deals: 340
 |  💰 | [ChatDB](https://chatdb.ai) | Finally, let AI write your SQL. Do advanced data analysis on your database and get insights without SQL! | 20% discount on all plans by using the code **FRIYAY**. |
 | 🤑  | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine & Datastore Emulator. | 50% OFF (automatically applied) until Dec 15 |
 | 🤑 | [Webhookify](https://webhookify.io?ref=awesomebf2023) | Simplify webhook integration with our desktop app. Easily generate, manage, and test custom webhook URLs for seamless third-party service connections. | 50% discount with coupon: **`BLACKFRIDAY2023`** until Dec 1 |
+|  💰 | [FormBold](https://formbold.com/?ref=Github_Vinish1) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
+| 🤑  | [GrayGrids](https://graygrids.com/?ref=Github_Vinish1) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -198,7 +200,8 @@ Total deals: 340
 |  💰 | [SMBImg](https://smbimg.com) | Take screenshots, apply unique backgrounds and customize the watermarks. Features: rounded corners, shadows, predefined image sizes, zooming, custom offsets. Export to webp, jpeg, png and gif. | 40% OFF first year with code **BF2023** |
 |  🤑 | [Pixpa](https://studio.pixpa.com/signup/?fpr=bfdeal) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge. | Use promo code **BLFPIXPA50** to avail 50% discount on annual plans and a 63% discount on biannual plans. |
 |  💰 | [Sparkle 5](https://sparkleapp.com) | Visual Website Builder for macOS · Build the website you always wanted, visually, on your Mac. | 40% OFF (automatically applied) |
-
+| 💰 | [LineIcons](https://lineicons.com/?ref=Github_Vinish1) | 8400+ Line Icons for Designers and Developers with Free CDN, Multiple Variations, Icon Editor and More. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
+| 🤑  | [GrayGrids](https://graygrids.com/?ref=Github_Vinish1) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -446,6 +449,13 @@ Total deals: 340
 | 🤑 | [AdminKit PRO](https://adminkit.io) | Bootstrap 5 admin template featuring 500+ ready-to-use UI components, forms, tables, charts and icons | 30% OFF all licenses |
 | 🤑 | [zippystarter](https://zippystarter.com?ref=awesome) | 📦 Ship blogs, landing pages & portfolios in a flash 🔥 with MDX and Next.js 14 | 50% off the first 20 orders (no code required) |
 | 💰 | [Web3Templates](https://web3templates.com) | High Performant Astro & Next.js Website Templates | 30% off on all templates. Use code **BLACKFRIDAY** (valid up to 28th Nov) |
+| 💰 | [TailGrids](https://tailgrids.com/?ref=Github_Vinish1) | 500+ Ready to use Tailwind CSS UI Components, Blocks, Sections, and Templates. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 
+| 💰 | [Ayro UI](https://ayroui.com/?ref=Github_Vinish1) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast-Landing Pages, Templates, or Websites by Copy-Pasting Blocks. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 
+| 💰 | [PlainAdmin](https://plainadmin.com/pro?ref=Github_Vinish1) | PlainAdmin is a Bootstrap 5-based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 
+| 💰 | [TailAdmin](https://tailadmin.com/pricing?ref=Github_Vinish1) | TailAdmin is a Tailwind CSS-based Admin Dashboard Template, that provides developers with everything needed to create a complete, data-driven back-end, dashboard, or admin panel solution. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
+| 🤑 | [UiDeck](https://uideck.com/templates/all-access/?ref=Github_Vinish1) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
+| 💰 | [NexJSTemplate](https://nextjstemplates.com/all-access?ref=Github_Vinish1) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
+| 💰 | [TailwindTemplates](https://tailwindtemplates.co/all-access?ref=Github_Vinish1) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
 
 
 [⬆️ Go to Top](#table-of-contents)
