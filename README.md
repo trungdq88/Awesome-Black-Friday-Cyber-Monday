@@ -144,6 +144,7 @@ Total deals: 420
 | 🤑 | [olly.bot](https://olly.bot) | Olly is your virtual assistant in iMessage. It can search the web, generate images, set reminders, answer questions from PDFs and more! | 50% off lifetime with code **BLACKFRIDAY23** |
 | 💰 | [Plus AI](https://noteifyapp.com/plus-ai/) | Plus AI: Your AI text assistant. Write efficiently with Plus! This AI assistant will free you from routine,speeding up the creation of emails, presentations, and other texts.| 40% OFF (lifetime) with a promo code **MACPLUSBLACKFRIDAY2023**! or [using the link](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) |
 | 🤑 | [Joy](https://indiegoodies.com/joy) | Elevate your writing with ChatGPT/GPT-4. Available on Mac, iPhone, and iPad | 50% off lifetime on AppStore until November |
+| 🤑 | [MindMac](https://mindmac.app) | Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter and any local LLMs all in one place, designed for maximum productivity. | 55% OFF on all plans with code `BLACKFRIDAY` |
 
 
 
