@@ -127,6 +127,7 @@ Total deals: 339
 | 💰 | [ChatTab](https://chattab.app) | A ChatGPT Mac App Designed for Minimalists       | 30% OFF if you use **`Y2NTY3MW`** from 23th November until November 28th |
 | 💰 | [My AskAI](https://myaskai.com) | Create an AI assistant, trained on your Help Docs, quicker than it takes to make a coffee. Perfect for automating customer support. | 33% OFF (lifetime) with a promo code **BLACKFRIDAY23**! |
 | 🤑 | [olly.bot](https://olly.bot) | Olly is your virtual assistant in iMessage. It can search the web, generate images, set reminders, answer questions from PDFs and more! | 50% off lifetime with code **BLACKFRIDAY23** |
+| 💰 | [Joy](https://indiegoodies.com/joy) | Elevate your writing with ChatGPT/GPT-4. Available on Mac, iPhone, and iPad | 50% off lifetime on AppStore until November |
 
 
 
