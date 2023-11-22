@@ -571,6 +571,7 @@ Total deals: 339
 |  💰 | [Conscious Angular Testing](https://courses.decodedfrontend.io/courses/conscious-angular-testing?coupon=BLACK_FRIDAY_2023) | Testing in Angular is much easier than you think | 20% off with code BLACK_FRIDAY_2023 |
 |  🤑 | [CSS for JS devs](https://css-for-js.dev/) | The interactive learning experience designed to help JavaScript developers become confident with CSS | 50% off through Cyber Monday |
 |  💰 | [Total TypeScript](https://www.totaltypescript.com/) | Become the TypeScript Wizard at Your Company | 20% off through Cyber Monday |
+|  🤑 | [Develop and Deploy Laravel Applications with Docker](https://laraveldocker.com/) | Learn how to use Docker to develop, test, and deploy Laravel applications with this video course. | 50% off with code **BLACKFRIDAY** through Cyber Monday |
 
 
 [⬆️ Go to Top](#table-of-contents)
