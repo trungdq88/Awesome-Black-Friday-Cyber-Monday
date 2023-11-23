@@ -97,7 +97,7 @@ Total deals: 453
 | 💰 | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=sale&mt=8) | Powerful SSH terminal for iOS & Mac | 33% off Lifetime Pro Unlock |
 | 💰 | [Source Files](https://apps.apple.com/app/apple-store/id6450856155?pt=125181172&ct=sale&mt=8) | Access GitHub, GitLab & BitBucket repos as cloud storage on iOS and Mac | Lifetime unlock 25% off |
 | 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off |
-| 💰 | [Sizzy](https://sizzy.co/) | *The* browser for developers. 100+ [features](https://sizzy.co/features) that help you with responsive design, tailwind, API requests, social media previews, todos, notes, managing your projects, etc. | 50% off all plans [Sizzy](https://sizzy.co) |
+| 💰 | [Sizzy](https://sizzy.co/) | *The* browser for developers. 100+ [features](https://sizzy.co/features) that help you with responsive design, tailwind, API requests, social media previews, todos, notes, managing your projects, etc. | 50% off all plans |
 
 
 [⬆️ Go to Top](#table-of-contents)
