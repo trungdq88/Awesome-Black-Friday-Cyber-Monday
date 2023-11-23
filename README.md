@@ -361,6 +361,7 @@ Total deals: 464
 | 💰 | [SideNotes for iOS / iPadOS ](https://www.apptorium.com/sidenotes/ios) | Mobile, companion app for SideNotes users. To take your quick notes with you.| 40% off (automatically applied) until Dec 1st |
 | 💰 | [Bookshelf](https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414?platform=iphone) | A beautiful reading tracker app that helps you track your library, build a lasting reading habit, and better remember what you read. | 35% OFF Gold Yearly with code **BLACKFRIDAY2023** |
 | 💰 | [ocrX](https://play.google.com/store/apps/details?id=aculix.smart.text.recognizer) | Scan and extract text in over 100 languages from images instantly.| 20% off on Lifetime Premium (automatically applied) until Nov 28th |
+| 💰 | [Nut Widgets](https://apps.apple.com/app/apple-store/id6450901305?pt=120255327&ct=GH1123&mt=8) | Customizable home screen widgets allowing you to pin selected pages and properties from a Notion database to home screen.| 30% Off Lifetime Access until Nov 28th |
 
 
 [⬆️ Go to Top](#table-of-contents)
