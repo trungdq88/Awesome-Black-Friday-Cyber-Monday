@@ -489,6 +489,7 @@ Total deals: 464
 | 🤑 | [Xbase](https://getxbase.com/) | Upgrade your Twitter with our powerful Twitter Bookmark Manager, with instant search and effortless note-taking.| 50% OFF auto-discount|
 | 💰 | [Usebiolink](https://usebiolink.com) | Build beautiful bio-link websites in minutes | **BLCK2023** for 50% off for yearly subscriptions |
 | 🤑 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download thousands of comments from YouTube in minutes, saving yourself hours of manual work. | [Multiple discount codes avaliable up to 70% off](https://youtubecommentsdownloader.com/black-friday) |
+| 💰 | [TweetsMash](https://tweetsmash.com/) | 𝕏 bookmarks and list companion for knowledge extraction. Chat with your bookmarks using AI; streamline your reading with email digests; export bookmarks effortlessly to Notion and Sheets; and efficiently search, curate, and organise your Twitter / 𝕏  content. | 40% OFF on all plans, auto-applies 
 
 [⬆️ Go to Top](#table-of-contents)
 
