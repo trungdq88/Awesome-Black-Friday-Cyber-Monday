@@ -123,7 +123,7 @@ Total deals: 420
 | 💰 | [Static.app](https://static.app/) | Static website hosting. Upload your HTML website archive in a few simple steps, and we'll take care of displaying it online. Your website will be up and running in a matter of moments. | 30% discount with coupon: **`BLACK`** until Dec 1 |
 | 💰 | [Startup](https://designmodo.com/startup/) | Bootstrap 5 builder. | 40% discount with coupon: **`BLACK`** until Dec 1 |
 | 💰 | [Slides](https://designmodo.com/slides/) | Static website generator, create websites easily. | 40% discount with coupon: **`BLACK`** until Dec 1 |
-
+| 🤑 | [Loopple](https://www.loopple.com/) | Template builder for modern developers, working with Tailwind CSS, Bootstrap and React. | Up to **90%** discount on LTD plans |
 
 
 [⬆️ Go to Top](#table-of-contents)
