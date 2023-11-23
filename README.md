@@ -463,6 +463,7 @@ Total deals: 453
 | 🤑 | [Microanalytics](https://microanalytics.io/) | Microanalytics is a simple, clean, user-friendly website analytics tool; a perfect Google Analytics alternative. Fully compliant with GDPR, PECR and CCPA. | 50% OFF with coupon code **BLACK**
 | 🤑 | [Fotion](https://usefotion.app/) | Fotion is a user feedback tool that stores your feedback from anywhere on the web inside your Notion database. A privacy preserving alternative to Hotjar feedback and others. | 20% OFF with coupon code **BLACKFRIDAY20**
 | 🤑 | [Guidejar](https://guidejar.com/) | Create interactive product demos and step by step guides effortlessly in seconds | 50% OFF with coupon code **BLACK25**
+| 💰 | [UnderDefense](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) | Your One-Stop Shop for Better, Easier, and Faster Cybersecurity - Our bestsellers—MDR, Managed SIEM, Pentest, and Incident Response Retainer—with 25% off. | 25% OFF for all new customers if you submit a request before December 5th |
 
 
 
