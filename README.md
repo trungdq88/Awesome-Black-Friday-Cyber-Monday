@@ -468,7 +468,8 @@ Total deals: 464
 | 🤑 | [Guidejar](https://guidejar.com/) | Create interactive product demos and step by step guides effortlessly in seconds | 50% OFF with coupon code **BLACK25**|
 | 💰 | [BoldSign](https://boldsign.com/) | Easily collect legally binding eSignatures online from our app or yours. An enterprise-grade electronic signature web application and API | Flat 30% with coupon code **BLACKFRIDAY2023**  [Any doubts? Contact us from here](https://boldsign.com/contact-us/) |
 | 💰 | [UnderDefense](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) | Your One-Stop Shop for Better, Easier, and Faster Cybersecurity - Our bestsellers—MDR, Managed SIEM, Pentest, and Incident Response Retainer—with 25% off. | 25% OFF for all new customers if you submit a request before December 5th |
-
+| 🤑 | [Jiffy.so](https://jiffy.so/) | Create Notion-Powered Websites
+With Notion As A Cms, Build Seo-Optimized, Visually Stunning Websites And Landing Pages, Knowledge Bases, Help Docs, Release Notes, Blogs, And More – All With No-Code In A Jiffy! | Use Code **BF50OFF** to get 50% off on a lifetime deal and also on a yearly plan. |
 
 [⬆️ Go to Top](#table-of-contents)
 
