@@ -565,13 +565,13 @@ Total deals: 453
 | 🤑 | [AdminKit PRO](https://adminkit.io) | Bootstrap 5 admin template featuring 500+ ready-to-use UI components, forms, tables, charts and icons | 30% OFF all licenses |
 | 🤑 | [zippystarter](https://zippystarter.com?ref=awesome) | 📦 Ship blogs, landing pages & portfolios in a flash 🔥 with MDX and Next.js 14 | 50% off the first 20 orders (no code required) |
 | 💰 | [Web3Templates](https://web3templates.com) | High Performant Astro & Next.js Website Templates | 30% off on all templates. Use code **BLACKFRIDAY** (valid up to 28th Nov) |
-| 💰 | [TailGrids](https://tailgrids.com/?ref=Github_Vinish1) | 500+ Ready to use Tailwind CSS UI Components, Blocks, Sections, and Templates. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 
-| 💰 | [Ayro UI](https://ayroui.com/?ref=Github_Vinish1) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast-Landing Pages, Templates, or Websites by Copy-Pasting Blocks. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 
-| 💰 | [PlainAdmin](https://plainadmin.com/pro?ref=Github_Vinish1) | PlainAdmin is a Bootstrap 5-based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 
+| 💰 | [TailGrids](https://tailgrids.com/?ref=Github_Vinish1) | 500+ Ready to use Tailwind CSS UI Components, Blocks, Sections, and Templates. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
+| 💰 | [Ayro UI](https://ayroui.com/?ref=Github_Vinish1) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast-Landing Pages, Templates, or Websites by Copy-Pasting Blocks. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
+| 💰 | [PlainAdmin](https://plainadmin.com/pro?ref=Github_Vinish1) | PlainAdmin is a Bootstrap 5-based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
 | 💰 | [TailAdmin](https://tailadmin.com/pricing?ref=Github_Vinish1) | TailAdmin is a Tailwind CSS-based Admin Dashboard Template, that provides developers with everything needed to create a complete, data-driven back-end, dashboard, or admin panel solution. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` |
-| 🤑 | [UiDeck](https://uideck.com/templates/all-access/?ref=Github_Vinish1) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
-| 💰 | [NexJSTemplate](https://nextjstemplates.com/all-access?ref=Github_Vinish1) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
-| 💰 | [TailwindTemplates](https://tailwindtemplates.co/all-access?ref=Github_Vinish1) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 
+| 🤑 | [UiDeck](https://uideck.com/templates/all-access/?ref=Github_Vinish1) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` |
+| 💰 | [NexJSTemplate](https://nextjstemplates.com/all-access?ref=Github_Vinish1) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` |
+| 💰 | [TailwindTemplates](https://tailwindtemplates.co/all-access?ref=Github_Vinish1) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` |
 |  💰 | [LaunchToday™](https://launchtoday.dev/) | Ship your mobile apps faster with the React Native Boilerplate. Popular integrations such as Stripe, Supabase, Sentry and Aptabase included.   | 20% OFF with discount code **BFLAUNCH** |
 | 🤑 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_tony) | Make customized Next.js boilerplates & deploy to Vercel with a click | 50% on yearly plans with Discount code **`BF2023`**(Valid till 26th Nov) |
 | 🤑 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
@@ -799,6 +799,7 @@ Total deals: 453
 | 🤑 | [Eter](https://apps.apple.com/app/eter/id1523221566) | Internet Radio player (iOS, Mac, TV, Watch) | 50% off (only US$2.5) |
 | 💰 | [Indie Masterminds](https://indiemasterminds.com/?ref=black_friday_deals_by_tony) | Tight knit community of indie founders. Private slack with 90+ members, premium courses, sprints and more. | 20% off on lifetime or annual plan with the code **`BFCM23`** | Valid till 27th Nov, 2023 |
 | 💰 | [BoringCashCow](https://boringcashcow.com/?ref=black_friday_deals_by_tony) | Discover Boring Businesses that Quietly Rake in the Cash Home. | 30% off with code **`godalRdf`** | Valid till 27th Nov, 2023 |
+| 🤑 | [Olivia](https://useOlivia.com) | Market research recruiting on autopilot. 📅 Schedule bookings, 📤 export data to Excel, 📄 PDF invitations, 👥 add unlimited team members. | 50% off on every slot with **`TONYROCKS`** until end of 2023 |
 
 
 [⬆️ Go to Top](#table-of-contents)
