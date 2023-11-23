@@ -808,4 +808,5 @@ Total deals: 464
 | 🤑 | [VPS2day](https://www.vps2day.com/pricing?mtm_campaign=black-friday-2023&mtm_source=github&mtm_cid=trungdq88-awesome-black-friday-cyber-monday) | 100% prepaid virtual private servers (VPS) with unrestricted root access for [self-hosted software](https://github.com/awesome-selfhosted/awesome-selfhosted), VPNs, bots, crawlers, etc. | Up to 73% discount on special VPS types (Valid till 27th Nov, 2023) |
 | 🤑 | [Olivia](https://useOlivia.com) | Market research recruiting on autopilot. 📅 Schedule bookings, 📤 export data to Excel, 📄 PDF invitations, 👥 add unlimited team members. | 50% off on every slot with **`TONYROCKS`** until end of 2023 |
 
+
 [⬆️ Go to Top](#table-of-contents)
