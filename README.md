@@ -413,6 +413,7 @@ Total deals: 420
 | 🤑 | [Resmume.com](https://resmume.com/) | A resume builder helps you shape your resume into the perfect resume in 10 minutes with the power of AI and ready to use professional resume templates. | $5 75% OFF Lifetime deal |
 | 🤑 | [Desku.io](https://desku.io) | Empower Your Support with AI! Desku, the top alternative to Intercom and Zendesk, offers an AI-powered inbox for unparalleled customer support efficiency. Our platform blends the best features at a more affordable price, ensuring a seamless, effective support experience. Elevate your customer interactions with Desku's intuitive tools and advanced analytics. | Upgrade Now and Enjoy 35% OFF with Code SAVE2023 |
 | 🤑 | [Microanalytics](https://microanalytics.io/) | Microanalytics is a simple, clean, user-friendly website analytics tool; a perfect Google Analytics alternative. Fully compliant with GDPR, PECR and CCPA. | 50% OFF with coupon code **BLACK**
+| 🤑 | [Guidejar](https://guidejar.com/) | Create interactive product demos and step by step guides effortlessly in seconds | 50% OFF with coupon code **BLACK25**
 
 
 [⬆️ Go to Top](#table-of-contents)
