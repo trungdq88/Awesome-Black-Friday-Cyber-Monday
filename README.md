@@ -97,6 +97,7 @@ Total deals: 453
 | 💰 | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=sale&mt=8) | Powerful SSH terminal for iOS & Mac | 33% off Lifetime Pro Unlock |
 | 💰 | [Source Files](https://apps.apple.com/app/apple-store/id6450856155?pt=125181172&ct=sale&mt=8) | Access GitHub, GitLab & BitBucket repos as cloud storage on iOS and Mac | Lifetime unlock 25% off |
 | 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off |
+| 💰 | [Apidog for Mac](https://apidog.com/) | Apidog, the all-in-one collaboration platform, seamlessly integrates popular API tools like Postman, Swagger, and JMeter. Designed for API documentation, debugging, mocking, and automated testing. | 20-40% off |
 
 
 
@@ -129,6 +130,7 @@ Total deals: 453
 | 💰 | [Startup](https://designmodo.com/startup/) | Bootstrap 5 builder. | 40% discount with coupon: **`BLACK`** until Dec 1 |
 | 💰 | [Slides](https://designmodo.com/slides/) | Static website generator, create websites easily. | 40% discount with coupon: **`BLACK`** until Dec 1 |
 | 🤑 | [Loopple](https://www.loopple.com/) | Template builder for modern developers, working with Tailwind CSS, Bootstrap and React. | Up to **90%** discount on LTD plans |
+| 💰 | [Apidog](https://apidog.com/) | Apidog, the all-in-one collaboration platform, seamlessly integrates popular API tools like Postman, Swagger, and JMeter. Designed for API documentation, debugging, mocking, and automated testing. | 20-40% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
