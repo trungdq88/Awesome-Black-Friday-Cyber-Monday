@@ -26,28 +26,28 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 423
+Total deals: 453
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (20)](#-developer-macos-apps)
-	- [💻 Tools & Services (22)](#-tools--services)
+	- [💻 Developer macOS Apps (21)](#-developer-macos-apps)
+	- [💻 Tools & Services (23)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (12)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (22)](#-ai-productivity--learning-tools)
+	- [💬 AI Chat UI (13)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (25)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (23)](#-other-ai-tools)
-- [🌅 Design Tools (12)](#-design-tools)
+- [🌅 Design Tools (14)](#-design-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps (38)](#️-productivity-desktop-apps)
+	- [🖥️ Productivity Desktop Apps (46)](#️-productivity-desktop-apps)
 	- [📱 Productivity Mobile Apps (17)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (16)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (19)](#-marketing-tools)
+	- [🛠️ Productivity Tools & Services (17)](#️-productivity-tools--services)
+- [🌈 Marketing Tools (23)](#-marketing-tools)
 - [🔍 SEO Tools (8)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (22)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (25)](#-startup-saastools)
 - [🌏 Social Media Tools (13)](#-social-media-tools)
-- [💸 Finance Tools (13)](#-finance-tools)
-- [🎛 Utility Tools (18)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (32)](#-boilerplates-starter-kit-templates)
+- [💸 Finance Tools (14)](#-finance-tools)
+- [🎛 Utility Tools (19)](#-utility-tools)
+- [💅 Boilerplates, Starter-Kit, Templates (34)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
@@ -62,8 +62,9 @@ Total deals: 423
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (4)](#-career-courses)
 	- [📈 Marketing Courses (5)](#-marketing-courses)
-- [💪 Health and Fitness (7)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (16)](#-miscellaneous)
+- [💪 Health and Fitness (8)](#-health-and-fitness)
+- [👨‍🎨 Miscellaneous (19)](#-miscellaneous)
+
 
 ## 👨‍💻 Developer Tools
 
