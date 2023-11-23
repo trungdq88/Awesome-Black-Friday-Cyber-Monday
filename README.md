@@ -91,6 +91,7 @@ Total deals: 420
 | 💰 | [Polypane](https://polypane.app/) | The browser for developers that helps you build better sites in less time. Like Devtools with cheats enabled. Also for Windows and Linux | 30% off yearly plans on [polypane.app/black-friday/](https://polypane.app/black-friday/) |
 | 💰 | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=sale&mt=8) | Powerful SSH terminal for iOS & Mac | 33% off Lifetime Pro Unlock |
 | 💰 | [Source Files](https://apps.apple.com/app/apple-store/id6450856155?pt=125181172&ct=sale&mt=8) | Access GitHub, GitLab & BitBucket repos as cloud storage on iOS and Mac | Lifetime unlock 25% off |
+| 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off |
 
 
 
@@ -288,7 +289,10 @@ Total deals: 420
 | 💰 | [timeMaster](https://www.timemaster.ai/) | Enhance Focus & Productivity with Automated, Privacy-First Time Tracking. | 40% OFF with code **BF40** |
 | 💰 | [Octoparse](https://www.octoparse.com/black-friday-sale-2023?utm_source=github&utm_medium=github&utm_campaign=23bf) |  No-code web scraping platform. Turn webpages into structured data within clicks.| 30% OFF No Code Needed until Dec 1 **BTT_BLACK_FRIDAY_2023** |
 | 🤑 | [LinkYourFile](https://www.linkyourfile.com/) | Open any file from Notion, Monday.com or Asana without downloading it. | 50% off lifetime with code **BLACKFRIDAY_2023** |
+| 💰 | [Sidebar](https://sidebarapp.net) | The modern Dock replacement for your Mac | 30% off all licenses until November 26th |
+| 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Nov 28|
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -338,6 +342,7 @@ Total deals: 420
 | 🤑 | [RogerRoger](https://rogerroger.io/?utm_source=awesomebf) |RogerRoger is the ultimate crossover between a shared inbox and project management. It wraps CRM, shared inbox, and task management in one easy-to-use tool. Finally, all your customer details, emails, tasks, and actions stay together for maximum context. | 50% Off with **BlackFriday2023** |
 | 💰 | [Leave Me Alone](https://leavemealone.com) | Easily unsubscribe from emails. See all of your newsletters in one place and unsubscribe from them with a single click. | 40% OFF (automatically applied) |
 | 💰 | [HireVirtual] (https://www.hirevirtual.co/) | Optimize your business with HireVirtual and save up to 80% on staffing costs. Our service provides skilled virtual assistants for efficient task delegation and automation. | Enjoy 25% off for the first two months. **Mention** this deal during your discovery call, bookable through our website. |
+| 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -413,6 +418,7 @@ Total deals: 420
 | 🤑 | [Resmume.com](https://resmume.com/) | A resume builder helps you shape your resume into the perfect resume in 10 minutes with the power of AI and ready to use professional resume templates. | $5 75% OFF Lifetime deal |
 | 🤑 | [Desku.io](https://desku.io) | Empower Your Support with AI! Desku, the top alternative to Intercom and Zendesk, offers an AI-powered inbox for unparalleled customer support efficiency. Our platform blends the best features at a more affordable price, ensuring a seamless, effective support experience. Elevate your customer interactions with Desku's intuitive tools and advanced analytics. | Upgrade Now and Enjoy 35% OFF with Code SAVE2023 |
 | 🤑 | [Microanalytics](https://microanalytics.io/) | Microanalytics is a simple, clean, user-friendly website analytics tool; a perfect Google Analytics alternative. Fully compliant with GDPR, PECR and CCPA. | 50% OFF with coupon code **BLACK**
+| 🤑 | [Fotion](https://usefotion.app/) | Fotion is a user feedback tool that stores your feedback from anywhere on the web inside your Notion database. A privacy preserving alternative to Hotjar feedback and others. | 20% OFF with coupon code **BLACKFRIDAY20**
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -523,6 +529,7 @@ Total deals: 420
 |  💰 | [LaunchToday™](https://launchtoday.dev/) | Ship your mobile apps faster with the React Native Boilerplate. Popular integrations such as Stripe, Supabase, Sentry and Aptabase included.   | 20% OFF with discount code **BFLAUNCH** |
 | 🤑 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_tony) | Make customized Next.js boilerplates & deploy to Vercel with a click | 50% on yearly plans with Discount code **`BF2023`**(Valid till 26th Nov) |
 | 🤑 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
+| 🤑 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. |
 
 [⬆️ Go to Top](#table-of-contents)
 
