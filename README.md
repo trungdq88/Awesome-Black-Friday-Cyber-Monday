@@ -295,6 +295,8 @@ Total deals: 423
 | 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Nov 28|
 | 🤑 | [FunKey - Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) | enhances your typing with enjoyable sounds of mechanical keyboards and mouse clicks. | 50% off lifetime, available until Nov 27 |
+| 💰 | [Smultron](https://www.peterborgapps.com/smultron/) | An elegant and powerful text editor for macOS that is easy to use | 20% off (automatically applied) |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
