@@ -254,6 +254,7 @@ Total deals: 464
 |  💰 | [fullPage.js Slider](https://alvarotrigo.com/fullPage/black-friday) | Create Beautiful Fullscreen Scrolling Websites. | Up to 40% OFF ** |
 |  🤑 | [WishKit](https://www.wishkit.io/) | Collect and analyze product feedback and feature requests in one place. | 50% OFF ** |
 |  🤑 | [AnimateReactNative.com](https://www.animatereactnative.com/) | Extensive collection of 112+ Premium React Native animations, manually crafted to increase User Experience. *Use - Learn - Save time!* | 50% OFF with code **BF2023** |
+|  🤑 | [Mailbites.io](https://www.mailbites.io/) | Simplify email templates development with ready-to-use components, sections, layouts, and templates, all available in mjml and mjml-react. | 50% OFF with code **BLCK23** until December 1st |
 
 
 [⬆️ Go to Top](#table-of-contents)
