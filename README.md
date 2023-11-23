@@ -465,8 +465,8 @@ Total deals: 453
 | 🤑 | [Desku.io](https://desku.io) | Empower Your Support with AI! Desku, the top alternative to Intercom and Zendesk, offers an AI-powered inbox for unparalleled customer support efficiency. Our platform blends the best features at a more affordable price, ensuring a seamless, effective support experience. Elevate your customer interactions with Desku's intuitive tools and advanced analytics. | Upgrade Now and Enjoy 35% OFF with Code SAVE2023 |
 | 🤑 | [Microanalytics](https://microanalytics.io/) | Microanalytics is a simple, clean, user-friendly website analytics tool; a perfect Google Analytics alternative. Fully compliant with GDPR, PECR and CCPA. | 50% OFF with coupon code **BLACK**
 | 🤑 | [Fotion](https://usefotion.app/) | Fotion is a user feedback tool that stores your feedback from anywhere on the web inside your Notion database. A privacy preserving alternative to Hotjar feedback and others. | 20% OFF with coupon code **BLACKFRIDAY20**
-| 🤑 | [Guidejar](https://guidejar.com/) | Create interactive product demos and step by step guides effortlessly in seconds | 50% OFF with coupon code **BLACK25**
-
+| 🤑 | [Guidejar](https://guidejar.com/) | Create interactive product demos and step by step guides effortlessly in seconds | 50% OFF with coupon code **BLACK25**|
+| 💼 | [BoldSign](https://boldsign.com/) | Easily collect legally binding eSignatures online from our app or yours. An enterprise-grade electronic signature web application and API | Flat 30% with coupon code **BLACKFRIDAY2023**  [Any doubts? Contact us from here](https://boldsign.com/contact-us/) |
 
 
 [⬆️ Go to Top](#table-of-contents)
