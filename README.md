@@ -291,6 +291,7 @@ Total deals: 420
 | 🤑 | [LinkYourFile](https://www.linkyourfile.com/) | Open any file from Notion, Monday.com or Asana without downloading it. | 50% off lifetime with code **BLACKFRIDAY_2023** |
 | 💰 | [Sidebar](https://sidebarapp.net) | The modern Dock replacement for your Mac | 30% off all licenses until November 26th |
 | 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off |
+| 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Nov 28|
 
 
 
@@ -459,6 +460,7 @@ Total deals: 420
 |💵  | [MesoSim](https://blog.deltaray.io/2023-black-friday) | Advanced Options Backtesting service | $60 one time OFF for new annual subscriptions |
 | 🤑 | [CheckCraft](https://apps.apple.com/us/app/checkcraft/id6469945468) | Printing checks from your Mac, iPhone or iPad | 50% OFF on the Mac App Store |
 | 💰 | [Digrin](https://www.digrin.com/portfolio/24-dividend-growth-investing/) | Dividend tracker for stock/ETF investors | 30% OFF with **BLACKFRIDAY2023** |
+| 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forcasting (Mac app) | 50% off first year, until Nov 28th |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -745,6 +747,7 @@ Total deals: 420
 | 💰 | [Latest Garbage Collector Techonology: GEME Composter](https://www.geme.bio) | The real-world garbage collector for both programers and non-programers. Turn food waste into organic compost, feed your plants, bug free! | $60 OFF with **[BlackFriday](https://www.geme.bio/product/geme?discount-code=blackfriday)** (no subscription, life time!)|
 |  💰 | [ExploitPack.com](https://exploitpack.com/order.html) | Advanced exploitation framework with 0days and 39.000+ exploits | LIFETIME License - Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) |
 |  💰 | [AWS Fundamentals - AWS for the real world](https://awsfundamentals.lemonsqueezy.com/checkout/buy/eb26c80b-f9b1-48fa-a34f-b10bba15a139?checkout[discount_code]=BLACK30) | In AWS Fundamentals, you will learn the basic AWS services and how you can get started building with AWS. We love to learn and teach visually. This is why we've created infographics for every service within the book. | 30% OFF with discount code **BLACK30** |
+| 🤑 | [Eter](https://apps.apple.com/app/eter/id1523221566) | Internet Radio player (iOS, Mac, TV, Watch) | 50% off (only US$2.5) |
 
 
 [⬆️ Go to Top](#table-of-contents)
