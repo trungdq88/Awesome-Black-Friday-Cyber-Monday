@@ -26,31 +26,31 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 453
+Total deals: 464
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (21)](#-developer-macos-apps)
-	- [💻 Tools & Services (23)](#-tools--services)
+	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
+	- [💻 Tools & Services (24)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (13)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (25)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (23)](#-other-ai-tools)
+	- [✨ Other AI tools (24)](#-other-ai-tools)
 - [🌅 Design Tools (14)](#-design-tools)
-- [⌨️ Code Libraries (3)](#️-code-libraries)
+- [⌨️ Code Libraries (4)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Notes, Organize, Planning (6)](#tasks-notes-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (21)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (8)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (17)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (18)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (17)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (23)](#-marketing-tools)
 - [🔍 SEO Tools (8)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (25)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (27)](#-startup-saastools)
 - [🌏 Social Media Tools (13)](#-social-media-tools)
 - [💸 Finance Tools (14)](#-finance-tools)
-- [🎛 Utility Tools (19)](#-utility-tools)
+- [🎛 Utility Tools (20)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (34)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (4)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -62,12 +62,12 @@ Total deals: 453
 	- [📘 Startup & Career Books (9)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (30)](#-programming-courses)
+	- [💻 Programming Courses (31)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
-	- [🎢 Career Courses (4)](#-career-courses)
+	- [🎢 Career Courses (5)](#-career-courses)
 	- [📈 Marketing Courses (5)](#-marketing-courses)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (19)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (20)](#-miscellaneous)
 
 
 ## 👨‍💻 Developer Tools
