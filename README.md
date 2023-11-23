@@ -226,6 +226,7 @@ Total deals: 464
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🤑 | [Filma](https://filma.app) | We help brands and content creators overcome complex editing workflows with our affordable, smart and user-friendly video editing app to quickly produce tons of professional-looking videos that will elevate their visibility and reputation. | Get 90 days of Premium Plan for FREE - visit our website to claim it 🎬🤩 |
 |  🤑 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto-hide sensitive info, auto-fill background color. Other features: annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2023** |
 |  🤑 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius) | ResizeGenius is a macOS app for effortless batch resizing and editing of images. This powerful yet user-friendly application is designed to streamline your image processing tasks, enabling you to resize multiple images simultaneously while maintaining your preferred configurations, just like following a resizing recipe. | 50% OFF with code **BLACKFRIDAY2023** |
 |  💰 | [snappify](https://snappify.com) | Create stunning Code Presentations with smooth animations and export them as Videos. From creating Social Media content, to Explanatory Videos and Technical Slides - snappify got you covered! | 30% OFF first year with code **BLACKFRIDAY_2023** |
