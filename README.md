@@ -178,6 +178,8 @@ Total deals: 423
 | 💰 | [Essay Builder AI](https://essay-builder.ai) | Best Free Essay Maker, Writer & Generator for Students powered by AI | 88% OFF (lifetime) and up to 68% OFF the other subscriptions! |
 | 💰 | [Letty](https://www.useletty.com/?utm_campaign=bf&utm_source=awesomebf) | Craft perfect emails faster with Letty - Your Personal AI Email Assistant | Enjoy 30% OFF the Premium plan. Use discount code **BLACKFRIDAY2023** |
 | 💰 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_tony) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** | Valid till 27th Nov, 2023 |
+| 🤑 | [PDFPeer](https://pdfpeer.com) | Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Ask questions, get summary, find things quickly, and lots more. | 50% OFF on all plans with code `BF50` |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
