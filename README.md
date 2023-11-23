@@ -61,7 +61,7 @@ Total deals: 423
 	- [💻 Programming Courses (30)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (4)](#-career-courses)
-	- [📈 Marketing Courses (4)](#-marketing-courses)
+	- [📈 Marketing Courses (5)](#-marketing-courses)
 - [💪 Health and Fitness (7)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (16)](#-miscellaneous)
 
@@ -714,6 +714,7 @@ Total deals: 423
 |  💰 | [Complete Marketing Bundle](https://www.makerbox.club/complete-marketing-bundle) | A collection of 5 actionable marketing resources for Solopreneurs. | 30% OFF with a promo code **BLACKFRIDAY**! |
 |  🤑 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF** |
 |  💰 | [The Idea Sniper Crash Course - ](https://byhazellim.gumroad.com/l/Ideation/) by Hazel Lim| Ideation bootcamp for founders who are sick of building stuff no one wants | 40% OFF with a promo code **BLACKFRIDAY23**! |
+|  🤑 | [UserBooster](https://userbooster.co) by Xavier Coiffard | UserBooster is a Notion template that will help you build launch strategy and leverage online communities. | 50% OFF with code **BF2023** |
 
 [⬆️ Go to Top](#table-of-contents)
 
