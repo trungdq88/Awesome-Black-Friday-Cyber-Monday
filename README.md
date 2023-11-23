@@ -63,6 +63,7 @@ Total deals: 464
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (31)](#-programming-courses)
+	- [🛜 Networking Courses (1)](#-networking-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (5)](#-career-courses)
 	- [📈 Marketing Courses (5)](#-marketing-courses)
@@ -725,6 +726,16 @@ Total deals: 464
 |  🤑 | [Developer to Leader](https://www.developertoleader.com/?utm_source=tonydinhbf) | Learn how to lead a team successfully even if you've never managed or led anyone before. | 50% off with code **BLACKFRIDAY** |
 |  🤑 | [Develop and Deploy Laravel Applications with Docker](https://laraveldocker.com/) | Learn how to use Docker to develop, test, and deploy Laravel applications with this video course. | 50% off with code **BLACKFRIDAY** through Cyber Monday |
 |  🤑 | [Zero To Shipped](https://zerotoshipped.com/) | Tired of not having your own SaaS product? This is the course for you. Master Fast-Paced Fullstack Development. Finally ship that product. You'll be surprised by the amount of knowledge that's crammed in a single course. Time to ship! | 67% off |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+
+### 🛜 Networking Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  💰 | [DNS for Developers](https://www.nslookup.io/dns-course/) | Never be confused about DNS again. This online video course has everything you need to master DNS once and for all. | 23% OFF with code **BF2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
