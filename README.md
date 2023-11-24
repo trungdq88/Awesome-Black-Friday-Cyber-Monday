@@ -623,6 +623,9 @@ Total deals: 465
 |  💰 | [Gato GraphQL](https://gatographql.com/black-friday/) | Interact with your data in WordPress: Bulk updates, Automation, Send notifications, Sync content, and more. | 40% OFF the “All Extensions” Bundle |
 |  💰 | [Login Me Now](https://wptownhall.com/login-me-now/) | Login Me Now provides over 15 features making it the ultimate WP login solution. | 50% OFF on all plans |
 |  💰 | [Essential Addons For Elementor](https://essential-addons.com/elementor/#pricing) | The most popular Elementor widgets library for 1 million users, offering 90+ advanced elements. | Starting at $34, with up to a 40% discount! |
+|  💰 | [Bit Form](https://bitapps.pro/black-friday-deals-2023/?utm=github) | Bit Form is the Best Contact Form Builder for WordPress. Build Highly Customized Forms in the Fastest & Easiest way possible. | Flat 40% discount! Starting at $23.40/Year |
+
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📚 Books
