@@ -609,7 +609,7 @@ Total deals: 465
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?tony) | Plugins, widgets to extend & power up your Carrd sites. | 40% OFF with code **`BF2023`**. Will DM you a 50% code if you [retweet this](https://x.com/jasonleowsg/status/1724355482310337006?s=20) |
 |  💰 | [Gato GraphQL](https://gatographql.com/black-friday/) | Interact with your data in WordPress: Bulk updates, Automation, Send notifications, Sync content, and more. | 40% OFF the “All Extensions” Bundle |
 |  💰 | [Login Me Now](https://wptownhall.com/login-me-now/) | Login Me Now provides over 15 features making it the ultimate WP login solution. | 50% OFF on all plans |
-
+|  💰 | [Essential Addons For Elementor](https://essential-addons.com/elementor/#pricing) | The most popular Elementor widgets library for 1 million users, offering 90+ advanced elements. | Starting at $34, with up to a 40% discount! |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📚 Books
