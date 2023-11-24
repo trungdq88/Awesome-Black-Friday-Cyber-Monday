@@ -130,6 +130,7 @@ Total deals: 464
 | 💰 | [Slides](https://designmodo.com/slides/) | Static website generator, create websites easily. | 40% discount with coupon: **`BLACK`** until Dec 1 |
 | 🤑 | [Loopple](https://www.loopple.com/) | Template builder for modern developers, working with Tailwind CSS, Bootstrap and React. | Up to **90%** discount on LTD plans |
 | 💰 | [Syncfusion](https://www.syncfusion.com/black-friday) | 1,800+ Ultimate UI Component Suite for Web, Desktop, and Mobile Apps. | Get Up to **40%** OFF on Essential Studio team licenses for 5 or 10 developers. Use the coupon code **`BLACKFRIDAY40`** until Nov 27 | 
+| 🤑 | [HTTP Toolkit](https://httptoolkit.com/) | HTTP debugging, testing & reverse engineering tool for Windows, Linux & Mac | **50% discount for annual plans** with code `BLACKFRIDAY` until Nov 27th |
 
 
 [⬆️ Go to Top](#table-of-contents)
