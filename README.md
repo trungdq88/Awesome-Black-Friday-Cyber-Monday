@@ -274,6 +274,7 @@ Total deals: 465
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🤑 | [Mond](https://www.mond-app.com/) | Turn your browser into an ideal environment for flow state | 50% Lifetime Deal discount |
 | 🤑 | [ToDoBar](https://todobar.compzets.com/) | Effortlessly manage to-dos from your Mac menu bar | >= 50% OFF auto-discount |
 | 🤑 | [NoteSLAYER](https://note-slayer.com/) | Organizes Notes & Tasks Effortlessly. Available for macOS, Windows & Linux. Mobile sync is on the horizon. | 50% OFF with code **BLACKFRIDAY23** |
 | 🤑 | [Tripsy](https://tripsy.app) | Travel Planner for iOS, iPadOS and macOS. Tripsy Pro gives you unlimited flight alerts (the best on the market), unlimited documents, unlimited guests, forwarding reservations, and much more! | [50% OFF on the first year](https://buy.stripe.com/7sIaEOfeT06ugKI5km?prefilled_promo_code=BLACKFRIDAY), or [25% OFF on the Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY23) purchase. |
