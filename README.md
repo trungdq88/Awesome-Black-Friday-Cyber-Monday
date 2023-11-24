@@ -281,6 +281,7 @@ Total deals: 465
 | 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Nov 28|
 | 🤑 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#UNCLUTTER) | Files, Notes & Clipboard manager for Mac | 50% OFF|
+| 🤑 | [RunApp.Today](https://RunApp.Today) | The Ideal AI SaaS Boilplate (Pre-Order) | 50% OFF and 1 custom feature for free |
 
 
 [⬆️ Go to Top](#table-of-contents)
