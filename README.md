@@ -647,6 +647,7 @@ Total deals: 465
 |  🤑 | [A Guide to React Hooks](https://scastiel.gumroad.com/l/use-hooks?ref=trungdq88) | Learn more about the different ways you can use hooks to take your React application development experience to the next level. This new way of writing React components will make your code cleaner and more comfortable to test! | 50% off with code **FRIDAY23**. |
 |  🤑 | [Vue Mastery](https://www.vuemastery.com/black-friday/) | Take your Vue.js skills to the next level with the highest quality Vue courses. Learn from the experts and build amazing web applications. | Get 60% off a year |
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Master Vue.js and the Ecosystem | Get 60% OFF on a Vue School subscription |
+|  🤑 | [Ditectrev Etsy](https://ditectrev.etsy.com) | Practice Tests Exams for Azure, AWS, GCP, Scrum | 75% OFF on EVERYTHING  |
 
 [⬆️ Go to Top](#table-of-contents)
 
