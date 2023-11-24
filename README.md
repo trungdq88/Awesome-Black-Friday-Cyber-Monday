@@ -300,6 +300,7 @@ Total deals: 464
 | 💰 | [Lasso](https://thelasso.app) | Move and resize windows with your mouse. | 40% OFF with code **BLACKBLACK40** |
 | 💰 | [Sidebar](https://sidebarapp.net) | The modern Dock replacement for your Mac | 30% off all licenses until November 26th |
 | 🤑 | [FunKey - Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) | enhances your typing with enjoyable sounds of mechanical keyboards and mouse clicks. | 50% off lifetime, available until Nov 27 |
+| 🤑 | [HazeOver](https://hazeover.com) | Highlight the front window by fading out all the background windows to turn distractions down and focus on your current task. | **75%** off |
 
 
 [⬆️ Go to Top](#table-of-contents)
