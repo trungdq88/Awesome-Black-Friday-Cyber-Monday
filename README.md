@@ -302,6 +302,7 @@ Total deals: 465
 | 💰 | [Lasso](https://thelasso.app) | Move and resize windows with your mouse. | 40% OFF with code **BLACKBLACK40** |
 | 💰 | [Sidebar](https://sidebarapp.net) | The modern Dock replacement for your Mac | 30% off all licenses until November 26th |
 | 🤑 | [FunKey - Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) | enhances your typing with enjoyable sounds of mechanical keyboards and mouse clicks. | 50% off lifetime, available until Nov 27 |
+| 🤑 | [OnScreen - Floating window](https://apps.apple.com/us/app/onscreen-floating-window/id6469731201?mt=12) | Capture any portion of your screen and transform it into a floating window. | 60% OFF LIFETIME LICENSE |
 
 
 [⬆️ Go to Top](#table-of-contents)
