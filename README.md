@@ -154,6 +154,7 @@ Total deals: 465
 | 💰 | [Plus AI](https://noteifyapp.com/plus-ai/) | Plus AI: Your AI text assistant. Write efficiently with Plus! This AI assistant will free you from routine,speeding up the creation of emails, presentations, and other texts.| 40% OFF (lifetime) with a promo code **MACPLUSBLACKFRIDAY2023**! or [using the link](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) |
 | 🤑 | [Joy](https://indiegoodies.com/joy) | Elevate your writing with ChatGPT/GPT-4. Available on Mac, iPhone, and iPad | 50% off lifetime on AppStore until November |
 | 🤑 | [MindMac](https://mindmac.app) | Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter and any local LLMs all in one place, designed for maximum productivity. | 55% OFF on all plans with code `BLACKFRIDAY` |
+| 🤑 | [AI4Chat](https://www.ai4chat.co/) | All your favorite chatbots under one roof. Merge the worlds of ChatGPT, GPT4, and Google Bard. | 50% off on AI4Chat's Unlimited plans |
 
 
 
@@ -243,6 +244,8 @@ Total deals: 465
 |  💰 | [Postcards](https://designmodo.com/postcards/) | No-code email template builder. | 40% OFF with code **BLACK** |
 |  💰 | [Pixen](https://pixenapp.com) | Pixen is a pixel art and animation editor for Mac and iOS. | 20% OFF in the App Store |
 |  💰 | [RetinaCapture](https://furnacecreek.org/retinacapture) | Simultaneously take 1x and 2x screenshots on Retina Macs | Free in the App Store until November 28 |
+|  🤑 | [Airbrush AI](https://www.airbrush.ai/lifetime-deal/) | Generate AI-powered images - in 1 click. | Get lifetime access to Airbrush AI for a one-time price of $29! |
+
 
 
 
@@ -441,6 +444,7 @@ Total deals: 465
 |  🤑 | [Foudroyer](https://www.foudroyer.com) | Index your pages in less than 10 hours! Then, follow your keywords, analyze traffic in all search engines (Bing, Google, Yandex) | 50% OFF for the Pro subscription with code **`BLACKFRIDAY`** |
 |  💰 | [SEO Utils](http://seoutils.app/) | A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23** |
 | 💰 | [Umami Manager](https://apple.co/40MP50F) | Find out how your websites are doing on the go. Monitor your Umami analytics and add fancy widgets to your iPhone. Supports Umami self-hosted and Umami Cloud.! | 30% off (lifetime) |
+|  💰 | [Writecream](https://www.writecream.com/) | Generate blog articles in 1-Click. Generate anything from essays, stories, novels, articles, scripts, and more | 20% OFF with code **`WRITE20`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
