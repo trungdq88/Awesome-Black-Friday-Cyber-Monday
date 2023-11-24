@@ -192,6 +192,7 @@ Total deals: 506
 | 🤑 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_tony) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** (Valid till 27th Nov, 2023) |
 | 🤑 | [AskDocs](https://www.askdocs.com/) | AskDocs helps you complete hours of reading and research in minutes. You can get fast answers from legal contracts, academic papers, soap notes, and other documents or videos.| Get 50% off your subscription with code **BLACKFRIDAY23** |
 | 💰 | [Video Wiz](https://videowiz.ai) | Blinkist for YouTube & Podcast. Understand key insights of any video & podcast in minutes  | Get 50% off all plan |
+| 🤑 | [RightBlogger](https://rightblogger.com/) | RightBlogger offers over 60 AI-powered content creation tools for bloggers to speed up your blogging workflow | Get 50% off your first year, no coupon required |
 
 [⬆️ Go to Top](#table-of-contents)
 
