@@ -624,7 +624,7 @@ Total deals: 506
 |  💰 | [Login Me Now](https://wptownhall.com/login-me-now/) | Login Me Now provides over 15 features making it the ultimate WP login solution. | 50% OFF on all plans |
 |  💰 | [Essential Addons For Elementor](https://essential-addons.com/elementor/#pricing) | The most popular Elementor widgets library for 1 million users, offering 90+ advanced elements. | Starting at $34, with up to a 40% discount! |
 |  💰 | [Bit Form](https://bitapps.pro/black-friday-deals-2023/?utm=github) | Bit Form is the Best Contact Form Builder for WordPress. Build Highly Customized Forms in the Fastest & Easiest way possible. | Flat 40% discount! Starting at $23.40/Year |
-|  💰 | [Themify Themes](https://themify.me/blog/massive-black-friday-sale-2023?utm=github) | Premium WordPress Themes & Plugins, each theme can be used on an unlimited number of websites. | Massive Black Friday & Cyber Monday Sale – Enjoy 40% OFF! |
+|  💰 | [Themify Themes](https://themify.me/blog/massive-black-friday-sale-2023?utm=github) | Premium WordPress Themes & Plugins, each theme can be used on an unlimited number of websites. | Massive Black Friday & Cyber Monday Sale – Enjoy 40% OFF or $75 on LIFETIME! |
 
 
 [⬆️ Go to Top](#table-of-contents)
