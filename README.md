@@ -154,7 +154,6 @@ Total deals: 465
 | 💰 | [Plus AI](https://noteifyapp.com/plus-ai/) | Plus AI: Your AI text assistant. Write efficiently with Plus! This AI assistant will free you from routine,speeding up the creation of emails, presentations, and other texts.| 40% OFF (lifetime) with a promo code **MACPLUSBLACKFRIDAY2023**! or [using the link](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) |
 | 🤑 | [Joy](https://indiegoodies.com/joy) | Elevate your writing with ChatGPT/GPT-4. Available on Mac, iPhone, and iPad | 50% off lifetime on AppStore until November |
 | 🤑 | [MindMac](https://mindmac.app) | Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter and any local LLMs all in one place, designed for maximum productivity. | 55% OFF on all plans with code `BLACKFRIDAY` |
-| 🤑 | [AI4Chat](https://www.ai4chat.co/) | All your favorite chatbots under one roof. Merge the worlds of ChatGPT, GPT4, and Google Bard. | 50% off on AI4Chat's Unlimited plans |
 
 
 
@@ -190,8 +189,6 @@ Total deals: 465
 | 🤑 | [PDFPeer](https://pdfpeer.com) | Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Ask questions, get summary, find things quickly, and lots more. | 50% OFF on all plans with code `BF50` |
 | 💰 | [ChatDB](https://chatdb.ai) | Never write SQL again. Interact with your Postgres databases using AI and natural conversation | Get 20% off your subscription with code **FRIYAY** |
 | 🤑 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_tony) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** (Valid till 27th Nov, 2023) |
-| 🤑 | [AskDocs](https://www.askdocs.com/) | AskDocs helps you complete hours of reading and research in minutes. You can get fast answers from legal contracts, academic papers, soap notes, and other documents or videos.| Get 50% off your subscription with code **BLACKFRIDAY23** |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -246,8 +243,7 @@ Total deals: 465
 |  💰 | [Postcards](https://designmodo.com/postcards/) | No-code email template builder. | 40% OFF with code **BLACK** |
 |  💰 | [Pixen](https://pixenapp.com) | Pixen is a pixel art and animation editor for Mac and iOS. | 20% OFF in the App Store |
 |  💰 | [RetinaCapture](https://furnacecreek.org/retinacapture) | Simultaneously take 1x and 2x screenshots on Retina Macs | Free in the App Store until November 28 |
-|  🤑 | [Airbrush AI](https://www.airbrush.ai/lifetime-deal/) | Generate AI-powered images - in 1 click. | Get lifetime access to Airbrush AI for a one-time price of $29! |
-
+|  💰 | [Superflow](https://usesuperflow.com) | Comment & Collaborate directly on your live staging or production websites. | 35% OFF with code **SUPERBLACKFRIDAY**  |
 
 
 
@@ -431,6 +427,7 @@ Total deals: 465
 | 💵 | [SendFox](https://sendfox.com) | The affordable, simple email marketing solution. Organize your contacts, grow your email list, and set up scheduled emails or automations to communicate with your audience. Includes Zapier and API access. Alternative to Mailchimp. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 💵 | [TidyCal](https://tidycal.com) | The easiest way to manage your calendar. Get more bookings — without the stress. Integrate your calendar, meeting URLs, Zapier, API, and more to make calendar management simple. Set up free meetings, paid meetings, group calls, and tons more. Alternative to Calendly. | $29 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 🤑 | [Airtrics](https://airtrics.com) | Countdown timers for email. Build a timer in seconds with our no-code editor. Integrates easily into all marketing and email services. | 50% OFF for 3 months with code **BF50** |
+|  💰 | [Superflow](https://usesuperflow.com) | Comment & Collaborate directly on your live staging or production landing pages. | 35% OFF with code **SUPERBLACKFRIDAY**  |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -446,7 +443,6 @@ Total deals: 465
 |  🤑 | [Foudroyer](https://www.foudroyer.com) | Index your pages in less than 10 hours! Then, follow your keywords, analyze traffic in all search engines (Bing, Google, Yandex) | 50% OFF for the Pro subscription with code **`BLACKFRIDAY`** |
 |  💰 | [SEO Utils](http://seoutils.app/) | A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23** |
 | 💰 | [Umami Manager](https://apple.co/40MP50F) | Find out how your websites are doing on the go. Monitor your Umami analytics and add fancy widgets to your iPhone. Supports Umami self-hosted and Umami Cloud.! | 30% off (lifetime) |
-|  💰 | [Writecream](https://www.writecream.com/) | Generate blog articles in 1-Click. Generate anything from essays, stories, novels, articles, scripts, and more | 20% OFF with code **`WRITE20`** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -615,7 +611,7 @@ Total deals: 465
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?tony) | Plugins, widgets to extend & power up your Carrd sites. | 40% OFF with code **`BF2023`**. Will DM you a 50% code if you [retweet this](https://x.com/jasonleowsg/status/1724355482310337006?s=20) |
 |  💰 | [Gato GraphQL](https://gatographql.com/black-friday/) | Interact with your data in WordPress: Bulk updates, Automation, Send notifications, Sync content, and more. | 40% OFF the “All Extensions” Bundle |
 |  💰 | [Login Me Now](https://wptownhall.com/login-me-now/) | Login Me Now provides over 15 features making it the ultimate WP login solution. | 50% OFF on all plans |
-|  💰 | [Essential Addons For Elementor](https://essential-addons.com/elementor/#pricing) | The most popular Elementor widgets library for 1 million users, offering 90+ advanced elements. | Starting at $34, with up to a 40% discount! |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📚 Books
@@ -642,6 +638,7 @@ Total deals: 465
 |  🤑 | [A Guide to React Hooks](https://scastiel.gumroad.com/l/use-hooks?ref=trungdq88) | Learn more about the different ways you can use hooks to take your React application development experience to the next level. This new way of writing React components will make your code cleaner and more comfortable to test! | 50% off with code **FRIDAY23**. |
 |  🤑 | [Vue Mastery](https://www.vuemastery.com/black-friday/) | Take your Vue.js skills to the next level with the highest quality Vue courses. Learn from the experts and build amazing web applications. | Get 60% off a year |
 |  🤑 | [Vue School](https://vueschool.io/sales/blackfriday) | Master Vue.js and the Ecosystem | Get 60% OFF on a Vue School subscription |
+|  💰 | [Superflow](https://usesuperflow.com) | Comment & Collaborate directly on your live staging or production websites. | 35% OFF with code **SUPERBLACKFRIDAY**  |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -746,8 +743,6 @@ Total deals: 465
 |  🤑 | [Develop and Deploy Laravel Applications with Docker](https://laraveldocker.com/) | Learn how to use Docker to develop, test, and deploy Laravel applications with this video course. | 50% off with code **BLACKFRIDAY** through Cyber Monday |
 |  🤑 | [Zero To Shipped](https://zerotoshipped.com/) | Tired of not having your own SaaS product? This is the course for you. Master Fast-Paced Fullstack Development. Finally ship that product. You'll be surprised by the amount of knowledge that's crammed in a single course. Time to ship! | 67% off |
 |  🤑 | [Laracast](https://laracasts.com/) | An online learning platform specializing in web development, with a primary focus on the Laravel PHP framework | 50% off until **November 25th**|
-|  💰 | [Scrimba Pro - AI Engineer Path](https://scrimba.com/pricing?coupon=Black-Friday-2023#join) | Learn AI Engineering and Frontend web development with interactive screenscasts that get you coding.  | 20% additional off annual plan with link |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
