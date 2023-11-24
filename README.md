@@ -489,6 +489,7 @@ Total deals: 465
 | 💰 | [Devtree](https://devtree.app/) | The only developer platform to create the best portfolios and land jobs without any search. Get in front of companies without scouring job boards. | 40% OFF on Pro Plan - ONE TIME PAYMENT - Use Code **BF2023** |
 | 🤑 | [Stomod](https://stomod.com/) | Beautiful blogs effortlessly, with Notion. Write on Notion, launch SEO-optimized blogs effortlessly - no code, no design skills needed! | 50% OFF with coupon code **BF2023**|
 | 🤑 | [Jiffy.so](https://jiffy.so/) | Create Notion-Powered Websites With Notion As A Cms, Build Seo-Optimized, Visually Stunning Websites And Landing Pages, Knowledge Bases, Help Docs, Release Notes, Blogs, And More – All With No-Code In A Jiffy! | Use Code **BF50OFF** to get 50% off on a lifetime deal and also on a yearly plan. |
+| 🤑 | [NotionApps](https://notionapps.com/) | Create powerful portals, apps & forms from your Notion databases, without any coding | Head to the pricing page for the limited lifetime deal. |
 
 
 [⬆️ Go to Top](#table-of-contents)
