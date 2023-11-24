@@ -778,6 +778,7 @@ Total deals: 465
 |  💰 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1/BLACKFRIDAY) | This guide will help you to conduct better 1:1s, it includes a Notion template with simple yet effective 1:1 management setup. | 50% OFF with code **BLACKFRIDAY** |
 | 🤑 | [Knowledge Worker Kit](https://developassion.gumroad.com/l/knowledge-worker-kit?layout=profile) | The Knowledge Worker Kit is the ideal resource and community for Knowledge Workers who want to be on top of their game and Lifelong Learners  | 50% off with coupon code **BLACKFRIDAY2023** (valid from 11/13 - 11/27) |
 | 🤑 | [Get Your Firs Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch.  | 50% off with coupon code **BLACK** |
+| 🤑 | [Mid-level to Senior](https://maven.com/jordan-cutler/mid-level-to-senior?promoCode=MAVENMONDAY) | The 5 key skills to go from Mid-level to Senior Engineer | 25% off with coupon code **MAVENMONDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
