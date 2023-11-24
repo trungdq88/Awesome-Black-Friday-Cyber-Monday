@@ -746,6 +746,8 @@ Total deals: 465
 |  🤑 | [Develop and Deploy Laravel Applications with Docker](https://laraveldocker.com/) | Learn how to use Docker to develop, test, and deploy Laravel applications with this video course. | 50% off with code **BLACKFRIDAY** through Cyber Monday |
 |  🤑 | [Zero To Shipped](https://zerotoshipped.com/) | Tired of not having your own SaaS product? This is the course for you. Master Fast-Paced Fullstack Development. Finally ship that product. You'll be surprised by the amount of knowledge that's crammed in a single course. Time to ship! | 67% off |
 |  🤑 | [Laracast](https://laracasts.com/) | An online learning platform specializing in web development, with a primary focus on the Laravel PHP framework | 50% off until **November 25th**|
+|  💰 | [Scrimba Pro - AI Engineer Path](https://scrimba.com/pricing?coupon=Black-Friday-2023#join) | Learn AI Engineering and Frontend web development with interactive screenscasts that get you coding.  | 20% additional off annual plan with link |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
