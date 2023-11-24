@@ -191,7 +191,7 @@ Total deals: 465
 | 💰 | [ChatDB](https://chatdb.ai) | Never write SQL again. Interact with your Postgres databases using AI and natural conversation | Get 20% off your subscription with code **FRIYAY** |
 | 🤑 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_tony) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** (Valid till 27th Nov, 2023) |
 | 🤑 | [AskDocs](https://www.askdocs.com/) | AskDocs helps you complete hours of reading and research in minutes. You can get fast answers from legal contracts, academic papers, soap notes, and other documents or videos.| Get 50% off your subscription with code **BLACKFRIDAY23** |
-
+| 💰 | [Video Wiz](https://videowiz.ai) | Blinkist for YouTube & Podcast. Understand key insights of any video & podcast in minutes  | Get 50% off all plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
