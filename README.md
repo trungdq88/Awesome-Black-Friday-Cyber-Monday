@@ -837,6 +837,9 @@ Total deals: 465
 |  💰 | [DNS for Developers](https://www.nslookup.io/dns-course/) | Never be confused about DNS again. This online video course has everything you need to master DNS once and for all. | 23% OFF with code **BF2023** |
 | 🤑 | [Gumtrends](https://gumtrends.com) | Get access to a database of 65k+ Gumroad products with revenue, sales, ratings data | $37 for Lifetime Access (62% off, was $98) |
 | 🤑 | [ElfHosted](https://elfhosted.com/blog/2023/11/24/blackflagday-2023-deal/) | Popular self-hosted apps, hosted securely and reliably for you | 80% off Arr media management tools (so $0.01/day), with coupon code **BLACKFLAGDAY** |
+|  🤑 | [AppSync Masterclass](https://appsyncmasterclass.com?) | Jump into the world of modern fullstack development as we build a Twitter clone from scratch. You'll master GraphQL, AppSync, Lambda, DynamoDB, Vue.js, and Tailwind in a fun and practical journey into fullstack development! | 50% OFF with discount code **CYBERMONK** |
+|  🤑 | [Testing Serverless Architectures](https://testserverlessapps.com) | Explore the challenges and pitfalls in testing various serverless setups, from APIs to complex Event-Driven Architectures. | 50% OFF with discount code **CYBERMONK** |
+|  💰 | [Production-Ready Serverless](https://productionreadyserverless.com) | Get the most comprehensive training for building and running serverless apps in the real world. We cover everything from project setup, testing, CI/CD, to security and observability best practices. | 30% OFF with discount code **CYBERMONK** |
 
 
 [⬆️ Go to Top](#table-of-contents)
