@@ -813,5 +813,7 @@ Total deals: 465
 | 💰 | [BoringCashCow](https://boringcashcow.com/?ref=black_friday_deals_by_tony) | Discover Boring Businesses that Quietly Rake in the Cash Home. | 30% off with code **`godalRdf`** | Valid till 27th Nov, 2023 |
 | 🤑 | [VPS2day](https://www.vps2day.com/pricing?mtm_campaign=black-friday-2023&mtm_source=github&mtm_cid=trungdq88-awesome-black-friday-cyber-monday) | 100% prepaid virtual private servers (VPS) with unrestricted root access for [self-hosted software](https://github.com/awesome-selfhosted/awesome-selfhosted), VPNs, bots, crawlers, etc. | Up to 73% discount on special VPS types (Valid till 27th Nov, 2023) |
 |  💰 | [DNS for Developers](https://www.nslookup.io/dns-course/) | Never be confused about DNS again. This online video course has everything you need to master DNS once and for all. | 23% OFF with code **BF2023** |
+| 🤑 | [Gumtrends](https://gumtrends.com) | Get access to a database of 65k+ Gumroad products with revenue, sales, ratings data | $37 for Lifetime Access (62% off, was $98) |
+
 
 [⬆️ Go to Top](#table-of-contents)
