@@ -486,6 +486,7 @@ Total deals: 465
 | 💰 | [UnderDefense](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) | Your One-Stop Shop for Better, Easier, and Faster Cybersecurity - Our bestsellers—MDR, Managed SIEM, Pentest, and Incident Response Retainer—with 25% off. | 25% OFF for all new customers if you submit a request before December 5th |
 | 💰 | [Devtree](https://devtree.app/) | The only developer platform to create the best portfolios and land jobs without any search. Get in front of companies without scouring job boards. | 40% OFF on Pro Plan - ONE TIME PAYMENT - Use Code **BF2023** |
 | 🤑 | [Stomod](https://stomod.com/) | Beautiful blogs effortlessly, with Notion. Write on Notion, launch SEO-optimized blogs effortlessly - no code, no design skills needed! | 50% OFF with coupon code **BF2023**|
+| 🤑 | [Jiffy.so](https://jiffy.so/) | Create Notion-Powered Websites With Notion As A Cms, Build Seo-Optimized, Visually Stunning Websites And Landing Pages, Knowledge Bases, Help Docs, Release Notes, Blogs, And More – All With No-Code In A Jiffy! | Use Code **BF50OFF** to get 50% off on a lifetime deal and also on a yearly plan. |
 
 
 [⬆️ Go to Top](#table-of-contents)
