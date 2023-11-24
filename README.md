@@ -417,6 +417,7 @@ Total deals: 464
 | 💵 | [KingSumo](https://kingsumo.com) | Grow your email list faster with viral giveaways. Create unlimited giveaways, integrate directly with your email tool, and set up Zapier or API access. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 💵 | [SendFox](https://sendfox.com) | The affordable, simple email marketing solution. Organize your contacts, grow your email list, and set up scheduled emails or automations to communicate with your audience. Includes Zapier and API access. Alternative to Mailchimp. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 💵 | [TidyCal](https://tidycal.com) | The easiest way to manage your calendar. Get more bookings — without the stress. Integrate your calendar, meeting URLs, Zapier, API, and more to make calendar management simple. Set up free meetings, paid meetings, group calls, and tons more. Alternative to Calendly. | $29 Lifetime deal<br>**Extra 10% off for Black Friday**
+| 🤑 | [Airtrics](https://airtrics.com) | Countdown timers for email. Build a timer in seconds with our no-code editor. Integrates easily into all marketing and email services. | 50% OFF for 3 months with code **BF50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
