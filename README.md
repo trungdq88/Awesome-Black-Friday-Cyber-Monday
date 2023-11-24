@@ -26,7 +26,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 464
+Total deals: 465
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
@@ -63,6 +63,7 @@ Total deals: 464
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (31)](#-programming-courses)
+	- [🛜 Networking Courses (1)](#-networking-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (5)](#-career-courses)
 	- [📈 Marketing Courses (5)](#-marketing-courses)
@@ -130,6 +131,7 @@ Total deals: 464
 | 💰 | [Slides](https://designmodo.com/slides/) | Static website generator, create websites easily. | 40% discount with coupon: **`BLACK`** until Dec 1 |
 | 🤑 | [Loopple](https://www.loopple.com/) | Template builder for modern developers, working with Tailwind CSS, Bootstrap and React. | Up to **90%** discount on LTD plans |
 | 💰 | [Syncfusion](https://www.syncfusion.com/black-friday) | 1,800+ Ultimate UI Component Suite for Web, Desktop, and Mobile Apps. | Get Up to **40%** OFF on Essential Studio team licenses for 5 or 10 developers. Use the coupon code **`BLACKFRIDAY40`** until Nov 27 | 
+| 🤑 | [HTTP Toolkit](https://httptoolkit.com/) | HTTP debugging, testing & reverse engineering tool for Windows, Linux & Mac | **50% discount for annual plans** with code `BLACKFRIDAY` until Nov 27th |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -300,6 +302,7 @@ Total deals: 464
 | 💰 | [Lasso](https://thelasso.app) | Move and resize windows with your mouse. | 40% OFF with code **BLACKBLACK40** |
 | 💰 | [Sidebar](https://sidebarapp.net) | The modern Dock replacement for your Mac | 30% off all licenses until November 26th |
 | 🤑 | [FunKey - Mechanical Keyboard App](https://apps.apple.com/us/app/funkey-mechanical-keyboard-app/id6469420677) | enhances your typing with enjoyable sounds of mechanical keyboards and mouse clicks. | 50% off lifetime, available until Nov 27 |
+| 🤑 | [OnScreen - Floating window](https://apps.apple.com/us/app/onscreen-floating-window/id6469731201?mt=12) | Capture any portion of your screen and transform it into a floating window. | 60% OFF LIFETIME LICENSE |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -386,6 +389,7 @@ Total deals: 464
 | 💰 | [Leave Me Alone](https://leavemealone.com) | Easily unsubscribe from emails. See all of your newsletters in one place and unsubscribe from them with a single click. | 40% OFF (automatically applied) |
 | 💰 | [HireVirtual] (https://www.hirevirtual.co/) | Optimize your business with HireVirtual and save up to 80% on staffing costs. Our service provides skilled virtual assistants for efficient task delegation and automation. | Enjoy 25% off for the first two months. **Mention** this deal during your discovery call, bookable through our website. |
 | 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off |
+| 🤑 | [OneCal](https://www.onecal.io/) | Sync your calendars, avoid meeting conflicts | 50% off the first year with **onecal_bf**|
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -417,6 +421,7 @@ Total deals: 464
 | 💵 | [KingSumo](https://kingsumo.com) | Grow your email list faster with viral giveaways. Create unlimited giveaways, integrate directly with your email tool, and set up Zapier or API access. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 💵 | [SendFox](https://sendfox.com) | The affordable, simple email marketing solution. Organize your contacts, grow your email list, and set up scheduled emails or automations to communicate with your audience. Includes Zapier and API access. Alternative to Mailchimp. | $49 Lifetime deal<br>**Extra 10% off for Black Friday**
 | 💵 | [TidyCal](https://tidycal.com) | The easiest way to manage your calendar. Get more bookings — without the stress. Integrate your calendar, meeting URLs, Zapier, API, and more to make calendar management simple. Set up free meetings, paid meetings, group calls, and tons more. Alternative to Calendly. | $29 Lifetime deal<br>**Extra 10% off for Black Friday**
+| 🤑 | [Airtrics](https://airtrics.com) | Countdown timers for email. Build a timer in seconds with our no-code editor. Integrates easily into all marketing and email services. | 50% OFF for 3 months with code **BF50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -468,6 +473,7 @@ Total deals: 464
 | 🤑 | [Guidejar](https://guidejar.com/) | Create interactive product demos and step by step guides effortlessly in seconds | 50% OFF with coupon code **BLACK25**|
 | 💰 | [BoldSign](https://boldsign.com/) | Easily collect legally binding eSignatures online from our app or yours. An enterprise-grade electronic signature web application and API | Flat 30% with coupon code **BLACKFRIDAY2023**  [Any doubts? Contact us from here](https://boldsign.com/contact-us/) |
 | 💰 | [UnderDefense](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) | Your One-Stop Shop for Better, Easier, and Faster Cybersecurity - Our bestsellers—MDR, Managed SIEM, Pentest, and Incident Response Retainer—with 25% off. | 25% OFF for all new customers if you submit a request before December 5th |
+| 💰 | [Devtree](https://devtree.app/) | The only developer platform to create the best portfolios and land jobs without any search. Get in front of companies without scouring job boards. | 40% OFF on Pro Plan - ONE TIME PAYMENT - Use Code **BF2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -594,7 +600,7 @@ Total deals: 464
 |  💰 | [Coupon Affiliates for WooCommerce](https://couponaffiliates.com) | Easily create a coupon-based affiliate program for your WooCommerce site. | 30% OFF with code **`BF2023`** |
 |  💰 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?tony) | Plugins, widgets to extend & power up your Carrd sites. | 40% OFF with code **`BF2023`**. Will DM you a 50% code if you [retweet this](https://x.com/jasonleowsg/status/1724355482310337006?s=20) |
 |  💰 | [Gato GraphQL](https://gatographql.com/black-friday/) | Interact with your data in WordPress: Bulk updates, Automation, Send notifications, Sync content, and more. | 40% OFF the “All Extensions” Bundle |
-
+|  💰 | [Login Me Now](https://wptownhall.com/login-me-now/) | Login Me Now provides over 15 features making it the ultimate WP login solution. | 50% OFF on all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -725,7 +731,7 @@ Total deals: 464
 |  🤑 | [Developer to Leader](https://www.developertoleader.com/?utm_source=tonydinhbf) | Learn how to lead a team successfully even if you've never managed or led anyone before. | 50% off with code **BLACKFRIDAY** |
 |  🤑 | [Develop and Deploy Laravel Applications with Docker](https://laraveldocker.com/) | Learn how to use Docker to develop, test, and deploy Laravel applications with this video course. | 50% off with code **BLACKFRIDAY** through Cyber Monday |
 |  🤑 | [Zero To Shipped](https://zerotoshipped.com/) | Tired of not having your own SaaS product? This is the course for you. Master Fast-Paced Fullstack Development. Finally ship that product. You'll be surprised by the amount of knowledge that's crammed in a single course. Time to ship! | 67% off |
-
+|  🤑 | [Laracast](https://laracasts.com/) | An online learning platform specializing in web development, with a primary focus on the Laravel PHP framework | 50% off until **November 25th**|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -806,6 +812,8 @@ Total deals: 464
 | 💰 | [Indie Masterminds](https://indiemasterminds.com/?ref=black_friday_deals_by_tony) | Tight knit community of indie founders. Private slack with 90+ members, premium courses, sprints and more. | 20% off on lifetime or annual plan with the code **`BFCM23`** | Valid till 27th Nov, 2023 |
 | 💰 | [BoringCashCow](https://boringcashcow.com/?ref=black_friday_deals_by_tony) | Discover Boring Businesses that Quietly Rake in the Cash Home. | 30% off with code **`godalRdf`** | Valid till 27th Nov, 2023 |
 | 🤑 | [VPS2day](https://www.vps2day.com/pricing?mtm_campaign=black-friday-2023&mtm_source=github&mtm_cid=trungdq88-awesome-black-friday-cyber-monday) | 100% prepaid virtual private servers (VPS) with unrestricted root access for [self-hosted software](https://github.com/awesome-selfhosted/awesome-selfhosted), VPNs, bots, crawlers, etc. | Up to 73% discount on special VPS types (Valid till 27th Nov, 2023) |
+|  💰 | [DNS for Developers](https://www.nslookup.io/dns-course/) | Never be confused about DNS again. This online video course has everything you need to master DNS once and for all. | 23% OFF with code **BF2023** |
 | 🤑 | [Gumtrends](https://gumtrends.com) | Get access to a database of 65k+ Gumroad products with revenue, sales, ratings data | $37 for Lifetime Access (62% off, was $98) |
+
 
 [⬆️ Go to Top](#table-of-contents)
