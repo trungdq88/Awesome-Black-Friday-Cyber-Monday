@@ -194,6 +194,8 @@ Total deals: 506
 | 💰 | [Video Wiz](https://videowiz.ai) | Blinkist for YouTube & Podcast. Understand key insights of any video & podcast in minutes  | Get 50% off all plan |
 | 💰 | [ChatNBX](https://chat.nbox.ai/) | ChatNBX is an AI chat application that helps users generate text, images, and code  | 50% Off on our Plus subscription plan - Use promo code "BLACKFRIDAY50"|
 | 💰 | [EmbedAI](https://www.thesamur.ai/) | EmbedAI is an AI chatbot builder that allows you to create AI chatbots trained for your website, PDF, or video  | Get 20% off on Pro Plan yearly **BLACKFRIDAY20** |
+| 🤑 | [Podwise](https://podwise.xyz/) | Podwise, The premier AI learning app for podcast listeners. | 65% OFF with promp code: Monthly **BF2023** & Annually **BF2023AU** until November 27.|
+
 
 
 [⬆️ Go to Top](#table-of-contents)
