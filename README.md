@@ -622,6 +622,7 @@ Total deals: 506
 | 🤑 | [RunApp.Today](https://RunApp.Today) | The Ideal AI SaaS Boilplate (Pre-Order) | 50% OFF and 1 custom feature for free |
 |  🤑 | [MDBootstrap](https://mdbootstrap.com/sale/november/standard/) | Top quality UI Kits for Bootstrap 5, jQuery, Angular, React & Vue. |  Exclusive **$30 discount** ON TOP OF already discounted Black Friday offers. Just use code **`github`** on the checkout to claim the discount. |
 |  🤑 | [TW Elements](https://tw-elements.com/pro/) | Top quality Tailwind UI Kit | Get a **$500 OFF** on a licence for an unlimited number of projects. |
+| 💰  | [Magic UI](https://magicui.design) | Create Magical Landing Pages in Minutes | $30 off personal license. Use code **ONEDAYSPECIAL**. Valid till 24th November, 2023 |
 
 
 
