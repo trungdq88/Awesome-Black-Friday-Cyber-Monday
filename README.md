@@ -195,7 +195,7 @@ Total deals: 506
 | 💰 | [ChatNBX](https://chat.nbox.ai/) | ChatNBX is an AI chat application that helps users generate text, images, and code  | 50% Off on our Plus subscription plan - Use promo code "BLACKFRIDAY50"|
 | 💰 | [EmbedAI](https://www.thesamur.ai/) | EmbedAI is an AI chatbot builder that allows you to create AI chatbots trained for your website, PDF, or video  | Get 20% off on Pro Plan yearly **BLACKFRIDAY20** |
 | 🤑 | [Podwise](https://podwise.xyz/) | Podwise, The premier AI learning app for podcast listeners. | 65% OFF with promp code: Monthly **BF2023** & Annually **BF2023AU** until November 27.|
-
+| 🤑 | [RightBlogger](https://rightblogger.com/) | RightBlogger offers over 60 AI-powered content creation tools for bloggers to speed up your blogging workflow | Get 50% off your first year, no coupon required |
 
 
 [⬆️ Go to Top](#table-of-contents)
