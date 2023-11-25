@@ -249,8 +249,6 @@ Total deals: 506
 |  🤑 | [Airbrush AI](https://www.airbrush.ai/lifetime-deal/) | Generate AI-powered images - in 1 click. | Get lifetime access to Airbrush AI for a one-time price of $29! |
 |  💰 | [Superflow](https://usesuperflow.com) | Comment & Collaborate directly on your live staging or production websites. | 35% OFF with code **SUPERBLACKFRIDAY**  |
 |  🤑 | [Filma](https://filma.app) | We help brands and content creators overcome complex editing workflows with our affordable, smart and user-friendly video editing app to quickly produce tons of professional-looking videos that will elevate their visibility and reputation. | Get 90 days of Premium Plan for FREE - visit our website to claim it 🎬🤩 |
-|  🤑 | [MDBootstrap](https://mdbootstrap.com/sale/november/standard/) | Top quality UI Kits for Bootstrap 5, jQuery, Angular, React & Vue. |  Exclusive **$30 discount** ON TOP OF already discounted Black Friday offers. Just use code **`github`** on the checkout to claim the discount. |
-|  🤑 | [TW Elements](https://tw-elements.com/pro/) | Top quality Tailwind UI Kit | Get a **$500 OFF** on a licence for an unlimited number of projects. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -610,6 +608,8 @@ Total deals: 506
 | 🤑 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
 | 🤑 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. |
 | 🤑 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_tony) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages | Valid till 31st Dec, 2023 |
+|  🤑 | [MDBootstrap](https://mdbootstrap.com/sale/november/standard/) | Top quality UI Kits for Bootstrap 5, jQuery, Angular, React & Vue. |  Exclusive **$30 discount** ON TOP OF already discounted Black Friday offers. Just use code **`github`** on the checkout to claim the discount. |
+|  🤑 | [TW Elements](https://tw-elements.com/pro/) | Top quality Tailwind UI Kit | Get a **$500 OFF** on a licence for an unlimited number of projects. |
 
 
 [⬆️ Go to Top](#table-of-contents)
