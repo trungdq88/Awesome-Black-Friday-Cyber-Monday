@@ -257,7 +257,6 @@ Total deals: 506
 |  🤑 | [Filma](https://filma.app) | We help brands and content creators overcome complex editing workflows with our affordable, smart and user-friendly video editing app to quickly produce tons of professional-looking videos that will elevate their visibility and reputation. | Get 90 days of Premium Plan for FREE - visit our website to claim it 🎬🤩 |
 
 
-
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -618,6 +617,9 @@ Total deals: 506
 | 🤑 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. |
 | 🤑 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_tony) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages | Valid till 31st Dec, 2023 |
 | 🤑 | [RunApp.Today](https://RunApp.Today) | The Ideal AI SaaS Boilplate (Pre-Order) | 50% OFF and 1 custom feature for free |
+|  🤑 | [MDBootstrap](https://mdbootstrap.com/sale/november/standard/) | Top quality UI Kits for Bootstrap 5, jQuery, Angular, React & Vue. |  Exclusive **$30 discount** ON TOP OF already discounted Black Friday offers. Just use code **`github`** on the checkout to claim the discount. |
+|  🤑 | [TW Elements](https://tw-elements.com/pro/) | Top quality Tailwind UI Kit | Get a **$500 OFF** on a licence for an unlimited number of projects. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
