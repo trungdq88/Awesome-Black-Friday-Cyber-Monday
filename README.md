@@ -773,7 +773,7 @@ Total deals: 506
 |  💰 | [Scrimba Pro - AI Engineer Path](https://scrimba.com/pricing?coupon=Black-Friday-2023#join) | Learn AI Engineering and Frontend web development with interactive screenscasts that get you coding.  | 20% additional off annual plan with link |
 |  💰 | [GreatFrontEnd](https://greatfrontend.com) | All-in-one front end interview preparation by ex-FAANG engineers. | 30% off with the code BLACKFRIDAY23 |
 |  💰 | [PythonToProject - 5 Week Online course](https://bhavaniravi.gumroad.com/l/LaFSj/P2PBLACK2023) | Go from Beginner Pythonista to a Project creator | 25% off with the code P2PBLACK2023 |
-
+|  🤑 | [Python Morsels Lifetime Access](https://www.pythonmorsels.com/lifetime-access-sale/) | Python Morsels helps experienced developers deepen their Python skills in a way that day-to-day coding does not. Subscriptions include access to hundreds of hands-on exercise material, including supporting screencasts and articles. | Pay for 2 years, acccess for life |
 
 [⬆️ Go to Top](#table-of-contents)
 
