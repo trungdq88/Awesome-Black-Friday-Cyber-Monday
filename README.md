@@ -545,6 +545,7 @@ Total deals: 524
 | 💰 | [Digrin](https://www.digrin.com/portfolio/24-dividend-growth-investing/) | Dividend tracker for stock/ETF investors | 30% OFF with **BLACKFRIDAY2023** |
 | 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forcasting (Mac app) | 50% off first year, until Nov 28th |
 | 💰 | [Capitally](https://mycapitally.com) | Investments tracker with custom assets, robust CSV imports and E2E encryption | €100-200 Lifetime Deal |
+| 🤑 | [AnyTracker](https://anytracker.org/) | Price tracker that works on any website. Stock, crypto and currency tracking included. | 50% off Lifetime Premium |
 
 
 [⬆️ Go to Top](#table-of-contents)
