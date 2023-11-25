@@ -256,7 +256,7 @@ Total deals: 506
 |  🤑 | [Airbrush AI](https://www.airbrush.ai/lifetime-deal/) | Generate AI-powered images - in 1 click. | Get lifetime access to Airbrush AI for a one-time price of $29! |
 |  💰 | [Superflow](https://usesuperflow.com) | Comment & Collaborate directly on your live staging or production websites. | 35% OFF with code **SUPERBLACKFRIDAY**  |
 |  🤑 | [Filma](https://filma.app) | We help brands and content creators overcome complex editing workflows with our affordable, smart and user-friendly video editing app to quickly produce tons of professional-looking videos that will elevate their visibility and reputation. | Get 90 days of Premium Plan for FREE - visit our website to claim it 🎬🤩 |
-
+| 🤑 | [HueHouse](https://apps.apple.com/us/app/huehouse-color-picker-tool/id1615316098) | Easily pick colors, manage and collect colors, and share with others. Available on iPad and Mac.| 50% OFF for LIFETIME on App Store. Valid until 28 Nov |
 
 [⬆️ Go to Top](#table-of-contents)
 
