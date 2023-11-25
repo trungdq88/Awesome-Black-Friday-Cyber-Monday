@@ -545,6 +545,7 @@ Total deals: 506
 | 🤑 | [CheckCraft](https://apps.apple.com/us/app/checkcraft/id6469945468) | Printing checks from your Mac, iPhone or iPad | 50% OFF on the Mac App Store |
 | 💰 | [Digrin](https://www.digrin.com/portfolio/24-dividend-growth-investing/) | Dividend tracker for stock/ETF investors | 30% OFF with **BLACKFRIDAY2023** |
 | 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forcasting (Mac app) | 50% off first year, until Nov 28th |
+| 💰 | [Capitally](https://mycapitally.com) | Investments tracker with custom assets, robust CSV imports and E2E encryption | €100-200 Lifetime Deal |
 
 
 [⬆️ Go to Top](#table-of-contents)
