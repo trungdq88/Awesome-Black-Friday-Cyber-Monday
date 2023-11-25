@@ -769,6 +769,7 @@ Total deals: 506
 |  🤑 | [Laracast](https://laracasts.com/) | An online learning platform specializing in web development, with a primary focus on the Laravel PHP framework | 50% off until **November 25th**|
 |  💰 | [Scrimba Pro - AI Engineer Path](https://scrimba.com/pricing?coupon=Black-Friday-2023#join) | Learn AI Engineering and Frontend web development with interactive screenscasts that get you coding.  | 20% additional off annual plan with link |
 |  💰 | [GreatFrontEnd](https://greatfrontend.com) | All-in-one front end interview preparation by ex-FAANG engineers. | 30% off with the code BLACKFRIDAY23 |
+|  💰 | [PythonToProject - 5 Week Online course](https://bhavaniravi.gumroad.com/l/LaFSj/P2PBLACK2023) | Go from Beginner Pythonista to a Project creator | 25% off with the code P2PBLACK2023 |
 
 
 [⬆️ Go to Top](#table-of-contents)
