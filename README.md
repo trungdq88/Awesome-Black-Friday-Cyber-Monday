@@ -786,8 +786,9 @@ Total deals: 524
 | -- | ---| ------ | ------ |
 |  💰 | [AppSecEngineer](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture.  | 25% OFF all annual plans with code **PUMPKINPIE25** |
 | 💰 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/) | Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling courses | 15% off all courses |
-|  🤑 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 11/25/2023 8:00 AM PST |
-
+|  💰 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 11/25/2023 8:00 AM PST |
+|  💰 | [Breaching AWS](https://www.cloudbreach.io/breachingaws) | A hands-on practical course + exam on Offensive AWS Security. Students are provided with access to training material and labs with the right tools to exploit vulnerable AWS services in a cloud enviroment that simulates a realistic corporation. | 20% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 12/10/2023 8:00 AM PST |
+|  💰 | [Breaching Azure](https://www.cloudbreach.io/breachingazure) | A hands-on practical course + exam on Offensive Azure Security. Students are provided with access to training material and labs that replicate a complex enterprise environment with multiple Azure tenants. | 20% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 12/10/2023 8:00 AM PST |
 
 [⬆️ Go to Top](#table-of-contents)
 
