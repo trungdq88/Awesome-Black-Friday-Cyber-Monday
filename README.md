@@ -192,7 +192,9 @@ Total deals: 506
 | 🤑 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_tony) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** (Valid till 27th Nov, 2023) |
 | 🤑 | [AskDocs](https://www.askdocs.com/) | AskDocs helps you complete hours of reading and research in minutes. You can get fast answers from legal contracts, academic papers, soap notes, and other documents or videos.| Get 50% off your subscription with code **BLACKFRIDAY23** |
 | 💰 | [Video Wiz](https://videowiz.ai) | Blinkist for YouTube & Podcast. Understand key insights of any video & podcast in minutes  | Get 50% off all plan |
+| 💰 | [ChatNBX](https://chat.nbox.ai/) | ChatNBX is an AI chat application that helps users generate text, images, and code  | 50% Off on our Plus subscription plan - Use promo code "BLACKFRIDAY50"|
 | 💰 | [EmbedAI](https://www.thesamur.ai/) | EmbedAI is an AI chatbot builder that allows you to create AI chatbots trained for your website, PDF, or video  | Get 20% off on Pro Plan yearly **BLACKFRIDAY20** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -330,6 +332,7 @@ Total deals: 506
 | 🤑 | [MuteDeck](https://mutedeck.com/?ref=ghawesomebf23) | Never hear "hey, you're on mute" again. Say goodbye to meeting stress and mistakes with MuteDeck. | Enjoy 50% off with this discount code **BLACKFRIDAY23**|
 | 🤑 | [Silenz](https://apps.apple.com/us/app/silenz/id1126098076?mt=12&at=1010lLeR&ct=Awesome-Black-Friday-Cyber-Monday) | Mix your music and the sounds of the outside world in a smart way. Stay focused. Hear with your headphones on. Reduce distractions. | 50% OFF |
 | 💰 | [timeMaster](https://www.timemaster.ai/) | Enhance Focus & Productivity with Automated, Privacy-First Time Tracking. | 40% OFF with code **BF40** |
+| 🤑 | [Tyme](https://www.tyme-app.com/en/black-friday-discount/) | Time tracking for freelancers, employees and teams. Beautiful and native Apps for Mac, iPhone, iPad and Apple Watch. | Free for the first 3 months! |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -452,6 +455,7 @@ Total deals: 506
 | 💰 | [Umami Manager](https://apple.co/40MP50F) | Find out how your websites are doing on the go. Monitor your Umami analytics and add fancy widgets to your iPhone. Supports Umami self-hosted and Umami Cloud.! | 30% off (lifetime) |
 |  💰 | [Writecream](https://www.writecream.com/) | Generate blog articles in 1-Click. Generate anything from essays, stories, novels, articles, scripts, and more | 20% OFF with code **`WRITE20`** |
 | 💰 | [Editby](https://www.editby.ai/) | Create high-quality, unique SEO-optimized content, keeping your brand's style and adding references | 40% off (for 12 months) with code: **`EDITBLACK23`** |
+| 🤑 | [RankWeek](https://www.rankweek.com) | Automatically index new pages on Google - The easiest way to boost your SEO | Lifetime Deal |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -625,6 +629,7 @@ Total deals: 506
 |  💰 | [Login Me Now](https://wptownhall.com/login-me-now/) | Login Me Now provides over 15 features making it the ultimate WP login solution. | 50% OFF on all plans |
 |  💰 | [Essential Addons For Elementor](https://essential-addons.com/elementor/#pricing) | The most popular Elementor widgets library for 1 million users, offering 90+ advanced elements. | Starting at $34, with up to a 40% discount! |
 |  💰 | [Bit Form](https://bitapps.pro/black-friday-deals-2023/?utm=github) | Bit Form is the Best Contact Form Builder for WordPress. Build Highly Customized Forms in the Fastest & Easiest way possible. | Flat 40% discount! Starting at $23.40/Year |
+|  💰 | [Themify Themes](https://themify.me/blog/massive-black-friday-sale-2023?utm=github) | Premium WordPress Themes & Plugins, each theme can be used on an unlimited number of websites. | Massive Black Friday & Cyber Monday Sale – Enjoy 40% OFF or $75 on LIFETIME! |
 
 
 [⬆️ Go to Top](#table-of-contents)
