@@ -26,33 +26,33 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 506
+Total deals: 524
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
 	- [💻 Tools & Services (26)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (14)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (28)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (25)](#-other-ai-tools)
-- [🌅 Design Tools (17)](#-design-tools)
+	- [📖 AI Productivity & Learning Tools (33)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (26)](#-other-ai-tools)
+- [🌅 Design Tools (18)](#-design-tools)
 - [⌨️ Code Libraries (5)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Notes, Organize, Planning (7)](#tasks-notes-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (23)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (8)](#time-distraction-focus)
+		- [Time, Distraction, Focus (9)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (20)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (18)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (24)](#-marketing-tools)
-- [🔍 SEO Tools (10)](#-seo-tools)
+- [🌈 Marketing Tools (25)](#-marketing-tools)
+- [🔍 SEO Tools (11)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (31)](#-startup-saastools)
 - [🌏 Social Media Tools (15)](#-social-media-tools)
-- [💸 Finance Tools (14)](#-finance-tools)
+- [💸 Finance Tools (15)](#-finance-tools)
 - [🎛 Utility Tools (21)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (34)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (7)](#-themes-plugins)
+- [💅 Boilerplates, Starter-Kit, Templates (38)](#-boilerplates-starter-kit-templates)
+- [🧩 Themes, Plugins (8)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
 		- [Web Dev & Design (17)](#web-dev--design)
@@ -62,13 +62,12 @@ Total deals: 506
 	- [📘 Startup & Career Books (9)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (34)](#-programming-courses)
+	- [💻 Programming Courses (36)](#-programming-courses)
 	- [🔒 Information Security Courses (3)](#-information-security-courses)
 	- [🎢 Career Courses (6)](#-career-courses)
 	- [📈 Marketing Courses (5)](#-marketing-courses)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (27)](#-miscellaneous)
-
 
 ## 👨‍💻 Developer Tools
 
