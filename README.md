@@ -196,6 +196,7 @@ Total deals: 524
 | 🤑 | [Podwise](https://podwise.xyz/) | Podwise, The premier AI learning app for podcast listeners. | 65% OFF with promp code: Monthly **BF2023** & Annually **BF2023AU** until November 27.|
 | 🤑 | [RightBlogger](https://rightblogger.com/) | RightBlogger offers over 60 AI-powered content creation tools for bloggers to speed up your blogging workflow | Get 50% off your first year, no coupon required |
 | 🤑 | [CodePrompt](https://codeprompt.app/home) | Turns natural language prompts into AI coding suggestions for Javascript, React, Typescript  | Get 50% off with code **AIBF50** |
+| 🤑 | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | Get 50% off with code **BF50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
