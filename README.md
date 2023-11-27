@@ -131,6 +131,7 @@ Total deals: 524
 | 💰 | [Syncfusion](https://www.syncfusion.com/black-friday) | 1,800+ Ultimate UI Component Suite for Web, Desktop, and Mobile Apps. | Get Up to **40%** OFF on Essential Studio team licenses for 5 or 10 developers. Use the coupon code **`BLACKFRIDAY40`** until Nov 27 | 
 | 🤑 | [HTTP Toolkit](https://httptoolkit.com/) | HTTP debugging, testing & reverse engineering tool for Windows, Linux & Mac | **50% discount for annual plans** with code `BLACKFRIDAY` until Nov 27th |
 | 💰 | [Apidog](https://apidog.com/) | Apidog, the all-in-one collaboration platform, seamlessly integrates popular API tools like Postman, Swagger, and JMeter. Designed for API documentation, debugging, mocking, and automated testing. | 20-40% off |
+| 🤑 | [PROCESIO](https://procesio.com) | Your A to Z Automation Platform. Simplify and Optimize your Entire Applications Suite vs. just implementing linear flows and predefined connectors. | 95% OFF **`CyberMonday`** by reacting and comment to this [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7134827335073054721) post and receive your discount. |
 
 
 [⬆️ Go to Top](#table-of-contents)
