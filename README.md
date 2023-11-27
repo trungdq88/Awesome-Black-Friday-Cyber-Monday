@@ -287,6 +287,7 @@ Total deals: 524
 | 💰 | [EagleFiler](https://c-command.com/eaglefiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Nov 28|
 | 🤑 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UC-BLACKFRIDAY-2023&s=git#UNCLUTTER) | Files, Notes & Clipboard manager for Mac | 50% OFF|
+| 💰 | [Roam Research](https://t.co/UfyQorbnia) | Roam is a tool geared for Writing, Research, and Studying |  Use code CYBERNETIC for $200 off the 5 year plan|
 
 
 [⬆️ Go to Top](#table-of-contents)
