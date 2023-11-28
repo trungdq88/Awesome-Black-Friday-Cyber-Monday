@@ -509,6 +509,8 @@ Total deals: 540
 | 🤑 | [Stomod](https://stomod.com/) | Beautiful blogs effortlessly, with Notion. Write on Notion, launch SEO-optimized blogs effortlessly - no code, no design skills needed! | 50% OFF with coupon code **BF2023**|
 | 🤑 | [Jiffy.so](https://jiffy.so/) | Create Notion-Powered Websites With Notion As A Cms, Build Seo-Optimized, Visually Stunning Websites And Landing Pages, Knowledge Bases, Help Docs, Release Notes, Blogs, And More – All With No-Code In A Jiffy! | Use Code **BF50OFF** to get 50% off on a lifetime deal and also on a yearly plan. |
 | 🤑 | [NotionApps](https://notionapps.com/) | Create powerful portals & apps from your Notion databases, without any coding. These apps could be public or private and the data could be limited based on the logged-in user. | Head to the pricing page for a limited lifetime deal. |
+| 💰 | [Calamari](https://calamari.io/) | HR platform with easy-to-use tools for leave management, time & attendance tracking and employee document storage | 30% discount for first payment until 1st Dec. [Talk with us](https://calamari.io/contact) |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
