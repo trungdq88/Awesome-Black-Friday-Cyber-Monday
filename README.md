@@ -388,6 +388,7 @@ Total deals: 524
 | 💰 | [Polar Habits](https://polarhabits.com/?utm_campaign=BF2023&utm_source=github-trungdq88) | Guilt-free habit tracker to help you build momentum, not streaks | 25% OFF forever on all subscriptions (automatically applied) until November 30th |
 | 💰 | [Nut Widgets](https://apps.apple.com/app/apple-store/id6450901305?pt=120255327&ct=GH1123&mt=8) | Customizable home screen widgets allowing you to pin selected pages and properties from a Notion database to home screen.| 30% Off Lifetime Access until Nov 28th |
 | 💰 | [Things 3](https://apps.apple.com/vn/app/things-3/id904237743) | Get things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals. | 30% OFF. The price you see in the App Store already has the discount applied. Sale ends November 27!
+| 💰 | [Mini Note](https://apps.apple.com/us/app/note/id1602765272) | A note and widget for things you want to keep in focus. iOS & iPadOS. | 33% off through November 28. |
 
 
 [⬆️ Go to Top](#table-of-contents)
