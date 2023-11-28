@@ -789,6 +789,7 @@ Total deals: 524
 |  💰 | [AppSecEngineer](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture.  | 25% OFF all annual plans with code **PUMPKINPIE25** |
 | 💰 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/) | Hands on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling courses | 15% off all courses |
 |  🤑 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% OFF with code **BLACKFRIDAY23** | 11/20/2023 8:00 AM PST | 11/25/2023 8:00 AM PST |
+| 💰 | [Red Team Field Manual](https://www.thertfm.com/store/) | HIGH QUALITY RTFM instruction led by a seasoned Red Team operator | 20% off RTFM Video Library \ 25% off RTFM Video Library + SWAG \ 25% off RTFM Video Library + SWAG + FREE BONUS ITEMS! |
 
 
 [⬆️ Go to Top](#table-of-contents)
