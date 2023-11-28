@@ -206,6 +206,7 @@ Total deals: 540
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 💰 | [10LevelUp](https://10levelup.com/) | Automatically cut viral clips out of your YouTube videos | 30% OFF your first year **BLACKWEEK** (valid on yearly plans. Expires 9th of december) |
 | 🤑 | [VectorArt.ai](https://vectorart.ai?ref=awesomebf) | Create vector images with AI. Use the power of generative AI to create infinitely scalable vector images, logos, icons and illustrations for your website, business or app. | Enjoy 50% off with this discount code **`BFF2023`** |
 | 🤑 | [JSON Data AI](https://jsondataai.com) | Create AI-generated API endpoints. Get JSON data about anything with a prompt. Turn it into an API endpoint. Start fetching. | Enjoy 50% off with this discount code **`BLACKFRIDAY50`** |
 | 💰 | [PlaylistAI](https://playlistai.app/) | Create Spotify and Apple Music playlists with AI | Get 50% off by downloading the app |
@@ -517,6 +518,7 @@ Total deals: 540
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 💰 | [10LevelUp](https://10levelup.com/) | Automatically cut viral clips out of your YouTube videos | 30% OFF your first year **BLACKWEEK** (valid on yearly plans. Expires 9th of december) |
 |  🤑 | [BlackMagic.so](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience. | BLACKFRIDAY_2023 for 40% off first year on annual plan |
 |  🤑 | [Assembly](https://assembly.marketing?utm_source=black_friday) | Assembly offers end to end tooling for your social workflow. Draft posts with a Notion-like editor, manage approvals of posts using Slack, and analyze your posts analytics across every social channel all in one place. P.S. if you do a lot of content, we also support bulk uploading and scheduling of social posts via CSV! | BLACKFRIDAY2023 for 50% off for 3 months |
 |  💰 | [Mixpost](https://mixpost.app?utm_source=awesome_black_friday) | Self-hosted software that allows you to schedule and organize all of your social content in one place, without limits or monthly subscriptions. Run Mixpost on your server, take control of your data, and pay less for a powerful social media management tool. | 30% OFF - auto-discount |
