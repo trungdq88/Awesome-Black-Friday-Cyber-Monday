@@ -414,6 +414,7 @@ Total deals: 524
 | 💰 | [HireVirtual](https://www.hirevirtual.co/) | Optimize your business with HireVirtual and save up to 80% on staffing costs. Our service provides skilled virtual assistants for efficient task delegation and automation. | Enjoy 25% off for the first two months. **Mention** this deal during your discovery call, bookable through our website. |
 | 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off |
 | 🤑 | [OneCal](https://www.onecal.io/) | Sync your calendars, avoid meeting conflicts | 50% off the first year with **onecal_bf**|
+| 💰 | [Summate](https://www.summate.io/) | Summarize all of your newsletters, youtube videos and RSS feeds into one daily digest! | 🔥 33% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
