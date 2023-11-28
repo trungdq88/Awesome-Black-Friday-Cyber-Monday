@@ -26,7 +26,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 524
+Total deals: 540
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
