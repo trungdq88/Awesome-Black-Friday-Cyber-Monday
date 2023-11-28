@@ -1,8 +1,8 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2023 🤑
 
-A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request]([https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/74](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367)).
+A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368).
 
-Make sure you add your deal **at the end** of each category (first come, first merged).
+Make sure you add your deal **at the end** of each category (first come, first merged). ([See rules]([url](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367)))
 
 Follow the discount emoji below:
 
@@ -30,29 +30,29 @@ Total deals: 524
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
-	- [💻 Tools & Services (26)](#-tools--services)
+	- [💻 Tools & Services (27)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (14)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (33)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (26)](#-other-ai-tools)
-- [🌅 Design Tools (18)](#-design-tools)
+	- [📖 AI Productivity & Learning Tools (34)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (27)](#-other-ai-tools)
+- [🌅 Design Tools (19)](#-design-tools)
 - [⌨️ Code Libraries (5)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Notes, Organize, Planning (7)](#tasks-notes-organize-planning)
+		- [Tasks, Notes, Organize, Planning (8)](#tasks-notes-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (23)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (9)](#time-distraction-focus)
+		- [Time, Distraction, Focus (10)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (20)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (18)](#️-productivity-tools--services)
+	- [📱 Productivity Mobile Apps (22)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (19)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (25)](#-marketing-tools)
 - [🔍 SEO Tools (11)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (31)](#-startup-saastools)
 - [🌏 Social Media Tools (15)](#-social-media-tools)
-- [💸 Finance Tools (15)](#-finance-tools)
+- [💸 Finance Tools (16)](#-finance-tools)
 - [🎛 Utility Tools (21)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (38)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (8)](#-themes-plugins)
+- [🧩 Themes, Plugins (9)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
 		- [Web Dev & Design (17)](#web-dev--design)
@@ -62,8 +62,8 @@ Total deals: 524
 	- [📘 Startup & Career Books (9)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (36)](#-programming-courses)
-	- [🔒 Information Security Courses (3)](#-information-security-courses)
+	- [💻 Programming Courses (37)](#-programming-courses)
+	- [🔒 Information Security Courses (7)](#-information-security-courses)
 	- [🎢 Career Courses (6)](#-career-courses)
 	- [📈 Marketing Courses (5)](#-marketing-courses)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
