@@ -1,8 +1,10 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2023 🤑
 
-A curated list of deals on Black Friday 2023. Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368).
+A curated list of deals on Black Friday 2023.
 
-Make sure you add your deal **at the end** of each category (first come, first merged). ([See rules]([url](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367)))
+Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/368).
+
+Make sure you add your deal **at the end** of each category (first come, first merged). ([See rules](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367))
 
 Follow the discount emoji below:
 
