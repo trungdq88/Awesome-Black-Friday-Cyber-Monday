@@ -12,7 +12,7 @@ Follow the discount emoji below:
 | :---: | ------: |
 |  💵   |   < 20% |
 |  💰   |  20% → 50% |
-|  🤑   |  >= 50% |
+|  🤑   |   ≥ 50% |
 
 Don't forget to:
 - 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
