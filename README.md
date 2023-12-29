@@ -651,6 +651,7 @@ Total deals: 540
 |  💰 | [Bit Form](https://bitapps.pro/black-friday-deals-2023/?utm=github) | Bit Form is the Best Contact Form Builder for WordPress. Build Highly Customized Forms in the Fastest & Easiest way possible. | Flat 40% discount! Starting at $23.40/Year |
 |  💰 | [Themify Themes](https://themify.me/blog/massive-black-friday-sale-2023?utm=github) | Premium WordPress Themes & Plugins, each theme can be used on an unlimited number of websites. | Massive Black Friday & Cyber Monday Sale – Enjoy 40% OFF or $75 on LIFETIME! |
 |  🤑 | [ElementsReady Addons For Elementor](https://quomodosoft.com/deals/) | ElementsReady Addons is an Ultimate Solution for Elementor user with 100+ Free and Premimum widgets and 1000+ ready presets and Elements | Upto 80% discount! Starting at $49/Lifetime |
+|  💰 | [WrapPixel](https://www.wrappixel.com) | Free and Premium Admin Dashboard Templates. | Enjoy 95% OFF! |
 
 [⬆️ Go to Top](#table-of-contents)
 
