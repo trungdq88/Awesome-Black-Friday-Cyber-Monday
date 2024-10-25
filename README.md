@@ -634,6 +634,7 @@ Total deals: 540
 |  🤑 | [TW Elements](https://tw-elements.com/pro/) | Top quality Tailwind UI Kit | Get a **$500 OFF** on a licence for an unlimited number of projects. |
 | 💰  | [Magic UI](https://magicui.design) | Create Magical Landing Pages in Minutes | $30 off personal license. Use code **ONEDAYSPECIAL**. Valid till 24th November, 2023 |
 | 🤑 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
+| 💰  | [Shipped.club](https://shipped.club) | Launch your startup without the headaches 💆‍♂️ NextJS SaaS Kit TS/React/Tailwind/shadcn | 20% OFF with the code `BF2024` at checkout |
 
 
 [⬆️ Go to Top](#table-of-contents)
