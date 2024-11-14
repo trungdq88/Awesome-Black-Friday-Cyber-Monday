@@ -354,6 +354,11 @@ Total deals: 0
 
 [⬆️ Go to Top](#table-of-contents)
 
+### 📝 Technical Writing Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| ⭐ | [(Ultimate Technical Writing Course)](https://technicalwriting.online) | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money. | 35% OFF with code **BLACKFRIDAY_2024** |
 
 ## 💪 Health and Fitness
 
