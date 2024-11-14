@@ -9,9 +9,11 @@ Make sure you add your deal **at the end** of each category (first come, first m
 Don't forget to:
 - 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
 - 👉 ...bookmark this page to come back here next year 2025! 📆🤩
-- 👉 ...[follow me on Twitter](https://twitter.com/tdinh_me) 😉
 
-## Sponsored Deals
+
+## Special Deals
+
+These are deals from my own apps! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on Twitter: https://x.com/tdinh_me)
 
 | [TypingMind.com](https://www.typingmind.com)<br/> 🔥 55% OFF Lifetime Premium Plan | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [CompressX](https://compressx.app) (macOS app) <br/> 🔥 30% OFF |
 | --- | ------ | ------|
