@@ -15,46 +15,48 @@ Don't forget to:
 
 Total deals: 0
 
-- [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
-	- [💻 Tools & Services (27)](#-tools--services)
-- [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (14)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (34)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (27)](#-other-ai-tools)
-- [🌅 Design Tools (19)](#-design-tools)
-- [⌨️ Code Libraries (5)](#️-code-libraries)
-- [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Notes, Organize, Planning (8)](#tasks-notes-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (23)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (10)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (22)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (19)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (25)](#-marketing-tools)
-- [🔍 SEO Tools (11)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (31)](#-startup-saastools)
-- [🌏 Social Media Tools (15)](#-social-media-tools)
-- [💸 Finance Tools (16)](#-finance-tools)
-- [🎛 Utility Tools (21)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (38)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (9)](#-themes-plugins)
-- [📚 Books ](#-books)
-	- [📗 Programming Books ](#-programming-books)
-		- [Web Dev & Design (17)](#web-dev--design)
-		- [Apps Development (Mobile/Desktop) (4)](#apps-development-mobiledesktop)
-		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
-		- [Misc Programming Books (4)](#misc-programming-books)
-	- [📘 Startup & Career Books (9)](#-startup--career-books)
-	- [📕 Marketing Books (3)](#-marketing-books)
-- [📹 Courses ](#-courses)
-	- [💻 Programming Courses (37)](#-programming-courses)
-	- [🔒 Information Security Courses (7)](#-information-security-courses)
-	- [🎢 Career Courses (6)](#-career-courses)
-	- [📈 Marketing Courses (5)](#-marketing-courses)
-- [💪 Health and Fitness (8)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (27)](#-miscellaneous)
+- [💵 Awesome Black Friday / Cyber Monday Deals - 2024 🤑](#-awesome-black-friday--cyber-monday-deals---2024-)
+	- [Table of Contents](#table-of-contents)
+	- [👨‍💻 Developer Tools](#-developer-tools)
+		- [💻 Developer macOS Apps](#-developer-macos-apps)
+		- [💻 Tools \& Services](#-tools--services)
+	- [🤖 AI Tools](#-ai-tools)
+		- [💬 AI Chat UI](#-ai-chat-ui)
+		- [📖 AI Productivity \& Learning Tools](#-ai-productivity--learning-tools)
+		- [✨ Other AI tools](#-other-ai-tools)
+	- [🌅 Design Tools](#-design-tools)
+	- [⌨️ Code Libraries](#️-code-libraries)
+	- [🔥 Productivity](#-productivity)
+		- [🖥️ Productivity Desktop Apps](#️-productivity-desktop-apps)
+			- [Tasks, Notes, Organize, Planning](#tasks-notes-organize-planning)
+			- [Window, Screen, Clipboard, Utilities](#window-screen-clipboard-utilities)
+			- [Time, Distraction, Focus](#time-distraction-focus)
+			- [Miscellaneous Productivity Apps](#miscellaneous-productivity-apps)
+		- [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
+		- [🛠️ Productivity Tools \& Services](#️-productivity-tools--services)
+	- [🌈 Marketing Tools](#-marketing-tools)
+	- [🔍 SEO Tools](#-seo-tools)
+	- [🚀 Startup SaaS/Tools](#-startup-saastools)
+	- [🌏 Social Media Tools](#-social-media-tools)
+	- [💸 Finance Tools](#-finance-tools)
+	- [🎛 Utility Tools](#-utility-tools)
+	- [💅 Boilerplates, Starter-Kit, Templates](#-boilerplates-starter-kit-templates)
+	- [🧩 Themes, Plugins](#-themes-plugins)
+	- [📚 Books](#-books)
+		- [📗 Programming Books](#-programming-books)
+			- [Web Dev \& Design](#web-dev--design)
+			- [Apps Development (Mobile/Desktop)](#apps-development-mobiledesktop)
+			- [Backend Dev / Data Science](#backend-dev--data-science)
+			- [Misc Programming Books](#misc-programming-books)
+		- [📘 Startup \& Career Books](#-startup--career-books)
+		- [📕 Marketing Books](#-marketing-books)
+	- [📹 Courses](#-courses)
+		- [💻 Programming Courses](#-programming-courses)
+		- [🔒 Information Security Courses](#-information-security-courses)
+		- [🎢 Career Courses](#-career-courses)
+		- [📈 Marketing Courses](#-marketing-courses)
+	- [💪 Health and Fitness](#-health-and-fitness)
+	- [👨‍🎨 Miscellaneous](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -329,9 +331,9 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  👨‍💻 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLACKFRIDAY_2024) | Learn to make a portfolio project that will get you hired. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 📖 | [(Remote work and internships for Developers and Designers)](https://ko-fi.com/s/6c24265c15) |100+ platforms to find remote jobs and gigs for Developers, Designers, and Technical Writers. | 60% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [The CloudSec Engineer](https://engineer.cloudsecbooks.com/) | A practical guide on how to enter, establish yourself, and thrive in the Cloud Security industry as an individual contributor. | 30% OFF with code **CYBERNOVEMBER24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -351,7 +353,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-|  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** | 
+|  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
