@@ -403,5 +403,7 @@ Total deals: 0
 |  ⭐ | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |
 |  ⭐ | [Side Projects Making $$$)](https://niftydigits.gumroad.com/l/side-projects) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF with code **SAVER2024** |
 | ⭐ | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOs menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY24** |
+| ⭐ | [Course - Start Your Own Business for Kids (6-14)](https://labs.kubrio.com/l/entrepreneurship-for-kids) | Perfect for dev parents who want their kids to learn entrepreneurship the lean way! - Lifetime Access! | 50% OFF with code **BLKFRIDAY24** |
+| ⭐ | [Course - Make Your Own Video Game for Kids (6-14)](https://labs.kubrio.com/l/how-to-create-your-own-game-for-kids)) | Turn your gaming kid into a game creator - perfect for tech-savvy parents - Lifetime Access | 50% OFF with code **BLKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
