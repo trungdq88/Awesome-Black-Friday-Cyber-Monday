@@ -260,6 +260,7 @@ Total deals: 110
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 |  ⭐ | [Bannerify](https://bannerify.co) | API for Automated Image. Scale your marketing with fastest image generation service | 40% OFF on All plans with code **BF2024** |
 |  💰 | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, emails, campaigns, and DRIP automation sequences. One time payment license.| 35% OFF with code **BF2024** |
+|  💰 | [Loomos](https://loomos.co) | Training videos made easy. Transform boring screen recordings into studio-quality videos in single click. One time payment, no subscription.| 50% OFF till Black Friday |
 
 
 [⬆️ Go to Top](#table-of-contents)
