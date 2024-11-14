@@ -329,6 +329,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** | 
 
 [⬆️ Go to Top](#table-of-contents)
 
