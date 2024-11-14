@@ -466,6 +466,8 @@ Total deals: 110
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Danny Postma's SEO Blueprint](https:/www.dannypostma.com/seo-course) | Watch over my shoulder as I reveal my entire SEO system. Everything I've learned ranking 20+ sites to #1 | 20% OFF with code **FRIDAY20** |
+|  🚀 | [‘Launch with AI’ Program](https://solveo.co/launch-program/) | Master the art of product launch with our comprehensive program created by growth experts with a proven track record of working with 500+ startups | 75% OFF with code **bf75** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
