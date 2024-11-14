@@ -123,6 +123,9 @@ Total deals: 110
 |  ⭐ | [Reinspire](https://reinspire.io?utm_source=tony) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
 |  ⭐ | [echodocs.ai](https://echodocs.ai/black-friday/) | Turn audio into precise documents with a few clicks. AI-powered transcription and automated documentation in over 50 languages. | 50% OFF with code **BLACK50** |
 |  ⭐ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
+|  ⭐ | [Yomu](https://www.yomu.ai/) | Write papers and essays with AI, simplifying academic writing and enhancing productivity. | 24% OFF with code **BF24** |
+|  ⭐ | [Sourcely](https://www.sourcely.net/) | Paste your essay or paper to find, summarize, and add credible academic sources. | 24% OFF with code **BF24** |
+|  ⭐ | [ArXiv Pulse](https://www.arxivpulse.com/) | Receive personalized email digests of arXiv papers, summarizing the latest research in AI in an easy-to-digest format. | 24% OFF with code **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
