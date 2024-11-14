@@ -442,6 +442,7 @@ Total deals: 110
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
+|  💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Master Flutter with guidance from two trusted Google Developer Experts. | 10% OFF with code **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
