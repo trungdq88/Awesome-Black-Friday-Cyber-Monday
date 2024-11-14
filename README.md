@@ -143,7 +143,7 @@ Total deals: 0
 ## 🔥 Productivity
 ### 🖥️ Productivity Desktop Apps
 
-#### Tasks, Notes, Organize, Planning
+#### Tasks, s, Organize, Planning
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -152,6 +152,7 @@ Total deals: 0
 |  🧐 | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
 |  🧘‍♂️ | [Zen Mode macOS](https://zenmode.app/) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF |
 |  🧘‍♂️ | [Spaces macOS](https://spacesformac.xyz/) | Declutter & organize your workspace on macOS in one single click 🎊 | Bundle Lifetime 50% OFF |
+|  ⭐ | [NoteSLAYER](https://note-slayer.com/) | Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS) | 50% OFF with code **BLACKBLACK24** |
 
 
 
