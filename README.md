@@ -11,7 +11,7 @@ Don't forget to:
 - 👉 ...bookmark this page to come back here next year 2025! 📆🤩
 - 👉 ...[follow me on Twitter](https://twitter.com/tdinh_me) 😉
 
-## Special Deals
+## Sponsored Deals
 
 | [TypingMind.com](https://www.typingmind.com)<br/> 🔥 55% OFF Lifetime Premium Plan | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [CompressX](https://compressx.app) (macOS app) <br/> 🔥 30% OFF |
 | --- | ------ | ------|
