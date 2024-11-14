@@ -442,6 +442,7 @@ Total deals: 110
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
+| 💻 | [High Performance SQLite](https://highperformancesqlite.com/) | This course is designed to take you from beginner to expert in SQLite. You'll learn how to use SQLite in production, how to optimize it, and how to use advanced features like full text search and JSON support.| $80 off an individual license with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
 
 
 [⬆️ Go to Top](#table-of-contents)
