@@ -287,10 +287,10 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [Code a Soccer Betting Model in a weekend]([https://devutils.com](https://tropianhs.gumroad.com/l/bettingmodelwe/d43474c)) | Code a Soccer Betting Model in a weekend | 50% OFF with code **D43474C** |
-|  ⭐ | [Soccer Betting Coding]([https://tropianhs.gumroad.com/l/soccerbettingcoding/d43474c)) | Soccer Betting Coding | 50% OFF with code **D43474C** |
-|  ⭐ | [Build a football betting model for Euro 2024]([https://tropianhs.gumroad.com/l/euro2024/d43474c)) | Build a football betting model for Euro 2024 | 50% OFF with code **D43474C** |
-|  ⭐ | [Soccer Betting Bundle]([https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c)) | All 3 soccer betting books | 50% OFF with code **D43474C** |
+|  ⭐ | [Code a Soccer Betting Model in a weekend](https://tropianhs.gumroad.com/l/bettingmodelwe/d43474c) | Code a Soccer Betting Model in a weekend | 50% OFF with code **D43474C** |
+|  ⭐ | [Soccer Betting Coding](https://tropianhs.gumroad.com/l/soccerbettingcoding/d43474c) | Soccer Betting Coding | 50% OFF with code **D43474C** |
+|  ⭐ | [Build a football betting model for Euro 2024](https://tropianhs.gumroad.com/l/euro2024/d43474c) | Build a football betting model for Euro 2024 | 50% OFF with code **D43474C** |
+|  ⭐ | [Soccer Betting Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c) | All 3 soccer betting books | 50% OFF with code **D43474C** |
 [⬆️ Go to Top](#table-of-contents)
 
 
