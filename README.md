@@ -182,6 +182,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ✅ | [Trio: Mindful ToDo List App](https://apps.apple.com/redeem?ctx=offercodes&id=6636491845&code=BF24) | Your path to Mindful Productivity. Simplify, Focus, Achieve 🚀. Focus on just three key tasks daily to drive meaningful progress and maintain balance in your life. | 80% off for your first year with all Pro features! With code **BF24** |
+|  🗣️ | [Audio Writer iOS](https://apps.apple.com/in/app/audio-writer/id6450592778) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
