@@ -181,8 +181,7 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-
+|  ✅ | [Trio: Mindful ToDo List App](https://apps.apple.com/redeem?ctx=offercodes&id=6636491845&code=BF24) | Your path to Mindful Productivity. Simplify, Focus, Achieve 🚀. Focus on just three key tasks daily to drive meaningful progress and maintain balance in your life. | 80% off for your first year with all Pro features! With code **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
