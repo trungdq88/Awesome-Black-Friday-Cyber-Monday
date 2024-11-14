@@ -94,6 +94,7 @@ Total deals: 110
 |  ⭐ | [(Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
 |  ⭐ | [(Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
 |  ⭐ | [Guidejar](https://guidejar.com) | Create Interactive Product Demos and Step-by-Step Guides effortlessly - with powerful features like no-code help center, AI translate & voicover, lead capture forms, analytics and more! | 40% OFF on all plans with code **BLACKFRIDAY24** |
+|  ✅ | [Interact List](https://interactlist.com) | Design and share your own styled Checklists ✨| [50% off Lifetime License](https://shop.interactlist.com/buy/1fdb3171-2c66-4577-80ab-b911be2ecc96?embed=0&logo=0&checkout[discount_code]=BLACK24) |
 
 
 
@@ -425,6 +426,7 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The Google Ads Quickstart Guide For Indie Hackers, Makers & Solopreneurs](https://giftedshark.gumroad.com/l/adsformakersgoogle) | No bullshit, quickstart guide to get customers through Google Ads for your product/service. | 30% OFF with code **BFTONY30** |
 |  🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing| Link already discounted 75%, valid till Cyber Monday|
+|  🔥 | [Landing Page Hot Tips Ebook](https://onepagelove.com/100) | 100+ snackable and actionable tips in Ebook, Notion, Audio and more.| 60% off with code **BF2024**|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -473,7 +475,7 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Danny Postma's SEO Blueprint](https:/www.dannypostma.com/seo-course) | Watch over my shoulder as I reveal my entire SEO system. Everything I've learned ranking 20+ sites to #1 | 20% OFF with code **FRIDAY20** |
 |  🚀 | [‘Launch with AI’ Program](https://solveo.co/launch-program/) | Master the art of product launch with our comprehensive program created by growth experts with a proven track record of working with 500+ startups | 75% OFF with code **bf75** |
-
+|  🕹️ | [Show Them Course](https://showthem.com) | Landing Page Optimization Course by Rob Hope from One Page Love | 60% off with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
