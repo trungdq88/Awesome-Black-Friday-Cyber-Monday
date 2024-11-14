@@ -11,6 +11,14 @@ Don't forget to:
 - 👉 ...bookmark this page to come back here next year 2025! 📆🤩
 - 👉 ...[follow me on Twitter](https://twitter.com/tdinh_me) 😉
 
+## Special Deals
+
+| [TypingMind.com](https://www.typingmind.com)<br/> 🔥 70% OFF | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [CompressX](https://compressx.app) (macOS app) <br/> 🔥 30% OFF |
+| --- | ------ | ------|
+| <a href="https://www.typingmind.com"><img src="https://www.typingmind.com/poster.png"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://xnapper.com"><img src="https://compressx.app/_next/image?url=%2Fstatic%2Fpreview.png&w=3840&q=75"></a> |
+| Your Personal AI Workspace.<br/>BLACKFRIDAY_2024<br/><br/>Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY_2024 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | BLACKFRIDAY2024<br/><br/>CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality |
+
+
 ## Table of Contents
 
 Total deals: 110
