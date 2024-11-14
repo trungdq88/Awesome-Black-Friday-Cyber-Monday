@@ -352,6 +352,7 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** | 
+|  ⭐ | [Lifetime membership for The Python Coding Place](https://thepythoncodingplace.com) | Get access to all the video courses covering beginner, intermediate, and advanced Python topics. All courses are delivered in a casual, friendly way, and focus on learning "why" things are the way they are in Python, and not just "how" to do things. | [40% OFF Lifetime Membership **BLACK2024**](https://thepythoncodingplace.thinkific.com/cart/add_product/2731141?price_id=3865919&coupon=black2024) | 
 
 [⬆️ Go to Top](#table-of-contents)
 
