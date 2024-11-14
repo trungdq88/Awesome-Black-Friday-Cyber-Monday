@@ -240,6 +240,7 @@ Total deals: 110
 |  ⭐ | [One Tab Group](https://onetab.group) | Your all-in-one browser tab/tab group manager | Lifetime 40% off with code **BLACKFRIDAY40**  |
 |  🧼 | [InboxPurge](https://www.inboxpurge.com?ref=awesomebf) | Clean up your Gmail in minutes | 30% OFF the PRO plan with code **BF2024**  |
 |  💰 | [Spotify Cover Maker ](https://sharegiftlist.com?ref=awesomebf) | Create Custom Spotify Playlist Covers and Song Lyrics Posters | 30% off (automatic) |
+|  💼 | [hiretool.io](https:/hiretool.io?ref=awesomebf) | Cut out unqualified candidates before the interview— save your time and focus on the right talent | 50% off on monthly and yearly subscriptions (automatic) |
 
 
 [⬆️ Go to Top](#table-of-contents)
