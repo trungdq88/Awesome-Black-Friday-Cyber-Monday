@@ -17,7 +17,7 @@ Total deals: 0
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
-	- [💻 Tools & Services (29)](#-tools--services)
+	- [💻 Tools & Services (27)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (14)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (34)](#-ai-productivity--learning-tools)
