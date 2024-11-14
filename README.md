@@ -370,6 +370,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+| ⭐ | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOs menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY24** |
 
 
 
