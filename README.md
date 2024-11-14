@@ -82,6 +82,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💬 | [ChatHub](https://chathub.gg/?utm_source=bf) | Chat with multiple AI models side by side. | 10% OFF annual subscription with code **BFCM24** |
+|  ⚡ | [BoltAI](https://boltai.com?via=awesomebf) | Access all AI models in one _native_ Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -90,7 +91,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(TurboScribe)](https://turboscribe.ai/) | Unlimited audio and video transcription. Convert your audio and video files to accurate text transcripts in seconds. Chat with and summarize your transcripts with ChatGPT. | 50% OFF on annual plans now through the end of the year. No code required. |
-
+|  ⚡ | [PDF Pals](https://pdfpals.com?via=awesomebf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
