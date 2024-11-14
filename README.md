@@ -100,6 +100,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(HeadshotPro)](https:/www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -222,6 +223,7 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦄 | [BlackTwist](https://blacktwist.app)    | Grow your audience on Threads, 10x faster!                                       | 50% OFF on the first 3 months with the code **BF2024** |
+|  🟣 | [(PostFlow)](https://postflow.app) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | 50% OFF (LIFETIME) with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -253,6 +255,7 @@ Total deals: 0
 |  🦄 | [SaaS Pegasus](https://www.saaspegasus.com) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses. | 50% OFF lifetime license with code **bf2024preview** |
 |  ⚡ | [NextReady](https://nextready.dev) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 💰  | [Shipped.club](https://shipped.club)        | Launch your startup in days, not months! 💆‍♂️ NextJS SaaS Kit TS/React/Tailwind/shadcn                            | 20% OFF with the code `BF2024` at checkout |
+|  🤑 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited number of licenses with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -351,7 +354,7 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(Taro)](https://www.jointaro.com/membership/) | Expert-led courses to accelerate your career: job searching, interviewing, onboarding, promotion, and more. | 25% OFF with code **THANKS24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -360,6 +363,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(Danny Postma's SEO Blueprint)](https:/www.dannypostma.com/seo-course) | Watch over my shoulder as I reveal my entire SEO system. Everything I've learned ranking 20+ sites to #1 | 20% OFF with code **FRIDAY20** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -378,7 +382,8 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  💼 | [JoblistingsPRO.com](https://joblistingspro.com) | Clean job & application tracker. Resume and job listing analysis | 69% OFF for 6 months with code **BLACKFRIDAY** |
+|  ⭐ | [(Small Bets Community)](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 
 
 
