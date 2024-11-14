@@ -13,7 +13,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: (WIP)
+Total deals: 110
 
 - [Table of Contents ](#table-of-contents)
 - [👨‍💻 Developer Tools ](#-developer-tools)
