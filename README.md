@@ -89,7 +89,7 @@ Total deals: 0
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(TurboScribe)](https://turboscribe.ai/) | Unlimited audio and video transcription. Convert your audio and video files to accurate text transcripts in seconds. Chat with and summarize your transcripts with ChatGPT. | 50% OFF on annual plans now through the end of the year. No code required. |
 
 
 
