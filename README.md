@@ -90,7 +90,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-
+|  ⭐ | [Side Space](https://sidespace.app)    | Your AI-powered vertical tabs manager for browsing                               | 50% OFF with code **BLACKFIRDAY50**    |
 
 
 [⬆️ Go to Top](#table-of-contents)
