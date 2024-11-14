@@ -265,6 +265,7 @@ Total deals: 0
 |  ⚡ | [NextReady](https://nextready.dev) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 💰  | [Shipped.club](https://shipped.club)        | Launch your startup in days, not months! 💆‍♂️ NextJS SaaS Kit TS/React/Tailwind/shadcn                            | 20% OFF with the code `BF2024` at checkout |
 |  🤑 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited number of licenses with code **BLACKFRIDAY2024** |
+| ⭐ | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | 30% OFF on Individual plan with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
