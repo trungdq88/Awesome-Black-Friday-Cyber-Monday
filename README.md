@@ -94,7 +94,7 @@ Total deals: 110
 |  ⭐ | [(Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
 |  ⭐ | [(Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
 |  ⭐ | [Guidejar](https://guidejar.com) | Create Interactive Product Demos and Step-by-Step Guides effortlessly - with powerful features like no-code help center, AI translate & voicover, lead capture forms, analytics and more! | 40% OFF on all plans with code **BLACKFRIDAY24** |
-
+|  ⭐ | [Small Hours](https://smallhours.dev) | AI powered automated root cause analysis - minimize downtime, maximize efficiency. | 50% OFF on startup and enterprise plans with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
