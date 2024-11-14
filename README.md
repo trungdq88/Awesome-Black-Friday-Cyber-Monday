@@ -413,7 +413,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [Swim Coach App](https://swimcoachapp.com) | Smart workouts for swimming and triathlon | 6 extra months for free when purchasing a 1-year Gold subscription |
-
+|  ⭐ | [Relief Maps](https://reliefmaps.io) | 3D gps app for outdoor sports, hiking, backcountry skiing etc. | 40% OFF with the link : [BLACK FRIDAY](http://reliefmaps.io/discounts/p/blackfriday)|
 
 [⬆️ Go to Top](#table-of-contents)
 
