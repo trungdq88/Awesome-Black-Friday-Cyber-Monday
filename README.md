@@ -342,7 +342,7 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(Taro)](https://www.jointaro.com/membership/) | Expert-led courses to accelerate your career: job searching, interviewing, onboarding, promotion, and more. | 25% OFF with code **THANKS24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
