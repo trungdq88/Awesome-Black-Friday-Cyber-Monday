@@ -108,6 +108,7 @@ Total deals: 0
 |  ⭐ | [(LoveTunesAI)](https://lovetunesai.com) | Personalized songs for your loved ones | 20% OFF with code **BF20OFF** |
 |  ⚡ | [IconKit](https://iconkit.ai?utm_source=awesomebf) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 
