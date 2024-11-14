@@ -324,6 +324,11 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  ⭐ | [(Learn Programming with Go, One Game at a Time)]([https://devutils.com](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24)) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
+
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 
 [⬆️ Go to Top](#table-of-contents)
