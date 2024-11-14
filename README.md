@@ -75,7 +75,10 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [(Tailscan for Tailwind CSS)](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% OFF! |
-
+|  ⭐ | [(Startup](https://designmodo.com/startup/) | Bootstrap page builder - It’s a quick and easy way to launch your website using pre-designed blocks and elements. | 40% OFF with code **BLACK** |
+|  ⭐ | [(Slides](https://designmodo.com/slides/) | Static website generator - Generate beautiful, animated, static websites with your creative direction in a matter of minutes. | 40% OFF with code **BLACK** |
+|  ⭐ | [(Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
+|  ⭐ | [(Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -124,6 +127,8 @@ Total deals: 0
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | 50% off (automatic) |
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 | 💰 | [Magicslides App](https://www.magicslides.app/) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfriday30** |
+|  ⭐ | [(Siter.io](https://siter.io/) | No-Code website builder - Craft websites in minutes, no coding needed, and tailor every detail to your vision. The ideal tool for creating portfolios, landing pages, and presentation websites. | 30% OFF with code **BLACK24** |
+
 
 ## ⌨️ Code Libraries
 
@@ -201,7 +206,9 @@ Total deals: 0
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-
+|  ⭐ | [(Postcards email builder](https://designmodo.com/postcards/) | Email design platform - Create your email templates 20x faster, with no design limits and no coding skills. | 40% OFF with code **BLACK** |
+|  ⭐ | [(Mailpost.io](https://mailpost.io/) | Email marketing software - Send your email marketing campaign quickly and easily. Trusted by developers, designers and marketers for time-savings, scalability and price. | 30% OFF with code **BLACK24** |
+|  ⭐ | [(Unspam.email](https://unspam.email/) | Email spam checker - Ensure your emails land in the inbox, not the spam folder. | 30% OFF with code **BLACK24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -224,6 +231,8 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  🤑 | [Resmume.com](https://resmume.com/) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd. | $19 37% OFF Lifetime deal |
 |  ⭐ | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring Service to ensure 24/7 availability, Track response times, Receive downtime alerts, and Create custom status pages. | 20% OFF with code **BLACKFRIDAY** on Lifetime Deals and all other plans. |
+|  ⭐ | [(Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
+|  ⭐ | [(Postcards email builder](https://designmodo.com/postcards/) | Email design platform - Create your email templates 20x faster, with no design limits and no coding skills. | 40% OFF with code **BLACK** |
 
 
 
@@ -269,6 +278,8 @@ Total deals: 0
 |  ⚡ | [NextReady](https://nextready.dev) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 💰  | [Shipped.club](https://shipped.club)        | Launch your startup in days, not months! 💆‍♂️ NextJS SaaS Kit TS/React/Tailwind/shadcn                            | 20% OFF with the code `BF2024` at checkout |
 |  🤑 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited number of licenses with code **BLACKFRIDAY2024** |
+|  ⭐ | [(Startup](https://designmodo.com/startup/) | Bootstrap page builder - It’s a quick and easy way to launch your website using pre-designed blocks and elements. | 40% OFF with code **BLACK** |
+|  ⭐ | [(Slides](https://designmodo.com/slides/) | Static website generator - Generate beautiful, animated, static websites with your creative direction in a matter of minutes. | 40% OFF with code **BLACK** |
 
 
 [⬆️ Go to Top](#table-of-contents)
