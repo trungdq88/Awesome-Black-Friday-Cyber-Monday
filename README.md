@@ -199,6 +199,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(SEO Course, SEO Blueprint 3)](https://seoblueprint.com) | Cutting-edge SEO training with four years of current updates and lifetime future updates | Free private website video audit with every order (Black Friday only) |
 
 
 [⬆️ Go to Top](#table-of-contents)
