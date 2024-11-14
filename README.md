@@ -93,6 +93,7 @@ Total deals: 110
 |  🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY2024**
 |  ⭐ | [(Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
 |  ⭐ | [(Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Guidejar](https://guidejar.com) | Create Interactive Product Demos and Step-by-Step Guides effortlessly - with powerful features like no-code help center, AI translate & voicover, lead capture forms, analytics and more! | 40% OFF on all plans with code **BLACKFRIDAY24** |
 
 
 
