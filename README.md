@@ -310,6 +310,7 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [PandaExtract](https://pandaextract.com/) | A friendly Web Scraper for your browser, no-code required | 20% OFF with code **CYBER20** |
 |  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
+|  📒 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces. | 24% off of all plans **NOTIONBACKUPSFRIDAY2024** |
 
 
 
