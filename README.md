@@ -288,6 +288,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  📚 | [(The Good Parts of AWS)](https://dvassallo.gumroad.com/l/aws-good-parts/AWSFREE) | Almost everything we know about AWS, packed into a short 2-part book by ex-AWS engineers. | **100% OFF** applied automatically |
 
 [⬆️ Go to Top](#table-of-contents)
 
