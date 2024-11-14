@@ -88,6 +88,7 @@ Total deals: 110
 |  ⭐ | [(Tailscan for Tailwind CSS)](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% OFF! |
 |  ⭐ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
 | 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
+|  🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY2024**
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -230,6 +231,7 @@ Total deals: 110
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 |  ⭐ | [(Uneed)](https://uneed.best) | Product Hunt alternative. | 30% off "Skip the waiting line" with code **BLACKFRIDAY2024** to promote your product.
 |  ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** (both 3 Day Access Plan and all recurring plans)
+|  📹 | [Product Video Examples](https://productvideoexamples.com) | A product video library of more than 100+ hand selected product videos and tools that help you create product videos that will create awareness and convert customers | 40% OFF with code **BLACKFRIDAY2024**
 
 
 
@@ -451,5 +453,6 @@ Total deals: 110
 | ⭐ | [Paralino](https://paralino.com) | End-to-end encrypted family safety and location sharing app. Protect yourself and your family - no tracking, no profiling, no ads. | 60% OFF on Annual plan<br> 20% OFF on Monthly plan |
 | 🏠 | [Learn Remote + Async](https://learn-remote-async.onbrn.com/index.html) | Learn and implement remote and asynchronous processes to effectively increase happiness and productivity of your engineering team. | 50% OFF with code **FRIDAY24** |
 | 📔 | [3 years of Mini Stories](https://ministories.net/3-years-of-ministories-book/) | 36 short stories to read quickly, and think slowly. | 50% OFF with code **FRIDAY24** |
+| 🇹🇭 | [NomadKit Bangkok]([https://nomadkit.co](https://nomadkit.co)) | A comprehensive Bangkok  City Guide made for digital nomads | 40% OFF with code **BLACKFRIDAY2024**
 
 [⬆️ Go to Top](#table-of-contents)
