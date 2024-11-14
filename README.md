@@ -242,12 +242,13 @@ Total deals: 110
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 |  ⭐ | [Uneed](https://uneed.best) | Product Hunt alternative. | 30% off "Skip the waiting line" with code **BLACKFRIDAY2024** to promote your product.
 |  ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** (both 3 Day Access Plan and all recurring plans)
+|  📆 | [CalGet](https://calget.com) | Simplify your event planning with **CalGet**. Create shareable “Add to Calendar” links that integrate seamlessly into your social media, newsletters, websites, and emails. With just one click, your audience can add events to their preferred calendars, including Google, Apple, Outlook, Yahoo, and Office365. Streamline your event promotion and boost attendance with CalGet.com.| 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024** |
 |  ⭐ | [(Postcards email builder](https://designmodo.com/postcards/) | Email design platform - Create your email templates 20x faster, with no design limits and no coding skills. | 40% OFF with code **BLACK** |
 |  ⭐ | [(Mailpost.io](https://mailpost.io/) | Email marketing software - Send your email marketing campaign quickly and easily. Trusted by developers, designers and marketers for time-savings, scalability and price. | 30% OFF with code **BLACK24** |
 |  ⭐ | [(Unspam.email](https://unspam.email/) | Email spam checker - Ensure your emails land in the inbox, not the spam folder. | 30% OFF with code **BLACK24** |
 |  ⭐ | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
 |  ⭐ | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. |
-|  ⭐ | [CalGet](https://calget.com) | Simplify your event planning with **CalGet**. Create shareable “Add to Calendar” links that integrate seamlessly into your social media, newsletters, websites, and emails. With just one click, your audience can add events to their preferred calendars, including Google, Apple, Outlook, Yahoo, and Office365. Streamline your event promotion and boost attendance with CalGet.com.| 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
