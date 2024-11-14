@@ -60,7 +60,7 @@ Total deals: 110
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (4)](#-programming-courses)
+	- [💻 Programming Courses (9)](#-programming-courses)
 	- [🔒 Information Security Courses (1)](#-information-security-courses)
 	- [🎢 Career Courses (2)](#-career-courses)
 	- [📈 Marketing Courses (2)](#-marketing-courses)
@@ -442,6 +442,7 @@ Total deals: 110
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
+|  🤑  | [Codecourse](https://codecourse.com) | Practical screencasts for developers. Learn Laravel, Vue, Nuxt and more.| 50% OFF [all plans](https://codecourse.com/pro) (including lifetime) from 18th Nov - 1st Dec. No code needed (**BLACKFRIDAY2024** for existing members) |
 
 
 [⬆️ Go to Top](#table-of-contents)
