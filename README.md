@@ -49,7 +49,7 @@ Total deals: 0
 	- [📘 Startup & Career Books (9)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (37)](#-programming-courses)
+	- [💻 Programming Courses (1)](#-programming-courses)
 	- [🔒 Information Security Courses (7)](#-information-security-courses)
 	- [🎢 Career Courses (6)](#-career-courses)
 	- [📈 Marketing Courses (5)](#-marketing-courses)
