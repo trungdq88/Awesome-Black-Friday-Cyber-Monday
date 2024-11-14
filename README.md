@@ -17,7 +17,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 | [TypingMind.com](https://www.typingmind.com)<br/> 🔥 55% OFF Lifetime Premium Plan | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [CompressX](https://compressx.app) (macOS app) <br/> 🔥 30% OFF |
 | --- | ------ | ------|
-| <a href="https://www.typingmind.com"><img src="https://www.typingmind.com/poster.png"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://compressx.app"><img src="https://compressx.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcompressx_1.16.6268be02.png&w=3840&q=75"></a> |
+| <a href="https://www.typingmind.com"><img src="https://www.typingmind.com/poster.png"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://compressx.app"><img src="https://i.ibb.co/7yjtyZw/com.jpg"></a> |
 | Your Personal AI Workspace.<br/>BLACKFRIDAY_2024<br/><br/>Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY_2024 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | BLACKFRIDAY2024<br/><br/>CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality |
 
 
