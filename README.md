@@ -256,6 +256,16 @@ Total deals: 0
 
 [⬆️ Go to Top](#table-of-contents)
 
+## 🎛 Research & Analysis Tools
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  ⭐ | [(ReadReviews)](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** |
+
+
+
+[⬆️ Go to Top](#table-of-contents)
+
 
 ## 💅 Boilerplates, Starter-Kit, Templates
 
