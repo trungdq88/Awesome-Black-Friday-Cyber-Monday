@@ -236,7 +236,7 @@ Total deals: 110
 |  ⭐ | [Task Analytics for Todoist](https://task-analytics.com) | Analyze your productivity patterns, trends, and records with Task Analytics for Todoist! | 80% OFF for the lifetime license |
 |  ⭐ | [One Tab Group](https://onetab.group) | Your all-in-one browser tab/tab group manager | Lifetime 40% off with code **BLACKFRIDAY40**  |
 |  🧼 | [InboxPurge](https://www.inboxpurge.com?ref=awesomebf) | Clean up your Gmail in minutes | 30% OFF the PRO plan with code **BF2024**  |
-
+|  💰 | [Spotify Cover Maker ](https://sharegiftlist.com?ref=awesomebf) | Create Custom Spotify Playlist Covers and Song Lyrics Posters | 30% off (automatic) |
 
 
 [⬆️ Go to Top](#table-of-contents)
