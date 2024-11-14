@@ -16,6 +16,7 @@ Don't forget to:
 Total deals: 0
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
+	- [🛠️ APIs (1)](#-apis)
 	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
 	- [💻 Tools & Services (27)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
@@ -57,6 +58,15 @@ Total deals: 0
 - [👨‍🎨 Miscellaneous (27)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
+
+### 🛠️ APIs
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY_2024** on all annual plans for the first year. |
+
+
+[⬆️ Go to Top](#table-of-contents)
 
 ### 💻 Developer macOS Apps
 
