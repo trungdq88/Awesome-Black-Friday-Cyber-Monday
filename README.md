@@ -98,6 +98,7 @@ Total deals: 0
 |  ⚡ | [PDF Pals](https://pdfpals.com?via=awesomebf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 ### ✨ Other AI tools
@@ -163,6 +164,8 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+| 🤑 | [Knowledge Worker Kit](https://developassion.gumroad.com/l/knowledge-wor
+ker-kit) | Join a community of Knowledge Workers and dive into the guide to become part of the top 1% | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -172,6 +175,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license between 25 Nov and 2 Dec |
+| 🤑 | [Personal Knowledge Management Library](https://developassion.gumroad.com/l/PersonalKnowledgeManagementLibrary) | Explore the field of Personal Knowledge Management. Discover the best tools, key experts, communities, and much more | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 
 
 
@@ -257,7 +261,6 @@ Total deals: 0
 |  ⭐ | [(PandaExtract)](https://pandaextract.com/) | A friendly Web Scraper for your browser, no-code required | 20% OFF with code **CYBER20** |
 
 
-
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -269,6 +272,7 @@ Total deals: 0
 |  ⚡ | [NextReady](https://nextready.dev) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 💰  | [Shipped.club](https://shipped.club)        | Launch your startup in days, not months! 💆‍♂️ NextJS SaaS Kit TS/React/Tailwind/shadcn                            | 20% OFF with the code `BF2024` at checkout |
 |  🤑 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited number of licenses with code **BLACKFRIDAY2024** |
+| 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -321,6 +325,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+| 🤑 | [Dev Concepts](https://dev-concepts.dev/) | The first two books of the Dev Concepts collection. Learn all the key concepts at a discount | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -403,5 +408,7 @@ Total deals: 0
 |  ⭐ | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |
 |  ⭐ | [Side Projects Making $$$)](https://niftydigits.gumroad.com/l/side-projects) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF with code **SAVER2024** |
 | ⭐ | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOs menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY24** |
+| 🤑 | [Obsidian Starter Course](https://developassion.gumroad.com/l/obsidian-starter-course/) | Master Obsidian in a jiffy | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
+| 🤑 | [Personal Knowledge Management Coaching](https://developassion.gumroad.com/l/pkm-coaching) | Get started with Personal Knowledge Management and Obsidian with the help of an expert | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 
 [⬆️ Go to Top](#table-of-contents)
