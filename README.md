@@ -1,6 +1,6 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2024 🤑
 
-A curated list of deals on Black Friday 2024.
+A curated list of deals on Black Friday 2024. 
 
 Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/860).
 
