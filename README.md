@@ -219,6 +219,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  🦄 | [BlackTwist](https://blacktwist.app)    | Grow your audience on Threads, 10x faster!                                       | 50% OFF on the first 3 months with the code **BF2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -249,6 +250,7 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦄 | [SaaS Pegasus](https://www.saaspegasus.com) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses. | 50% OFF lifetime license with code **bf2024preview** |
+| 💰  | [Shipped.club](https://shipped.club)        | Launch your startup in days, not months! 💆‍♂️ NextJS SaaS Kit TS/React/Tailwind/shadcn                            | 20% OFF with the code `BF2024` at checkout |
 
 
 [⬆️ Go to Top](#table-of-contents)
