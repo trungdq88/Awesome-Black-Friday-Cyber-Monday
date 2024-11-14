@@ -245,6 +245,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(PandaExtract)](https://pandaextract.com/) | A friendly Web Scraper for your browser, no-code required | 20% OFF with code **CYBER20** |
 
 
 
