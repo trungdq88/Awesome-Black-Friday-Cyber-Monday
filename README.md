@@ -96,6 +96,7 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(TurboScribe)](https://turboscribe.ai/) | Unlimited audio and video transcription. Convert your audio and video files to accurate text transcripts in seconds. Chat with and summarize your transcripts with ChatGPT. | 50% OFF on annual plans now through the end of the year. No code required. |
 |  ⚡ | [PDF Pals](https://pdfpals.com?via=awesomebf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
+|  ⭐ | [Reinspire](https://reinspire.io?utm_source=tony) | Transform your Audio/Video Media into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -106,6 +107,7 @@ Total deals: 0
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [(HeadshotPro)](https:/www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
 |  ⭐ | [(LoveTunesAI)](https://lovetunesai.com) | Personalized songs for your loved ones | 20% OFF with code **BF20OFF** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
