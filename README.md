@@ -13,7 +13,7 @@ Don't forget to:
 
 ## Table of Contents
 
-Total deals: 1
+Total deals: 0
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (22)](#-developer-macos-apps)
@@ -324,7 +324,7 @@ Total deals: 1
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐  | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
+|  🤑  | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
