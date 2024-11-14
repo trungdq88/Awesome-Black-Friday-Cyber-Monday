@@ -199,6 +199,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(SEO Gets)](https://seogets.com) | Turn your Google Search Console data into organic growth. | 30% OFF with code **BFCM2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
