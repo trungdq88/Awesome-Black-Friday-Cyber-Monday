@@ -224,6 +224,7 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  🤑 | [Resmume.com](https://resmume.com/) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd. | $19 37% OFF Lifetime deal |
 |  ⭐ | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring Service to ensure 24/7 availability, Track response times, Receive downtime alerts, and Create custom status pages. | 20% OFF with code **BLACKFRIDAY** on Lifetime Deals and all other plans. |
+|  ⭐ | [UnDatasIO](https://undatas.io/) | Designing Intelligent Systems with Unstructured Data Flow Pipelines | 50% OFF with code **BKGNIO1Y** on the first pay. |
 
 
 
