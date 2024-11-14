@@ -213,6 +213,7 @@ Total deals: 0
 |  ⭐ | [(JournoFinder)](https://journofinder.com) | PR Media Database to find journalists that will feature your business in the press. | 30% off all plans (including the lifetime deal) with code BLACKFRIDAY30 |
 |  ⭐ | [(SEO Course, SEO Blueprint 3)](https://seoblueprint.com) | Cutting-edge SEO training with four years of current updates and lifetime future updates | Free private website video audit with every order (Black Friday only) |
 |  ⭐ | [(BlitzBear)](https://blitzbear.com) | Rank higher the easy way. BlitzBear is SEO software that refreshes your existing content to move you up in Google. Our AI analyzes your articles against SERP competitors, identifies opportunities, and makes intelligent suggestions. | 30% OFF using **[this link](https://app.blitzbear.com/signup?promo=BF24_SEO)** |
+|  ⭐ | [SEO Gets](https://seogets.com) | Dashboard for your SEO Analytics. Turn your Google Search Console data into organic growth. All your sites under one dashboard, multiple GSC accounts, and reports/insights based on your GSC data | 30% OFF with code **BFCM2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
