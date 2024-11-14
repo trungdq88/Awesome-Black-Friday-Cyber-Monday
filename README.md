@@ -43,7 +43,7 @@ Total deals: 110
 		- [Miscellaneous Productivity Apps (1)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (4)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (2)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (1)](#-marketing-tools)
+- [🌈 Marketing Tools (4)](#-marketing-tools)
 - [🔍 SEO Tools (5)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (3)](#-startup-saastools)
 - [🌏 Social Media Tools (4)](#-social-media-tools)
