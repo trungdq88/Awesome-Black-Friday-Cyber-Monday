@@ -191,7 +191,7 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [Task Analytics for Todoist](https://task-analytics.com) | Analyze your productivity patterns, trends, and records with Task Analytics for Todoist! | 80% OFF for the lifetime license |
 
 
 
