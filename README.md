@@ -43,7 +43,7 @@ Total deals: 110
 		- [Miscellaneous Productivity Apps (1)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (4)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (2)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (1)](#-marketing-tools)
+- [🌈 Marketing Tools (4)](#-marketing-tools)
 - [🔍 SEO Tools (5)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (3)](#-startup-saastools)
 - [🌏 Social Media Tools (4)](#-social-media-tools)
@@ -236,7 +236,7 @@ Total deals: 110
 |  ⭐ | [(Uneed)](https://uneed.best) | Product Hunt alternative. | 30% off "Skip the waiting line" with code **BLACKFRIDAY2024** to promote your product.
 |  ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** (both 3 Day Access Plan and all recurring plans)
 |  ⭐ | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
-
+|  ⭐ | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. |
 
 
 [⬆️ Go to Top](#table-of-contents)
