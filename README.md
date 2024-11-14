@@ -90,8 +90,8 @@ Total deals: 110
 |  ⭐ | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% OFF! |
 |  ⭐ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
 | 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
-|  ⭐ | [(Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
-|  ⭐ | [(Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -149,7 +149,7 @@ Total deals: 110
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
 | 💰 | [Magicslides App](https://www.magicslides.app/) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfriday30** |
 | 💰 | [ThreeDee Lifetime deal](https://www.threedee.design/3d-models-pack) | Lifetime access to 22+ world-class 3D pack libraries, including all current and future releases! | **30% OFF** on lifetime deal **blackfriday2024** |
-| ⭐ | [(Siter.io](https://siter.io/) | No-Code website builder - Craft websites in minutes, no coding needed, and tailor every detail to your vision. The ideal tool for creating portfolios, landing pages, and presentation websites. | 30% OFF with code **BLACK24** |
+| ⭐ | [Siter.io](https://siter.io/) | No-Code website builder - Craft websites in minutes, no coding needed, and tailor every detail to your vision. The ideal tool for creating portfolios, landing pages, and presentation websites. | 30% OFF with code **BLACK24** |
 | 📸 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto-hide sensitive info, auto-fill background color, social media presets. Other features: annotations, image compression, cloud storage. Fully supports macOS and Windows. | **40% OFF** on all plan with code **blackfriday2024** |
 | 🖌️ | [IllustraAI](https://illustraai.com) | Create custom vector illustrations for your websites, apps, marketing materials, etc. | **30% OFF** on all plan with code **BLACKFRIDAY2024** |
 
@@ -198,6 +198,7 @@ Total deals: 110
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -242,9 +243,9 @@ Total deals: 110
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 |  ⭐ | [Uneed](https://uneed.best) | Product Hunt alternative. | 30% off "Skip the waiting line" with code **BLACKFRIDAY2024** to promote your product.
 |  ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** (both 3 Day Access Plan and all recurring plans)
-|  ⭐ | [(Postcards email builder](https://designmodo.com/postcards/) | Email design platform - Create your email templates 20x faster, with no design limits and no coding skills. | 40% OFF with code **BLACK** |
-|  ⭐ | [(Mailpost.io](https://mailpost.io/) | Email marketing software - Send your email marketing campaign quickly and easily. Trusted by developers, designers and marketers for time-savings, scalability and price. | 30% OFF with code **BLACK24** |
-|  ⭐ | [(Unspam.email](https://unspam.email/) | Email spam checker - Ensure your emails land in the inbox, not the spam folder. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Postcards email builder](https://designmodo.com/postcards/) | Email design platform - Create your email templates 20x faster, with no design limits and no coding skills. | 40% OFF with code **BLACK** |
+|  ⭐ | [Mailpost.io](https://mailpost.io/) | Email marketing software - Send your email marketing campaign quickly and easily. Trusted by developers, designers and marketers for time-savings, scalability and price. | 30% OFF with code **BLACK24** |
+|  ⭐ | [Unspam.email](https://unspam.email/) | Email spam checker - Ensure your emails land in the inbox, not the spam folder. | 30% OFF with code **BLACK24** |
 |  ⭐ | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
 |  ⭐ | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. |
 |  ⭐ | [CalGet](https://calget.com) | Simplify your event planning with **CalGet**. Create shareable “Add to Calendar” links that integrate seamlessly into your social media, newsletters, websites, and emails. With just one click, your audience can add events to their preferred calendars, including Google, Apple, Outlook, Yahoo, and Office365. Streamline your event promotion and boost attendance with CalGet.com.| 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024** |
@@ -310,7 +311,7 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [PandaExtract](https://pandaextract.com/) | A friendly Web Scraper for your browser, no-code required | 20% OFF with code **CYBER20** |
 |  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
-
+|  💰 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **BF24NSCO** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -328,6 +329,7 @@ Total deals: 110
 | 🤑 | [LaunchYourApp](https://launchyourapp.dev/) | React Native boilerplate built with Expo, Supabase and Nativewind. Having features like Authentication, Payments, Analytics, and more. | 30% Off with code **BF2024** |
 | 🔥 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 | 🚀 | [Rocketlaunch](https://www.rocket-launch.dev/) | The Beginner's Ultimate Boilerplate to Accelerate Your SaaS 🚀 | 20% OFF pro license with code **BF2024** |
+| 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -385,6 +387,7 @@ Total deals: 110
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The Python Coding Book](https://thepythoncodingplace.thinkific.com/enroll/2906653?coupon=black2024) | A friendly and relaxed Python programming book for beginners. Google "Python book" and you'll find it! | 40% OFF applied automatically |
+| 🤑 | [Dev Concepts](https://dev-concepts.dev/) | The first two books of the Dev Concepts collection. Learn all the key concepts at a discount | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -482,8 +485,9 @@ Total deals: 110
 | 🏠 | [Learn Remote + Async](https://learn-remote-async.onbrn.com/index.html) | Learn and implement remote and asynchronous processes to effectively increase happiness and productivity of your engineering team. | 50% OFF with code **FRIDAY24** |
 | 📔 | [3 years of Mini Stories](https://ministories.net/3-years-of-ministories-book/) | 36 short stories to read quickly, and think slowly. | 50% OFF with code **FRIDAY24** |
 | ⭐ | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
+| ⭐ | [(ReadReviews)](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
+| 🤑 | [Personal Knowledge Management and Knowledge Work Starters, Courses and Library](https://developassion.gumroad.com) | A set of products focused on Knowledge Management and Knowledge Work. Learn everything about PKM, Obsidian, and modern Knowledge Work | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 | ⭐ | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
-
 
 
 [⬆️ Go to Top](#table-of-contents)
