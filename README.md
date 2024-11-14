@@ -192,7 +192,7 @@ Total deals: 110
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BLACK24** |
-|  ⭐ | [Lasso - Window Manager](https://thelasso.app) | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse. | 45% OFF with code **BLACKFRIDAY24** |
+| 🪟 | [Lasso - Window Manager](https://thelasso.app) | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. | 45% OFF with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
