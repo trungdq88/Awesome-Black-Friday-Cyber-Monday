@@ -174,6 +174,7 @@ Total deals: 110
 ## 🔥 Productivity
 ### 🖥️ Productivity Desktop Apps
 
+
 #### Tasks, s, Organize, Planning
 
 |  | Name | Description | Discount Code & Terms |
@@ -195,6 +196,9 @@ Total deals: 110
 | -- | ---| ------ | ------ |
 | ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BLACK24** |
 | 🪟 | [Lasso - Window Manager](https://thelasso.app) | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. | 45% OFF with code **BLACKFRIDAY24** |
+|  🖥️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY24) | A macOS app that makes redacting text in images easier with click-to-redact and drag-to-redact features. | 40% OFF with code **BLACKFRIDAY24** |
+|  ✄ | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY24) | A macOS app for effortless batch resizing and editing of images with preset configurations. | 40% OFF with code **BLACKFRIDAY24** |
+|  📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -310,7 +314,9 @@ Total deals: 110
 | -- | ---| ------ | ------ |
 | 💰 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | $5 OFF on the annual Ghostfolio Premium subscription |
 | 💵 | [Budget Zen](https://budgetzen.net) | Simple and End-to-End Encrypted Budget & Expenses Manager. | 50% OFF on the annual subscription with code **FRIDAY24** |
-
+| 💰 | [Book: Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** |
+| 📈 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY24) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 40% OFF with code **BLACKFRIDAY24** |
+| 💵 | [Portfolio Withdrawal Calculator](https://gracehuang.gumroad.com/l/portfolio-withdrawal-calculator/BLACKFRIDAY24) | A simple calculator to help you estimate your portfolio withdrawal rate. | 40% OFF with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -365,6 +371,8 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | 50% OFF with code **BLACKFRIDAY** |
 |  ⭐ | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | 50% OFF with code **BLACKFRIDAY** |
+| 🔥 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** |
+| 📄 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) | Learn how to write effective Technical Design Documents (TDD) with real-life examples. | 40% OFF with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -375,6 +383,7 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2024) | In this book, you’ll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2024) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2024** |
+| 💻 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -388,6 +397,8 @@ Total deals: 110
 |  📚 | [The Good Parts of AWS](https://dvassallo.gumroad.com/l/aws-good-parts/AWSFREE) | Almost everything we know about AWS, packed into a short 2-part book by ex-AWS engineers. | **100% OFF** applied automatically |
 |  📚 | [Indexing Beyond the Basics](https://goodindexes.com/) | Learn to create indexes for your slow queries by following simple principles. | **50% OFF** applied automatically |
 |  ⭐ | [Soccer Betting Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c) | All Soccer betting modeling books | 50% OFF with code **D43474C** |
+| 🔥 | [Inside the Machine Learning Interview](https://pengshao.gumroad.com/l/insidethemachinelearninginterview/BLACKFRIDAY2024) | 151 Real Questions from FAANG and How to Answer Them | 25% OFF with code **BLACKFRIDAY2024** |
+| 📘 | [Machine Learning by Design: ](https://pengshao.gumroad.com/l/machinelearningbydesign/BLACKFRIDAY2024) | Patterns and Principles for Data Collection, Feature Engineering, and Model Development | 25% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -399,6 +410,8 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The Python Coding Book](https://thepythoncodingplace.thinkific.com/enroll/2906653?coupon=black2024) | A friendly and relaxed Python programming book for beginners. Google "Python book" and you'll find it! | 40% OFF applied automatically |
 | 🤑 | [Dev Concepts](https://dev-concepts.dev/) | The first two books of the Dev Concepts collection. Learn all the key concepts at a discount | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
+| 🔥 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** |
+| 📝 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY24) | A comprehensive guide to improving code review processes, intentions and etiquettes.| 40% OFF with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -439,7 +452,7 @@ Total deals: 110
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
-
+|  💻 | [Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
