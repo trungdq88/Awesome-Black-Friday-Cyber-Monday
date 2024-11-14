@@ -81,7 +81,7 @@ Total deals: 0
 ### 💬 AI Chat UI
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💬 | [ChatHub](https://chathub.gg/?utm_source=bf) | All-in-One AI client, over 20 models in one app. | 10% OFF annual subscription with code **BFCM24** |
+| 💬 | [ChatHub](https://chathub.gg/?utm_source=bf) | Chat with multiple AI models side by side. | 10% OFF annual subscription with code **BFCM24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
