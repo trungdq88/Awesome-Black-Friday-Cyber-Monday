@@ -369,7 +369,7 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  💼 | [JoblistingsPRO.com](https://joblistingspro.com) | Clean job & application tracker. Resume and job listing analysis | 69% OFF for 6 months with code **BLACKFRIDAY** |
 
 
 
