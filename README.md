@@ -339,6 +339,7 @@ Total deals: 110
 | 🔥 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 | 🚀 | [Rocketlaunch](https://www.rocket-launch.dev/) | The Beginner's Ultimate Boilerplate to Accelerate Your SaaS 🚀 | 20% OFF pro license with code **BF2024** |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
+| 🕊️ | [Freedom Stack](https://nextlessjs.com) | Full-stack Astro starter kit with Turso, Alpine.js, HTMX, and more. | 100% Free |
 
 
 [⬆️ Go to Top](#table-of-contents)
