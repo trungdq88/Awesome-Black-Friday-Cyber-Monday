@@ -306,6 +306,8 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business| Link already discounted 75%, valid till Cyber Monday|
+|  🤑 | [Wifi Money Bible](https://www.wifimoneyplant.com/l/wifimoneybible/BLACKFRIDAY) | Learn How to Start, Grow and Automate an Online Business (350+ happy customers) | Link already discounted 75%, valid till Cyber Monday|
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -315,6 +317,9 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  🤑 | [YouTube Secrets](https://www.wifimoneyplant.com/l/YouTubeSecrets/BLACKFRIDAY) | Learn how to grow and monetise your YouTube Channel| Link already discounted 75%, valid till Cyber Monday|
+|  🤑 | [X Hacks](https://www.wifimoneyplant.com/l/XHacks/BLACKFRIDAY) | Learn how to build an audience on X (Twitter) and make money from it | Link already discounted 75%, valid till Cyber Monday |
+|  🤑 | [Million Dollar Audience](https://www.wifimoneyplant.com/l/MillionDollarAudience/BLACKFRIDAY) | Learn how to build an audience on email and socials and monetise it | Link already discounted 75%, valid till Cyber Monday |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -370,6 +375,8 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  🤑 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | A private community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business | Link already discounted 75%, valid till Cyber Monday |
+|  🤑 | [Crypto Cash](https://www.wifimoneyplant.com/l/crypto/BLACKFRIDAY) | Learn how to make money in crypto by making calculated bets and managing risk | Link already discounted 75%, valid till Cyber Monday |
 
 
 
