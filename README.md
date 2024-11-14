@@ -105,6 +105,7 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [(HeadshotPro)](https:/www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
+|  ⚡ | [IconKit](https://iconkit.ai?utm_source=awesomebf) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
