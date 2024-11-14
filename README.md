@@ -141,7 +141,7 @@ Total deals: 0
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(Lasso - Window Manager)](https://thelasso.app) | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse. | 45% OFF with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
