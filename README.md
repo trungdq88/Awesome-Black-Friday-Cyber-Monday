@@ -380,6 +380,4 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 
-
-
 [⬆️ Go to Top](#table-of-contents)
