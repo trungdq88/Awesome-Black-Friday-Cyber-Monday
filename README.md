@@ -219,7 +219,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-|  ⭐ | [(Supergrow.ai)](https://supergrow.ai/) | Grow your audience on LinkedIn | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [(Supergrow.ai)](https://supergrow.ai/) | Grow your audience on LinkedIn | 50% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
