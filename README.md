@@ -66,6 +66,7 @@ Total deals: 0
 |  ⭐ | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster like a Pro. Support macOS Sequoia, iOS, Windows, and Linux. | 30% OFF for all plans with code **BLACKFRIDAY2024** |
 |  ⭐ | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
+|  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -194,6 +195,7 @@ Total deals: 0
 |  ✅ | [Trio: Mindful ToDo List App](https://apps.apple.com/redeem?ctx=offercodes&id=6636491845&code=BF24) | Your path to Mindful Productivity. Simplify, Focus, Achieve 🚀. Focus on just three key tasks daily to drive meaningful progress and maintain balance in your life. | 80% off for your first year with all Pro features! With code **BF24** |
 |  ⏩ | [Quick Capture - Supasend](https://apps.apple.com/in/app/quick-capture-supasend/id6504688166) | Quickly capture your notes instantly in your second brain apps like Obsidian, Notion and Email 🧠 | Lifetime 50% OFF |
 |  🗣️ | [Audio Writer iOS](https://apps.apple.com/in/app/audio-writer/id6450592778) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% off |
+|  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
