@@ -100,8 +100,8 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [TurboScribe](https://turboscribe.ai/) | Unlimited audio and video transcription. Convert your audio and video files to accurate text transcripts in seconds. Chat with and summarize your transcripts with ChatGPT. | 50% OFF on annual plans now through the end of the year. No code required. |
 |  ⚡ | [PDF Pals](https://pdfpals.com?via=awesomebf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
-|  ⭐ | [echodocs.ai](https://echodocs.ai/black-friday/) | Turn audio into precise documents with a few clicks. AI-powered transcription and automated documentation in over 50 languages. | 50% OFF with code **BLACK50** |
 |  ⭐ | [Reinspire](https://reinspire.io?utm_source=tony) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
+|  ⭐ | [echodocs.ai](https://echodocs.ai/black-friday/) | Turn audio into precise documents with a few clicks. AI-powered transcription and automated documentation in over 50 languages. | 50% OFF with code **BLACK50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
