@@ -209,7 +209,7 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-|  🤑 | [(Resmume.com)](https://resmume.com/) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd. | $19 37% OFF Lifetime deal |
+|  🤑 | [Resmume.com](https://resmume.com/) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd. | $19 37% OFF Lifetime deal |
 
 
 
