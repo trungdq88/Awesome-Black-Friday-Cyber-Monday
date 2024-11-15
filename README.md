@@ -531,6 +531,7 @@ Total deals: 110
 | 🚀 | [Mastering Remote Work](https://sergiorocks.gumroad.com/l/mastering-remote-work) | High performing remote teams that don’t burn people out. For remote workers and remote team leads. | 60% OFF during November/2024 |
 | ⭐ | [Indie Masterminds](https://indiemasterminds.com/) | Side Hustle to $5K MRR: Join a tight knit group of independent founders, creators and solopreneurs growing together. | 50% OFF Code: "BFCM24"|
 | 🛩️ | [BZF App](https://bzf.app/) | Prepare for your BZF I , II or E license exam, with an easy way to study the official Bundesnetzagentur questionnaire. Study the theoretical materials and analyze your stats to keep track of your improvement. | 50% OFF on In-app Purchase Full Access during November/2024|
+| 📊 | [Analytics Bar](https://analyticsbar.com) | Real-time Google Analytics in your menu bar. | 35% OFF with code **BFCM24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
