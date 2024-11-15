@@ -27,7 +27,7 @@ Total deals: 110
 
 - [Table of Contents ](#table-of-contents)
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (5)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (6)](#-developer-macos-apps)
 	- [💻 Tools & Services (4)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (5)](#-ai-chat-ui)
@@ -37,10 +37,10 @@ Total deals: 110
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, s, Organize, Planning (6)](#tasks-s-organize-planning)
+		- [Tasks, s, Organize, Planning (7)](#tasks-s-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (2)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (1)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (1)](#miscellaneous-productivity-apps)
+		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (4)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (2)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (5)](#-marketing-tools)
@@ -60,7 +60,7 @@ Total deals: 110
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
 	- [📕 Marketing Books (3)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (4)](#-programming-courses)
+	- [💻 Programming Courses (9)](#-programming-courses)
 	- [🔒 Information Security Courses (1)](#-information-security-courses)
 	- [🎢 Career Courses (2)](#-career-courses)
 	- [📈 Marketing Courses (2)](#-marketing-courses)
@@ -78,7 +78,7 @@ Total deals: 110
 |  ⭐ | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 |  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
-
+|  🖥️ | [DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -94,7 +94,8 @@ Total deals: 110
 |  ⭐ | [(Static.app](https://static.app/) | Static website hosting - One-click hosting solution for your static website. | 30% OFF with code **BLACK24** |
 |  ⭐ | [(Pulsetic](https://pulsetic.com/) | Website uptime monitoring service - Get website downtime alerts by phone call, SMS, email or Slack if your website is down. Create beautiful status pages & incident management reports and keep your visitors updated. | 30% OFF with code **BLACK24** |
 |  ⭐ | [Guidejar](https://guidejar.com) | Create Interactive Product Demos and Step-by-Step Guides effortlessly - with powerful features like no-code help center, AI translate & voicover, lead capture forms, analytics and more! | 40% OFF on all plans with code **BLACKFRIDAY24** |
-
+|  ⭐ | [Hoverify](https://tryhoverify.com) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level. | 30% OFF! |
+|  ⭐ | [Small Hours](https://smallhours.dev) | AI powered automated root cause analysis - minimize downtime, maximize efficiency. | 50% OFF on startup and enterprise plans with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -123,6 +124,7 @@ Total deals: 110
 |  ⭐ | [Reinspire](https://reinspire.io?utm_source=tony) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
 |  ⭐ | [echodocs.ai](https://echodocs.ai/black-friday/) | Turn audio into precise documents with a few clicks. AI-powered transcription and automated documentation in over 50 languages. | 50% OFF with code **BLACK50** |
 |  ⭐ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
+| 📖 | [Heuristica](https://www.heuristi.ca/) | Create AI-powered mind maps and concept maps using Heuristica for visual learning, thinking, and research. | 40% OFF with code **BFRIDAY2024** |
 |  ⭐ | [kgrep](https://kgrep.com) | Small search engine without the fluff. | 10% OFF with code **FRIYAY** on Stripe |
 
 
@@ -186,7 +188,7 @@ Total deals: 110
 |  🧘‍♂️ | [Zen Mode macOS](https://zenmode.app/) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF |
 |  🧘‍♂️ | [Spaces macOS](https://spacesformac.xyz/) | Declutter & organize your workspace on macOS in one single click 🎊 | Bundle Lifetime 50% OFF |
 |  ⭐ | [NoteSLAYER](https://note-slayer.com/) | Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS) | 50% OFF with code **BLACKBLACK24** |
-
+|  📝 | [Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows | **BLACKFRIDAY2024** 25% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -216,7 +218,7 @@ Total deals: 110
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license between 25 Nov and 2 Dec |
-
+|  🖥️ | [ScreenMemory](https://screenmemory.app) | Photographic memory for your macOS screen, rewind time on your screen | **BLACKFRIDAY2024** 25% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -443,6 +445,7 @@ Total deals: 110
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
+|  🤑  | [Codecourse](https://codecourse.com) | Practical screencasts for developers. Learn Laravel, Vue, Nuxt and more.| 50% OFF [all plans](https://codecourse.com/pro) (including lifetime) from 18th Nov - 1st Dec. No code needed (**BLACKFRIDAY2024** for existing members) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -509,6 +512,7 @@ Total deals: 110
 | ⭐ | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
 | 🚀 | [Mastering Remote Work](https://sergiorocks.gumroad.com/l/mastering-remote-work) | High performing remote teams that don’t burn people out. For remote workers and remote team leads. | 60% OFF during November/2024 |
 | ⭐ | [Indie Masterminds](https://indiemasterminds.com/) | Side Hustle to $5K MRR: Join a tight knit group of independent founders, creators and solopreneurs growing together. | 50% OFF Code: "BFCM24"|
+| 🛩️ | [BZF App](https://bzf.app/) | Prepare for your BZF I , II or E license exam, with an easy way to study the official Bundesnetzagentur questionnaire. Study the theoretical materials and analyze your stats to keep track of your improvement. | 50% OFF on In-app Purchase Full Access during November/2024|
 
 
 [⬆️ Go to Top](#table-of-contents)
