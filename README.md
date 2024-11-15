@@ -213,6 +213,7 @@ Total deals: 218
 | 🪟 | [Lasso - Window Manager](https://thelasso.app) | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. | 45% OFF with code **BLACKFRIDAY24** |
 | 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY**|
+| ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24**|
 
 [⬆️ Go to Top](#table-of-contents)
 
