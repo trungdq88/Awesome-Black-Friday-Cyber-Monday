@@ -80,6 +80,7 @@ Total deals: 194
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 |  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
 |  🖥️ | [DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off |
+|  🦄 | [Kaleidoscope](https://kaleidoscope.app) | The world's most powerful file comparison and merge app, with deep git integration. | **BLACKFRIDAY2024** First Year 40% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -100,6 +101,8 @@ Total deals: 194
 |  ✅ | [Interact List](https://interactlist.com) | Design and share your own styled Checklists ✨| [50% off Lifetime License](https://shop.interactlist.com/buy/1fdb3171-2c66-4577-80ab-b911be2ecc96?embed=0&logo=0&checkout[discount_code]=BLACK24) |
 |  ⭐ | [Skymage](https://skymage.daudau.cc) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | 50% OFF on all plans with code **BLACKFRIDAY** |
  | 📩 | [Web3Forms](https://web3forms.com/) | Contact form API for static websites | 30% off on all Pro plans with code **BLACKFRIDAY** |
+| 📩 | [TradingView History](https://chromewebstore.google.com/detail/recently-viewed-for-tradi/ibcpkeflilobhmhphlabfiefdcebmdal/) | TradingView History for traders | 50% off on Lifetime plan with code **BLACKFRIDAY2024** |
+|  🧭 | [Azimutt](https://azimutt.app) | The best database visualization for teams with large databases | 50% OFF with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -132,6 +135,7 @@ Total deals: 194
 |  ⭐ | [Yomu](https://www.yomu.ai/) | Write papers and essays with AI, simplifying academic writing and enhancing productivity. | 24% OFF with code **BF24** |
 |  ⭐ | [Sourcely](https://www.sourcely.net/) | Paste your essay or paper to find, summarize, and add credible academic sources. | 24% OFF with code **BF24** |
 |  ⭐ | [ArXiv Pulse](https://www.arxivpulse.com/) | Receive personalized email digests of arXiv papers, summarizing the latest research in AI in an easy-to-digest format. | 24% OFF with code **BF24** |
+|  ⭐ | [BeeDone](https://beedone.co/sales-black-friday) | Your playful AI Coach Assistant for productivity. Transform tasks into a game, prioritize with focus timers. Tailored for solopreneurs, mindful individuals and those managing ADHD. | 50% OFF with this link |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -171,6 +175,7 @@ Total deals: 194
 | 💰  | [Place Card Template](https://placecard.us) | A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing. | 30% off (automatic) |
 | ✳︎ | [Inspotype](https://inspotype.com) | Build brands in a blink. For product makers, designers, productivized designers and design agencies. | 20% OFF on LIFETIME **BLACKFRIDAY2024** |
 | 🚀 | [Sheetany](https://sheetany.com) | A website builder that helps you quickly create websites directly from Google Sheets, without any design or development skills, for blogs, directories, job boards, and more. | 30% OFF on all plans with code **BFCM2024** |
+| ♿️ | [Contrasts](https://contrasts.app) | One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act! | 40% OFF on lifetime deal (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -208,6 +213,7 @@ Total deals: 194
 | -- | ---| ------ | ------ |
 | ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BLACK24** |
 | 🪟 | [Lasso - Window Manager](https://thelasso.app) | Lasso is a powerful window manager for macOS that allows you to easily move and resize windows with your mouse or keybord. | 45% OFF with code **BLACKFRIDAY24** |
+| 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -240,6 +246,7 @@ Total deals: 194
 |  ⏩ | [Quick Capture - Supasend](https://apps.apple.com/in/app/quick-capture-supasend/id6504688166) | Quickly capture your notes instantly in your second brain apps like Obsidian, Notion and Email 🧠 | Lifetime 50% OFF |
 |  🗣️ | [Audio Writer iOS](https://apps.apple.com/in/app/audio-writer/id6450592778) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% off |
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
+|  📝 | [Quick Capture - Obsidian](https://apps.apple.com/in/app/quick-capture-obsidian/id6737046871) | Send anything to any vault in Obsidian 10x faster | Lifetime 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -296,6 +303,7 @@ Total deals: 194
 | 📈 | [Refined Directories](https://refined.so/tools/seo-directories) | Kickstart your project's SEO by submitting to all relevant directories. Increase your DR and backlinks to rank higher on search engines and get your first customers. | 30% OFF with code **BF30** |
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
 |  ✨ | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
+|  🔭 | [Telescope](https://withtelescope.com/) | Comprehensive suite of SEO tools that helps you research and track keywords, monitor backlinks, analyze competitors, perform site audits, and more. | 20% off balance top-ups and 30% off your first 3 months on any subscription plan with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -369,6 +377,7 @@ Total deals: 194
 | 🚀 | [Rocketlaunch](https://www.rocket-launch.dev/) | The Beginner's Ultimate Boilerplate to Accelerate Your SaaS 🚀 | 20% OFF pro license with code **BF2024** |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 |  ⭐ | [Web3Templates](https://web3templates.com) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS. | Get 25% OFF with code **GET25OFF** |
+|  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50$ OFF with code **G5NJE1MW** |
 |  ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer!  |
 
 
