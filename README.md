@@ -146,6 +146,7 @@ Total deals: 194
 |  🤖 | [Letty](https://www.useletty.com?ref=awesomebf) | Write professional emails that sound just like you in seconds | 30% OFF all plans with code **BF2024** |
 |  ⭐ | [Galaxy.ai](https://galaxy.ai) | All-in-one AI platform with 1500+ AI tools including ChatGPT, Claude, Gemini, Flux, and more | **50% OFF** - $15/month (down from $30) |
 |  🚀 | [JobsCopilot.ai](https://jobscopilot.ai/) | Get job interviews booked, while you sleep. The AI will find you the best job opportunities, and auto-apply to the jobs you want. Effortless! | 25% OFF with code **BLACKFRIDAY2024** |
+|  🧠 | [ChatUML](https://chatuml.com/?utm_source=tony) | An AI assistant that transforms your ideas into PlantUML diagrams effortlessly. | 40% OFF with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
