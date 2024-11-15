@@ -97,6 +97,7 @@ Total deals: 110
 |  ⭐ | [Hoverify](https://tryhoverify.com) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level. | 30% OFF! |
 |  ⭐ | [Small Hours](https://smallhours.dev) | AI powered automated root cause analysis - minimize downtime, maximize efficiency. | 50% OFF on startup and enterprise plans with code **BLACKFRIDAY24** |
 |  ✅ | [Interact List](https://interactlist.com) | Design and share your own styled Checklists ✨| [50% off Lifetime License](https://shop.interactlist.com/buy/1fdb3171-2c66-4577-80ab-b911be2ecc96?embed=0&logo=0&checkout[discount_code]=BLACK24) |
+|  ⭐ | [Skymage](https://skymage.daudau.cc) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | 50% OFF on all plans with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -444,10 +445,10 @@ Total deals: 110
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** | 
+|  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🤑  | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 | 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
-|  ⭐ | [Lifetime membership for The Python Coding Place](https://thepythoncodingplace.com) | Get access to all the video courses covering beginner, intermediate, and advanced Python topics. All courses are delivered in a casual, friendly way, and focus on learning "why" things are the way they are in Python, and not just "how" to do things. | [40% OFF Lifetime Membership **BLACK2024**](https://thepythoncodingplace.thinkific.com/cart/add_product/2731141?price_id=3865919&coupon=black2024) | 
+|  ⭐ | [Lifetime membership for The Python Coding Place](https://thepythoncodingplace.com) | Get access to all the video courses covering beginner, intermediate, and advanced Python topics. All courses are delivered in a casual, friendly way, and focus on learning "why" things are the way they are in Python, and not just "how" to do things. | [40% OFF Lifetime Membership **BLACK2024**](https://thepythoncodingplace.thinkific.com/cart/add_product/2731141?price_id=3865919&coupon=black2024) |
 |  🤖 | [The Complete AI Fast Track Bootcamp - 2024](https://code4startup.com/ai_bootcamp) | Learn LLMs, Gemini Pro, ChatGPT, Hugging Face, LangChain, Vector database, Text-to-Speech, GPT-4 Vision and build AI apps in 1 week. | 50% OFF with Lifetime Access + Full Source Code |
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
