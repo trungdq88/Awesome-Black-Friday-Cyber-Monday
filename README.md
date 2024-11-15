@@ -243,6 +243,7 @@ Total deals: 218
 |  🗣️ | [Audio Writer iOS](https://apps.apple.com/in/app/audio-writer/id6450592778) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% off |
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 |  📝 | [Quick Capture - Obsidian](https://apps.apple.com/in/app/quick-capture-obsidian/id6737046871) | Send anything to any vault in Obsidian 10x faster | Lifetime 50% off |
+|  📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 
 
 [⬆️ Go to Top](#table-of-contents)
