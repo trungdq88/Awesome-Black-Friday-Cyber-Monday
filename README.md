@@ -50,7 +50,7 @@ Total deals: 194
 - [🌏 Social Media Tools (7)](#-social-media-tools)
 - [💸 Finance Tools (2)](#-finance-tools)
 - [🎛 Utility Tools (6)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (10)](#-boilerplates-starter-kit-templates)
+- [💅 Boilerplates, Starter-Kit, Templates (11)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
