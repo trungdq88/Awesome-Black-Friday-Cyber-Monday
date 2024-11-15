@@ -290,6 +290,7 @@ Total deals: 194
 | 🔗 | [Linkdr](https://linkdr.com) | AI link building tool that helps you find backlinks on autopilot | 10% OFF with code **BF24** |
 | 📈 | [Refined Directories](https://refined.so/tools/seo-directories) | Kickstart your project's SEO by submitting to all relevant directories. Increase your DR and backlinks to rank higher on search engines and get your first customers. | 30% OFF with code **BF30** |
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
+|  ✨ | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -318,6 +319,7 @@ Total deals: 194
 | 🤩  | [LiveReacting](https://www.livereacting.com) | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your live stream. | 40% OFF for monthly or 50% for a yearly plan with code **BLACK-FRIDAY-2024-P** |
 | ⌛️  | [Countdown Timer App](https://www.countdown-timer.app) | App to publish Countdown Timer Clock to Facebook page. | Lifetime deal (no subscription) for $49.99 |
 | 📍  | [BlogToPin](https://blogtopin.com) | Best Pinterest Automation Tool. Publish hundreds of Pins in minutes | 35% OFF with code **BF35** on any plan |
+| ✨ | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
 
 
 [⬆️ Go to Top](#table-of-contents)
