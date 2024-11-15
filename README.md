@@ -146,6 +146,7 @@ Total deals: 194
 |  🤖 | [Letty](https://www.useletty.com?ref=awesomebf) | Write professional emails that sound just like you in seconds | 30% OFF all plans with code **BF2024** |
 |  ⭐ | [Galaxy.ai](https://galaxy.ai) | All-in-one AI platform with 1500+ AI tools including ChatGPT, Claude, Gemini, Flux, and more | **50% OFF** - $15/month (down from $30) |
 |  🚀 | [JobsCopilot.ai](https://jobscopilot.ai/) | Get job interviews booked, while you sleep. The AI will find you the best job opportunities, and auto-apply to the jobs you want. Effortless! | 25% OFF with code **BLACKFRIDAY2024** |
+|  🧠 | [ChatUML](https://chatuml.com/?utm_source=tony) | An AI assistant that transforms your ideas into PlantUML diagrams effortlessly. | 40% OFF with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -273,6 +274,7 @@ Total deals: 194
 |  💰 | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, emails, campaigns, and DRIP automation sequences. One time payment license.| 35% OFF with code **BF2024** |
 |  💰 | [Loomos](https://loomos.co) | Training videos made easy. Transform boring screen recordings into studio-quality videos in single click. One time payment, no subscription.| 50% OFF till Black Friday |
 |  ⭐ | [Verbatik AI](https://verbatik.com) | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak | 40% OFF on All plans with code **BFCM2024** |
+|  💰 | [Provver](https://provver.com) | Increase the conversion rate on your landing page. Showcase recent sales to other potential customers | 40% OFF on both plans with code **SAASDEALS40** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -338,12 +340,12 @@ Total deals: 194
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [PandaExtract](https://pandaextract.com/) | A friendly Web Scraper for your browser, no-code required | 20% OFF with code **CYBER20** |
 |  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 |  💰 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **BF24NSCO** |
 |  📒 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces. | 24% off of all plans **NOTIONBACKUPSFRIDAY2024** |
 |  🎉 | [Emoji Autocomplete](https://chromewebstore.google.com/detail/emoji-autocomplete/lkicimekniagfoifhgkieaomcdhofpfn) | Easily insert emojis by typing ':' followed by a word, just like in Slack, Discord, GitHub and other apps. | 50% OFF with code **BLACKFRIDAY2024** |
+|  🛠️ | [CompressX](https://compressx.app) | Easily compress your media with significantly file size reduction, work 100% offline. | 30% off of all plans **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
