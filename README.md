@@ -240,6 +240,7 @@ Total deals: 194
 |  ⏩ | [Quick Capture - Supasend](https://apps.apple.com/in/app/quick-capture-supasend/id6504688166) | Quickly capture your notes instantly in your second brain apps like Obsidian, Notion and Email 🧠 | Lifetime 50% OFF |
 |  🗣️ | [Audio Writer iOS](https://apps.apple.com/in/app/audio-writer/id6450592778) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% off |
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
+|  📝 | [Quick Capture - Obsidian](https://apps.apple.com/in/app/quick-capture-obsidian/id6737046871) | Send anything to any vault in Obsidian 10x faster | Lifetime 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
