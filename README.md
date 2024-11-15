@@ -553,6 +553,6 @@ Total deals: 218
 | 🛩️ | [BZF App](https://bzf.app/) | Prepare for your BZF I , II or E license exam, with an easy way to study the official Bundesnetzagentur questionnaire. Study the theoretical materials and analyze your stats to keep track of your improvement. | 50% OFF on In-app Purchase Full Access during November/2024|
 | 📊 | [Analytics Bar](https://analyticsbar.com) | Real-time Google Analytics in your menu bar. | 35% OFF with code **BFCM24** |
 | 🚀 | [HubRank](https://hubrank.co) | AI-powered tool that helps you create high-quality long-form content optimized for SEO, conversions, and brand growth. Effortlessly generate guides, blog posts, and more! | 30% OFF with code **BLCKFRDY24** |
-| ✍️ | [Lykhari](https://lykhari.com) | A simple blogging platform at $2.50/month forever | 50% OFF with code **BLACKFRIDAY2024** |
+| 🖋️ | [Lykhari](https://lykhari.com) | A simple blogging platform at $2.50/month forever | 50% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
