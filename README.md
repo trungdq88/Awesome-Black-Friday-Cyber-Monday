@@ -365,6 +365,7 @@ Total deals: 194
 | 🔥 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 | 🚀 | [Rocketlaunch](https://www.rocket-launch.dev/) | The Beginner's Ultimate Boilerplate to Accelerate Your SaaS 🚀 | 20% OFF pro license with code **BF2024** |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
+|  ⭐ | [Web3Templates](https://web3templates.com) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS. | Get 25% OFF with code **GET25OFF** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -373,7 +374,7 @@ Total deals: 194
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [Web3Templates](https://web3templates.com) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS. | Get 25% OFF with code **GET25OFF** |
+|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
