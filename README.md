@@ -128,6 +128,9 @@ Total deals: 110
 |  ⭐ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 📖 | [Heuristica](https://www.heuristi.ca/) | Create AI-powered mind maps and concept maps using Heuristica for visual learning, thinking, and research. | 40% OFF with code **BFRIDAY2024** |
 |  ⭐ | [kgrep](https://kgrep.com) | Small search engine without the fluff. | 10% OFF with code **FRIYAY** on Stripe |
+|  ⭐ | [Yomu](https://www.yomu.ai/) | Write papers and essays with AI, simplifying academic writing and enhancing productivity. | 24% OFF with code **BF24** |
+|  ⭐ | [Sourcely](https://www.sourcely.net/) | Paste your essay or paper to find, summarize, and add credible academic sources. | 24% OFF with code **BF24** |
+|  ⭐ | [ArXiv Pulse](https://www.arxivpulse.com/) | Receive personalized email digests of arXiv papers, summarizing the latest research in AI in an easy-to-digest format. | 24% OFF with code **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
