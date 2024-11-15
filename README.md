@@ -375,6 +375,7 @@ Total deals: 218
 |  ⭐ | [Web3Templates](https://web3templates.com) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS. | Get 25% OFF with code **GET25OFF** |
 |  💰 | [AWS serverless kit](https://scaletozeroaws.com) | AWS has never been easier with the serverless kit (best practices). Deploy your app in minutes with serverless architecture. | 50$ OFF with code **G5NJE1MW** |
 |  ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer!  |
+|  🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
