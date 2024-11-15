@@ -286,6 +286,7 @@ Total deals: 218
 |  💰 | [Provver](https://provver.com) | Increase the conversion rate on your landing page. Showcase recent sales to other potential customers | 40% OFF on both plans with code **SAASDEALS40** |
 |  💰 | [PushAlert - Web Push Notifications](https://pushalert.co?utm_campaign=awesomebf) | PushAlert is a powerful user engagement and marketing automation platform that lets you send real-time web push notifications to users on both mobile and desktop without any app. Includes advance features like personalized messaging, behavior-based targeting, automated drip campaigns, and cart abandonment recovery. | [30% Off on All Annual Plans](https://pushalert.co/black-friday?utm_campaign=awesomebf) |
 |  ⭐️ | [Krumzi](https://krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
+|  👨‍💻 | [OpenAlternative](https://openalternative.co) | A collection of the best Open Source Alternatives to everyday SaaS products. | 30% OFF of all advertising options with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
