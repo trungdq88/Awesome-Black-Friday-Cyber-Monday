@@ -31,7 +31,7 @@ Total deals: 110
 	- [💻 Tools & Services (4)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (5)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (5)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (6)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (4)](#-other-ai-tools)
 - [🌅 Design Tools (10)](#-design-tools)
 - [⌨️ Code Libraries (1)](#️-code-libraries)
@@ -125,6 +125,7 @@ Total deals: 110
 |  ⭐ | [echodocs.ai](https://echodocs.ai/black-friday/) | Turn audio into precise documents with a few clicks. AI-powered transcription and automated documentation in over 50 languages. | 50% OFF with code **BLACK50** |
 |  ⭐ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 📖 | [Heuristica](https://www.heuristi.ca/) | Create AI-powered mind maps and concept maps using Heuristica for visual learning, thinking, and research. | 40% OFF with code **BFRIDAY2024** |
+|  ⭐ | [kgrep](https://kgrep.com) | Small search engine without the fluff. | 10% OFF with code **FRIYAY** on Stripe |
 
 
 [⬆️ Go to Top](#table-of-contents)
