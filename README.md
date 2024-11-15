@@ -376,6 +376,7 @@ Total deals: 110
 |  ⭐ | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | 50% OFF with code **BLACKFRIDAY** |
 |  ⭐ | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | 50% OFF with code **BLACKFRIDAY** |
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 #### Apps Development (Mobile/Desktop)
@@ -409,6 +410,7 @@ Total deals: 110
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The Python Coding Book](https://thepythoncodingplace.thinkific.com/enroll/2906653?coupon=black2024) | A friendly and relaxed Python programming book for beginners. Google "Python book" and you'll find it! | 40% OFF applied automatically |
 | 🤑 | [Dev Concepts](https://dev-concepts.dev/) | The first two books of the Dev Concepts collection. Learn all the key concepts at a discount | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
+| 🕵️ | [CSP Developer Field Guide](https://foundeo.gumroad.com/l/csp-developer-field-guide) | Boost your web app's security, and quiclky master Content-Security-Policy with this book.   | 50% OFF with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
