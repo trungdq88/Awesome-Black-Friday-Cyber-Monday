@@ -322,6 +322,7 @@ Total deals: 194
 | ⌛️  | [Countdown Timer App](https://www.countdown-timer.app) | App to publish Countdown Timer Clock to Facebook page. | Lifetime deal (no subscription) for $49.99 |
 | 📍  | [BlogToPin](https://blogtopin.com) | Best Pinterest Automation Tool. Publish hundreds of Pins in minutes | 35% OFF with code **BF35** on any plan |
 | ✨ | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
+|  🚀 | [Postiz](https://postiz.com) | The ultimate AI social media scheduling tool also open-source! | 50% OFF with code **BF2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
