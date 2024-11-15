@@ -79,6 +79,7 @@ Total deals: 218
 |  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
 |  🖥️ | [DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off |
 |  🦄 | [Kaleidoscope](https://kaleidoscope.app) | The world's most powerful file comparison and merge app, with deep git integration. | **BLACKFRIDAY2024** First Year 40% OFF |
+|  🖥️ | [GetBlock](https://getblock.io/) | Leading blockchain node provider for 50+ networks. Reliable, fast, and easy to integrate RPC endpoints. | **30% off on Shared Nodes** till December 2d 2024 |
 
 [⬆️ Go to Top](#table-of-contents)
 
