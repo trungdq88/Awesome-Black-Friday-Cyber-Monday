@@ -270,6 +270,7 @@ Total deals: 110
 |  ⭐ | [Bannerify](https://bannerify.co) | API for Automated Image. Scale your marketing with fastest image generation service | 40% OFF on All plans with code **BF2024** |
 |  💰 | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, emails, campaigns, and DRIP automation sequences. One time payment license.| 35% OFF with code **BF2024** |
 |  💰 | [Loomos](https://loomos.co) | Training videos made easy. Transform boring screen recordings into studio-quality videos in single click. One time payment, no subscription.| 50% OFF till Black Friday |
+|  ⭐ | [Verbatik AI](https://verbatik.com) | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak | 40% OFF on All plans with code **BFCM2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
