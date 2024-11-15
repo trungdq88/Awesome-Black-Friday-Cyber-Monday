@@ -369,7 +369,7 @@ Total deals: 194
 | 🚀 | [Rocketlaunch](https://www.rocket-launch.dev/) | The Beginner's Ultimate Boilerplate to Accelerate Your SaaS 🚀 | 20% OFF pro license with code **BF2024** |
 | 🤑 | [Obsidian Starter Kit](https://obsidianstarterkit.com/) | Obsidian Starter Kit is the best entry point to productive note-taking, note-making and PKM with Obsidian | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 |  ⭐ | [Web3Templates](https://web3templates.com) | Fast & SEO optimized website template built with Next.js, Astro, Tailwind CSS and Sanity CMS. | Get 25% OFF with code **GET25OFF** |
-|  ✨ | [usesaaskit.com](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer!  |
+|  ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer!  |
 
 
 [⬆️ Go to Top](#table-of-contents)
