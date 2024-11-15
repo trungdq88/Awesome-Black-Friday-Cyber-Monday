@@ -27,7 +27,7 @@ Total deals: 110
 
 - [Table of Contents ](#table-of-contents)
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (5)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (6)](#-developer-macos-apps)
 	- [💻 Tools & Services (4)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (5)](#-ai-chat-ui)
@@ -37,10 +37,10 @@ Total deals: 110
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, s, Organize, Planning (6)](#tasks-s-organize-planning)
+		- [Tasks, s, Organize, Planning (7)](#tasks-s-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (2)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (1)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (1)](#miscellaneous-productivity-apps)
+		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (4)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (2)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (5)](#-marketing-tools)
@@ -78,7 +78,7 @@ Total deals: 110
 |  ⭐ | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 |  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
-
+|  🖥️ | [DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -185,7 +185,7 @@ Total deals: 110
 |  🧘‍♂️ | [Zen Mode macOS](https://zenmode.app/) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF |
 |  🧘‍♂️ | [Spaces macOS](https://spacesformac.xyz/) | Declutter & organize your workspace on macOS in one single click 🎊 | Bundle Lifetime 50% OFF |
 |  ⭐ | [NoteSLAYER](https://note-slayer.com/) | Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS) | 50% OFF with code **BLACKBLACK24** |
-
+|  📝 | [Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows | **BLACKFRIDAY2024** 25% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -215,7 +215,7 @@ Total deals: 110
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license between 25 Nov and 2 Dec |
-
+|  🖥️ | [ScreenMemory](https://screenmemory.app) | Photographic memory for your macOS screen, rewind time on your screen | **BLACKFRIDAY2024** 25% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
