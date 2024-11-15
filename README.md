@@ -456,6 +456,7 @@ Total deals: 110
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
 |  🤑  | [Codecourse](https://codecourse.com) | Practical screencasts for developers. Learn Laravel, Vue, Nuxt and more.| 50% OFF [all plans](https://codecourse.com/pro) (including lifetime) from 18th Nov - 1st Dec. No code needed (**BLACKFRIDAY2024** for existing members) |
 |  💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Master Flutter with guidance from two trusted Google Developer Experts. | 10% OFF with code **BF24** |
+| 💻 | [High Performance SQLite](https://highperformancesqlite.com/) | This course is designed to take you from beginner to expert in SQLite. You'll learn how to use SQLite in production, how to optimize it, and how to use advanced features like full text search and JSON support.| $80 off an individual license with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
 
 
 [⬆️ Go to Top](#table-of-contents)
