@@ -230,6 +230,8 @@ Total deals: 218
 | -- | ---| ------ | ------ |
 |  🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license between 25 Nov and 2 Dec |
 |  🖥️ | [ScreenMemory](https://screenmemory.app) | Photographic memory for your macOS screen, rewind time on your screen | **BLACKFRIDAY2024** 25% off |
+|  🔊 | [AudioWrangler](https://audiowrangler.app) | Prioritize which sound devices macOS switches to | 50% off between 15 Nov and 3 Dec |
+|  ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off between 15 Nov and 3 Dec |
 
 
 [⬆️ Go to Top](#table-of-contents)
