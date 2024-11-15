@@ -280,7 +280,7 @@ Total deals: 110
 | 🔥 | [SEO Roast](https://seoroast.co) | SEO toolkit and SEO audit service | 10% OFF with code **BF24** |
 | 🔗 | [Linkdr](https://linkdr.com) | AI link building tool that helps you find backlinks on autopilot | 10% OFF with code **BF24** |
 | 📈 | [Refined Directories](https://refined.so/tools/seo-directories) | Kickstart your project's SEO by submitting to all relevant directories. Increase your DR and backlinks to rank higher on search engines and get your first customers. | 30% OFF with code **BF30** |
-
+| ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
