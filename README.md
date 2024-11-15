@@ -86,7 +86,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | 25% OFF! |
 |  ⭐ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
 | 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
@@ -141,7 +140,6 @@ Total deals: 218
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [HeadshotPro](https:/www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
 |  ⭐ | [LoveTunesAI](https://lovetunesai.com) | Personalized songs for your loved ones | 20% OFF with code **BF20OFF** |
 |  ⚡ | [IconKit](https://iconkit.ai?utm_source=awesomebf) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
@@ -195,7 +193,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Marmo UI](https://www.marmoui.com) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project. | 70% OFF with code **BLACKFRIDAY24** |
 |  🧐 | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
 |  🧘‍♂️ | [Zen Mode macOS](https://zenmode.app/) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF |
@@ -221,7 +218,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
 
 
@@ -325,7 +321,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦄 | [BlackTwist](https://blacktwist.app)    | Grow your audience on Threads, 10x faster!                                       | 50% OFF on the first 3 months with the code **BF2024** |
 |  🟣 | [PostFlow](https://postflow.app) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | 50% OFF (LIFETIME) with code **BLACKFRIDAY** |
 | ✍️  | [Typefully](https://typefully.com/?coupon=iJLbhStn) | Grow your audience on 𝕏, Threads, LinkedIn, and Bluesky (coming soon). Improve your posts with ✨ AI, schedule, collaborate, and analyze. | 30% OFF for 1 year with code **BF2024** |
@@ -400,7 +395,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | 50% OFF with code **BLACKFRIDAY** |
 |  ⭐ | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | 50% OFF with code **BLACKFRIDAY** |
 
@@ -411,7 +405,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2024) | In this book, you’ll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2024) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2024** |
 
@@ -423,7 +416,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  📚 | [The Good Parts of AWS](https://dvassallo.gumroad.com/l/aws-good-parts/AWSFREE) | Almost everything we know about AWS, packed into a short 2-part book by ex-AWS engineers. | **100% OFF** applied automatically |
 |  📚 | [Indexing Beyond the Basics](https://goodindexes.com/) | Learn to create indexes for your slow queries by following simple principles. | **50% OFF** applied automatically |
 |  ⭐ | [Soccer Betting Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c) | All Soccer betting modeling books | 50% OFF with code **D43474C** |
@@ -435,7 +427,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The Python Coding Book](https://thepythoncodingplace.thinkific.com/enroll/2906653?coupon=black2024) | A friendly and relaxed Python programming book for beginners. Google "Python book" and you'll find it! | 40% OFF applied automatically |
 | 🤑 | [Dev Concepts](https://dev-concepts.dev/) | The first two books of the Dev Concepts collection. Learn all the key concepts at a discount | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 | 🕵️ | [CSP Developer Field Guide](https://foundeo.gumroad.com/l/csp-developer-field-guide) | Boost your web app's security, and quiclky master Content-Security-Policy with this book.   | 50% OFF with code **BLACKFRIDAY** |
@@ -447,7 +438,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  👨‍💻 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLACKFRIDAY_2024) | Learn to make a portfolio project that will get you hired. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 📖 | [Remote work and internships for Developers and Designers](https://ko-fi.com/s/6c24265c15) |100+ platforms to find remote jobs and gigs for Developers, Designers, and Technical Writers. | 60% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The CloudSec Engineer](https://engineer.cloudsecbooks.com/) | A practical guide on how to enter, establish yourself, and thrive in the Cloud Security industry as an individual contributor. | 30% OFF with code **CYBERNOVEMBER24** |
@@ -459,7 +449,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The Google Ads Quickstart Guide For Indie Hackers, Makers & Solopreneurs](https://giftedshark.gumroad.com/l/adsformakersgoogle) | No bullshit, quickstart guide to get customers through Google Ads for your product/service. | 30% OFF with code **BFTONY30** |
 |  🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing| Link already discounted 75%, valid till Cyber Monday|
 |  🔥 | [Landing Page Hot Tips Ebook](https://onepagelove.com/100) | 100+ snackable and actionable tips in Ebook, Notion, Audio and more.| 60% off with code **BF2024**|
@@ -513,7 +502,6 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Danny Postma's SEO Blueprint](https:/www.dannypostma.com/seo-course) | Watch over my shoulder as I reveal my entire SEO system. Everything I've learned ranking 20+ sites to #1 | 20% OFF with code **FRIDAY20** |
 |  🚀 | [‘Launch with AI’ Program](https://solveo.co/launch-program/) | Master the art of product launch with our comprehensive program created by growth experts with a proven track record of working with 500+ startups | 75% OFF with code **bf75** |
 |  🕹️ | [Show Them Course](https://showthem.com) | Landing Page Optimization Course by Rob Hope from One Page Love | 60% off with code **BF2024** |
