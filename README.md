@@ -100,6 +100,7 @@ Total deals: 194
 |  ✅ | [Interact List](https://interactlist.com) | Design and share your own styled Checklists ✨| [50% off Lifetime License](https://shop.interactlist.com/buy/1fdb3171-2c66-4577-80ab-b911be2ecc96?embed=0&logo=0&checkout[discount_code]=BLACK24) |
 |  ⭐ | [Skymage](https://skymage.daudau.cc) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | 50% OFF on all plans with code **BLACKFRIDAY** |
  | 📩 | [Web3Forms](https://web3forms.com/) | Contact form API for static websites | 30% off on all Pro plans with code **BLACKFRIDAY** |
+| 📩 | [TradingView History](https://chromewebstore.google.com/detail/recently-viewed-for-tradi/ibcpkeflilobhmhphlabfiefdcebmdal/) | TradingView History for traders | 50% off on Lifetime plan with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
