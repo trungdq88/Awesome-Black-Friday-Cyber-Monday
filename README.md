@@ -311,6 +311,7 @@ Total deals: 110
 | ✍️  | [Typefully](https://typefully.com/?coupon=iJLbhStn) | Grow your audience on 𝕏, Threads, LinkedIn, and Bluesky (coming soon). Improve your posts with ✨ AI, schedule, collaborate, and analyze. | 30% OFF for 1 year with code **BF2024** |
 | 🤩  | [LiveReacting](https://www.livereacting.com) | LiveReacting helps you get more followers and engagement by adding pre-recorded videos, games, countdowns, and polls to your live stream. | 40% OFF for monthly or 50% for a yearly plan with code **BLACK-FRIDAY-2024-P** |
 | ⌛️  | [Countdown Timer App](https://www.countdown-timer.app) | App to publish Countdown Timer Clock to Facebook page. | Lifetime deal (no subscription) for $49.99 |
+| 📍  | [BlogToPin](https://blogtopin.com) | Best Pinterest Automation Tool. Publish hundreds of Pins in minutes | 35% OFF with code **BF35** on any plan |
 
 
 [⬆️ Go to Top](#table-of-contents)
