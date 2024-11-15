@@ -295,6 +295,7 @@ Total deals: 110
 |  🤑 | [Resmume.com](https://resmume.com/) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd. | $19 37% OFF Lifetime deal |
 |  ⭐ | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring Service to ensure 24/7 availability, Track response times, Receive downtime alerts, and Create custom status pages. | 20% OFF with code **BLACKFRIDAY** on Lifetime Deals and all other plans. |
 |  🦊 | [FoxyApps](https://www.foxyapps.com/) | No-code platform to Build, Host & Monetize your AI toolsets | 30% OFF with code **FOXYFORFOUNDERS** on any plan |
+|  📝 | [Youform](https://youform.com) | Form builder - An affordable Typeform alternative | 30% OFF FOR LIFE with code **BLACKFRIDAY2024** |
 
 
 
