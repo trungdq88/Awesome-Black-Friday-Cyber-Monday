@@ -179,7 +179,7 @@ Total deals: 194
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY_2023** |
+|  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
