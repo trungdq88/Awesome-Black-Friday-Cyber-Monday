@@ -80,6 +80,7 @@ Total deals: 194
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 |  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for macOS, iOS, and iPadOS. | Lifetime 20% off |
 |  🖥️ | [DevControls](https://jontelang.com/DevControls) | Project management and shortcuts in your macOS menu bar | **BLACKFRIDAY2024** 25% off |
+|  🦄 | [Kaleidoscope](https://kaleidoscope.app) | The world's most powerful file comparison and merge app, with deep git integration. | **BLACKFRIDAY2024** First Year 40% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
