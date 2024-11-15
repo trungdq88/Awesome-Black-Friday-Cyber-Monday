@@ -133,6 +133,7 @@ Total deals: 194
 |  ⭐ | [Yomu](https://www.yomu.ai/) | Write papers and essays with AI, simplifying academic writing and enhancing productivity. | 24% OFF with code **BF24** |
 |  ⭐ | [Sourcely](https://www.sourcely.net/) | Paste your essay or paper to find, summarize, and add credible academic sources. | 24% OFF with code **BF24** |
 |  ⭐ | [ArXiv Pulse](https://www.arxivpulse.com/) | Receive personalized email digests of arXiv papers, summarizing the latest research in AI in an easy-to-digest format. | 24% OFF with code **BF24** |
+|  ⭐ | [BeeDone](https://beedone.co/sales-black-friday) | Your playful AI Coach Assistant for productivity. Transform tasks into a game, prioritize with focus timers. Tailored for solopreneurs, mindful individuals and those managing ADHD. | 50% OFF with this link |
 
 
 [⬆️ Go to Top](#table-of-contents)
