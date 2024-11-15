@@ -179,7 +179,7 @@ Total deals: 194
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY_2023** |
 
 
 [⬆️ Go to Top](#table-of-contents)
