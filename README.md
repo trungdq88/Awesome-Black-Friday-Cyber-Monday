@@ -273,6 +273,7 @@ Total deals: 194
 |  💰 | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, emails, campaigns, and DRIP automation sequences. One time payment license.| 35% OFF with code **BF2024** |
 |  💰 | [Loomos](https://loomos.co) | Training videos made easy. Transform boring screen recordings into studio-quality videos in single click. One time payment, no subscription.| 50% OFF till Black Friday |
 |  ⭐ | [Verbatik AI](https://verbatik.com) | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak | 40% OFF on All plans with code **BFCM2024** |
+|  💰 | [Provver](https://provver.com) | Increase the conversion rate on your landing page. Showcase recent sales to other potential customers | 40% OFF on both plans with code **SAASDEALS40** |
 
 
 [⬆️ Go to Top](#table-of-contents)
