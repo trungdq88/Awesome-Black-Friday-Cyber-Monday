@@ -173,6 +173,7 @@ Total deals: 194
 | 💰  | [Place Card Template](https://placecard.us) | A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing. | 30% off (automatic) |
 | ✳︎ | [Inspotype](https://inspotype.com) | Build brands in a blink. For product makers, designers, productivized designers and design agencies. | 20% OFF on LIFETIME **BLACKFRIDAY2024** |
 | 🚀 | [Sheetany](https://sheetany.com) | A website builder that helps you quickly create websites directly from Google Sheets, without any design or development skills, for blogs, directories, job boards, and more. | 30% OFF on all plans with code **BFCM2024** |
+| ♿️ | [Contrasts](https://contrasts.app) | One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act! | 40% OFF on lifetime deal (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
