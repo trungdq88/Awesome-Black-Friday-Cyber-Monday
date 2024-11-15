@@ -102,6 +102,7 @@ Total deals: 194
 |  ⭐ | [Skymage](https://skymage.daudau.cc) | Resize and crop images for developers. Optimize and transform your images with the best performance and quality on the sky | 50% OFF on all plans with code **BLACKFRIDAY** |
  | 📩 | [Web3Forms](https://web3forms.com/) | Contact form API for static websites | 30% off on all Pro plans with code **BLACKFRIDAY** |
 | 📩 | [TradingView History](https://chromewebstore.google.com/detail/recently-viewed-for-tradi/ibcpkeflilobhmhphlabfiefdcebmdal/) | TradingView History for traders | 50% off on Lifetime plan with code **BLACKFRIDAY2024** |
+|  🧭 | [Azimutt](https://azimutt.app) | The best database visualization for teams with large databases | 50% OFF with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
