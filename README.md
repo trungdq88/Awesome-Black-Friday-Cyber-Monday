@@ -154,6 +154,7 @@ Total deals: 218
 |  ⭐ | [Galaxy.ai](https://galaxy.ai) | All-in-one AI platform with 1500+ AI tools including ChatGPT, Claude, Gemini, Flux, and more | **50% OFF** - $15/month (down from $30) |
 |  🚀 | [JobsCopilot.ai](https://jobscopilot.ai/) | Get job interviews booked, while you sleep. The AI will find you the best job opportunities, and auto-apply to the jobs you want. Effortless! | 25% OFF with code **BLACKFRIDAY2024** |
 |  🧠 | [ChatUML](https://chatuml.com/?utm_source=tony) | An AI assistant that transforms your ideas into PlantUML diagrams effortlessly. | 40% OFF with code **BF24** |
+|  🛠️ | [ChatGPT Toolbox](https://www.ai-toolbox.co) | Supercharge your ChatGPT experience with features like folders, pinned chats, bulk actions, and more | **80% OFF!** |
 
 [⬆️ Go to Top](#table-of-contents)
 
