@@ -217,6 +217,7 @@ Total deals: 218
 | 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY**|
 |  📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
+| ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
