@@ -559,7 +559,6 @@ Total deals: 218
 | 📔 | [3 years of Mini Stories](https://ministories.net/3-years-of-ministories-book/) | 36 short stories to read quickly, and think slowly. | 50% OFF with code **FRIDAY24** |
 | 🇹🇭 | [NomadKit Bangkok]([https://nomadkit.co](https://nomadkit.co)) | A comprehensive Bangkok  City Guide made for digital nomads | 40% OFF with code **BLACKFRIDAY2024**
 | ⭐ | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
-| ⭐ | [(ReadReviews)](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
 | 🤑 | [Personal Knowledge Management and Knowledge Work Starters, Courses and Library](https://developassion.gumroad.com) | A set of products focused on Knowledge Management and Knowledge Work. Learn everything about PKM, Obsidian, and modern Knowledge Work | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 | ⭐ | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
 | 🚀 | [Mastering Remote Work](https://sergiorocks.gumroad.com/l/mastering-remote-work) | High performing remote teams that don’t burn people out. For remote workers and remote team leads. | 60% OFF during November/2024 |
