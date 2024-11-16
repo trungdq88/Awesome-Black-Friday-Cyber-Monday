@@ -288,7 +288,7 @@ Total deals: 218
 |  ⭐ | [Unspam.email](https://unspam.email/) | Email spam checker - Ensure your emails land in the inbox, not the spam folder. | 30% OFF with code **BLACK24** |
 |  ⭐ | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
 |  ⭐ | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. |
-|  ⭐ | [CalGet](https://calget.com) | Simplify your event planning with **CalGet**. Create shareable “Add to Calendar” links that integrate seamlessly into your social media, newsletters, websites, and emails. With just one click, your audience can add events to their preferred calendars, including Google, Apple, Outlook, Yahoo, and Office365. Streamline your event promotion and boost attendance with CalGet.com.| 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024** |
+|  ⭐ | [CalGet](https://calget.com) | Simplify your event planning with **CalGet**. Create shareable "Add to Calendar" links that integrate seamlessly into your social media, newsletters, websites, and emails. With just one click, your audience can add events to their preferred calendars, including Google, Apple, Outlook, Yahoo, and Office365. Streamline your event promotion and boost attendance with CalGet.com.| 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024** |
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 |  ⭐ | [Bannerify](https://bannerify.co) | API for Automated Image. Scale your marketing with fastest image generation service | 40% OFF on All plans with code **BF2024** |
 |  💰 | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, emails, campaigns, and DRIP automation sequences. One time payment license.| 35% OFF with code **BF2024** |
@@ -328,7 +328,7 @@ Total deals: 218
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  🤑 | [Resmume.com](https://resmume.com/) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd. | $19 37% OFF Lifetime deal |
-|  ⭐ | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring Service to ensure 24/7 availability, Track response times, Receive downtime alerts, and Create custom status pages. | 20% OFF with code **BLACKFRIDAY** on Lifetime Deals and all other plans. |
+|  ⭐ | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring Service to ensure 24/7 availability, Track response times, Receive downtime alerts, and Create custom status pages. | 20% OFF with code **BLACKFRIDAY** on Lifetime Deals and all other plans. |
 |  🦊 | [FoxyApps](https://www.foxyapps.com/) | No-code platform to Build, Host & Monetize your AI toolsets | 30% OFF with code **FOXYFORFOUNDERS** on any plan |
 |  📝 | [Youform](https://youform.com) | Form builder - An affordable Typeform alternative | 30% OFF FOR LIFE with code **BLACKFRIDAY2024** |
 |  📊 | [Monitorator](https://monitorator.com?ref=blackfriday) | Unified dashboard for all your Stripe and Plausible accounts. Track revenue and analytics across multiple projects in one place - perfect for agencies and multi-project founders to measure SEO and marketing impact. | 15% OFF on first payment (monthly or annual) |
@@ -430,7 +430,7 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2024) | In this book, you’ll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2024** |
+|  🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2024) | In this book, you'll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2024) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2024** |
 | 💻 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** |
 
@@ -489,7 +489,7 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you're preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🤑  | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 | 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
 |  ⭐ | [Lifetime membership for The Python Coding Place](https://thepythoncodingplace.com) | Get access to all the video courses covering beginner, intermediate, and advanced Python topics. All courses are delivered in a casual, friendly way, and focus on learning "why" things are the way they are in Python, and not just "how" to do things. | [40% OFF Lifetime Membership **BLACK2024**](https://thepythoncodingplace.thinkific.com/cart/add_product/2731141?price_id=3865919&coupon=black2024) |
@@ -501,6 +501,9 @@ Total deals: 218
 |  💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Master Flutter with guidance from two trusted Google Developer Experts. | 10% OFF with code **BF24** |
 | 💻 | [High Performance SQLite](https://highperformancesqlite.com/) | This course is designed to take you from beginner to expert in SQLite. You'll learn how to use SQLite in production, how to optimize it, and how to use advanced features like full text search and JSON support.| $80 off an individual license with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
 |  💻 | [Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** |
+|  🦜 | [LangChain - The Complete Course](https://www.udemy.com/course/langchain/?couponCode=BLACK-FRIDAY-2024) | Master LangChain framework to build powerful AI applications. Learn to create chatbots, agents, and AI-powered apps with hands-on projects. | 90% OFF with code **BLACK-FRIDAY-2024** |
+|  🦜 | [LangGraph - Build Multi-Agent Systems](https://www.udemy.com/course/langgraph/?couponCode=BLACK-FRIDAY-2024) | Learn to build complex multi-agent systems and orchestrate AI agents using LangGraph. Create autonomous AI applications through practical examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
+|  💻 | [Cursor AI - Master the AI-Powered IDE](https://www.udemy.com/course/cursor-ai-ide/?couponCode=BLACK-FRIDAY-2024) | Learn to supercharge your coding productivity with Cursor AI IDE. Master AI pair programming and code generation features through real-world examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -521,7 +524,7 @@ Total deals: 218
 |  ⭐ | [Taro](https://www.jointaro.com/membership/) | Expert-led courses to accelerate your career: job searching, interviewing, onboarding, promotion, and more. | 25% OFF with code **THANKS24** |
 |  ⭐ | [From 0 to $1000 on Upwork](https://k2a2.gumroad.com/l/from-0-to-1000-upwork/BLACKFRIDAY) | One hour course to go from 0 to $1000 on Upwork. | 50% OFF with code **BLACKFRIDAY** (Discount added to link |
 |  ⭐ | [Remote Jobs Braintrust](https://sergiorocks.gumroad.com/l/remote-jobs-braintrust) | 14-session course and 200+ member Slack community to help you land your dream remote job. | 60% OFF during November/2024 |
-|  🎥 | [Screencasting.com](https://screencasting.com/) | Effortlessly create high-quality screencasts faster than ever. In this course, you’ll learn all the need-to-know screencasting topics, tips, and tricks.| $100 off the Basic or Complete Package with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
+|  🎥 | [Screencasting.com](https://screencasting.com/) | Effortlessly create high-quality screencasts faster than ever. In this course, you'll learn all the need-to-know screencasting topics, tips, and tricks.| $100 off the Basic or Complete Package with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -530,7 +533,7 @@ Total deals: 218
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) | Watch over my shoulder as I reveal my entire SEO system. Everything I've learned ranking 20+ sites to #1 | 20% OFF with code **FRIDAY20** |
-|  🚀 | [‘Launch with AI’ Program](https://solveo.co/launch-program/) | Master the art of product launch with our comprehensive program created by growth experts with a proven track record of working with 500+ startups | 75% OFF with code **bf75** |
+|  🚀 | ['Launch with AI' Program](https://solveo.co/launch-program/) | Master the art of product launch with our comprehensive program created by growth experts with a proven track record of working with 500+ startups | 75% OFF with code **bf75** |
 |  🕹️ | [Show Them Course](https://showthem.com) | Landing Page Optimization Course by Rob Hope from One Page Love | 60% off with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -563,7 +566,7 @@ Total deals: 218
 | ⭐ | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
 | 🤑 | [Personal Knowledge Management and Knowledge Work Starters, Courses and Library](https://developassion.gumroad.com) | A set of products focused on Knowledge Management and Knowledge Work. Learn everything about PKM, Obsidian, and modern Knowledge Work | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 | ⭐ | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
-| 🚀 | [Mastering Remote Work](https://sergiorocks.gumroad.com/l/mastering-remote-work) | High performing remote teams that don’t burn people out. For remote workers and remote team leads. | 60% OFF during November/2024 |
+| 🚀 | [Mastering Remote Work](https://sergiorocks.gumroad.com/l/mastering-remote-work) | High performing remote teams that don't burn people out. For remote workers and remote team leads. | 60% OFF during November/2024 |
 | ⭐ | [Indie Masterminds](https://indiemasterminds.com/) | Side Hustle to $5K MRR: Join a tight knit group of independent founders, creators and solopreneurs growing together. | 50% OFF Code: "BFCM24"|
 | 🛩️ | [BZF App](https://bzf.app/) | Prepare for your BZF I , II or E license exam, with an easy way to study the official Bundesnetzagentur questionnaire. Study the theoretical materials and analyze your stats to keep track of your improvement. | 50% OFF on In-app Purchase Full Access during November/2024|
 | 📊 | [Analytics Bar](https://analyticsbar.com) | Real-time Google Analytics in your menu bar. | 35% OFF with code **BFCM24** |
