@@ -326,6 +326,8 @@ Total deals: 218
 |  🦊 | [FoxyApps](https://www.foxyapps.com/) | No-code platform to Build, Host & Monetize your AI toolsets | 30% OFF with code **FOXYFORFOUNDERS** on any plan |
 |  📝 | [Youform](https://youform.com) | Form builder - An affordable Typeform alternative | 30% OFF FOR LIFE with code **BLACKFRIDAY2024** |
 |  📊 | [Monitorator](https://monitorator.com?ref=blackfriday) | Unified dashboard for all your Stripe and Plausible accounts. Track revenue and analytics across multiple projects in one place - perfect for agencies and multi-project founders to measure SEO and marketing impact. | 15% OFF on first payment (monthly or annual) |
+|  ✨ | [UnDatasIO](https://undatas.io/) | Designing Intelligent Systems with Unstructured Data Flow Pipelines | 50% OFF with code **BKGNIO1Y** on the first pay. |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
