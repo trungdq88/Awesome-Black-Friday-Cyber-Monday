@@ -550,6 +550,7 @@ Total deals: 218
 | -- | ---| ------ | ------ |
 |  ⭐ | [Swim Coach App](https://swimcoachapp.com) | Smart workouts for swimming and triathlon | 6 extra months for free when purchasing a 1-year Gold subscription |
 |  ⭐ | [Relief Maps](https://reliefmaps.io) | 3D gps app for outdoor sports, hiking, backcountry skiing etc. | 40% OFF with the link : [BLACK FRIDAY](http://reliefmaps.io/discounts/p/blackfriday)|
+|  🎾 | [PadelMix App](https://padelmix.app/) | Mobile app for organizing and managing Padel tournaments. | 50% off annual plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
