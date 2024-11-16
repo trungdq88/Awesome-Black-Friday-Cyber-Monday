@@ -204,7 +204,7 @@ Total deals: 218
 |  🧘‍♂️ | [Spaces macOS](https://spacesformac.xyz/) | Declutter & organize your workspace on macOS in one single click 🎊 | Bundle Lifetime 50% OFF |
 |  ⭐ | [NoteSLAYER](https://note-slayer.com/) | Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS) | 50% OFF with code **BLACKBLACK24** |
 |  📝 | [Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows | **BLACKFRIDAY2024** 25% off |
-
+|  📕 | [ConniePad](https://conniepad.com) | Native, offline, privacy, and comprehensive rich-formatting note-taking app. Available on macOS, iOS, iPadOS and visionOS. | 25% OFF Lifetime |
 
 [⬆️ Go to Top](#table-of-contents)
 
