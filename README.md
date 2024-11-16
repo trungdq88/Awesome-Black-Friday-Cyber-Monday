@@ -104,7 +104,7 @@ Total deals: 218
 |  🧭 | [Azimutt](https://azimutt.app) | The best database visualization for teams with large databases | 50% OFF with code **BF24** |
 |  ⭐ | [CreateMyToken](https://www.createmytoken.com/) | Create your own token in just 1 minute and deploy it on Ethereum, Solana, Base, BNB Smart Chain and more! No code, no setup, no login! | 30% off on all paid options with code **BLACKFRIDAY** |
 | ⭐ | [screenpipe](https://screenpi.pe/) | rewind.ai x cursor.com = AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. | 30% OFF |
-
+|  👀 | [Oh Dear](https://ohdear.app) | Monitor uptime, SSL certifcates, broken links, scheduled jobs, domain expiry, DNS records, and much more! We offer beautiful status pages as well. Get alerted via mail, SMS, Slack, webhooks and may other channels.  | 30% off on all yearly plans code **BACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
