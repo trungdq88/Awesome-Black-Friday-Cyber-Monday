@@ -468,6 +468,7 @@ Total deals: 218
 |  👨‍💻 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLACKFRIDAY_2024) | Learn to make a portfolio project that will get you hired. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 📖 | [Remote work and internships for Developers and Designers](https://ko-fi.com/s/6c24265c15) |100+ platforms to find remote jobs and gigs for Developers, Designers, and Technical Writers. | 60% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The CloudSec Engineer](https://engineer.cloudsecbooks.com/) | A practical guide on how to enter, establish yourself, and thrive in the Cloud Security industry as an individual contributor. | 30% OFF with code **CYBERNOVEMBER24** |
+|  📚 | [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) | Learn how to start and grow your technical blog as a developer | 50% OFF with code **BlackFriday** |
 
 
 [⬆️ Go to Top](#table-of-contents)
