@@ -46,7 +46,7 @@ Total deals: 218
 - [🔍 SEO Tools (12)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (5)](#-startup-saastools)
 - [🌏 Social Media Tools (9)](#-social-media-tools)
-- [💸 Finance Tools (2)](#-finance-tools)
+- [💸 Finance Tools (4)](#-finance-tools)
 - [🎛 Utility Tools (6)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (12)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
@@ -364,6 +364,7 @@ Total deals: 218
 | 💰 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | $5 OFF on the annual Ghostfolio Premium subscription |
 | 💵 | [Budget Zen](https://budgetzen.net) | Simple and End-to-End Encrypted Budget & Expenses Manager. | 50% OFF on the annual subscription with code **FRIDAY24** |
 | 📈 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY24) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 40% OFF with code **BLACKFRIDAY24** |
+| 💵 | [Wealthfolio](https://wealthfolio.app) | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
 
 
 [⬆️ Go to Top](#table-of-contents)
