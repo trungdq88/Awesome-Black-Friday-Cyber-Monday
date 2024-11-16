@@ -362,12 +362,12 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🛠️ | [CompressX](https://compressx.app) | Easily compress your media with significantly file size reduction, work 100% offline. | 30% off of all plans **BF24** |
 |  ⭐ | [PandaExtract](https://pandaextract.com/) | A friendly Web Scraper for your browser, no-code required | 20% OFF with code **CYBER20** |
 |  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 |  💰 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 30% OFF with code **BF24NSCO** |
 |  📒 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces. | 24% off of all plans **NOTIONBACKUPSFRIDAY2024** |
 |  🎉 | [Emoji Autocomplete](https://chromewebstore.google.com/detail/emoji-autocomplete/lkicimekniagfoifhgkieaomcdhofpfn) | Easily insert emojis by typing ':' followed by a word, just like in Slack, Discord, GitHub and other apps. | 50% OFF with code **BLACKFRIDAY2024** |
-|  🛠️ | [CompressX](https://compressx.app) | Easily compress your media with significantly file size reduction, work 100% offline. | 30% off of all plans **BF24** |
 |  🪄 | [Protego for Reddit](https://getprotego.app) | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 
 
