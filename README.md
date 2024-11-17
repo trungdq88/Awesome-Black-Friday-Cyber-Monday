@@ -406,6 +406,7 @@ Total deals: 255
 |  ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer!  |
 |  🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
 |  🚀 | [SuperSaaS](https://supersaas.dev) | The comple Nuxt 3 Fullstack starter kit | **$99 Only** Discount applied already |
+|  📩 | [WaitlistEasy](https://waitlisteasy.com/) | The ready-to-deploy boilerplate for waitlists. Build, Publish, Manage - All in ONE | 50% OFF with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
