@@ -331,6 +331,8 @@ Total deals: 256
 |  ✨ | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
 |  🔭 | [Telescope](https://withtelescope.com/) | Comprehensive suite of SEO tools that helps you research and track keywords, monitor backlinks, analyze competitors, perform site audits, and more. | 20% off balance top-ups and 30% off your first 3 months on any subscription plan with code **BLACKFRIDAY2024** |
 |  🤖 | [Checkbot: SEO checker](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more | 50% OFF first year on yearly plans with code **NOV24**. Valid until 1 Dec 2024. |
+| 🚀 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
