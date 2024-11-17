@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 255
+Total deals: 256
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (10)](#-developer-macos-apps)
@@ -143,6 +143,7 @@ Total deals: 255
 |  ⭐ | [BeeDone](https://beedone.co/sales-black-friday) | Your playful AI Coach Assistant for productivity. Transform tasks into a game, prioritize with focus timers. Tailored for solopreneurs, mindful individuals and those managing ADHD. | 50% OFF with this link |
 |  🇩🇪 | [Deutsch Mentor](https://www.deutsch-mentor.com/) | Learn German Online with your AI mentor. | 50% OFF with code **FRIDAY24** |
 |  ⭐ | [WhisperUI](https://whisperui.com?ref=awesomebf) | Affordable Speech to Text service powered by OpenAI Whisper API. | 60% OFF |
+| ⭐  | [UniScribe](https://www.uniscribe.co?utm_source=awesomebf) | UniScribe lets you upload audio and video files or paste YouTube URLs, quickly turning them into text with AI. It also creates summaries, mind maps, and key questions, and lets you export the text in different formats. | 40% OFF on annual plans. No code required. |
 |  🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -584,5 +585,6 @@ Total deals: 255
 | 🚀 | [HubRank](https://hubrank.co) | AI-powered tool that helps you create high-quality long-form content optimized for SEO, conversions, and brand growth. Effortlessly generate guides, blog posts, and more! | 30% OFF with code **BLCKFRDY24** |
 | 🖋️ | [Lykhari - a blogging platform](https://lykhari.com) | A simple blogging platform at $2.50/month forever. Optimized for writers, readers, and search engines. | 50% OFF with code **BLACKFRIDAY2024** |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co) | Publish your notes to a Quotion subdomain or your domain automatically, with fast page loads, SEO ready, built-in analytics, and looks great. No design or coding skills required. | 30% OFF for 12 months with code **BLACKFRIDAY2024** |
+| 🤙 | [Mango - Twilio Calls & Texts](https://itsok.xyz/blackfridaytony) | Draw the "line"(pun intended) between work and personal with Mango - your Twilio-powered calling & texting solution. | 50% OFF for 6 months with in app purchase |
 
 [⬆️ Go to Top](#table-of-contents)
