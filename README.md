@@ -561,6 +561,7 @@ Total deals: 256
 |  ⭐ | [From 0 to $1000 on Upwork](https://k2a2.gumroad.com/l/from-0-to-1000-upwork/BLACKFRIDAY) | One hour course to go from 0 to $1000 on Upwork. | 50% OFF with code **BLACKFRIDAY** (Discount added to link |
 |  ⭐ | [Remote Jobs Braintrust](https://sergiorocks.gumroad.com/l/remote-jobs-braintrust) | 14-session course and 200+ member Slack community to help you land your dream remote job. | 60% OFF during November/2024 |
 |  🎥 | [Screencasting.com](https://screencasting.com/) | Effortlessly create high-quality screencasts faster than ever. In this course, you'll learn all the need-to-know screencasting topics, tips, and tricks.| $100 off the Basic or Complete Package with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
+|  🎓 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1) | A practical guide and Notion template to transform routine check-ins into meaningful conversations, build stronger teams and help people unleash their potential.| 60% OFF with **BLACKFRIDAY** (valid 11/16/24 through 12/3/24) |
 
 [⬆️ Go to Top](#table-of-contents)
 
