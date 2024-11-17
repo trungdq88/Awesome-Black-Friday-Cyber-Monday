@@ -213,7 +213,7 @@ Total deals: 256
 ## 🔥 Productivity
 ### 🖥️ Productivity Desktop Apps
 
-#### Tasks, s, Organize, Planning
+#### Tasks, Organize, Planning
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -225,6 +225,7 @@ Total deals: 256
 |  📝 | [Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows | **BLACKFRIDAY2024** 25% off |
 |  📕 | [ConniePad](https://conniepad.com) | Native, offline, privacy, and comprehensive rich-formatting note-taking app. Available on macOS, iOS, iPadOS and visionOS. | 25% OFF Lifetime |
 | 🟢 | [Airbounce](https://www.airbounce.co) | Ace your Zoom meetings: One magic button for easier calls. Available for macOS. | 50% off with **BOUNCE50**
+| ✅ | [ToDoBar](https://apps.apple.com/in/app/todobar-tasks-on-your-menu-bar/id6470928617?mt=12) | Tasks on your menu bar | 50% off on the App Store, no code needed.
 
 [⬆️ Go to Top](#table-of-contents)
 
