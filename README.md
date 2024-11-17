@@ -108,6 +108,7 @@ Total deals: 256
 |  👀 | [Oh Dear](https://ohdear.app) | Monitor uptime, SSL certifcates, broken links, scheduled jobs, domain expiry, DNS records, and much more! We offer beautiful status pages as well. Get alerted via mail, SMS, Slack, webhooks and may other channels.  | 30% off on all yearly plans code **BACKFRIDAY24** |
 |  ⭐ | [TagHound](https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf) | Validate and debug +22 analytics tools, Google Tag Manager and ad platforms pixels with ease. | [25% OFF on all plans for TagHound Plus with code *BLACK24*](https://trafikant.gumroad.com/l/TagHoundPlus) |
 |  🐰 | [CodeRabbit](https://coderabbit.ai) | AI-Powered Code Review Bot - Detailed code reviews and suggestions to improve code quality. Supports GitHub, GitLab. | Free for open source projects |
+| 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -146,6 +147,7 @@ Total deals: 256
 | ⭐  | [UniScribe](https://www.uniscribe.co?utm_source=awesomebf) | UniScribe lets you upload audio and video files or paste YouTube URLs, quickly turning them into text with AI. It also creates summaries, mind maps, and key questions, and lets you export the text in different formats. | 40% OFF on annual plans. No code required. |
 |  🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 |  ⭐ | [Inbox Zero](https://www.getinboxzero.com/) | Spend 50% less time on email. AI email assitant and bulk unsubscriber. | 20% OFF with code **FRIDAY2024** |
+|  ⭐ | [Semantic Pen](https://www.semanticpen.com/?utm_source=awesomebf) | Fact Check AI writer | 40% OFF all annual plans with code **SPBF40** |
 | ⭐ | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **BF20** to receive the discount |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -424,6 +426,7 @@ Total deals: 256
 | 🛠️ | [TailTemplates](https://tailtemplates.com) | Ready-to-use Premium Tailwind CSS Templates specially crafted for startups, apps, SaaS, landing pages, and business websites. | **40% OFF** on All-Access plan with code **BLFCM2024**|  
 | 📊 | [PlainAdmin](https://plainadmin.com) | Bootstrap 5 based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | **40% OFF** with code **BLFCM2024**  |
 |  📩 | [WaitlistEasy](https://waitlisteasy.com/) | The ready-to-deploy boilerplate for waitlists. Build, Publish, Manage - All in ONE | 50% OFF with code **BLACKFRIDAY2024** |
+|  🚀 | [SaaSykit](https://saasykit.com/) | SaaSykit is a Laravel-based boilerplate with everything you need to build an awesome SaaS. Available in both multi-tenant and single-tenant versions. | **25% OFF** on SaaSykit Complete with code **BLACKFRIDAY2024**                                   |
 
 [⬆️ Go to Top](#table-of-contents)
 
