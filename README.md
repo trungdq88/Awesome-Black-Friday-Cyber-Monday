@@ -148,6 +148,7 @@ Total deals: 256
 |  🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 |  ⭐ | [Inbox Zero](https://www.getinboxzero.com/) | Spend 50% less time on email. AI email assitant and bulk unsubscriber. | 20% OFF with code **FRIDAY2024** |
 |  ⭐ | [Semantic Pen](https://www.semanticpen.com/?utm_source=awesomebf) | Fact Check AI writer | 40% OFF all annual plans with code **SPBF40** |
+| ⭐ | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **BF20** to receive the discount |
 
 [⬆️ Go to Top](#table-of-contents)
 
