@@ -82,6 +82,7 @@ Total deals: 256
 |  🖥️ | [GetBlock](https://getblock.io/) | Leading blockchain node provider for 50+ networks. Reliable, fast, and easy to integrate RPC endpoints. | **30% off on Shared Nodes** till December 2d 2024 |
 |  🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
 |  🖥️ | [OK JSON](https://okjson.app/) | Scriptable JSON formatter with viewing history. | 50% OFF with code **BF2024** |
+|  🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
