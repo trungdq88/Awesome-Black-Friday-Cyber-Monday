@@ -130,7 +130,6 @@ Total deals: 255
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [Inbox Zero](https://www.getinboxzero.com/) | Spend 50% less time on email. AI email assitant and bulk unsubscriber. | 20% OFF with code **FRIDAY2024** |
 |  ⭐ | [TurboScribe](https://turboscribe.ai/) | Unlimited audio and video transcription. Convert your audio and video files to accurate text transcripts in seconds. Chat with and summarize your transcripts with ChatGPT. | 50% OFF on annual plans now through the end of the year. No code required. |
 |  ⚡ | [PDF Pals](https://pdfpals.com?via=awesomebf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 |  ⭐ | [Reinspire](https://reinspire.io?utm_source=tony) | Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy!  | 20% OFF with code **FRIDAY20** |
@@ -144,6 +143,7 @@ Total deals: 255
 |  ⭐ | [BeeDone](https://beedone.co/sales-black-friday) | Your playful AI Coach Assistant for productivity. Transform tasks into a game, prioritize with focus timers. Tailored for solopreneurs, mindful individuals and those managing ADHD. | 50% OFF with this link |
 |  🇩🇪 | [Deutsch Mentor](https://www.deutsch-mentor.com/) | Learn German Online with your AI mentor. | 50% OFF with code **FRIDAY24** |
 |  ⭐ | [WhisperUI](https://whisperui.com?ref=awesomebf) | Affordable Speech to Text service powered by OpenAI Whisper API. | 60% OFF |
+|  ⭐ | [Inbox Zero](https://www.getinboxzero.com/) | Spend 50% less time on email. AI email assitant and bulk unsubscriber. | 20% OFF with code **FRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
