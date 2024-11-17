@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 255
+Total deals: 256
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (10)](#-developer-macos-apps)
@@ -143,6 +143,9 @@ Total deals: 255
 |  ⭐ | [BeeDone](https://beedone.co/sales-black-friday) | Your playful AI Coach Assistant for productivity. Transform tasks into a game, prioritize with focus timers. Tailored for solopreneurs, mindful individuals and those managing ADHD. | 50% OFF with this link |
 |  🇩🇪 | [Deutsch Mentor](https://www.deutsch-mentor.com/) | Learn German Online with your AI mentor. | 50% OFF with code **FRIDAY24** |
 |  ⭐ | [WhisperUI](https://whisperui.com?ref=awesomebf) | Affordable Speech to Text service powered by OpenAI Whisper API. | 60% OFF |
+| ⭐  | [UniScribe](https://www.uniscribe.co?utm_source=awesomebf) | UniScribe lets you upload audio and video files or paste YouTube URLs, quickly turning them into text with AI. It also creates summaries, mind maps, and key questions, and lets you export the text in different formats. | 40% OFF on annual plans. No code required. |
+|  🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
+|  ⭐ | [Inbox Zero](https://www.getinboxzero.com/) | Spend 50% less time on email. AI email assitant and bulk unsubscriber. | 20% OFF with code **FRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -183,6 +186,7 @@ Total deals: 255
 | 🚀 | [Sheetany](https://sheetany.com) | A website builder that helps you quickly create websites directly from Google Sheets, without any design or development skills, for blogs, directories, job boards, and more. | 30% OFF on all plans with code **BFCM2024** |
 | ♿️ | [Contrasts](https://contrasts.app) | One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act! | 40% OFF on lifetime deal (automatic) |
 | 💰 | [Iconbuddy](https://iconbuddy.com) | Over 200k+ open source icons. Download, Customize, Edit and Personalize. | $100 OFF on lifetime deal (automatic) |
+| 🎉 | [Lineicons](https://lineicons.com) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | Flat **40% OFF** on all plans with code **BLFCM2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -192,6 +196,8 @@ Total deals: 255
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY** |
+| 🚀 | [TailGrids](https://tailgrids.com) | 600+ High-Quality Tailwind CSS UI Components Library. Effortlessly copy, paste, and start building—available for HTML, React, Vue, and Figma!| **40% OFF** with code **BLFCM2024** |
+| ⭐ | [Ayro UI](https://ayroui.com/) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast - Landing Pages, Templates, or Websites by Copy-Pasting Blocks.| **40% OFF** with code **BLFCM2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -340,6 +346,8 @@ Total deals: 255
 |  📊 | [Monitorator](https://monitorator.com?ref=blackfriday) | Unified dashboard for all your Stripe and Plausible accounts. Track revenue and analytics across multiple projects in one place - perfect for agencies and multi-project founders to measure SEO and marketing impact. | 15% OFF on first payment (monthly or annual) |
 |  📊 | [FeatureHunt](https://featurehunt.app) | Track every feature request from your customers and always have answer to "What Next to Do" | 30% OFF on first payemnt |
 |  🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code **BLACKFRIDAY2024** |
+| 📊 | [FormBold](https://formbold.com/) | Premium form solution featuring a powerful API and backend. Receive submissions via email, Slack, Notion, and more—no coding required. Seamless integration! | **40% OFF** with code **BLFCM2024** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -406,8 +414,15 @@ Total deals: 255
 |  ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer!  |
 |  🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
 |  🚀 | [SuperSaaS](https://supersaas.dev) | The comple Nuxt 3 Fullstack starter kit | **$99 Only** Discount applied already |
+| 🛠️ | [SaaSBold](https://saasbold.com) | SaaSBold is a full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | **40% OFF** with code **BLFCM2024** |  
+| 🌟 | [NextjsTemplates](https://nextjstemplates.com) | 20+ high-quality Next.js templates, starter kits, and boilerplates for your web projects. Effortlessly build stunning websites, SaaS applications, and landing pages! | **40% OFF** with code **BLFCM2024**  |  
+| 🚀 | [UiDeck](https://uideck.com) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses. | **50% OFF** on All-Access plan with code **BLFCM2024** |  
+| 💻 | [GrayGrids](https://graygrids.com) | 100+ ready-to-use website templates, 200+ Bootstrap components, and a Tailwind CSS website builder for businesses, landing pages, eCommerce, and more. | **60% OFF** on All-Access plan with code **BLFCM2024**  |  
+| 📊 | [TailAdmin](https://tailadmin.com) | Leading Tailwind CSS Dashboard Template with 200+ essential UI components for creating feature-rich dashboards and admin panels—available for HTML, React, Next.js, and Vue! | **40% OFF** with code **BLFCM2024** |  
+| ⚙️ | [NextAdmin](https://nextadmin.co) | 200+ Premium Next.js dashboard templates and UI components featuring a variety of pre-built elements, components, pages, and more. | **40% OFF** with code **BLFCM2024**  |  
+| 🛠️ | [TailTemplates](https://tailtemplates.com) | Ready-to-use Premium Tailwind CSS Templates specially crafted for startups, apps, SaaS, landing pages, and business websites. | **40% OFF** on All-Access plan with code **BLFCM2024**|  
+| 📊 | [PlainAdmin](https://plainadmin.com) | Bootstrap 5 based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | **40% OFF** with code **BLFCM2024**  |
 |  📩 | [WaitlistEasy](https://waitlisteasy.com/) | The ready-to-deploy boilerplate for waitlists. Build, Publish, Manage - All in ONE | 50% OFF with code **BLACKFRIDAY2024** |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -584,5 +599,6 @@ Total deals: 255
 | 🚀 | [HubRank](https://hubrank.co) | AI-powered tool that helps you create high-quality long-form content optimized for SEO, conversions, and brand growth. Effortlessly generate guides, blog posts, and more! | 30% OFF with code **BLCKFRDY24** |
 | 🖋️ | [Lykhari - a blogging platform](https://lykhari.com) | A simple blogging platform at $2.50/month forever. Optimized for writers, readers, and search engines. | 50% OFF with code **BLACKFRIDAY2024** |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co) | Publish your notes to a Quotion subdomain or your domain automatically, with fast page loads, SEO ready, built-in analytics, and looks great. No design or coding skills required. | 30% OFF for 12 months with code **BLACKFRIDAY2024** |
+| 🤙 | [Mango - Twilio Calls & Texts](https://itsok.xyz/blackfridaytony) | Draw the "line"(pun intended) between work and personal with Mango - your Twilio-powered calling & texting solution. | 50% OFF for 6 months with in app purchase |
 
 [⬆️ Go to Top](#table-of-contents)
