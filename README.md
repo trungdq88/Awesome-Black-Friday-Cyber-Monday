@@ -108,6 +108,7 @@ Total deals: 256
 |  👀 | [Oh Dear](https://ohdear.app) | Monitor uptime, SSL certifcates, broken links, scheduled jobs, domain expiry, DNS records, and much more! We offer beautiful status pages as well. Get alerted via mail, SMS, Slack, webhooks and may other channels.  | 30% off on all yearly plans code **BACKFRIDAY24** |
 |  ⭐ | [TagHound](https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf) | Validate and debug +22 analytics tools, Google Tag Manager and ad platforms pixels with ease. | [25% OFF on all plans for TagHound Plus with code *BLACK24*](https://trafikant.gumroad.com/l/TagHoundPlus) |
 |  🐰 | [CodeRabbit](https://coderabbit.ai) | AI-Powered Code Review Bot - Detailed code reviews and suggestions to improve code quality. Supports GitHub, GitLab. | Free for open source projects |
+| 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -187,6 +188,7 @@ Total deals: 256
 | ♿️ | [Contrasts](https://contrasts.app) | One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act! | 40% OFF on lifetime deal (automatic) |
 | 💰 | [Iconbuddy](https://iconbuddy.com) | Over 200k+ open source icons. Download, Customize, Edit and Personalize. | $100 OFF on lifetime deal (automatic) |
 | 🎉 | [Lineicons](https://lineicons.com) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | Flat **40% OFF** on all plans with code **BLFCM2024** |
+| 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 
 [⬆️ Go to Top](#table-of-contents)
 
