@@ -46,7 +46,7 @@ Total deals: 218
 - [🔍 SEO Tools (12)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (5)](#-startup-saastools)
 - [🌏 Social Media Tools (9)](#-social-media-tools)
-- [💸 Finance Tools (2)](#-finance-tools)
+- [💸 Finance Tools (4)](#-finance-tools)
 - [🎛 Utility Tools (6)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (12)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (1)](#-themes-plugins)
@@ -141,6 +141,7 @@ Total deals: 218
 |  ⭐ | [Sourcely](https://www.sourcely.net/) | Paste your essay or paper to find, summarize, and add credible academic sources. | 24% OFF with code **BF24** |
 |  ⭐ | [ArXiv Pulse](https://www.arxivpulse.com/) | Receive personalized email digests of arXiv papers, summarizing the latest research in AI in an easy-to-digest format. | 24% OFF with code **BF24** |
 |  ⭐ | [BeeDone](https://beedone.co/sales-black-friday) | Your playful AI Coach Assistant for productivity. Transform tasks into a game, prioritize with focus timers. Tailored for solopreneurs, mindful individuals and those managing ADHD. | 50% OFF with this link |
+|  🇩🇪 | [Deutsch Mentor](https://www.deutsch-mentor.com/) | Learn German Online with your AI mentor. | 50% OFF with code **FRIDAY24** |
 |  ⭐ | [WhisperUI](https://whisperui.com?ref=awesomebf) | Affordable Speech to Text service powered by OpenAI Whisper API. | 60% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -209,6 +210,7 @@ Total deals: 218
 |  ⭐ | [NoteSLAYER](https://note-slayer.com/) | Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS) | 50% OFF with code **BLACKBLACK24** |
 |  📝 | [Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows | **BLACKFRIDAY2024** 25% off |
 |  📕 | [ConniePad](https://conniepad.com) | Native, offline, privacy, and comprehensive rich-formatting note-taking app. Available on macOS, iOS, iPadOS and visionOS. | 25% OFF Lifetime |
+| 🟢 | [Airbounce](https://www.airbounce.co) | Ace your Zoom meetings: One magic button for easier calls. Available for macOS. | 50% off with **BOUNCE50**
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -222,6 +224,7 @@ Total deals: 218
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 25% OFF with code **BLACKFRIDAY**|
 |  📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
+| 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -361,9 +364,10 @@ Total deals: 218
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💰 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | $5 OFF on the annual Ghostfolio Premium subscription |
+| 👻 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | 25% OFF on the annual Ghostfolio Premium subscription plus 3 months extra |
 | 💵 | [Budget Zen](https://budgetzen.net) | Simple and End-to-End Encrypted Budget & Expenses Manager. | 50% OFF on the annual subscription with code **FRIDAY24** |
 | 📈 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY24) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 40% OFF with code **BLACKFRIDAY24** |
+| 💵 | [Wealthfolio](https://wealthfolio.app) | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -550,6 +554,7 @@ Total deals: 218
 | -- | ---| ------ | ------ |
 |  ⭐ | [Swim Coach App](https://swimcoachapp.com) | Smart workouts for swimming and triathlon | 6 extra months for free when purchasing a 1-year Gold subscription |
 |  ⭐ | [Relief Maps](https://reliefmaps.io) | 3D gps app for outdoor sports, hiking, backcountry skiing etc. | 40% OFF with the link : [BLACK FRIDAY](http://reliefmaps.io/discounts/p/blackfriday)|
+|  🎾 | [PadelMix App](https://padelmix.app/) | Mobile app for organizing and managing Padel tournaments. | 50% off annual plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
