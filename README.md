@@ -111,6 +111,7 @@ Total deals: 256
 |  🐰 | [CodeRabbit](https://coderabbit.ai) | AI-Powered Code Review Bot - Detailed code reviews and suggestions to improve code quality. Supports GitHub, GitLab. | Free for open source projects |
 | 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
+| 🛠️ | [Composio](https://composio.dev) | Integration platform for AI Agents & LLM Apps - connect over 200+ tools. | **75% OFF** for three months with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
