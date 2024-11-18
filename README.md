@@ -297,7 +297,7 @@ Total deals: 290
 | 📚 | [Ebookany](https://ebookany.com) | Easily convert any online content (blogs, links, RSS feeds, Google Docs, Notion pages) into a convenient ebook format (EPUB or PDF). | 30% OFF on all plans with code **BFCM2024** |
 |  ⭐ | [Vocaldo AI](https://vocaldo.com) | Transcribe Speech into Text in Any Language with AI | 40% OFF on All plans with code **BFCM2024** |
 |  📁 | [Files to Notion](https://www.files2notion.com/) | Open and organise your local files in Notion | 20% OFF on Extended plan with code **BLACK2024FRIDAY** |
-|  📁 | [Writing Habit Builder](https://writemore.io/) | Build Your Writing Muscle with Tools and Analytics Across All Devices | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year. |
+|  📝 | [Writing Habit Builder](https://writemore.io/) | Build Your Writing Muscle with Tools and Analytics Across All Devices | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year. |
 
 
 
