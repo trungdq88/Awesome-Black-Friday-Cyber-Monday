@@ -230,6 +230,7 @@ Total deals: 290
 |  📚 | [Subjects](https://eyen.fr/subjects/) | Universal student planner: timetable, homework and grades. iPhone, iPad and Mac. | 70% off the Yearly plan
 | ✅ | [ToDoBar](https://apps.apple.com/in/app/todobar-tasks-on-your-menu-bar/id6470928617?mt=12) | Tasks on your menu bar | 50% off on the App Store, no code needed.
 | 📋 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Think spreadsheets are boring? Think again! This 16-sheet project management template is packed with tools to streamline your workflow: track tasks, visualize progress with Gantt charts, manage schedules with an automated calendar, and monitor everything on a clear dashboard. | 39% OFF with code **BF39** – Lifetime access for just **$4.88** |
+| ☑️ | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define task dependencies | 70% off the Full Version |
 
 [⬆️ Go to Top](#table-of-contents)
 
