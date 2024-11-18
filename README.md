@@ -32,19 +32,19 @@ Total deals: 290
 	- [💬 AI Chat UI (8)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (19)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (9)](#-other-ai-tools)
-- [🌅 Design Tools (19)](#-design-tools)
+- [🌅 Design Tools (20)](#-design-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (10)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (7)](#window-screen-clipboard-utilities)
+		- [Window, Screen, Clipboard, Utilities (8)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (3)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (7)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (19)](#-marketing-tools)
 - [🔍 SEO Tools (14)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (8)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (10)](#-startup-saastools)
 - [🌏 Social Media Tools (10)](#-social-media-tools)
 - [💸 Finance Tools (4)](#-finance-tools)
 - [🎛 Utility Tools (8)](#-utility-tools)
@@ -112,6 +112,7 @@ Total deals: 290
 | 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 | 🛠️ | [Composio](https://composio.dev) | Integration platform for AI Agents & LLM Apps - connect over 200+ tools. | **75% OFF** for three months with code **BF2024** |
+| 💱 | [ExchangeRate-API](https://www.exchangerate-api.com) | Currency API trusted by devs since 2010. | Recurring **30% OFF** with code **2024BLACKFRIDAY** on all annual plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -197,6 +198,7 @@ Total deals: 290
 | 💰 | [Iconbuddy](https://iconbuddy.com) | Over 200k+ open source icons. Download, Customize, Edit and Personalize. | $100 OFF on lifetime deal (automatic) |
 | 🎉 | [Lineicons](https://lineicons.com) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | Flat **40% OFF** on all plans with code **BLFCM2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
+| 🤑 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge.| Use this promo code **BLFPIXPA55** to get up to **55% discount** on annual plans.|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -245,6 +247,7 @@ Total deals: 290
 |  📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** |
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
 | 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
+| ⭐ | [Badgeify](https://badgeify.app) | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -283,6 +286,7 @@ Total deals: 290
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 |  📝 | [Quick Capture - Obsidian](https://apps.apple.com/in/app/quick-capture-obsidian/id6737046871) | Send anything to any vault in Obsidian 10x faster | Lifetime 50% off |
 |  📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
+|  ✅ | [Journal it! - Life Organizer](https://apps.apple.com/US/app/id1501944799) | An all-in-one KPM and personal productivity app. Mobile first, offline first, end-to-end encryption (Android, iOS, web)    | 50% OFF Lifetime PRO |
 | 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
 
 
@@ -370,6 +374,7 @@ Total deals: 290
 |  🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code **BLACKFRIDAY2024** |
 | 📊 | [FormBold](https://formbold.com/) | Premium form solution featuring a powerful API and backend. Receive submissions via email, Slack, Notion, and more—no coding required. Seamless integration! | **40% OFF** with code **BLFCM2024** |
 |  📡 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday_24&utm_id=blackfriday23) | Streamline communication of incidents, maintenance and system updates—now featuring status pages as code with Terraform. | Up to **50% OFF** the first year until Dec. 6th |
+|  📈 | [UXWizz](https://www.uxwizz.com) | Replace Google Analytics and Hotjar with a single, self-hosted analytics dashboard — now with Ask AI Text-to-Chart! | **60% OFF** — One time payment |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -450,6 +455,9 @@ Total deals: 290
 | 📊 | [PlainAdmin](https://plainadmin.com) | Bootstrap 5 based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | **40% OFF** with code **BLFCM2024**  |
 |  📩 | [WaitlistEasy](https://waitlisteasy.com/) | The ready-to-deploy boilerplate for waitlists. Build, Publish, Manage - All in ONE | 50% OFF with code **BLACKFRIDAY2024** |
 |  🚀 | [SaaSykit](https://saasykit.com/) | SaaSykit is a Laravel-based boilerplate with everything you need to build an awesome SaaS. Available in both multi-tenant and single-tenant versions. | **25% OFF** on SaaSykit Complete with code **BLACKFRIDAY2024**                                   |
+|  🔥 | [Cruip](https://cruip.com/) | Landing pages, websites, and dashboards built on top of Tailwind CSS and fully coded in HTML, React, Next.js, and Vue. | 55% OFF applied automatically |
+| 📆 | [AI-TableReserve](https://restobookings.mobidonia.com/) | Script that you can use to handle table reservations for restaurants. With the option to connect to an AI Phone again, you can accept reservations at any time. | **40% OFF** with code **BF2024** |
+| ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -549,7 +557,7 @@ Total deals: 290
 |  🤑  | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 | 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
 |  ⭐ | [Lifetime membership for The Python Coding Place](https://thepythoncodingplace.com) | Get access to all the video courses covering beginner, intermediate, and advanced Python topics. All courses are delivered in a casual, friendly way, and focus on learning "why" things are the way they are in Python, and not just "how" to do things. | [40% OFF Lifetime Membership **BLACK2024**](https://thepythoncodingplace.thinkific.com/cart/add_product/2731141?price_id=3865919&coupon=black2024) |
-|  🤖 | [The Complete AI Fast Track Bootcamp - 2024](https://code4startup.com/ai_bootcamp) | Learn LLMs, Gemini Pro, ChatGPT, Hugging Face, LangChain, Vector database, Text-to-Speech, GPT-4 Vision and build AI apps in 1 week. | 50% OFF with Lifetime Access + Full Source Code |
+|  🤖 | [Bundle of AI Premium Series - 2024](https://code4startup.com/black_friday) | Learn all about AI and build real AI startup apps in 2 week. | 80% OFF with Lifetime Access + Full Source Code |
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
@@ -560,6 +568,7 @@ Total deals: 290
 |  🦜 | [LangChain - The Complete Course](https://www.udemy.com/course/langchain/?couponCode=BLACK-FRIDAY-2024) | Master LangChain framework to build powerful AI applications. Learn to create chatbots, agents, and AI-powered apps with hands-on projects. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  🦜 | [LangGraph - Build Multi-Agent Systems](https://www.udemy.com/course/langgraph/?couponCode=BLACK-FRIDAY-2024) | Learn to build complex multi-agent systems and orchestrate AI agents using LangGraph. Create autonomous AI applications through practical examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  💻 | [Cursor AI - Master the AI-Powered IDE](https://www.udemy.com/course/cursor-ai-ide/?couponCode=BLACK-FRIDAY-2024) | Learn to supercharge your coding productivity with Cursor AI IDE. Master AI pair programming and code generation features through real-world examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
+|  🧪 | [LabEx](https://labex.io/pricing) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | 50% OFF (2 Years) with code **BF50OFF**, 30% OFF (1 Years) with code **BF30OFF** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -569,6 +578,8 @@ Total deals: 290
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [Cyberwarfare Labs](https://cyberwarfare.live/blackfriday/) | CyberWarfare Labs provides advanced training courses in Red Teaming, Cloud Security, and Blue Teaming, offering hands-on lab access to help you enhance your cybersecurity skills and stay ahead of evolving threats.| Upto **80%** off on the bundle **50%** OFF on all the individual courses|
+
 
 
 [⬆️ Go to Top](#table-of-contents)
