@@ -36,7 +36,7 @@ Total deals: 256
 - [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, s, Organize, Planning (8)](#tasks-s-organize-planning)
+		- [Tasks, Organize, Planning (8)](#tasks-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (7)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (2)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (5)](#miscellaneous-productivity-apps)
@@ -215,7 +215,7 @@ Total deals: 256
 ## 🔥 Productivity
 ### 🖥️ Productivity Desktop Apps
 
-#### Tasks, s, Organize, Planning
+#### Tasks, Organize, Planning
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
@@ -226,7 +226,8 @@ Total deals: 256
 |  ⭐ | [NoteSLAYER](https://note-slayer.com/) | Note SLAYER: Advanced note-taking & task management for Desktop(Linux, Windows and MacOS) | 50% OFF with code **BLACKBLACK24** |
 |  📝 | [Monkey Notes](https://jontelang.com/monkeynotes) | Sticky notes that attaches directly to your macOS windows | **BLACKFRIDAY2024** 25% off |
 |  📕 | [ConniePad](https://conniepad.com) | Native, offline, privacy, and comprehensive rich-formatting note-taking app. Available on macOS, iOS, iPadOS and visionOS. | 25% OFF Lifetime |
-| 🟢 | [Airbounce](https://www.airbounce.co) | Ace your Zoom meetings: One magic button for easier calls. Available for macOS. | 50% off with **BOUNCE50**
+|  🟢 | [Airbounce](https://www.airbounce.co) | Ace your Zoom meetings: One magic button for easier calls. Available for macOS. | 50% off with **BOUNCE50**
+|  📚 | [Subjects](https://eyen.fr/subjects/) | Universal student planner: timetable, homework and grades. iPhone, iPad and Mac. | 70% off the Yearly plan
 
 [⬆️ Go to Top](#table-of-contents)
 
