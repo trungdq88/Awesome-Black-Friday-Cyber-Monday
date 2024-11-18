@@ -130,6 +130,7 @@ Total deals: 290
 |  📝 | [Writers Brew AI](https://writersbrew.app/) | #1 AI Writing app. An AI writing assistant app that works across your macOS | Bundle upto 60% OFF  |
 |  ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
 | ⭐ | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF - Use the coupon code: **BF20** to receive the discount |
+| ✳️ | [Quartzite](https://www.quartzite.ai/) | Powerful prompt builder for GPT, Claude, Gemini, and more | 50% OFF annual subscription with code **BF50** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -200,7 +201,6 @@ Total deals: 290
 | 🎉 | [Lineicons](https://lineicons.com) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | Flat **40% OFF** on all plans with code **BLFCM2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 | 🔵 | [Bootstrap Builder](https://bootstrapmade.com/bootstrap-template-builder/) | Online Bootstrap Template Builder | **30% OFF** (automatic) |
-| ✳️ | [Quartzite](https://www.quartzite.ai/) | Powerful prompt builder for GPT, Claude, Gemini, and more | 50% OFF annual subscription with code **BF50** |
 
 [⬆️ Go to Top](#table-of-contents)
 
