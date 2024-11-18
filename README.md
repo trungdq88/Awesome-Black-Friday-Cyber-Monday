@@ -39,8 +39,8 @@ Total deals: 290
 		- [Tasks, Organize, Planning (10)](#tasks-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (7)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (3)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (6)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (6)](#-productivity-mobile-apps)
+		- [Miscellaneous Productivity Apps (7)](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (19)](#-marketing-tools)
 - [🔍 SEO Tools (14)](#-seo-tools)
@@ -64,7 +64,7 @@ Total deals: 290
 	- [🎢 Career Courses (5)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (21)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (22)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -269,6 +269,7 @@ Total deals: 290
 |  ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off between 15 Nov and 3 Dec |
 | 🌐 | [Browser Deputy](https://anybox.ltd/browser-deputy) | A command palette for macOS browsers. Search bookmarks and history. | 50% off with Code **BF2024** |
 | 📞 | [MuteDeck](https://mutedeck.com?ref=awbfcm) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
+| 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -283,6 +284,7 @@ Total deals: 290
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 |  📝 | [Quick Capture - Obsidian](https://apps.apple.com/in/app/quick-capture-obsidian/id6737046871) | Send anything to any vault in Obsidian 10x faster | Lifetime 50% off |
 |  📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
+| 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -631,5 +633,7 @@ Total deals: 290
 | 🖋️ | [Lykhari - a blogging platform](https://lykhari.com) | A simple blogging platform at $2.50/month forever. Optimized for writers, readers, and search engines. | 50% OFF with code **BLACKFRIDAY2024** |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co) | Publish your notes to a Quotion subdomain or your domain automatically, with fast page loads, SEO ready, built-in analytics, and looks great. No design or coding skills required. | 30% OFF for 12 months with code **BLACKFRIDAY2024** |
 | 🤙 | [Mango - Twilio Calls & Texts](https://itsok.xyz/blackfridaytony) | Draw the "line"(pun intended) between work and personal with Mango - your Twilio-powered calling & texting solution. | 50% OFF for 6 months with in app purchase |
+| 🎞️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS. | 50% OFF YEARLY Plan |
+
 
 [⬆️ Go to Top](#table-of-contents)
