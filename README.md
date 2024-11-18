@@ -199,6 +199,7 @@ Total deals: 290
 | 💰 | [Iconbuddy](https://iconbuddy.com) | Over 200k+ open source icons. Download, Customize, Edit and Personalize. | $100 OFF on lifetime deal (automatic) |
 | 🎉 | [Lineicons](https://lineicons.com) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | Flat **40% OFF** on all plans with code **BLFCM2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
+| 🔵 | [Bootstrap Builder](https://bootstrapmade.com/bootstrap-template-builder/) | Online Bootstrap Template Builder | **30% OFF** (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
