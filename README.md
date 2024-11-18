@@ -346,6 +346,7 @@ Total deals: 290
 |  🔭 | [Telescope](https://withtelescope.com/) | Comprehensive suite of SEO tools that helps you research and track keywords, monitor backlinks, analyze competitors, perform site audits, and more. | 20% off balance top-ups and 30% off your first 3 months on any subscription plan with code **BLACKFRIDAY2024** |
 |  🤖 | [Checkbot: SEO checker](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more | 50% OFF first year on yearly plans with code **NOV24**. Valid until 1 Dec 2024. |
 | 🚀 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** |
+| 🔝 | [SEOPulser](https://seopulser.com) | Generate and Publish 100s of SEO-optimized Articles in Minutes on Autopilot | 30% OFF with code **BLACKFRIDAY30** |
 
 
 [⬆️ Go to Top](#table-of-contents)
