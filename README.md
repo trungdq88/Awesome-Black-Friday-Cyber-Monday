@@ -53,7 +53,7 @@ Total deals: 290
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
 		- [Web Dev & Design (3)](#web-dev--design)
-		- [Apps Development (Mobile/Desktop) (3)](#apps-development-mobiledesktop)
+		- [Apps Development (Mobile/Desktop) (5)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
 		- [Misc Programming Books (4)](#misc-programming-books)
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
@@ -229,6 +229,8 @@ Total deals: 290
 |  🟢 | [Airbounce](https://www.airbounce.co) | Ace your Zoom meetings: One magic button for easier calls. Available for macOS. | 50% off with **BOUNCE50**
 |  📚 | [Subjects](https://eyen.fr/subjects/) | Universal student planner: timetable, homework and grades. iPhone, iPad and Mac. | 70% off the Yearly plan
 | ✅ | [ToDoBar](https://apps.apple.com/in/app/todobar-tasks-on-your-menu-bar/id6470928617?mt=12) | Tasks on your menu bar | 50% off on the App Store, no code needed.
+| 📋 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Think spreadsheets are boring? Think again! This 16-sheet project management template is packed with tools to streamline your workflow: track tasks, visualize progress with Gantt charts, manage schedules with an automated calendar, and monitor everything on a clear dashboard. | 39% OFF with code **BF39** – Lifetime access for just **$4.88** |
+| ☑️ | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define task dependencies | 70% off the Full Version |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -348,6 +350,7 @@ Total deals: 290
 |  🤖 | [Checkbot: SEO checker](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more | 50% OFF first year on yearly plans with code **NOV24**. Valid until 1 Dec 2024. |
 | 🚀 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** |
 | 🔝 | [SEOPulser](https://seopulser.com) | Generate and Publish 100s of SEO-optimized Articles in Minutes on Autopilot | 30% OFF with code **BLACKFRIDAY30** |
+| ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Auto mass generate WordPress Pages and Posts, with AI integration | 30% OFF with code **BF2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -365,6 +368,7 @@ Total deals: 290
 |  📊 | [FeatureHunt](https://featurehunt.app) | Track every feature request from your customers and always have answer to "What Next to Do" | 30% OFF on first payemnt |
 |  🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code **BLACKFRIDAY2024** |
 | 📊 | [FormBold](https://formbold.com/) | Premium form solution featuring a powerful API and backend. Receive submissions via email, Slack, Notion, and more—no coding required. Seamless integration! | **40% OFF** with code **BLFCM2024** |
+|  📡 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday_24&utm_id=blackfriday23) | Streamline communication of incidents, maintenance and system updates—now featuring status pages as code with Terraform. | Up to **50% OFF** the first year until Dec. 6th |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -383,6 +387,7 @@ Total deals: 290
 |  🚀 | [Postiz](https://postiz.com) | The ultimate AI social media scheduling tool also open-source! | 50% OFF with code **BF2024** |
 | 💰 | [TweetsMash](https://tweetsmash.com/) | 𝕏 bookmarks and list companion for knowledge extraction. Chat with your bookmarks using AI; streamline your reading with email digests; export bookmarks effortlessly to Notion and Sheets; and efficiently search, curate, and organise your Twitter / 𝕏 content. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | 🌟 | [Writastic](https://writastic.com/)    | Make Your Post 10x Viral - From boring to fascinating with templates and rewriting | 50% OFF on all plans with the code **BF2024** (Nov 22 - Dec 6) |
+| ⭐ | [WP to Buffer Pro](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) | Auto send content from WordPress to Facebook, X, Instagram, Threads, LinkedIn, Pinterest, Mastodon, Bluesky and Google Business using Buffer.com | 30% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -394,6 +399,7 @@ Total deals: 290
 | 💵 | [Budget Zen](https://budgetzen.net) | Simple and End-to-End Encrypted Budget & Expenses Manager. | 50% OFF on the annual subscription with code **FRIDAY24** |
 | 📈 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY24) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 40% OFF with code **BLACKFRIDAY24** |
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
+| 💸 | [Ultimate Budgeting Spreadsheet + Assets Tracker](https://prosheetivity.gumroad.com/l/budgeting-money-management-financial-tracking/BF39) | Plan budgets, track expenses, and manage lifetime assets with this all-in-one spreadsheet, complete with automated stock price updates! | 39% OFF with code **BF39** – Lifetime access for just **$4.27** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -467,6 +473,8 @@ Total deals: 290
 |  ⭐ | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | 50% OFF with code **BLACKFRIDAY** |
 |  ⭐ | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | 50% OFF with code **BLACKFRIDAY** |
 | 🔥 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** |
+| 🐴 | [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx) | Tools and techniques to improve your Django development experience. | 50% off from $42 to $21. No code needed. |
+| 🏎️ | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -477,7 +485,8 @@ Total deals: 290
 |  🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2024) | In this book, you'll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2024) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2024** |
 | 💻 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** |
-
+| 🤑 | [Swift Gems](https://books.nilcoalescing.com/swift-gems) | 100+ tips to take your Swift code to the next level. | 30% OFF with code **BLACKFRIDAY24** |
+| 📚 | [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) | A detailed guide on gradually adopting SwiftUI in UIKit projects. | 30% OFF with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -502,6 +511,7 @@ Total deals: 290
 | 🤑 | [Dev Concepts](https://dev-concepts.dev/) | The first two books of the Dev Concepts collection. Learn all the key concepts at a discount | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 | 🕵️ | [CSP Developer Field Guide](https://foundeo.gumroad.com/l/csp-developer-field-guide) | Boost your web app's security, and quiclky master Content-Security-Policy with this book.   | 50% OFF with code **BLACKFRIDAY** |
 | 🔥 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** |
+| ♦️ | [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) | Make your Git development experience super smooth. | 50% off from $39 to $19.50. No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
