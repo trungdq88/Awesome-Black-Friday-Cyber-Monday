@@ -337,6 +337,7 @@ Total deals: 290
 |  👨‍💻 | [OpenAlternative](https://openalternative.co) | A collection of the best Open Source Alternatives to everyday SaaS products. | 30% OFF of all advertising options with code **BLACKFRIDAY24** |
 |  🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch, Get Exposure and First Sales. | 20% OFF Pro Launches with the code **BLACKFRIDAY2024**. *Limited to 20 first products.* 👨‍🚀
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
