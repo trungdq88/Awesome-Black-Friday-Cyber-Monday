@@ -112,7 +112,7 @@ Total deals: 290
 | 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 | 🛠️ | [Composio](https://composio.dev) | Integration platform for AI Agents & LLM Apps - connect over 200+ tools. | **75% OFF** for three months with code **BF2024** |
-| 💱 | [ExchangeRate-API](https://www.exchangerate-api.com) | Reliable currency API trusted by devs since 2010. | Recurring 30% OFF with code **2024BLACKFRIDAY** on all annual plans |
+| 💱 | [ExchangeRate-API](https://www.exchangerate-api.com) | Currency API trusted by devs since 2010. | Recurring 30% OFF with code **2024BLACKFRIDAY** on all annual plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
