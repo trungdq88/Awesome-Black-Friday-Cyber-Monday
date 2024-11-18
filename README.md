@@ -44,7 +44,7 @@ Total deals: 290
 	- [🛠️ Productivity Tools & Services (8)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (19)](#-marketing-tools)
 - [🔍 SEO Tools (14)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (9)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (10)](#-startup-saastools)
 - [🌏 Social Media Tools (10)](#-social-media-tools)
 - [💸 Finance Tools (4)](#-finance-tools)
 - [🎛 Utility Tools (8)](#-utility-tools)
@@ -369,7 +369,7 @@ Total deals: 290
 |  🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code **BLACKFRIDAY2024** |
 | 📊 | [FormBold](https://formbold.com/) | Premium form solution featuring a powerful API and backend. Receive submissions via email, Slack, Notion, and more—no coding required. Seamless integration! | **40% OFF** with code **BLFCM2024** |
 |  📡 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday_24&utm_id=blackfriday23) | Streamline communication of incidents, maintenance and system updates—now featuring status pages as code with Terraform. | Up to **50% OFF** the first year until Dec. 6th |
-|  📈 | [UXWizz](https://www.uxwizz.com) | Replace Google Analytics and Hotjar with a single, self-hosted analytics dashboard — now with Ask AI Text-to-Chart! | **60% OFF** all licenses  |
+|  📈 | [UXWizz](https://www.uxwizz.com) | Replace Google Analytics and Hotjar with a single, self-hosted analytics dashboard — now with Ask AI Text-to-Chart! | **60% OFF** — One time payment |
 
 
 [⬆️ Go to Top](#table-of-contents)
