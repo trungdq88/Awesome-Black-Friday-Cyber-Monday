@@ -249,6 +249,7 @@ Total deals: 256
 | -- | ---| ------ | ------ |
 |  💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
 |  💰 | [Rize.io Time Tracker](https://rize.io) | Rize is an AI-powered time tracker that improves your focus and builds better work habits. | 40% OFF with code **BLACKFRIDAY2024** |
+| ⭐ | [WhatPulse](https://whatpulse.org?ref=awbfcm) | Analyze your productivity and activity using WhatPulse. Track time spent in applications, keyboard and mouse usage, and network traffic. | 20% OFF with code **E3ROSPGL1O** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -262,6 +263,7 @@ Total deals: 256
 |  🔊 | [AudioWrangler](https://audiowrangler.app) | Prioritize which sound devices macOS switches to | 50% off between 15 Nov and 3 Dec |
 |  ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off between 15 Nov and 3 Dec |
 | 🌐 | [Browser Deputy](https://anybox.ltd/browser-deputy) | A command palette for macOS browsers. Search bookmarks and history. | 50% off with Code **BF2024** |
+| 📞 | [MuteDeck](https://mutedeck.com?ref=awbfcm) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
