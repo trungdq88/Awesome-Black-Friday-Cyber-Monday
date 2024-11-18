@@ -451,6 +451,7 @@ Total deals: 290
 |  📩 | [WaitlistEasy](https://waitlisteasy.com/) | The ready-to-deploy boilerplate for waitlists. Build, Publish, Manage - All in ONE | 50% OFF with code **BLACKFRIDAY2024** |
 |  🚀 | [SaaSykit](https://saasykit.com/) | SaaSykit is a Laravel-based boilerplate with everything you need to build an awesome SaaS. Available in both multi-tenant and single-tenant versions. | **25% OFF** on SaaSykit Complete with code **BLACKFRIDAY2024**                                   |
 |  🔥 | [Cruip](https://cruip.com/) | Landing pages, websites, and dashboards built on top of Tailwind CSS and fully coded in HTML, React, Next.js, and Vue. | 55% OFF applied automatically |
+| 📆 | [AI-TableReserve](https://restobookings.mobidonia.com/) | Script that you can use to handle table reservations for restaurants. With the option to connect to an AI Phone again, you can accept reservations at any time. | **40% OFF** with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
