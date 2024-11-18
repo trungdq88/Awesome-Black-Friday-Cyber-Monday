@@ -469,6 +469,8 @@ Total deals: 290
 |  ⭐ | [Tao of React](https://alexanderkondov.gumroad.com/l/tao-of-react) | Learn how to build well-structured React.js applications. Get better at software design. | 50% OFF with code **BLACKFRIDAY** |
 |  ⭐ | [Tao of Node](https://alexanderkondov.gumroad.com/l/tao-of-node) | Build better Node.js applications. A collection of best practices about building REST APIs | 50% OFF with code **BLACKFRIDAY** |
 | 🔥 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** |
+| 🐴 | [Boost Your Django DX](https://adamchainz.gumroad.com/l/byddx) | Tools and techniques to improve your Django development experience. | 50% off from $42 to $21. No code needed. |
+| 🏎️ | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -505,6 +507,7 @@ Total deals: 290
 | 🤑 | [Dev Concepts](https://dev-concepts.dev/) | The first two books of the Dev Concepts collection. Learn all the key concepts at a discount | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 | 🕵️ | [CSP Developer Field Guide](https://foundeo.gumroad.com/l/csp-developer-field-guide) | Boost your web app's security, and quiclky master Content-Security-Policy with this book.   | 50% OFF with code **BLACKFRIDAY** |
 | 🔥 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** |
+| ♦️ | [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) | Make your Git development experience super smooth. | 50% off from $39 to $19.50. No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
