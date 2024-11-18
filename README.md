@@ -83,6 +83,7 @@ Total deals: 290
 |  🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
 |  🖥️ | [OK JSON](https://okjson.app/) | Scriptable JSON formatter with viewing history. | 50% OFF with code **BF2024** |
 |  🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
+| 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2024** 25% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -269,7 +270,7 @@ Total deals: 290
 |  ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off between 15 Nov and 3 Dec |
 | 🌐 | [Browser Deputy](https://anybox.ltd/browser-deputy) | A command palette for macOS browsers. Search bookmarks and history. | 50% off with Code **BF2024** |
 | 📞 | [MuteDeck](https://mutedeck.com?ref=awbfcm) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
-
+| 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | **BLACKFRIDAY2024** 25% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -300,8 +301,7 @@ Total deals: 290
 |  ⭐ | [Vocaldo AI](https://vocaldo.com) | Transcribe Speech into Text in Any Language with AI | 40% OFF on All plans with code **BFCM2024** |
 |  📁 | [Files to Notion](https://www.files2notion.com/) | Open and organise your local files in Notion | 20% OFF on Extended plan with code **BLACK2024FRIDAY** |
 |  📝 | [Writing Habit Builder](https://writemore.io/) | Build Your Writing Muscle with Tools and Analytics Across All Devices | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year. |
-
-
+| 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | **BLACKFRIDAY2024** 25% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
