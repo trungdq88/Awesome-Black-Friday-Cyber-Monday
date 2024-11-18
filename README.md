@@ -229,6 +229,7 @@ Total deals: 290
 |  🟢 | [Airbounce](https://www.airbounce.co) | Ace your Zoom meetings: One magic button for easier calls. Available for macOS. | 50% off with **BOUNCE50**
 |  📚 | [Subjects](https://eyen.fr/subjects/) | Universal student planner: timetable, homework and grades. iPhone, iPad and Mac. | 70% off the Yearly plan
 | ✅ | [ToDoBar](https://apps.apple.com/in/app/todobar-tasks-on-your-menu-bar/id6470928617?mt=12) | Tasks on your menu bar | 50% off on the App Store, no code needed.
+| ☑️ | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define task dependencies | 70% off the Full Version
 
 [⬆️ Go to Top](#table-of-contents)
 
