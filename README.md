@@ -53,7 +53,7 @@ Total deals: 290
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
 		- [Web Dev & Design (3)](#web-dev--design)
-		- [Apps Development (Mobile/Desktop) (3)](#apps-development-mobiledesktop)
+		- [Apps Development (Mobile/Desktop) (5)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
 		- [Misc Programming Books (4)](#misc-programming-books)
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
@@ -477,7 +477,8 @@ Total deals: 290
 |  🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2024) | In this book, you'll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2024** |
 |  🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2024) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2024** |
 | 💻 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** |
-
+| 🤑 | [Swift Gems](https://books.nilcoalescing.com/swift-gems) | 100+ tips to take your Swift code to the next level. | 30% OFF with code **BLACKFRIDAY24** |
+| 📚 | [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) | A detailed guide on gradually adopting SwiftUI in UIKit projects. | 30% OFF with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
