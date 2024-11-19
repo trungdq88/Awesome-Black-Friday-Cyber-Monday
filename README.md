@@ -439,6 +439,7 @@ Total deals: 330
 |  🎉 | [Emoji Autocomplete](https://chromewebstore.google.com/detail/emoji-autocomplete/lkicimekniagfoifhgkieaomcdhofpfn) | Easily insert emojis by typing ':' followed by a word, just like in Slack, Discord, GitHub and other apps. | 50% OFF with code **BLACKFRIDAY2024** |
 |  🪄 | [Protego for Reddit](https://getprotego.app) | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 |  😶‍🌫️ | [BlurData](https://blurdata.app) | Remove sensitive informations from your Screenshots - instantly, locally, totally offline. | 30% OFF with code **BLACKFRIDAY24** |
+|  ✨ | [Simplify Access Management for Odoo](https://apps.odoo.com/apps/modules/17.0/simplify_access_management) | All In One Access Management app for setting the correct access rights (Hide/Unhide/Read-only) on fields, models, menus, records, filters, groups, buttons/tabs, views, actions, reports, chatter for any module, any user, any company in Odoo. | 30% OFF for the lifetime license |
 
 
 [⬆️ Go to Top](#table-of-contents)
