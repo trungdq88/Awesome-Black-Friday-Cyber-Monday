@@ -594,6 +594,7 @@ Total deals: 330
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [Cyberwarfare Labs](https://cyberwarfare.live/blackfriday/) | CyberWarfare Labs provides advanced training courses in Red Teaming, Cloud Security, and Blue Teaming, offering hands-on lab access to help you enhance your cybersecurity skills and stay ahead of evolving threats.| Upto **80%** off on the bundle **50%** OFF on all the individual courses|
+| 🚀 | [Securing AWS: Strategies for Lean Teams](https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Teams-from-Chandrapal-Badshah-666415ee3a16ef700a69c1c5) | Practical tools, techniques and mental frameworks for securing AWS infrastructure with limited security resources | Get **51%** OFF at checkout |
 
 
 [⬆️ Go to Top](#table-of-contents)
