@@ -118,6 +118,7 @@ Total deals: 330
 | 💱 | [ExchangeRate-API](https://www.exchangerate-api.com) | Currency API trusted by devs since 2010. | Recurring **30% OFF** with code **2024BLACKFRIDAY** on all annual plans |
 | 🛠️ | [BCMS](https://thebcms.com) | BCMS is a headless CMS Built for developers, loved by their clients | Lifetime **80% OFF**, with code **BF2024** |
 | 🔥 | [fullPage.js](https://alvarotrigo.com/fullPage/black-friday/) | Create Beautiful Scroll Snap Websites in minutes, not hours. Available for JavaScript (JS, React, Vue) and WordPress (Divi, Elementor, Gutenberg). | Up to **40% OFF**, with code **BLACKF** | 
+| ⚡️ | [Wallaby.js](https://wallabyjs.com/) and [Quokka.js](https://quokkajs.com) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Nov-20 to Dec-02 Quokka: **50% OFF**, Wallaby: **30% OFF** | 
 
 [⬆️ Go to Top](#table-of-contents)
 
