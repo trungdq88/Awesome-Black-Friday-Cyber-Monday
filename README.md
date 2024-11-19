@@ -397,6 +397,8 @@ Total deals: 290
 | 💰 | [TweetsMash](https://tweetsmash.com/) | 𝕏 bookmarks and list companion for knowledge extraction. Chat with your bookmarks using AI; streamline your reading with email digests; export bookmarks effortlessly to Notion and Sheets; and efficiently search, curate, and organise your Twitter / 𝕏 content. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | 🌟 | [Writastic](https://writastic.com/)    | Make Your Post 10x Viral - From boring to fascinating with templates and rewriting | 50% OFF on all plans with the code **BF2024** (Nov 22 - Dec 6) |
 | ⭐ | [WP to Buffer Pro](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) | Auto send content from WordPress to Facebook, X, Instagram, Threads, LinkedIn, Pinterest, Mastodon, Bluesky and Google Business using Buffer.com | 30% OFF with code **BF2024** |
+| 🟠 | [OSCR AI](https://www.oscr.tech/) | Transform research, videos, audio, and long-form articles into engaging, on-brand social posts in seconds. | 50% OFF on all plans with the code **BF2024** (Nov 18 - Dec 15) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
