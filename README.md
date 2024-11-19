@@ -161,6 +161,7 @@ Total deals: 290
 |  ⭐ | [Semantic Pen](https://www.semanticpen.com/?utm_source=awesomebf) | Fact Check AI writer | 40% OFF all annual plans with code **SPBF40** |
 | ⭐ | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **BF20** to receive the discount |
 | 🤑 | [MindPal](https://mindpal.space/) | All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes. | 60% OFF all YEARLY plans with code **`BLACKFRIDAY24`** |
+| 🎁 | [PodScribe.IO](https://podscribe.io/#pricing) | PodScribe.IO is your second brain for audio content, transforming podcasts and more into structured, searchable knowledge.  | Extra 30% OFF all YEARLY plans for the first year - Use the coupon code: **BF24**  |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -380,6 +381,7 @@ Total deals: 290
 | 📊 | [FormBold](https://formbold.com/) | Premium form solution featuring a powerful API and backend. Receive submissions via email, Slack, Notion, and more—no coding required. Seamless integration! | **40% OFF** with code **BLFCM2024** |
 |  📡 | [StatusPal](https://www.statuspal.io?utm_source=github.com&utm_medium=referral&utm_campaign=awesome_blackfriday_24&utm_id=blackfriday23) | Streamline communication of incidents, maintenance and system updates—now featuring status pages as code with Terraform. | Up to **50% OFF** the first year until Dec. 6th |
 |  📈 | [UXWizz](https://www.uxwizz.com) | Replace Google Analytics and Hotjar with a single, self-hosted analytics dashboard — now with Ask AI Text-to-Chart! | **60% OFF** — One time payment |
+|  🌊 | [GrowSurf](https://growsurf.com?ref=blackfriday2024) | Build your referral program without the dev time. Automate customer acquisition at the lowest possible cost. | 50% OFF FOR 12 MONTHS using **[this link](https://app.growsurf.com/signup?promo=b5SVT6sF)** ($1,074 value) |
 |  🎁 | [VaocherApp](https://www.vaocherapp.com?ref=github-awesome-blackfriday) | Sell & manage gift cards online with ease. Easy to set up, customisable gift card designs (upload your logos, change fonts & colours...) | **50% OFF** for 6 months |
 
 
@@ -400,6 +402,8 @@ Total deals: 290
 | 💰 | [TweetsMash](https://tweetsmash.com/) | 𝕏 bookmarks and list companion for knowledge extraction. Chat with your bookmarks using AI; streamline your reading with email digests; export bookmarks effortlessly to Notion and Sheets; and efficiently search, curate, and organise your Twitter / 𝕏 content. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | 🌟 | [Writastic](https://writastic.com/)    | Make Your Post 10x Viral - From boring to fascinating with templates and rewriting | 50% OFF on all plans with the code **BF2024** (Nov 22 - Dec 6) |
 | ⭐ | [WP to Buffer Pro](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) | Auto send content from WordPress to Facebook, X, Instagram, Threads, LinkedIn, Pinterest, Mastodon, Bluesky and Google Business using Buffer.com | 30% OFF with code **BF2024** |
+| 🟠 | [OSCR AI](https://www.oscr.tech/) | Transform research, videos, audio, and long-form articles into engaging, on-brand social posts in seconds. | 50% OFF on all plans with the code **BF2024** (Nov 18 - Dec 15) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -563,7 +567,7 @@ Total deals: 290
 |  🤑  | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024) | Learn Go hands-on by building real projects. | 50% OFF with code **BLACKFRIDAY** |
 | 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
 |  ⭐ | [Lifetime membership for The Python Coding Place](https://thepythoncodingplace.com) | Get access to all the video courses covering beginner, intermediate, and advanced Python topics. All courses are delivered in a casual, friendly way, and focus on learning "why" things are the way they are in Python, and not just "how" to do things. | [40% OFF Lifetime Membership **BLACK2024**](https://thepythoncodingplace.thinkific.com/cart/add_product/2731141?price_id=3865919&coupon=black2024) |
-|  🤖 | [The Complete AI Fast Track Bootcamp - 2024](https://code4startup.com/ai_bootcamp) | Learn LLMs, Gemini Pro, ChatGPT, Hugging Face, LangChain, Vector database, Text-to-Speech, GPT-4 Vision and build AI apps in 1 week. | 50% OFF with Lifetime Access + Full Source Code |
+|  ✅ | [MEGA Bundle of AI Premium Series - 2024](https://code4startup.com/black_friday) | Learn all about Generative AI and build real AI startup apps in 2 week. | 80% OFF with Lifetime Access + Full Source Code |
 |  ⭐ | [JavaScript Flashcards](https://darakondoff.gumroad.com/l/syzcwy) | Prepare for your next JS interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [React Flashcards](https://darakondoff.gumroad.com/l/cnyvsw) | Prepare for your next React interview with the most frequently asked questions. | 20% OFF with code **BLACKFRIDAY2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get personalized mentorship, early access to exclusive AI project & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
