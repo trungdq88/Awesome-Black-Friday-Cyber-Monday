@@ -438,6 +438,7 @@ Total deals: 356
 | 📈 | [Personal & Family Net Worth Tracker](https://gracehuang.gumroad.com/l/networth/BLACKFRIDAY24) | A standalone spreadsheet to track your net worth and prepare for financial freedom. | 40% OFF with code **BLACKFRIDAY24** |
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
 | 💸 | [Ultimate Budgeting Spreadsheet + Assets Tracker](https://prosheetivity.gumroad.com/l/budgeting-money-management-financial-tracking/BF39) | Plan budgets, track expenses, and manage lifetime assets with this all-in-one spreadsheet, complete with automated stock price updates! | 39% OFF with code **BF39** – Lifetime access for just **$4.27** |
+| 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% OFF SubManager+ Lifetime IAP ($0.99) |
 
 
 [⬆️ Go to Top](#table-of-contents)
