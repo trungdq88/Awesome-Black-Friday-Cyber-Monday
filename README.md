@@ -388,6 +388,7 @@ Total deals: 330
 |  📈 | [UXWizz](https://www.uxwizz.com) | Replace Google Analytics and Hotjar with a single, self-hosted analytics dashboard — now with Ask AI Text-to-Chart! | **60% OFF** — One time payment |
 |  🌊 | [GrowSurf](https://growsurf.com?ref=blackfriday2024) | Build your referral program without the dev time. Automate customer acquisition at the lowest possible cost. | 50% OFF FOR 12 MONTHS using **[this link](https://app.growsurf.com/signup?promo=b5SVT6sF)** ($1,074 value) |
 |  🎁 | [VaocherApp](https://www.vaocherapp.com?ref=github-awesome-blackfriday) | Sell & manage gift cards online with ease. Easy to set up, customisable gift card designs (upload your logos, change fonts & colours...) | **50% OFF** for 6 months |
+| 🚀 | [DeployHQ](https://www.deployhq.com) | Powerful code deployment tool that allows you to deploy your code from your repository straight to your server, with code build capabilities and additional quality of life tools. | **50% OFF** with code **BLACKFRIDAY50** - new accounts |
 
 
 [⬆️ Go to Top](#table-of-contents)
