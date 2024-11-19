@@ -47,7 +47,7 @@ Total deals: 330
 - [🚀 Startup SaaS/Tools (12)](#-startup-saastools)
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
-- [🎛 Utility Tools (8)](#-utility-tools)
+- [🎛 Utility Tools (9)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (27)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (2)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -452,6 +452,7 @@ Total deals: 330
 |  🪄 | [Protego for Reddit](https://getprotego.app) | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 |  😶‍🌫️ | [BlurData](https://blurdata.app) | Remove sensitive informations from your Screenshots - instantly, locally, totally offline. | 30% OFF with code **BLACKFRIDAY24** |
 |  ✨ | [Simplify Access Management for Odoo](https://apps.odoo.com/apps/modules/17.0/simplify_access_management) | All In One Access Management app for setting the correct access rights (Hide/Unhide/Read-only) on fields, models, menus, records, filters, groups, buttons/tabs, views, actions, reports, chatter for any module, any user, any company in Odoo. | 30% OFF for the lifetime license |
+|  📂 | [FileMinutes](https://www.fileminutes.com) | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
