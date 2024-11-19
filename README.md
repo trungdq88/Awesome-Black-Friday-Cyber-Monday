@@ -83,6 +83,7 @@ Total deals: 290
 |  🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
 |  🖥️ | [OK JSON](https://okjson.app/) | Scriptable JSON formatter with viewing history. | 50% OFF with code **BF2024** |
 |  🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
+| 🚀 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY** from Nov 26 - Nov 30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -594,6 +595,7 @@ Total deals: 290
 |  ⭐ | [Remote Jobs Braintrust](https://sergiorocks.gumroad.com/l/remote-jobs-braintrust) | 14-session course and 200+ member Slack community to help you land your dream remote job. | 60% OFF during November/2024 |
 |  🎥 | [Screencasting.com](https://screencasting.com/) | Effortlessly create high-quality screencasts faster than ever. In this course, you'll learn all the need-to-know screencasting topics, tips, and tricks.| $100 off the Basic or Complete Package with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
 |  🎓 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1) | A practical guide and Notion template to transform routine check-ins into meaningful conversations, build stronger teams and help people unleash their potential.| 60% OFF with **BLACKFRIDAY** (valid 11/16/24 through 12/3/24) |
+| ✨ | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** from Nov 15 - Nov 30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
