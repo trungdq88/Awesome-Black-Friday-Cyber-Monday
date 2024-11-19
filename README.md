@@ -162,6 +162,8 @@ Total deals: 330
 | ⭐ | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **BF20** to receive the discount |
 | 🤑 | [MindPal](https://mindpal.space/) | All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes. | 60% OFF all YEARLY plans with code **`BLACKFRIDAY24`** |
 | 🎁 | [PodScribe.IO](https://podscribe.io/#pricing) | PodScribe.IO is your second brain for audio content, transforming podcasts and more into structured, searchable knowledge.  | Extra 30% OFF all YEARLY plans for the first year - Use the coupon code: **BF24**  |
+| 😎 | [SumyAI](https://sumyai.com/) | Get 10x insights from YouTube videos or create shareable social media threads or posts to grow your social media. | 50% OFF all YEARLY plans with the coupon code **`BF24`** |
+| 📚 | [Honkist](https://honkist.com/) | Learn new things from books faster. | 50% OFF all YEARLY plans with the coupon code **`BF24`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
