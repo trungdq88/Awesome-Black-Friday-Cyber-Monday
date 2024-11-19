@@ -177,6 +177,7 @@ Total deals: 330
 |  🧠 | [ChatUML](https://chatuml.com/?utm_source=tony) | An AI assistant that transforms your ideas into PlantUML diagrams effortlessly. | 40% OFF with code **BF24** |
 |  🛠️ | [ChatGPT Toolbox](https://www.ai-toolbox.co) | Supercharge your ChatGPT experience with features like folders, pinned chats, bulk actions, and more | **80% OFF!** |
 | 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
+| ⚡ | [Webnovels AI](https://webnovelsai.com/pricing/) | Translate entire web novels, light novels, and ebooks using your own ChatGPT API key. Automatically generate glossaries for improved translations and export to EPUB, TXT, and PDF formats. | 35% OFF on monthly subscription |
 
 [⬆️ Go to Top](#table-of-contents)
 
