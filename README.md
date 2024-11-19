@@ -169,6 +169,7 @@ Total deals: 330
 | 🤑 | [MindPal](https://mindpal.space/) | All-in-one platform to build, run, & share AI agents and multi-agent workflows to automate business processes. | 60% OFF all YEARLY plans with code **`BLACKFRIDAY24`** |
 | 🎁 | [PodScribe.IO](https://podscribe.io/#pricing) | PodScribe.IO is your second brain for audio content, transforming podcasts and more into structured, searchable knowledge.  | Extra 30% OFF all YEARLY plans for the first year - Use the coupon code: **BF24**  |
 | ✍️ | [Penman](https://apps.apple.com/pt/app/ai-note-taker-live-transcribe/id1434184098) | Penman is a GPT-4o AI-powered note-taking tool that not only transcribes your voice into text but also offers over 30 AI actions, including summarization and proofreading, to elevate your note-taking experience.  | 60% OFF on Yearly and Lifetime plans |
+| 🧠 | [Elephas](https://elephas.app/pricing) | Elephas is your very own AI Powered Knowledge Assistant. Personal ChatGPT for all your local documents, notes and research on your Mac | 20% OFF all LTD plan - Use the coupon code: **BFCM24**  |
 
 [⬆️ Go to Top](#table-of-contents)
 
