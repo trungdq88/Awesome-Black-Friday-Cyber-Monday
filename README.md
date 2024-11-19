@@ -123,6 +123,7 @@ Total deals: 356
 | 🥑 | [Avo for Ruby on Rails](http://avohq.io/deals) | Build Internal Tools, Content Management Systems and CRMs in weeks, not months. | Perpetual **15% OFF** discount | 
 | 🚀 | [ConnectyCube](https://connectycube.com/pricing/) | ConnectyCube is a backend platform offering APIs, SDKs, and tools to integrate chat, voice, and video features into mobile and web apps | **25% off** for 3 months with the code **CC2025** |
 | 🚀 | [OpenWeb Ninja](https://www.openwebninja.com) | Fast and Reliable Web Data & SERP API Stack – Ideal for Marketers, AI / Data Scientists, and Developers Looking to Get Public Data from the Web. | **20% OFF** any plan - **Contact us** on our website | 
+| 🚀 | [Scrappey](https://scrappey.com) | Scrappey.com simplifies web scraping with a robust API that handles anti-bot measures and CAPTCHAs, along with features like rotating proxies and headless browsing for seamless extraction. It offers transparent pricing plans suitable for individuals, startups, and enterprises, with features like concurrent requests, premium proxies, and JavaScript rendering, and hassle-free cancellation options. | **20% OFF**, with code **BLACKFRIDAY** | 
 
 [⬆️ Go to Top](#table-of-contents)
 
