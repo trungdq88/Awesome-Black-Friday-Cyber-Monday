@@ -47,7 +47,7 @@ Total deals: 330
 - [🚀 Startup SaaS/Tools (12)](#-startup-saastools)
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
-- [🎛 Utility Tools (8)](#-utility-tools)
+- [🎛 Utility Tools (9)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (27)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (2)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -437,6 +437,7 @@ Total deals: 330
 |  🎉 | [Emoji Autocomplete](https://chromewebstore.google.com/detail/emoji-autocomplete/lkicimekniagfoifhgkieaomcdhofpfn) | Easily insert emojis by typing ':' followed by a word, just like in Slack, Discord, GitHub and other apps. | 50% OFF with code **BLACKFRIDAY2024** |
 |  🪄 | [Protego for Reddit](https://getprotego.app) | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 |  😶‍🌫️ | [BlurData](https://blurdata.app) | Remove sensitive informations from your Screenshots - instantly, locally, totally offline. | 30% OFF with code **BLACKFRIDAY24** |
+|  📂 | [FileMinutes](https://www.fileminutes.com) | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
