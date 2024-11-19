@@ -650,6 +650,7 @@ Total deals: 356
 |  ⭐ | [Relief Maps](https://reliefmaps.io) | 3D gps app for outdoor sports, hiking, backcountry skiing etc. | 40% OFF with the link : [BLACK FRIDAY](http://reliefmaps.io/discounts/p/blackfriday)|
 |  🎾 | [PadelMix App](https://padelmix.app/) | Mobile app for organizing and managing Padel tournaments. | 50% off annual plan |
 |  🤑 | [CounterUps](https://pushups.cc) | An app that helps you record push-ups more easily. | 50% OFF with code [BF24](https://apps.apple.com/redeem?ctx=offercodes&id=1488091840&code=BF24) |
+| 💪  | [Examine+](https://examine.com) | Evidence-based nutrition and supplement information. | Over 27% off Nov 26 - Dec 2. Early bird: up to 40% off from Mon Nov 25 at 12pm ET. |
 
 [⬆️ Go to Top](#table-of-contents)
 
