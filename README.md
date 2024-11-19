@@ -646,6 +646,7 @@ Total deals: 290
 | 🤙 | [Mango - Twilio Calls & Texts](https://itsok.xyz/blackfridaytony) | Draw the "line"(pun intended) between work and personal with Mango - your Twilio-powered calling & texting solution. | 50% OFF for 6 months with in app purchase |
 | 🎞️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS. | 50% OFF YEARLY Plan |
 | 🔗 | [Linkero](https://linke.ro) | The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes. | Lifetime for the price of the yearly plan |
+|  🛒 | [Who Sells What](https://whosellswhat.com) | Use our Shopify store database to discover and connect with 1.62 Million+ Shopify sellers. | 45% OFF with the code **BLACKFRIDAY2024**.
 
 
 [⬆️ Go to Top](#table-of-contents)
