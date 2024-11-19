@@ -120,6 +120,8 @@ Total deals: 330
 | 🛠️ | [BCMS](https://thebcms.com) | BCMS is a headless CMS Built for developers, loved by their clients | Lifetime **80% OFF**, with code **BF2024** |
 | 🔥 | [fullPage.js](https://alvarotrigo.com/fullPage/black-friday/) | Create Beautiful Scroll Snap Websites in minutes, not hours. Available for JavaScript (JS, React, Vue) and WordPress (Divi, Elementor, Gutenberg). | Up to **40% OFF**, with code **BLACKF** | 
 | ⚡️ | [Wallaby.js](https://wallabyjs.com/) and [Quokka.js](https://quokkajs.com) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Nov-20 to Dec-02 Quokka: **50% OFF**, Wallaby: **30% OFF** | 
+| 🥑 | [Avo for Ruby on Rails](http://avohq.io/deals) | Build Internal Tools, Content Management Systems and CRMs in weeks, not months. | Perpetual **15% OFF** discount | 
+
 
 [⬆️ Go to Top](#table-of-contents)
 
