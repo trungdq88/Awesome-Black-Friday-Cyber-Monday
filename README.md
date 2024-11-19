@@ -85,6 +85,7 @@ Total deals: 330
 |  🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
 | 🚀 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY** from Nov 26 - Nov 30 |
 | 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2024** 25% off |
+| ⚡️ | [CSV Table](https://csvtable.com/) | View & edit CSV, JSON files for Pros | on-site 50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -118,7 +119,9 @@ Total deals: 330
 | 💱 | [ExchangeRate-API](https://www.exchangerate-api.com) | Currency API trusted by devs since 2010. | Recurring **30% OFF** with code **2024BLACKFRIDAY** on all annual plans |
 | 🛠️ | [BCMS](https://thebcms.com) | BCMS is a headless CMS Built for developers, loved by their clients | Lifetime **80% OFF**, with code **BF2024** |
 | 🔥 | [fullPage.js](https://alvarotrigo.com/fullPage/black-friday/) | Create Beautiful Scroll Snap Websites in minutes, not hours. Available for JavaScript (JS, React, Vue) and WordPress (Divi, Elementor, Gutenberg). | Up to **40% OFF**, with code **BLACKF** | 
+| ⚡️ | [Wallaby.js](https://wallabyjs.com/) and [Quokka.js](https://quokkajs.com) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Nov-20 to Dec-02 Quokka: **50% OFF**, Wallaby: **30% OFF** | 
 | 🥑 | [Avo for Ruby on Rails](http://avohq.io/deals) | Build Internal Tools, Content Management Systems and CRMs in weeks, not months. | Perpetual **15% OFF** discount | 
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -136,6 +139,7 @@ Total deals: 330
 |  ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
 | ⭐ | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF - Use the coupon code: **BF20** to receive the discount |
 | ✳️ | [Quartzite](https://www.quartzite.ai/) | Powerful prompt builder for GPT, Claude, Gemini, and more | 50% OFF annual subscription with code **BF50** |
+| 🧠 | [StylerGPT](https://stylergpt.com/) | ChatGPT Theme Editor with Power-Ups. A browser extension to customize and enhance your ChatGPT interface. | 20% OFF Lifetime Premium Plan **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -210,6 +214,7 @@ Total deals: 330
 | 🔵 | [Bootstrap Builder](https://bootstrapmade.com/bootstrap-template-builder/) | Online Bootstrap Template Builder | **30% OFF** (automatic) |
 | 🤑 | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
 | 🔴 | [MGC ICON](https://mgcall.framer.website/?utm_source=tony) | A carefully crafted icon pack collection featuring over 13,600 high-quality vector icons in 9 different styles, 120+ animated icons, and weather-themed textured icons. | 40% OFF with code **BF2024** |
+| 📺 | [Screen Canvas](https://www.screencanvas.app/) | Create Custom Designs on Your Apple TV. The fastest way to instantly create digital signs and message boards on your TV, all from your remote.  | **50% OFF** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -245,6 +250,8 @@ Total deals: 330
 | 📋 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Think spreadsheets are boring? Think again! This 16-sheet project management template is packed with tools to streamline your workflow: track tasks, visualize progress with Gantt charts, manage schedules with an automated calendar, and monitor everything on a clear dashboard. | 39% OFF with code **BF39** – Lifetime access for just **$4.88** |
 | ☑️ | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define task dependencies | 70% off the Full Version |
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 60% OFF |
+| 📊 | [SmartGantt](https://smartgantt.net) | Instant Gantt Chart Creator. | 40% off with code **BF2024** on 3 months subscriptions. |
+| 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -301,6 +308,7 @@ Total deals: 330
 |  📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 |  ✅ | [Journal it! - Life Organizer](https://apps.apple.com/US/app/id1501944799) | An all-in-one KPM and personal productivity app. Mobile first, offline first, end-to-end encryption (Android, iOS, web)    | 50% OFF Lifetime PRO |
 | 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
+| 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS. | 55% OFF Lifetime PRO |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -389,6 +397,8 @@ Total deals: 330
 |  📈 | [UXWizz](https://www.uxwizz.com) | Replace Google Analytics and Hotjar with a single, self-hosted analytics dashboard — now with Ask AI Text-to-Chart! | **60% OFF** — One time payment |
 |  🌊 | [GrowSurf](https://growsurf.com?ref=blackfriday2024) | Build your referral program without the dev time. Automate customer acquisition at the lowest possible cost. | 50% OFF FOR 12 MONTHS using **[this link](https://app.growsurf.com/signup?promo=b5SVT6sF)** ($1,074 value) |
 |  🎁 | [VaocherApp](https://www.vaocherapp.com?ref=github-awesome-blackfriday) | Sell & manage gift cards online with ease. Easy to set up, customisable gift card designs (upload your logos, change fonts & colours...) | **50% OFF** for 6 months |
+|  ✨ | [UnDatasIO](https://undatas.io) | Designing Intelligent Systems with Unstructured Data Flow Pipelines. | **50% OFF** on first payemnt with code **BKGNIO1Y** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -438,6 +448,7 @@ Total deals: 330
 |  🎉 | [Emoji Autocomplete](https://chromewebstore.google.com/detail/emoji-autocomplete/lkicimekniagfoifhgkieaomcdhofpfn) | Easily insert emojis by typing ':' followed by a word, just like in Slack, Discord, GitHub and other apps. | 50% OFF with code **BLACKFRIDAY2024** |
 |  🪄 | [Protego for Reddit](https://getprotego.app) | Like a spell shield for your mental health, Protego is a browswer extension for Safari on Mac which lets you filter out unwanted posts and keep your Reddit browsing focused on what matters to you. | 25% off one time purchase |
 |  😶‍🌫️ | [BlurData](https://blurdata.app) | Remove sensitive informations from your Screenshots - instantly, locally, totally offline. | 30% OFF with code **BLACKFRIDAY24** |
+|  ✨ | [Simplify Access Management for Odoo](https://apps.odoo.com/apps/modules/17.0/simplify_access_management) | All In One Access Management app for setting the correct access rights (Hide/Unhide/Read-only) on fields, models, menus, records, filters, groups, buttons/tabs, views, actions, reports, chatter for any module, any user, any company in Odoo. | 30% OFF for the lifetime license |
 
 
 [⬆️ Go to Top](#table-of-contents)
