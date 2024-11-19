@@ -177,7 +177,6 @@ Total deals: 330
 |  🧠 | [ChatUML](https://chatuml.com/?utm_source=tony) | An AI assistant that transforms your ideas into PlantUML diagrams effortlessly. | 40% OFF with code **BF24** |
 |  🛠️ | [ChatGPT Toolbox](https://www.ai-toolbox.co) | Supercharge your ChatGPT experience with features like folders, pinned chats, bulk actions, and more | **80% OFF!** |
 | 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
-| ⚡ | [Webnovels AI](https://webnovelsai.com/pricing/) | Translate entire web novels, light novels, and ebooks using your own ChatGPT API key. Automatically generate glossaries for improved translations and export to EPUB, TXT, and PDF formats. | 35% OFF on monthly subscription |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -208,7 +207,6 @@ Total deals: 330
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 | 🔵 | [Bootstrap Builder](https://bootstrapmade.com/bootstrap-template-builder/) | Online Bootstrap Template Builder | **30% OFF** (automatic) |
 | 🤑 | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
-| 🔴 | [MGC ICON](https://mgcall.framer.website/?utm_source=tony) | A carefully crafted icon pack collection featuring over 13,600 high-quality vector icons in 9 different styles, 120+ animated icons, and weather-themed textured icons. | 40% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -243,8 +241,6 @@ Total deals: 330
 | ✅ | [ToDoBar](https://apps.apple.com/in/app/todobar-tasks-on-your-menu-bar/id6470928617?mt=12) | Tasks on your menu bar | 50% off on the App Store, no code needed.
 | 📋 | [Project Management Spreadsheet](https://prosheetivity.gumroad.com/l/project-management-template/BF39) | Think spreadsheets are boring? Think again! This 16-sheet project management template is packed with tools to streamline your workflow: track tasks, visualize progress with Gantt charts, manage schedules with an automated calendar, and monitor everything on a clear dashboard. | 39% OFF with code **BF39** – Lifetime access for just **$4.88** |
 | ☑️ | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define task dependencies | 70% off the Full Version |
-| 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 60% OFF |
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -300,6 +296,7 @@ Total deals: 330
 |  📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 |  ✅ | [Journal it! - Life Organizer](https://apps.apple.com/US/app/id1501944799) | An all-in-one KPM and personal productivity app. Mobile first, offline first, end-to-end encryption (Android, iOS, web)    | 50% OFF Lifetime PRO |
 | 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
+| ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -659,9 +656,8 @@ Total deals: 330
 | 🤙 | [Mango - Twilio Calls & Texts](https://itsok.xyz/blackfridaytony) | Draw the "line"(pun intended) between work and personal with Mango - your Twilio-powered calling & texting solution. | 50% OFF for 6 months with in app purchase |
 | 🎞️ | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS. | 50% OFF YEARLY Plan |
 | 🔗 | [Linkero](https://linke.ro) | The simplicity of a link in bio, the power of a page builder. Create your page and grow your online presence. Ready in minutes. | Lifetime for the price of the yearly plan |
-|  🛒 | [Who Sells What](https://whosellswhat.com) | Use our Shopify store database to discover and connect with 1.62 Million+ Shopify sellers. | 45% OFF with the code **BLACKFRIDAY2024**. |
-|  🛒 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024**. |
-| 🍻 | [BestTime.app](https://besttime.app) | Data API for visitor patterns in bars, shops, museums, etc. E.g. Find busy bars, quiet museums | 50% OFF with code *BLAC-KFRI-DAY1* |
+|  🛒 | [Who Sells What](https://whosellswhat.com) | Use our Shopify store database to discover and connect with 1.62 Million+ Shopify sellers. | 45% OFF with the code **BLACKFRIDAY2024**.
+|  🛒 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024**.
 
 
 [⬆️ Go to Top](#table-of-contents)
