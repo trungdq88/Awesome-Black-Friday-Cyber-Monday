@@ -631,6 +631,7 @@ Total deals: 330
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🍻 | [BestTime.app](https://besttime.app) | Data API for visitor patterns in bars, shops, museums, etc. E.g. Find busy bars, quiet museums | 50% OFF with code *BLAC-KFRI-DAY1* |
 |  💼 | [JoblistingsPRO.com](https://joblistingspro.com) | Clean job & application tracker. Resume and job listing analysis | 69% OFF for 6 months with code **BLACKFRIDAY** |
 |  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 |  📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |
