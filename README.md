@@ -404,6 +404,7 @@ Total deals: 356
 |  🎁 | [VaocherApp](https://www.vaocherapp.com?ref=github-awesome-blackfriday) | Sell & manage gift cards online with ease. Easy to set up, customisable gift card designs (upload your logos, change fonts & colours...) | **50% OFF** for 6 months |
 |  ✨ | [UnDatasIO](https://undatas.io) | Designing Intelligent Systems with Unstructured Data Flow Pipelines. | **50% OFF** on first payemnt with code **BKGNIO1Y** |
 | 🚀 | [DeployHQ](https://www.deployhq.com) | Powerful code deployment tool that allows you to deploy your code from your repository straight to your server, with code build capabilities and additional quality of life tools. | **50% OFF** with code **BLACKFRIDAY50** - new accounts |
+| 👑 | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | **75% OFF** all paid plans with code **PH75OFF**|
 
 
 [⬆️ Go to Top](#table-of-contents)
