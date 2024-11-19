@@ -344,6 +344,7 @@ Total deals: 330
 |  ⭐️ | [Krumzi](https://krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 |  👨‍💻 | [OpenAlternative](https://openalternative.co) | A collection of the best Open Source Alternatives to everyday SaaS products. | 30% OFF of all advertising options with code **BLACKFRIDAY24** |
 |  🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch, Get Exposure and First Sales. | 20% OFF Pro Launches with the code **BLACKFRIDAY2024**. *Limited to 20 first products.* 👨‍🚀
+|  🚀 | [BlackFridayDeals.dev](https://blackfridaydeals.dev) | Best Black Friday Deals for Developers and Designers.  | 20% OFF on sponsored / featured spots  using code **BLACKFRIDAY**. *Limited Spots.* 👨‍🚀
 
 
 [⬆️ Go to Top](#table-of-contents)
