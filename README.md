@@ -86,6 +86,7 @@ Total deals: 356
 | 🚀 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY** from Nov 26 - Nov 30 |
 | 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2024** 25% off |
 | ⚡️ | [CSV Table](https://csvtable.com/) | View & edit CSV, JSON files for Pros | on-site 50% off |
+| 📊 | [Trendly](https://apple.co/4hQcaI1) | Track your App Store sales, subscribers, downloads, and more. | 50% OFF all paid plans for the first 6 months from Nov 29 - Dec 4! |
 
 [⬆️ Go to Top](#table-of-contents)
 
