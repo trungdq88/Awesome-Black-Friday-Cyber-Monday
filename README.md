@@ -607,6 +607,7 @@ Total deals: 356
 |  🦜 | [LangGraph - Build Multi-Agent Systems](https://www.udemy.com/course/langgraph/?couponCode=BLACK-FRIDAY-2024) | Learn to build complex multi-agent systems and orchestrate AI agents using LangGraph. Create autonomous AI applications through practical examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  💻 | [Cursor AI - Master the AI-Powered IDE](https://www.udemy.com/course/cursor-ai-ide/?couponCode=BLACK-FRIDAY-2024) | Learn to supercharge your coding productivity with Cursor AI IDE. Master AI pair programming and code generation features through real-world examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  🧪 | [LabEx](https://labex.io/pricing) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | 50% OFF (2 Years) with code **BF50OFF**, 30% OFF (1 Years) with code **BF30OFF** |
+|  🕷️ | [The Ultimate Web Scraping Course!](https://adrianhorning.gumroad.com/l/the-ultimate-web-scraping-course)  | The best web scraping course out there. (Node.js) By Adrian The Web Scraping Guy | 50% OFF!!! with code **NR3P9NI** |
 
 [⬆️ Go to Top](#table-of-contents)
 
