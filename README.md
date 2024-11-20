@@ -657,7 +657,7 @@ Total deals: 356
 |  🤑 | [CounterUps](https://pushups.cc) | An app that helps you record push-ups more easily. | 50% OFF with code [BF24](https://apps.apple.com/redeem?ctx=offercodes&id=1488091840&code=BF24) |
 |  💤 | [Dark Sleep](https://www.darksleep.app) | Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. | 50% Off |
 |  💡 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
-
+| 💪  | [Examine+](https://examine.com) | Evidence-based nutrition and supplement information. | Over 27% off Nov 26 - Dec 2. Early bird: up to 40% off from Mon Nov 25 at 12pm ET. |
 
 [⬆️ Go to Top](#table-of-contents)
 
