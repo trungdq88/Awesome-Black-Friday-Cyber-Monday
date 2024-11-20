@@ -529,6 +529,7 @@ Total deals: 356
 | 🏎️ | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
 | 🚆 | [Build A SaaS App In Rails 8 (complete package)](https://robrace.gumroad.com/l/basair8cp/bfcm24) | Learn to build a production-ready SaaS app in Rails 8 | Use link or code bfcm24 for 60% off |
 | 🚆 | [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | Use link or code bfcm24 for 60% off |
+| 📚 | [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00**. No code needed |
 
 [⬆️ Go to Top](#table-of-contents)
 
