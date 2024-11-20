@@ -231,6 +231,9 @@ Total deals: 356
 | 📺 | [Screen Canvas](https://www.screencanvas.app/) | Create Custom Designs on Your Apple TV. The fastest way to instantly create digital signs and message boards on your TV, all from your remote.  | **50% OFF** |
 | 🌅 | [Image Prompt](https://imageprompt.org) | Elevate your AI image generation with expert image prompt tools and resources. | 40% OFF with code **BF2024** |
 | 🆂 | [Sitely](https://sitely.app) | Visual + AI Website Builder formerly known as Sparkle. Build the website you always wanted, visually, on your Mac | 50% OFF automatically applied |
+| 🖌️ | [Affinity Designer](https://affinity.serif.com/en-gb/designer/) | Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design. | 50% OFF (automatic) |
+| 🖌️ | [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/) | Affinity Publisher is the next generation of professional page layout software. | 50% OFF (automatic) |
+| 🖌️ | [Affinity Photo](https://affinity.serif.com/en-gb/photo/) | Affinity Photo is the first choice of millions of creative and photography professionals around the world | 50% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
