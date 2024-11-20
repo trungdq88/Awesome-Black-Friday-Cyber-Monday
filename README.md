@@ -173,6 +173,7 @@ Total deals: 356
 | 🧠 | [Elephas](https://elephas.app/pricing) | Elephas is your very own AI Powered Knowledge Assistant. Personal ChatGPT for all your local documents, notes and research on your Mac | 20% OFF all LTD plan - Use the coupon code: **BFCM24**  |
 | 😎 | [SumyAI](https://sumyai.com/) | Get 10x insights from YouTube videos or create shareable social media threads or posts to grow your social media. | 50% OFF all YEARLY plans with the coupon code **`BF24`** |
 | 📚 | [Honkist](https://honkist.com/) | Learn new things from books faster. | 50% OFF all YEARLY plans with the coupon code **`BF24`** |
+| 🎬 | [Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) | Generate Video Shorts locally. Comes with Full source code | 30% OFF all one time purchase with the coupon code **`YQFEQ2R`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
