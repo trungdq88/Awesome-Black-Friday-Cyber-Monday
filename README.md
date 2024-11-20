@@ -220,6 +220,7 @@ Total deals: 356
 | 🤑 | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
 | 🔴 | [MGC ICON](https://mgcall.framer.website/?utm_source=tony) | A carefully crafted icon pack collection featuring over 13,600 high-quality vector icons in 9 different styles, 120+ animated icons, and weather-themed textured icons. | 40% OFF with code **BF2024** |
 | 📺 | [Screen Canvas](https://www.screencanvas.app/) | Create Custom Designs on Your Apple TV. The fastest way to instantly create digital signs and message boards on your TV, all from your remote.  | **50% OFF** |
+| 🌅 | [Image Prompt](https://imageprompt.org) | Elevate your AI image generation with expert image prompt tools and resources. | 40% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
