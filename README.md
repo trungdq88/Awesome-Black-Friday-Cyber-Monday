@@ -181,6 +181,7 @@ Total deals: 356
 | 📚 | [Honkist](https://honkist.com/) | Learn new things from books faster. | 50% OFF all YEARLY plans with the coupon code **`BF24`** |
 | 💌 | [AiChat Email](https://aichat.email/) | Chat with an AI via Email. Summarize long threads and more. | 35% OFF all Monthly / Annual plans with the coupon code **`BLACKFRIDAY24`** |
 | 🎬 | [Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) | Generate Video Shorts locally. Comes with Full source code | 30% OFF all one time purchase with the coupon code **`YQFEQ2R`** |
+| 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
