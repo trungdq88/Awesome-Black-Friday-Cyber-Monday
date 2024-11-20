@@ -320,6 +320,7 @@ Total deals: 356
 | 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS. | 55% OFF Lifetime PRO |
 | ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
+| 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
 
 
 [⬆️ Go to Top](#table-of-contents)
