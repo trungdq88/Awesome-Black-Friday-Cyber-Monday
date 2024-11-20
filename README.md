@@ -123,6 +123,7 @@ Total deals: 356
 | 🥑 | [Avo for Ruby on Rails](http://avohq.io/deals) | Build Internal Tools, Content Management Systems and CRMs in weeks, not months. | Perpetual **15% OFF** discount | 
 | 🚀 | [ConnectyCube](https://connectycube.com/pricing/) | ConnectyCube is a backend platform offering APIs, SDKs, and tools to integrate chat, voice, and video features into mobile and web apps | **25% off** for 3 months with the code **CC2025** |
 | 🚀 | [OpenWeb Ninja](https://www.openwebninja.com) | Fast and Reliable Web Data & SERP API Stack – Ideal for Marketers, AI / Data Scientists, and Developers Looking to Get Public Data from the Web. | **20% OFF** any plan - **Contact us** on our website | 
+| 🚀 | [Scrappey](https://scrappey.com) | Scrappey.com simplifies web scraping with a robust API that handles anti-bot measures and CAPTCHAs, along with features like rotating proxies and headless browsing for seamless extraction. It offers transparent pricing plans suitable for individuals, startups, and enterprises, with features like concurrent requests, premium proxies, and JavaScript rendering, and hassle-free cancellation options. | **20% OFF**, with code **BLACKFRIDAY** | 
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -220,6 +221,7 @@ Total deals: 356
 | 🤑 | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
 | 🔴 | [MGC ICON](https://mgcall.framer.website/?utm_source=tony) | A carefully crafted icon pack collection featuring over 13,600 high-quality vector icons in 9 different styles, 120+ animated icons, and weather-themed textured icons. | 40% OFF with code **BF2024** |
 | 📺 | [Screen Canvas](https://www.screencanvas.app/) | Create Custom Designs on Your Apple TV. The fastest way to instantly create digital signs and message boards on your TV, all from your remote.  | **50% OFF** |
+| 🌅 | [Image Prompt](https://imageprompt.org) | Elevate your AI image generation with expert image prompt tools and resources. | 40% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -314,6 +316,7 @@ Total deals: 356
 |  ✅ | [Journal it! - Life Organizer](https://apps.apple.com/US/app/id1501944799) | An all-in-one KPM and personal productivity app. Mobile first, offline first, end-to-end encryption (Android, iOS, web)    | 50% OFF Lifetime PRO |
 | 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS. | 55% OFF Lifetime PRO |
+| ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -357,7 +360,8 @@ Total deals: 356
 |  💰 | [PushAlert - Web Push Notifications](https://pushalert.co?utm_campaign=awesomebf) | PushAlert is a powerful user engagement and marketing automation platform that lets you send real-time web push notifications to users on both mobile and desktop without any app. Includes advance features like personalized messaging, behavior-based targeting, automated drip campaigns, and cart abandonment recovery. | [30% Off on All Annual Plans](https://pushalert.co/black-friday?utm_campaign=awesomebf) |
 |  ⭐️ | [Krumzi](https://krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 |  👨‍💻 | [OpenAlternative](https://openalternative.co) | A collection of the best Open Source Alternatives to everyday SaaS products. | 30% OFF of all advertising options with code **BLACKFRIDAY24** |
-|  🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch, Get Exposure and First Sales. | 20% OFF Pro Launches with the code **BLACKFRIDAY2024**. *Limited to 20 first products.* 👨‍🚀
+|  🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch, Get Exposure and First Sales. | 20% OFF Pro Launches with the code **BLACKFRIDAY2024**. *Limited to 20 first products.* 👨‍🚀|
+| 🚀 | [Redditpulse](https://redditpulse.solobuilderhub.com/) | Elevate Your Reddit Game with AI-Powered Comments. | Get flat $30 off on Redditor Pro quaterly deal with the code **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -604,6 +608,7 @@ Total deals: 356
 |  🦜 | [LangGraph - Build Multi-Agent Systems](https://www.udemy.com/course/langgraph/?couponCode=BLACK-FRIDAY-2024) | Learn to build complex multi-agent systems and orchestrate AI agents using LangGraph. Create autonomous AI applications through practical examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  💻 | [Cursor AI - Master the AI-Powered IDE](https://www.udemy.com/course/cursor-ai-ide/?couponCode=BLACK-FRIDAY-2024) | Learn to supercharge your coding productivity with Cursor AI IDE. Master AI pair programming and code generation features through real-world examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  🧪 | [LabEx](https://labex.io/pricing) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | 50% OFF (2 Years) with code **BF50OFF**, 30% OFF (1 Years) with code **BF30OFF** |
+|  🕷️ | [The Ultimate Web Scraping Course!](https://adrianhorning.gumroad.com/l/the-ultimate-web-scraping-course)  | The best web scraping course out there. (Node.js) By Adrian The Web Scraping Guy | 50% OFF!!! with code **NR3P9NI** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -650,6 +655,8 @@ Total deals: 356
 |  ⭐ | [Relief Maps](https://reliefmaps.io) | 3D gps app for outdoor sports, hiking, backcountry skiing etc. | 40% OFF with the link : [BLACK FRIDAY](http://reliefmaps.io/discounts/p/blackfriday)|
 |  🎾 | [PadelMix App](https://padelmix.app/) | Mobile app for organizing and managing Padel tournaments. | 50% off annual plan |
 |  🤑 | [CounterUps](https://pushups.cc) | An app that helps you record push-ups more easily. | 50% OFF with code [BF24](https://apps.apple.com/redeem?ctx=offercodes&id=1488091840&code=BF24) |
+|  💤 | [Dark Sleep](https://www.darksleep.app) | Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. | 50% Off |
+|  💡 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
 | 💪  | [Examine+](https://examine.com) | Evidence-based nutrition and supplement information. | Over 27% off Nov 26 - Dec 2. Early bird: up to 40% off from Mon Nov 25 at 12pm ET. |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -664,7 +671,7 @@ Total deals: 356
 |  📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |
 |  💰 | [Side Projects Making $$$](https://niftydigits.gumroad.com/l/side-projects) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF with code **SAVER2024** |
 | ⭐ | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOs menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY24** |
-| ⭐ | [Ultimate Technical Writing Course](https://technicalwriting.online) | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money. | 30% OFF with code **BLACKFRIDAY_2024** |
+| ⭐ | [Ultimate Technical Writing Course](https://technicalwriting.online) | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money. | 30% OFF with code **BF2024** |
 | ⭐ | [Paralino](https://paralino.com) | End-to-end encrypted family safety and location sharing app. Protect yourself and your family - no tracking, no profiling, no ads. | 60% OFF on Annual plan<br> 20% OFF on Monthly plan |
 | 🏠 | [Learn Remote + Async](https://learn-remote-async.onbrn.com/index.html) | Learn and implement remote and asynchronous processes to effectively increase happiness and productivity of your engineering team. | 50% OFF with code **FRIDAY24** |
 | 📔 | [3 years of Mini Stories](https://ministories.net/3-years-of-ministories-book/) | 36 short stories to read quickly, and think slowly. | 50% OFF with code **FRIDAY24** |
