@@ -228,6 +228,7 @@ Total deals: 356
 | 🖌️ | [Affinity Designer 2](https://affinity.serif.com/en-gb/designer/) | Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design. | 50% OFF (automatic) |
 | 🖌️ | [Affinity Publisher 2](https://affinity.serif.com/en-gb/publisher/) | Affinity Publisher is the next generation of professional page layout software. | 50% OFF (automatic) |
 | 🖌️ | [Affinity Photo 2](https://affinity.serif.com/en-gb/photo/) | Affinity Photo is the first choice of millions of creative and photography professionals around the world | 50% OFF (automatic) |
+
 [⬆️ Go to Top](#table-of-contents)
 
 
