@@ -292,6 +292,7 @@ Total deals: 356
 | 💧 | [Dropshare](https://dropshare.app) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | 20% OFF with code **blackfriday2024** |
 | 🖥️ | [XGetter](https://xgetter.com?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
 | 🖥️ | [OpenIn](https://apps.apple.com/us/app/shellhistory/id1564015476) | Advanced Link Opener | 75% off - USD 11.99 -> USD 2.99 until Dec 7th |
+| 🌅 | [Rapidemo](https://getrapidemo.com) | Screen recorder with automatic zoom effects. Made for Windows. | 1 free month with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
