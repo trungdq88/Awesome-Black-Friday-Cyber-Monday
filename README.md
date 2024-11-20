@@ -728,6 +728,7 @@ Total deals: 356
 | 🍿 | [kudos.wiki](https://kudos.wiki) | Discover all the best films on Wikipedia | 50% OFF with code **BF2024** |
 | 💎 | [WISE RPG Course + Kit](https://trentopedia.gumroad.com/l/WISE-RPG-Tutorial-1/BCV2FZ3)| Organize your worlds, conquer procrastination, and master stress-free gaming. WISE RPG is a game system-agnostic course + kit for worldbuilding that helps you create immersive worlds in Obsidian. | 40% off with code BCV2FZ3 now thru 12/03 (applied to link already)|
 | 🛠️ | albusbit.com | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code BF2024 |
+| 🌤️ | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app |
 
 
 [⬆️ Go to Top](#table-of-contents)
