@@ -63,7 +63,7 @@ Total deals: 356
 	- [🔒 Information Security Courses (2)](#-information-security-courses)
 	- [🎢 Career Courses (6)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
-- [💪 Health and Fitness (4)](#-health-and-fitness)
+- [💪 Health and Fitness (7)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (26)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
@@ -86,6 +86,8 @@ Total deals: 356
 | 🚀 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY** from Nov 26 - Nov 30 |
 | 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2024** 25% off |
 | ⚡️ | [CSV Table](https://csvtable.com/) | View & edit CSV, JSON files for Pros | on-site 50% off |
+| 📊 | [Trendly](https://apple.co/4hQcaI1) | Track your App Store sales, subscribers, downloads, and more. | 50% OFF all paid plans for the first 6 months from Nov 29 - Dec 4! |
+| 🖥️ | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday2&mt=8) | SSH Terminal for iOS & Mac | Lifetime 38% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -124,6 +126,9 @@ Total deals: 356
 | 🚀 | [ConnectyCube](https://connectycube.com/pricing/) | ConnectyCube is a backend platform offering APIs, SDKs, and tools to integrate chat, voice, and video features into mobile and web apps | **25% off** for 3 months with the code **CC2025** |
 | 🚀 | [OpenWeb Ninja](https://www.openwebninja.com) | Fast and Reliable Web Data & SERP API Stack – Ideal for Marketers, AI / Data Scientists, and Developers Looking to Get Public Data from the Web. | **20% OFF** any plan - **Contact us** on our website | 
 | 🚀 | [Scrappey](https://scrappey.com) | Scrappey.com simplifies web scraping with a robust API that handles anti-bot measures and CAPTCHAs, along with features like rotating proxies and headless browsing for seamless extraction. It offers transparent pricing plans suitable for individuals, startups, and enterprises, with features like concurrent requests, premium proxies, and JavaScript rendering, and hassle-free cancellation options. | **20% OFF**, with code **BLACKFRIDAY** | 
+| 🎩 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
+| 🎩 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -225,6 +230,10 @@ Total deals: 356
 | 🔴 | [MGC ICON](https://mgcall.framer.website/?utm_source=tony) | A carefully crafted icon pack collection featuring over 13,600 high-quality vector icons in 9 different styles, 120+ animated icons, and weather-themed textured icons. | 40% OFF with code **BF2024** |
 | 📺 | [Screen Canvas](https://www.screencanvas.app/) | Create Custom Designs on Your Apple TV. The fastest way to instantly create digital signs and message boards on your TV, all from your remote.  | **50% OFF** |
 | 🌅 | [Image Prompt](https://imageprompt.org) | Elevate your AI image generation with expert image prompt tools and resources. | 40% OFF with code **BF2024** |
+| 🆂 | [Sitely](https://sitely.app) | Visual + AI Website Builder formerly known as Sparkle. Build the website you always wanted, visually, on your Mac | 50% OFF automatically applied |
+| 🖌️ | [Affinity Designer](https://affinity.serif.com/en-gb/designer/) | Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design. | 50% OFF (automatic) |
+| 🖌️ | [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/) | Affinity Publisher is the next generation of professional page layout software. | 50% OFF (automatic) |
+| 🖌️ | [Affinity Photo](https://affinity.serif.com/en-gb/photo/) | Affinity Photo is the first choice of millions of creative and photography professionals around the world | 50% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -278,6 +287,8 @@ Total deals: 356
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
 | 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
 | ⭐ | [Badgeify](https://badgeify.app) | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
+| 💧 | [Dropshare](https://dropshare.app) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | 20% OFF with code **blackfriday2024** |
+| 🖥️ | [XGetter](https://xgetter.com?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -320,6 +331,7 @@ Total deals: 356
 | 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS. | 55% OFF Lifetime PRO |
 | ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
+| ⏳ | [Countdown - Pretty Progress](https://apps.apple.com/us/app/countdown-pretty-progress/id1597616326) | Track events, tasks, or habits with beautiful countdown widgets on your Home Screen and Lock Screen (iOS, Mac, Watch). | 50% OFF Lifetime |
 | 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
 
 
@@ -363,9 +375,10 @@ Total deals: 356
 |  💰 | [Provver](https://provver.com) | Increase the conversion rate on your landing page. Showcase recent sales to other potential customers | 40% OFF on both plans with code **SAASDEALS40** |
 |  💰 | [PushAlert - Web Push Notifications](https://pushalert.co?utm_campaign=awesomebf) | PushAlert is a powerful user engagement and marketing automation platform that lets you send real-time web push notifications to users on both mobile and desktop without any app. Includes advance features like personalized messaging, behavior-based targeting, automated drip campaigns, and cart abandonment recovery. | [30% Off on All Annual Plans](https://pushalert.co/black-friday?utm_campaign=awesomebf) |
 |  ⭐️ | [Krumzi](https://krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
-|  👨‍💻 | [OpenAlternative](https://openalternative.co) | A collection of the best Open Source Alternatives to everyday SaaS products. | 30% OFF of all advertising options with code **BLACKFRIDAY24** |
+|  👨‍💻 | [OpenAlternative](https://openalternative.co) | A collection of the best Open Source Alternatives to everyday SaaS products. | 30% OFF of all premium submission options with code **BLACKFRIDAY24** |
 |  🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch, Get Exposure and First Sales. | 20% OFF Pro Launches with the code **BLACKFRIDAY2024**. *Limited to 20 first products.* 👨‍🚀|
 | 🚀 | [Redditpulse](https://redditpulse.solobuilderhub.com/) | Elevate Your Reddit Game with AI-Powered Comments. | Get flat $30 off on Redditor Pro quaterly deal with the code **BF24** |
+|  👨‍💻 | [DevSuite](https://devsuite.co) | Find the Perfect Developer Tools for Your Next Project | 50% OFF of all premium submission options with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -413,6 +426,7 @@ Total deals: 356
 |  ✨ | [UnDatasIO](https://undatas.io) | Designing Intelligent Systems with Unstructured Data Flow Pipelines. | **50% OFF** on first payemnt with code **BKGNIO1Y** |
 | 🚀 | [DeployHQ](https://www.deployhq.com) | Powerful code deployment tool that allows you to deploy your code from your repository straight to your server, with code build capabilities and additional quality of life tools. | **50% OFF** with code **BLACKFRIDAY50** - new accounts |
 | 👑 | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | **75% OFF** all paid plans with code **PH75OFF**|
+| 👥 | [groupsync.app](https://groupsync.app) | Effortlessly sync groups between Slack and Google Workspace. Make it so that @anygroup in Slack and anygroup@yourcompany.com reaches the same people. | **50% OFF** subscriptions with **BLACK50FRIDAY**|
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -530,6 +544,8 @@ Total deals: 356
 | 🏎️ | [Speed up Your Django Tests](https://adamchainz.gumroad.com/l/suydt) | A practical guide to making your Django project’s tests faster. | 50% off from $49 to $24.50. No code needed. |
 | 🚆 | [Build A SaaS App In Rails 8 (complete package)](https://robrace.gumroad.com/l/basair8cp/bfcm24) | Learn to build a production-ready SaaS app in Rails 8 | Use link or code bfcm24 for 60% off |
 | 🚆 | [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | Use link or code bfcm24 for 60% off |
+| 🔥 | [Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% off with code **BLACKFRIDAY24** |
+| 🔥 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24)) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | 60% off with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -626,6 +642,8 @@ Total deals: 356
 | -- | ---| ------ | ------ |
 |  ⭐ | [Cyberwarfare Labs](https://cyberwarfare.live/blackfriday/) | CyberWarfare Labs provides advanced training courses in Red Teaming, Cloud Security, and Blue Teaming, offering hands-on lab access to help you enhance your cybersecurity skills and stay ahead of evolving threats.| Upto **80%** off on the bundle **50%** OFF on all the individual courses|
 | 🚀 | [Securing AWS: Strategies for Lean Teams](https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Teams-from-Chandrapal-Badshah-666415ee3a16ef700a69c1c5) | Practical tools, techniques and mental frameworks for securing AWS infrastructure with limited security resources | Get **51%** OFF at checkout |
+|  🔥 | [AppSecEngineer]([https://appsecengineer.com](https://www.appsecengineer.com/individuals/pricing)) | Hands-on Training for AppSec, Cloud Security, AI Security, Kubernetes Security, DevSecOps, Threat Modeling and more| 40% off on all Annual Plans using the code `LEVELUP40` |
+| 💻 | [The SecOps Group](https://secops.group/pentesting-exams/) | The SecOps Group is offering Black Friday deals for their cybersecurity exams! Learn from various platforms and validate your skills by taking their exams. A great opportunity to level up your expertise! | Use promo code **BLACKFRIDAY-90** to get a **flat 90% off** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -640,7 +658,7 @@ Total deals: 356
 |  🎥 | [Screencasting.com](https://screencasting.com/) | Effortlessly create high-quality screencasts faster than ever. In this course, you'll learn all the need-to-know screencasting topics, tips, and tricks.| $100 off the Basic or Complete Package with code **BLACKFRIDAY** (valid 11/27/24 through 12/3/24) |
 |  🎓 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1) | A practical guide and Notion template to transform routine check-ins into meaningful conversations, build stronger teams and help people unleash their potential.| 60% OFF with **BLACKFRIDAY** (valid 11/16/24 through 12/3/24) |
 | ✨ | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** from Nov 15 - Nov 30 |
-| 🚀  | [Get Your First Client as a Freelancer]([https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309](https://getyourfirstclient.freelancerpath.com/)) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% off using code **BLACK** from Nov 15 - Nov 30 |
+| 🚀  | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% off using code **BLACK** from Nov 15 - Nov 30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -702,6 +720,7 @@ Total deals: 356
 | 🍻 | [BestTime.app](https://besttime.app) | Data API for visitor patterns in bars, shops, museums, etc. E.g. Find busy bars, quiet museums | 50% OFF with code *BLAC-KFRI-DAY1* |
 | 🍿 | [kudos.wiki](https://kudos.wiki) | Discover all the best films on Wikipedia | 50% OFF with code **BF2024** |
 | 💎 | [WISE RPG Course + Kit](https://trentopedia.gumroad.com/l/WISE-RPG-Tutorial-1/BCV2FZ3)| Organize your worlds, conquer procrastination, and master stress-free gaming. WISE RPG is a game system-agnostic course + kit for worldbuilding that helps you create immersive worlds in Obsidian. | 40% off with code BCV2FZ3 now thru 12/03 (applied to link already)|
+| 🛠️ | albusbit.com | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code BF2024 |
 
 
 [⬆️ Go to Top](#table-of-contents)
