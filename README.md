@@ -551,6 +551,7 @@ Total deals: 356
 | 🚆 | [Rails 8 Everything Bundle](https://robrace.gumroad.com/l/r8eb/bfcm24) | Build A SaaS App In Rails 8 + two other upcoming books in one package | Use link or code bfcm24 for 60% off |
 | 🔥 | [Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% off with code **BLACKFRIDAY24** |
 | 🔥 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24)) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | 60% off with code **BLACKFRIDAY24** |
+| 📚 | [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00**. No code needed |
 
 [⬆️ Go to Top](#table-of-contents)
 
