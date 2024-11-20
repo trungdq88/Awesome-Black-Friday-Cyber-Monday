@@ -278,6 +278,7 @@ Total deals: 356
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
 | 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
 | ⭐ | [Badgeify](https://badgeify.app) | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
+| 💧 | [Dropshare](https://dropshare.app) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | 20% OFF with code **blackfriday2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
