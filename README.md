@@ -196,7 +196,8 @@ Total deals: 356
 |  🛠️ | [ChatGPT Toolbox](https://www.ai-toolbox.co) | Supercharge your ChatGPT experience with features like folders, pinned chats, bulk actions, and more | **80% OFF!** |
 | 🤑 | [Airbrush](https://www.airbrush.ai/lifetime-deal/) | AI Image generator. Use AI to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** |
 | ⚡ | [Webnovels AI](https://webnovelsai.com/pricing/) | Translate entire web novels, light novels, and ebooks using your own ChatGPT API key. Automatically generate glossaries for improved translations and export to EPUB, TXT, and PDF formats. | 35% OFF on monthly subscription |
-| 📸 | [DescripShot](https://www.descripshot.com/) | Generate professional captions and tags for your stock photos and videos in seconds, cutting hours from your weekly workflow. | **50% OFF** with code **CYBERWEEK2024**
+| 📸 | [DescripShot](https://www.descripshot.com/) | Generate professional captions and tags for your stock photos and videos in seconds, cutting hours from your weekly workflow. | **50% OFF** with code **CYBERWEEK2024** |
+| 🎬 | [Snapcut.ai](https://snapcut.ai/) | AI video repurposing platform. Generate 15 viral shorts from a long video with just one click | **40% OFF** with code **BLACKCUT40** |
 
 [⬆️ Go to Top](#table-of-contents)
 
