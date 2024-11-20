@@ -314,6 +314,7 @@ Total deals: 356
 |  ✅ | [Journal it! - Life Organizer](https://apps.apple.com/US/app/id1501944799) | An all-in-one KPM and personal productivity app. Mobile first, offline first, end-to-end encryption (Android, iOS, web)    | 50% OFF Lifetime PRO |
 | 📧 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS.  | 50% OFF YEARLY Plan |
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS. | 55% OFF Lifetime PRO |
+| ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
 
 
 [⬆️ Go to Top](#table-of-contents)
