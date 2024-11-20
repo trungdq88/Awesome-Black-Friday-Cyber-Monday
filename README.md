@@ -86,6 +86,7 @@ Total deals: 356
 | 🚀 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY** from Nov 26 - Nov 30 |
 | 💰 | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2024** 25% off |
 | ⚡️ | [CSV Table](https://csvtable.com/) | View & edit CSV, JSON files for Pros | on-site 50% off |
+| 🖥️ | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Shell History, search, notebooks | 70% off - USD 13.99 -> USD 3.99 until Dec 7th |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -278,6 +279,7 @@ Total deals: 356
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from visuals, scan QR codes/barcodes, and more from anywhere on your Mac. | 60% OFF with code **BFCM24** |
 | 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
 | ⭐ | [Badgeify](https://badgeify.app) | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
+| 🖥️ | [OpenIn](https://apps.apple.com/us/app/shellhistory/id1564015476) | Advanced Link Opener | 75% off - USD 11.99 -> USD 2.99 until Dec 7th |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -446,6 +448,7 @@ Total deals: 356
 | 💵 | [Wealthfolio](https://wealthfolio.app) | Beautiful, Simple, and Secure Desktop Investment Tracker. | 50% OFF (automatic) |
 | 💸 | [Ultimate Budgeting Spreadsheet + Assets Tracker](https://prosheetivity.gumroad.com/l/budgeting-money-management-financial-tracking/BF39) | Plan budgets, track expenses, and manage lifetime assets with this all-in-one spreadsheet, complete with automated stock price updates! | 39% OFF with code **BF39** – Lifetime access for just **$4.27** |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% OFF SubManager+ Lifetime IAP ($0.99) available from Nov 29 to Dec 2 |
+| 🖥️ | [CheckCraft](https://apps.apple.com/us/app/shellhistory/id1564015476) | Print Checks at Home (US Only) | 50% off - USD 1.99 -> USD 0.99 until Dec 7th |
 
 
 [⬆️ Go to Top](#table-of-contents)
