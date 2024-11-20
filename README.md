@@ -337,7 +337,7 @@ Total deals: 356
 | ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
 | ⏳ | [Countdown - Pretty Progress](https://apps.apple.com/us/app/countdown-pretty-progress/id1597616326) | Track events, tasks, or habits with beautiful countdown widgets on your Home Screen and Lock Screen (iOS, Mac, Watch). | 50% OFF Lifetime |
 | 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
-
+| 🚀 | [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) | Break down projects into multiple milestones and track the progress - project management app made by an indie, for indies (iOS, iPad). | 50% OFF all plans, including LIFETIME |
 
 [⬆️ Go to Top](#table-of-contents)
 
