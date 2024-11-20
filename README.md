@@ -63,7 +63,7 @@ Total deals: 356
 	- [🔒 Information Security Courses (2)](#-information-security-courses)
 	- [🎢 Career Courses (6)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
-- [💪 Health and Fitness (4)](#-health-and-fitness)
+- [💪 Health and Fitness (7)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (26)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
