@@ -280,6 +280,7 @@ Total deals: 356
 | 💰 | [CleanClip](https://cleanclip.cc/) | The cleanest system-level clipboard manager for Mac. | 30% OFF with code **BF2024** |
 | ⭐ | [Badgeify](https://badgeify.app) | Add Any App to Your Mac Menu Bar. | 30% OFF with code **BLACKFRIDAY2024** |
 | 💧 | [Dropshare](https://dropshare.app) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | 20% OFF with code **blackfriday2024** |
+| 🖥️ | [XGetter](https://xgetter.com?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
