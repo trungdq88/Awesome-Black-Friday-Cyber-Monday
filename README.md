@@ -89,6 +89,7 @@ Total deals: 410
 | 📊 | [Trendly](https://apple.co/4hQcaI1) | Track your App Store sales, subscribers, downloads, and more. | 50% OFF all paid plans for the first 6 months from Nov 29 - Dec 4! |
 | 🖥️ | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday2&mt=8) | SSH Terminal for iOS & Mac | Lifetime 38% off |
 | 🖥️ | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Shell History, search, notebooks | 70% off - USD 13.99 -> USD 3.99 until Dec 7th |
+| ⚡️ | [AWS S3 Manager for Desktop](https://buy.polar.sh/polar_cl_D6-7621_p56eN2WX5k3HRDzuUttaYpNdXsTART3-sag) | Effortlessly manage S3 files for Desktop | on-site 50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
