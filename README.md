@@ -691,6 +691,7 @@ Total deals: 410
 | ✨ | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** from Nov 15 - Nov 30 |
 | 🚀  | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% off using code **BLACK** from Nov 15 - Nov 30 |
 | 🚀  | [Zorga](https://www.zorga.io/) | Master the Habits of the World's Top Professionals and Entrepreneurs. Find your Vision and Purpose. Set goals, get a Daily Action Plan, build habits, improve your mindset and optimize your physical and mental health. | 50% off using code **BF2024** (valid 11/20/24 - 11/30/24) |
+| 🧰 | [The Complete Career Toolkit: Personal Branding, Resume Building + more](https://zerotomastery.io/courses/personal-branding/) | The job market is tough. You need to stand out. That's exactly what this course will do by helping you build your personal brand. By the end, you'll also have a professional resume, cover letter, and portfolio website that will make sure you STAND OUT and land more job interviews in 2025. | [50% OFF with code **BUILDMYBRAND**](https://zerotomastery.io/courses/personal-branding/?utm_source=github&utm_medium=bfcm-deals-repo) |
 
 [⬆️ Go to Top](#table-of-contents)
 
