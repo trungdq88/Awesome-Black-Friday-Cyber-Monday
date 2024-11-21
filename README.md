@@ -191,7 +191,7 @@ Total deals: 410
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [HeadshotPro](https:/www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
+|  ⭐ | [HeadshotPro](https://www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
 |  ⭐ | [LoveTunesAI](https://lovetunesai.com) | Personalized songs for your loved ones | 20% OFF with code **BF20OFF** |
 |  ⚡ | [IconKit](https://iconkit.ai?utm_source=awesomebf) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
 |  🤖 | [Letty](https://www.useletty.com?ref=awesomebf) | Write professional emails that sound just like you in seconds | 30% OFF all plans with code **BF2024** |
