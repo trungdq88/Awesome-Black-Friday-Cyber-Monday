@@ -425,6 +425,7 @@ Total deals: 410
 | ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Auto mass generate WordPress Pages and Posts, with AI integration | 30% OFF with code **BF2024** |
 | ✍️ | [NotionSEO](https://www.notionseo.xyz) |NotionSEO is a plugin that improves your Notion Pages by helping you optimize your content and keywords for SEO| 30% OFF on Lifetime Plan with code **BLACKFRIDAY2024** |
 | 🔗 | [DA 59 backlinks](https://worldclass.domains/) | Create your profile page and showcase all your projects with DA 59 backlinks | $30/yr(56% OFF) with code **BFLIFETIME** for lifetime |
+| ✅ | [CheckMySEO](https://www.checkmyseo.io?utm_source=git_tdinh_me) | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
 
 
 [⬆️ Go to Top](#table-of-contents)
