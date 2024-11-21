@@ -207,6 +207,7 @@ Total deals: 410
 | 🎬 | [Snapcut.ai](https://snapcut.ai/) | AI video repurposing platform. Generate 15 viral shorts from a long video with just one click | **40% OFF** with code **BLACKCUT40** |
 | 🤑 | [DigiParser.com](https://www.digiparser.com/) | Extract data from documents and emails with our AI Powered OCR models | **50% OFF** for one year with code **BLACKFRIDAY2024** |
 | 🎙️ | [ai speech writer](https://verble.app) | An AI-powered tool for generating high-quality speech content | **50% OFF** with code **BLACKFRIDAY2024**, unlimited access for $7.50 |
+| 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -422,6 +423,7 @@ Total deals: 410
 | 🔝 | [SEOPulser](https://seopulser.com) | Generate and Publish 100s of SEO-optimized Articles in Minutes on Autopilot | 30% OFF with code **BLACKFRIDAY30** |
 | ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Auto mass generate WordPress Pages and Posts, with AI integration | 30% OFF with code **BF2024** |
 | ✍️ | [NotionSEO](https://www.notionseo.xyz) |NotionSEO is a plugin that improves your Notion Pages by helping you optimize your content and keywords for SEO| 30% OFF on Lifetime Plan with code **BLACKFRIDAY2024** |
+| 🔗 | [DA 59 backlinks](https://worldclass.domains/) | Create your profile page and showcase all your projects with DA 59 backlinks | $30/yr(56% OFF) with code **BFLIFETIME** for lifetime |
 
 
 [⬆️ Go to Top](#table-of-contents)
