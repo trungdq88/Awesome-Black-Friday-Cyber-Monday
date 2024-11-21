@@ -90,6 +90,10 @@ Total deals: 410
 | 🖥️ | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday2&mt=8) | SSH Terminal for iOS & Mac | Lifetime 38% off |
 | 🖥️ | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Shell History, search, notebooks | 70% off - USD 13.99 -> USD 3.99 until Dec 7th |
 | ⚡️ | [AWS S3 Manager for Desktop](https://buy.polar.sh/polar_cl_D6-7621_p56eN2WX5k3HRDzuUttaYpNdXsTART3-sag) | Effortlessly manage S3 files for Desktop | on-site 50% off |
+| ⭐️ | [StoreReviewKit](https://apps.apple.com/app/apple-store/id6670761635?pt=594185&ct=awesome-bf&mt=8) | Read and respond to App Store reviews | 50% off |
+| 🌐 | [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=awesome-bf&mt=8) | Translate your app in 1 click | 50% off |
+| 🌐 | [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=awesome-bf&mt=8) | Easiest way to localize and update App Store metadata | 50% off |
+| 🖥️ | [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=awesome-bf&mt=8) | Create App Store screenshots in minutes not hours | 30% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -188,6 +192,7 @@ Total deals: 410
 | 🎬 | [Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) | Generate Video Shorts locally. Comes with Full source code | 30% OFF all one time purchase with the coupon code **`YQFEQ2R`** |
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 |  🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
+| 💬 | [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=awesome-bf&mt=8) | Fast, privacy-focus way to transcribe audio, video, and podcast files. | 50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -354,6 +359,7 @@ Total deals: 410
 | 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
 | 🚀 | [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) | Break down projects into multiple milestones and track the progress - project management app made by an indie, for indies (iOS, iPad). | 50% OFF all plans, including LIFETIME |
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030)              | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Fast accurate and runs Whisper models locally on device. Can also live transcribe or trascribe local video and audio files without the need of an internet connection. |  50% OFF **BFS2024** on yearly plan|
+| 📝 | [Note Taking - Voice Photo Memo](https://apps.apple.com/app/apple-store/id6479198427?pt=594185&ct=awesome-bf&mt=8) | Write it, Speak it, Snap it – Your Notes, Your Way. |  50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -505,6 +511,7 @@ Total deals: 410
 |  ✨ | [Simplify Access Management for Odoo](https://apps.odoo.com/apps/modules/17.0/simplify_access_management) | All In One Access Management app for setting the correct access rights (Hide/Unhide/Read-only) on fields, models, menus, records, filters, groups, buttons/tabs, views, actions, reports, chatter for any module, any user, any company in Odoo. | 30% OFF for the lifetime license |
 |  📂 | [FileMinutes](https://www.fileminutes.com) | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
 | 💰 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) |
+| 🛫 | [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=awesome-bf&mt=8) | Currency calculator | 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
