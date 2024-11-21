@@ -130,6 +130,7 @@ Total deals: 410
 | 🎩 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
 | 🎩 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
 | 📲 | [Pocket Alert](https://pocketalert.app) | Pocket Alert – empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before. | **40% OFF**, with code **BLACKFRIDAY** | 
+|  ⭐ | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
