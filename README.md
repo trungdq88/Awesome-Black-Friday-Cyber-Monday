@@ -206,6 +206,7 @@ Total deals: 410
 | 📸 | [DescripShot](https://www.descripshot.com/) | Generate professional captions and tags for your stock photos and videos in seconds, cutting hours from your weekly workflow. | **50% OFF** with code **CYBERWEEK2024** |
 | 🎬 | [Snapcut.ai](https://snapcut.ai/) | AI video repurposing platform. Generate 15 viral shorts from a long video with just one click | **40% OFF** with code **BLACKCUT40** |
 | 🤑 | [DigiParser.com](https://www.digiparser.com/) | Extract data from documents and emails with our AI Powered OCR models | **50% OFF** for one year with code **BLACKFRIDAY2024** |
+| 🎙️ | [ai speech writer](https://verble.app) | An AI-powered tool for generating high-quality speech content | **50% OFF** with code **BLACKFRIDAY2024**, unlimited access for $7.50 |
 
 [⬆️ Go to Top](#table-of-contents)
 
