@@ -324,6 +324,7 @@ Total deals: 410
 | 🌐 | [Browser Deputy](https://anybox.ltd/browser-deputy) | A command palette for macOS browsers. Search bookmarks and history. | 50% off with Code **BF2024** |
 | 📞 | [MuteDeck](https://mutedeck.com?ref=awbfcm) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
 | 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | **BLACKFRIDAY2024** 25% off |
+| 💻  | [Voice Type-Dictation Tool](https://carelesswhisper.app)    | Local dictation tool for macOS. Good for folks using ChatGpt, Claude, Cursor etc all day. Voice types technical terms really fast and accurate. ++ if you suffer from RSI, wrist or neck pain from extended desk work. One time purchase since it runs locally. |  50% OFF till Nov-30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -344,6 +345,7 @@ Total deals: 410
 | ⏳ | [Countdown - Pretty Progress](https://apps.apple.com/us/app/countdown-pretty-progress/id1597616326) | Track events, tasks, or habits with beautiful countdown widgets on your Home Screen and Lock Screen (iOS, Mac, Watch). | 50% OFF Lifetime |
 | 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
 | 🚀 | [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) | Break down projects into multiple milestones and track the progress - project management app made by an indie, for indies (iOS, iPad). | 50% OFF all plans, including LIFETIME |
+| 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030)              | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Fast accurate and runs Whisper models locally on device. Can also live transcribe or trascribe local video and audio files without the need of an internet connection. |  50% OFF **BFS2024** on yearly plan|
 
 [⬆️ Go to Top](#table-of-contents)
 
