@@ -89,6 +89,7 @@ Total deals: 410
 | 📊 | [Trendly](https://apple.co/4hQcaI1) | Track your App Store sales, subscribers, downloads, and more. | 50% OFF all paid plans for the first 6 months from Nov 29 - Dec 4! |
 | 🖥️ | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday2&mt=8) | SSH Terminal for iOS & Mac | Lifetime 38% off |
 | 🖥️ | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Shell History, search, notebooks | 70% off - USD 13.99 -> USD 3.99 until Dec 7th |
+| ⚡️ | [AWS S3 Manager for Desktop](https://buy.polar.sh/polar_cl_D6-7621_p56eN2WX5k3HRDzuUttaYpNdXsTART3-sag) | Effortlessly manage S3 files for Desktop | on-site 50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -130,6 +131,7 @@ Total deals: 410
 | 🎩 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
 | 🎩 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
 | 📲 | [Pocket Alert](https://pocketalert.app) | Pocket Alert – empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before. | **40% OFF**, with code **BLACKFRIDAY** | 
+|  ⭐ | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -736,6 +738,7 @@ Total deals: 410
 | 💎 | [WISE RPG Course + Kit](https://trentopedia.gumroad.com/l/WISE-RPG-Tutorial-1/BCV2FZ3)| Organize your worlds, conquer procrastination, and master stress-free gaming. WISE RPG is a game system-agnostic course + kit for worldbuilding that helps you create immersive worlds in Obsidian. | 40% off with code BCV2FZ3 now thru 12/03 (applied to link already)|
 | 🛠️ | albusbit.com | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code BF2024 |
 | 🌤️ | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app |
+| 🎙️ | [Roads Audio](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
 | 📚 | [Easy Language Learning](https://gagansharma.gumroad.com/l/lnvwah/BF24) | A no-fluff guide to learning languages! | 50% OFF for Black Friday: Code **BF24** |
 
 
