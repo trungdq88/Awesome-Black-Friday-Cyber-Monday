@@ -186,6 +186,7 @@ Total deals: 410
 | 💌 | [AiChat Email](https://aichat.email/) | Chat with an AI via Email. Summarize long threads and more. | 35% OFF all Monthly / Annual plans with the coupon code **`BLACKFRIDAY24`** |
 | 🎬 | [Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) | Generate Video Shorts locally. Comes with Full source code | 30% OFF all one time purchase with the coupon code **`YQFEQ2R`** |
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
+|  🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -391,6 +392,7 @@ Total deals: 410
 |  🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch, Get Exposure and First Sales. | 20% OFF Pro Launches with the code **BLACKFRIDAY2024**. *Limited to 20 first products.* 👨‍🚀|
 | 🚀 | [Redditpulse](https://redditpulse.solobuilderhub.com/) | Elevate Your Reddit Game with AI-Powered Comments. | Get flat $30 off on Redditor Pro quaterly deal with the code **BF24** |
 |  👨‍💻 | [DevSuite](https://devsuite.co) | Find the Perfect Developer Tools for Your Next Project | 50% OFF of all premium submission options with code **BLACKFRIDAY24** |
+| 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -745,6 +747,7 @@ Total deals: 410
 | 🌤️ | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app |
 | 🎙️ | [Roads Audio](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
 | 📚 | [Easy Language Learning](https://gagansharma.gumroad.com/l/lnvwah/BF24) | A no-fluff guide to learning languages! | 50% OFF for Black Friday: Code **BF24** |
+| 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
 
 
 [⬆️ Go to Top](#table-of-contents)
