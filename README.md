@@ -669,6 +669,7 @@ Total deals: 356
 |  🎓 | [A 1:1 guide for engineering managers](https://karloscodes.gumroad.com/l/team-1-1) | A practical guide and Notion template to transform routine check-ins into meaningful conversations, build stronger teams and help people unleash their potential.| 60% OFF with **BLACKFRIDAY** (valid 11/16/24 through 12/3/24) |
 | ✨ | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** from Nov 15 - Nov 30 |
 | 🚀  | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% off using code **BLACK** from Nov 15 - Nov 30 |
+| 🚀  | [Zorga](https://www.zorga.io/) | Master the Habits of the World's Top Professionals and Entrepreneurs. Find your Vision and Purpose. Set goals, get a Daily Action Plan, build habits, improve your mindset and optimize your physical and mental health. | 50% off using code **BF2024** (valid 11/20/24 - 11/30/24) |
 
 [⬆️ Go to Top](#table-of-contents)
 
