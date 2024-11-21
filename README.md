@@ -562,6 +562,7 @@ Total deals: 410
 | 🔥 | [Complete Guide to CSS Flexbox & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid/BLACKFRIDAY24) | Become a Pro at building components & layouts with CSS Flexbox and Grid. | 60% off with code **BLACKFRIDAY24** |
 | 🔥 | [Level up with Tailwind CSS](https://shrutibalasa.gumroad.com/l/level-up-with-tailwind-css/BLACKFRIDAY24)) | With in-depth insights into advanced concepts, tips and tricks, work faster and with more skill. | 60% off with code **BLACKFRIDAY24** |
 | 📚 | [Mike Callaghan's Complete Works](https://walkingriver.gumroad.com/l/everything) | 12 books, 4 courses, and **all future items** covering AI, web and mobile development, Angular, Ionic, and more | **75% off** from $204 to **$47.00**. No code needed |
+| ⭐ | [The Road to React](https://www.roadtoreact.com/) | React.js Bestseller on Amazon, Your journey to master React in JavaScript, Do not miss to check out thew new course The Road to Next | 30% OFF with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
