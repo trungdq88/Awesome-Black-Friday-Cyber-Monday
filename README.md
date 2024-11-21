@@ -134,6 +134,7 @@ Total deals: 410
 |  ⭐ | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% OFF with code **BF2024** |
 |  🔥 | [Polypane Developer Browser](https://polypane.app) | The browser for ambitious web developers. everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF!** |
 |  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
