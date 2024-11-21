@@ -27,7 +27,7 @@ Total deals: 410
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (17)](#-developer-macos-apps)
-	- [💻 Tools & Services (34)](#-tools--services)
+	- [💻 Tools & Services (35)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (11)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (27)](#-ai-productivity--learning-tools)
@@ -133,6 +133,7 @@ Total deals: 410
 | 📲 | [Pocket Alert](https://pocketalert.app) | Pocket Alert – empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before. | **40% OFF**, with code **BLACKFRIDAY** | 
 |  ⭐ | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% OFF with code **BF2024** |
 |  🔥 | [Polypane Developer Browser](https://polypane.app) | The browser for ambitious web developers. everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF!** |
+|  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
