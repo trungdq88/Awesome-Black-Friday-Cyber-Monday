@@ -148,6 +148,7 @@ Total deals: 356
 | ⭐ | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF - Use the coupon code: **BF20** to receive the discount |
 | ✳️ | [Quartzite](https://www.quartzite.ai/) | Powerful prompt builder for GPT, Claude, Gemini, and more | 50% OFF annual subscription with code **BF50** |
 | 🧠 | [StylerGPT](https://stylergpt.com/) | ChatGPT Theme Editor with Power-Ups. A browser extension to customize and enhance your ChatGPT interface. | 20% OFF Lifetime Premium Plan **BF24** |
+| 🚀 | [EnConvo](https://enconvo.com/) | An context awareness all-in-one AI Launcher that integrates knowledge base, workflows, voice input method, PopBar, image generation, AI websearch capabilities with plugins system.  | 60% OFF Lifetime Premium Plan **ENCONVOBLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
