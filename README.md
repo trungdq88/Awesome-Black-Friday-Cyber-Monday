@@ -739,6 +739,7 @@ Total deals: 410
 | 🛠️ | albusbit.com | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code BF2024 |
 | 🌤️ | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app |
 | 🎙️ | [Roads Audio](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
+| 📚 | [Easy Language Learning](https://gagansharma.gumroad.com/l/lnvwah/BF24) | A no-fluff guide to learning languages! | 50% OFF for Black Friday: Code **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
