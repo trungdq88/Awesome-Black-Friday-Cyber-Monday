@@ -44,7 +44,7 @@ Total deals: 410
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (21)](#-marketing-tools)
 - [🔍 SEO Tools (16)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (17)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (18)](#-startup-saastools)
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
@@ -451,6 +451,7 @@ Total deals: 410
 | 👑 | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | **75% OFF** all paid plans with code **PH75OFF**|
 | 👥 | [groupsync.app](https://groupsync.app) | Effortlessly sync groups between Slack and Google Workspace. Make it so that @anygroup in Slack and anygroup@yourcompany.com reaches the same people. | **50% OFF** subscriptions with **BLACK50FRIDAY**|
 | 🔗 | [Backlinks for Slack](https://slacklinker.com) | Automatically create backlinks in Slack, linking messages for quick navigation and streamlined project tracking. Keep important info accessible and never lose track of crucial discussions again. | **50% OFF** with code **50BF2024**|
+| 📄 | [DocuGenerate](https://www.docugenerate.com/) | DocuGenerate provides a scalable platform for generating high-quality PDF documents. Developers can leverage our REST API to add document generation to their apps, while non-developers can effortlessly use our No-Code integrations. | **50% OFF** for the First 3 Months with code **BLACKFRIDAY2024**|
 
 
 [⬆️ Go to Top](#table-of-contents)
