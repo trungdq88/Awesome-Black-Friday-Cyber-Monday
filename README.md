@@ -195,6 +195,11 @@ Don't forget to:
 | 🤑 | [RogerRoger](https://rogerroger.io) | RogerRoger turns your email into organized tasks. Collaborate with your team in workspaces with configurable kanban boards. | 50% OFF Forever on Plus with code **CyberRoger2022** |
 | 💰 | [1st things 1st](https://www.1st-things-1st.com/?ref=awesome-black-friday) | A web app that helps you set priorities in your life and work. | 30% OFF with code **BLACKFRIDAY2022** |
 | 💰 | [Markboard](https://www.markboard.dev) | Keyboard-centric, markdown-based virtual "whiteboard" for geeks, with mermaid diagramming and syntax highlighting. | 25% OFF with **BLACKFRIDAY2022** code on live collaboration licenses. |
+| 🤑 | [Fuelance Freelance System](https://unapologeticih.gumroad.com/l/ktxfX) | Find Freelance Opportunities on Autopilot. Onboard Clients & Manage Projects Effortlessly. | 70% OFF with code **70OFFBF** |
+| 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
+| 🤑 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle. | 75% OFF with code **75BSB** |
+| 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML  | 60% OFF with code **60OFF50** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -223,6 +228,10 @@ Don't forget to:
 |  💰 | [Spinal](https://spinalcms.com) | Spinal is a beautiful and minimal CMS for static site generators (Jekyll, Astro, 11ty, etc.). Designed for content marketing teams. | **50% OFF on yearly plan** and 10 pay once lifetime deals |
 |  🤑 | [Startup Buffer](https://startupbuffer.com/site/promote) | Startup Buffer is a startup directory for emerging startups. The deal includes homepage promotion on the directory, social media shoutouts, and email newsletter promotions.  | **75% OFF, automatically applied** |
 |  🤑 | [CampaignKit](https://campaignkit.cc) | CampaignKit is an email list cleaning tool to remove invalid and malicious emails. | **50% OFF on all credits** with code BLACKFRIDAY|
+| 🤑 | [IndieEarnr](https://unapologeticih.gumroad.com/l/indieearnr) | Boost your income with 580+ Affiliate & Referral Programs for Solopreneurs, Indie Hackers, SaaS Owners, and Creators | 60% OFF with code **60OFF** |
+| 💰 | [HoneyPot Newsletters Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters - including details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF with code **50BEEHIIV** |
+| 💰 | [GhostHunt - Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. | 50% OFF with code **50GHOST** |
+| 💰 | [SubSearchr - Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers | 50% OFF with code **50SUBSTACK** |
 
 
 [⬆️ Go to Top](#table-of-contents)
