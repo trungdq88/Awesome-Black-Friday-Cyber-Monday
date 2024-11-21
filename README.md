@@ -89,6 +89,7 @@ Total deals: 410
 | 📊 | [Trendly](https://apple.co/4hQcaI1) | Track your App Store sales, subscribers, downloads, and more. | 50% OFF all paid plans for the first 6 months from Nov 29 - Dec 4! |
 | 🖥️ | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday2&mt=8) | SSH Terminal for iOS & Mac | Lifetime 38% off |
 | 🖥️ | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Shell History, search, notebooks | 70% off - USD 13.99 -> USD 3.99 until Dec 7th |
+| ⚡️ | [AWS S3 Manager for Desktop](https://buy.polar.sh/polar_cl_D6-7621_p56eN2WX5k3HRDzuUttaYpNdXsTART3-sag) | Effortlessly manage S3 files for Desktop | on-site 50% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -130,6 +131,7 @@ Total deals: 410
 | 🎩 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
 | 🎩 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
 | 📲 | [Pocket Alert](https://pocketalert.app) | Pocket Alert – empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before. | **40% OFF**, with code **BLACKFRIDAY** | 
+|  ⭐ | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -189,7 +191,7 @@ Total deals: 410
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [HeadshotPro](https:/www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
+|  ⭐ | [HeadshotPro](https://www.headshotpro.com) | Professional business headshots, without a physical photo shoot | 20% OFF with code **FRIDAY20** |
 |  ⭐ | [LoveTunesAI](https://lovetunesai.com) | Personalized songs for your loved ones | 20% OFF with code **BF20OFF** |
 |  ⚡ | [IconKit](https://iconkit.ai?utm_source=awesomebf) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
 |  🤖 | [Letty](https://www.useletty.com?ref=awesomebf) | Write professional emails that sound just like you in seconds | 30% OFF all plans with code **BF2024** |
@@ -295,6 +297,7 @@ Total deals: 410
 | 🖥️ | [XGetter](https://xgetter.com?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, QQ,... | 60% OFF with code **BLACKFRIDAY2024** |
 | 🖥️ | [OpenIn](https://apps.apple.com/us/app/shellhistory/id1564015476) | Advanced Link Opener | 75% off - USD 11.99 -> USD 2.99 until Dec 7th |
 | 🌅 | [Rapidemo](https://getrapidemo.com) | Screen recorder with automatic zoom effects. Made for Windows. | 1 free month with code **BLACKFRIDAY24** |
+| 🖥️ | [SMBAct](https://smbact.com) | Cross-platform Window Manager and Switcher | 30% off with code **BF2024** until Dec 21st |
 | 🖥️ | [High DPI Screenshots](https://www.highdpiscreenshots.com/) | A Chrome Plugin that generates super-detailed, high-DPI screenshots beyond standard screen capture capabilities. One time purchase. | 55% discount (automatically applied) |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -699,6 +702,7 @@ Total deals: 410
 |  💤 | [Dark Sleep](https://www.darksleep.app) | Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. | 50% Off |
 |  💡 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
 | 💪  | [Examine+](https://examine.com) | Evidence-based nutrition and supplement information. | Over 27% off Nov 26 - Dec 2. Early bird: up to 40% off from Mon Nov 25 at 12pm ET. |
+| 🍼 | [Wake Wise - Baby Sleep Tracker App](https://apps.apple.com/gb/app/id6736522449) | Track your baby's sleep and get suggested bedtimes. | 50% Off Lifetime Subscription - Nov 21 2024 - Dec 4 2024 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -737,6 +741,8 @@ Total deals: 410
 | 💎 | [WISE RPG Course + Kit](https://trentopedia.gumroad.com/l/WISE-RPG-Tutorial-1/BCV2FZ3)| Organize your worlds, conquer procrastination, and master stress-free gaming. WISE RPG is a game system-agnostic course + kit for worldbuilding that helps you create immersive worlds in Obsidian. | 40% off with code BCV2FZ3 now thru 12/03 (applied to link already)|
 | 🛠️ | albusbit.com | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code BF2024 |
 | 🌤️ | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app |
+| 🎙️ | [Roads Audio](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
+| 📚 | [Easy Language Learning](https://gagansharma.gumroad.com/l/lnvwah/BF24) | A no-fluff guide to learning languages! | 50% OFF for Black Friday: Code **BF24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
