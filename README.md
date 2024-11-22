@@ -215,6 +215,7 @@ Total deals: 410
 | 🤑 | [DigiParser.com](https://www.digiparser.com/) | Extract data from documents and emails with our AI Powered OCR models | **50% OFF** for one year with code **BLACKFRIDAY2024** |
 | 🎙️ | [ai speech writer](https://verble.app) | An AI-powered tool for generating high-quality speech content | **50% OFF** with code **BLACKFRIDAY2024**, unlimited access for $7.50 |
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
+| 🥗 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | A nutrition app that lets users log meals by photo and uses AI to estimate calories and nutrients. | **50% OFF** first year with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
