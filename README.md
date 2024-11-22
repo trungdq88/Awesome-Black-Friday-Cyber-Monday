@@ -143,7 +143,6 @@ Total deals: 410
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 55% OFF Lifetime Premium Plan **BLACKFRIDAY_2024** |
 | 💬 | [ChatHub](https://chathub.gg/?utm_source=bf) | Chat with multiple AI models side by side. | 10% OFF annual subscription with code **BFCM24** |
 |  ⚡ | [BoltAI](https://boltai.com?via=awesomebf) | Access all AI models in one _native_ Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
-| 🔨 | [HammerAI](https://www.hammerai.com/?utm_source=bf) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 |  ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF  |
 |  ⭐ | [Zen AI](https://design.getzenai.com/) | Automate your daily prompts with an easy-to-use workflow AI. | 50% OFF with code **BLACKFRIDAY2024** |
 |  📝 | [Writers Brew AI](https://writersbrew.app/) | #1 AI Writing app. An AI writing assistant app that works across your macOS | Bundle upto 60% OFF  |
@@ -154,6 +153,7 @@ Total deals: 410
 | 🚀 | [EnConvo](https://enconvo.com/) | An context awareness all-in-one AI Launcher that integrates knowledge base, workflows, voice input method, PopBar, image generation, AI websearch capabilities with plugins system.  | 60% OFF Lifetime Premium Plan **ENCONVOBLACKFRIDAY2024** |
 | ✨ | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=trungdq88%2FAwesome-Black-Friday-Cyber-Monday) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.  | 35-50% OFF  |
 | 💬 | [Chatbox](https://chatboxai.app/?utm_source=awesomebf) | Access all AI models from any device - PC, Mac, or mobile. Switch between top AI services and local models seamlessly across all your devices. | 10% OFF annual subscription with code **YKLNZPY3** |
+| 🔨 | [HammerAI](https://www.hammerai.com/?utm_source=bf) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 
 [⬆️ Go to Top](#table-of-contents)
 
