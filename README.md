@@ -797,6 +797,7 @@ Total deals: 450
 | 📚 | [Easy Language Learning](https://gagansharma.gumroad.com/l/lnvwah/BF24) | A no-fluff guide to learning languages! | 50% OFF for Black Friday: Code **BF24** |
 | 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
 | 🎮 | [now.gg](https://now.gg) | Ad-free Premium Subscription | Black Friday deal, upto 50% OFF |
+| ✏️ | [Soinna - Zen of Minimalism writing](https://soinna.com) | A minimalist, beautiful, zen-like, SEO-friendly text medium. | Lifetime 70% OFF with code **BF70** |
 
 
 [⬆️ Go to Top](#table-of-contents)
