@@ -338,6 +338,7 @@ Total deals: 450
 | ⭐ | [WhatPulse](https://whatpulse.org?ref=awbfcm) | Analyze your productivity and activity using WhatPulse. Track time spent in applications, keyboard and mouse usage, and network traffic. | 20% OFF with code **E3ROSPGL1O** |
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 | 🕓 | [Minizones](https://minizones.app) | Quickly glance at different timezones, right from your menubar. | **50% OFF** till Dec 3 (automatically applied) |
+| 🕓 | [Daily Time Tracking](https://dailytimetracking.com?utm_source=awesome) | Time tracking for Mac without toggling timers. | **30% OFF** (automatically applied) |
 
 
 [⬆️ Go to Top](#table-of-contents)
