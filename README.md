@@ -519,7 +519,7 @@ Total deals: 450
 | 💸 | [Ultimate Budgeting Spreadsheet + Assets Tracker](https://prosheetivity.gumroad.com/l/budgeting-money-management-financial-tracking/BF39) | Plan budgets, track expenses, and manage lifetime assets with this all-in-one spreadsheet, complete with automated stock price updates! | 39% OFF with code **BF39** – Lifetime access for just **$4.27** |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% OFF SubManager+ Lifetime IAP ($0.99) available from Nov 29 to Dec 2 |
 | 🖥️ | [CheckCraft](https://apps.apple.com/us/app/shellhistory/id1564015476) | Print Checks at Home (US Only) | 50% off - USD 1.99 -> USD 0.99 until Dec 7th |
-| 💵 | [stocktrader.studio](https://stocktrader.studio) | AI-powered stock market research with best-in-class financial data. | 50% OFF with code **BLACKFRIDAY2024** |
+| 💵 | [stocktrader.studio](https://stocktrader.studio) | AI-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners and global coverage. | 50% OFF with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
