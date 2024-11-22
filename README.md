@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 450
+Total deals: 451
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (19)](#-developer-macos-apps)
@@ -48,7 +48,7 @@ Total deals: 450
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (31)](#-boilerplates-starter-kit-templates)
+- [💅 Boilerplates, Starter-Kit, Templates (32)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (2)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
@@ -583,6 +583,7 @@ Total deals: 450
 | 🪐 | [Gravity](https://usegravity.app) | Join 1100+ customers who shipped at warp speed with the SaaS boilerplate that handles the complex, boring code like payments and authentication while you build fun features that generate revenue. | **30% OFF** with **BLACKFRIDAY24** |
 | 💫 | [Lexington Themes](https://lexingtonthemes.com/) | The most popular Astro Js and Tailwind CSS bundle on the market with 30 stunning and multipage templates. Includes new themes, updates, unlimited projects, and lifetime support. — No subscription required!. | **40% OFF** with **LEXINGTON40** |
 | 🎉 | [OxbowUI](https://oxbowui.com/) | Free and premium components and UI Blocks Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise. — No subscription required!. | **70% OFF** with **OXBOW70** |
+| 🚀 | [Nexi Launch](https://nexilaunch.com/) | High-converting landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | **50% OFF** with **BF2024** |
 
 
 
