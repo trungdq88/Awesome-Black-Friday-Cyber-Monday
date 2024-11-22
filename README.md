@@ -543,6 +543,7 @@ Total deals: 410
 | ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
 |  🚀 | [Mkdirs](https://mkdirs.com) | The best directory website template, packed with Listings, Payment, Submission, CMS, Blog, Authentication, Newsletter, SEO, Themes and more. | **$119 Only** Discount applied already |
 |  🔥 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | **25% OFF** with **BLACKFRIDAY2024** |
+| 🪐 | [Gravity](https://usegravity.app) | Join 1100+ customers who shipped at warp speed with the SaaS boilerplate that handles the complex, boring code like payments and authentication while you build fun features that generate revenue. | **30% OFF** with **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
