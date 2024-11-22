@@ -264,6 +264,8 @@ Total deals: 450
 | 🖌️ | [Affinity Designer](https://affinity.serif.com/en-gb/designer/) | Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design. | 50% OFF (automatic) |
 | 🖌️ | [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/) | Affinity Publisher is the next generation of professional page layout software. | 50% OFF (automatic) |
 | 🖌️ | [Affinity Photo](https://affinity.serif.com/en-gb/photo/) | Affinity Photo is the first choice of millions of creative and photography professionals around the world | 50% OFF (automatic) |
+| 📷 | [Image Tools Hub](https://imagetoolshub.com/) | Streamline Your Workflow with All-in-One 15 AI Bulk Image Tools For design, e-commerce and marketing agencies | **50% OFF** with code BFCM50 |
+| 🪄 | [Charm Shot AI](https://charmshotai.com/) | Turn Boring Screenshots into Charming Shots For design, content creators and marketing agencies | **40% OFF** with code BFCM40 |
 
 [⬆️ Go to Top](#table-of-contents)
 
