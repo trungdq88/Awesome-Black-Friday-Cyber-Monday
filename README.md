@@ -23,48 +23,48 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 410
+Total deals: 450
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (17)](#-developer-macos-apps)
-	- [💻 Tools & Services (34)](#-tools--services)
+	- [💻 Developer macOS Apps (19)](#-developer-macos-apps)
+	- [💻 Tools & Services (38)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (11)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (27)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (12)](#-other-ai-tools)
+	- [💬 AI Chat UI (14)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (30)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (16)](#-other-ai-tools)
 - [🌅 Design Tools (28)](#-design-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (15)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (12)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (4)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (7)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (13)](#-productivity-mobile-apps)
+		- [Tasks, Organize, Planning (17)](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities (15)](#window-screen-clipboard-utilities)
+		- [Time, Distraction, Focus (5)](#time-distraction-focus)
+		- [Miscellaneous Productivity Apps (8)](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (21)](#-marketing-tools)
-- [🔍 SEO Tools (16)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (17)](#-startup-saastools)
+- [🌈 Marketing Tools (22)](#-marketing-tools)
+- [🔍 SEO Tools (19)](#-seo-tools)
+- [🚀 Startup SaaS/Tools (18)](#-startup-saastools)
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (28)](#-boilerplates-starter-kit-templates)
+- [💅 Boilerplates, Starter-Kit, Templates (31)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (2)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
-		- [Web Dev & Design (10)](#web-dev--design)
+		- [Web Dev & Design (11)](#web-dev--design)
 		- [Apps Development (Mobile/Desktop) (5)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
-		- [Misc Programming Books (5)](#misc-programming-books)
+		- [Misc Programming Books (6)](#misc-programming-books)
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (19)](#-programming-courses)
 	- [🔒 Information Security Courses (4)](#-information-security-courses)
-	- [🎢 Career Courses (8)](#-career-courses)
+	- [🎢 Career Courses (9)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
-- [💪 Health and Fitness (7)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (30)](#-miscellaneous)
+- [💪 Health and Fitness (8)](#-health-and-fitness)
+- [👨‍🎨 Miscellaneous (33)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -90,6 +90,7 @@ Total deals: 410
 | 🖥️ | [Secure ShellFish](https://apps.apple.com/app/apple-store/id1336634154?pt=15897&ct=BlackFriday2&mt=8) | SSH Terminal for iOS & Mac | Lifetime 38% off |
 | 🖥️ | [ShellHistory](https://apps.apple.com/us/app/shellhistory/id1564015476) | Shell History, search, notebooks | 70% off - USD 13.99 -> USD 3.99 until Dec 7th |
 | ⚡️ | [AWS S3 Manager for Desktop](https://buy.polar.sh/polar_cl_D6-7621_p56eN2WX5k3HRDzuUttaYpNdXsTART3-sag) | Effortlessly manage S3 files for Desktop | on-site 50% off |
+|  ⭐ | [TablePlus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% OFF for all plans with code **BLACK_FRIDAY_2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -126,13 +127,16 @@ Total deals: 410
 | ⚡️ | [Wallaby.js](https://wallabyjs.com/) and [Quokka.js](https://quokkajs.com) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Nov-20 to Dec-02 Quokka: **50% OFF**, Wallaby: **30% OFF** | 
 | 🥑 | [Avo for Ruby on Rails](http://avohq.io/deals) | Build Internal Tools, Content Management Systems and CRMs in weeks, not months. | Perpetual **15% OFF** discount | 
 | 🚀 | [ConnectyCube](https://connectycube.com/pricing/) | ConnectyCube is a backend platform offering APIs, SDKs, and tools to integrate chat, voice, and video features into mobile and web apps | **25% off** for 3 months with the code **CC2025** |
-| 🚀 | [OpenWeb Ninja](https://www.openwebninja.com) | Fast and Reliable Web Data & SERP API Stack – Ideal for Marketers, AI / Data Scientists, and Developers Looking to Get Public Data from the Web. | **20% OFF** any plan - **Contact us** on our website | 
-| 🚀 | [Scrappey](https://scrappey.com) | Scrappey.com simplifies web scraping with a robust API that handles anti-bot measures and CAPTCHAs, along with features like rotating proxies and headless browsing for seamless extraction. It offers transparent pricing plans suitable for individuals, startups, and enterprises, with features like concurrent requests, premium proxies, and JavaScript rendering, and hassle-free cancellation options. | **20% OFF**, with code **BLACKFRIDAY** | 
+| 🚀 | [OpenWeb Ninja](https://www.openwebninja.com) | Fast and Reliable Web Data & SERP API Stack – Ideal for Marketers, AI / Data Scientists, and Developers Looking to Get Public Data from the Web. | **20% OFF** any plan - **Contact us** on our website |
+| 🚀 | [Scrappey](https://scrappey.com) | Scrappey.com simplifies web scraping with a robust API that handles anti-bot measures and CAPTCHAs, along with features like rotating proxies and headless browsing for seamless extraction. It offers transparent pricing plans suitable for individuals, startups, and enterprises, with features like concurrent requests, premium proxies, and JavaScript rendering, and hassle-free cancellation options. | **20% OFF**, with code **BLACKFRIDAY** |
 | 🎩 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
 | 🎩 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Lifetime Nov-20 to Nov-30  - **Only 10 licenses available** |
-| 📲 | [Pocket Alert](https://pocketalert.app) | Pocket Alert – empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before. | **40% OFF**, with code **BLACKFRIDAY** | 
+| 📲 | [Pocket Alert](https://pocketalert.app) | Pocket Alert – empowers you to send push notifications directly to your devices (iOS, Android). Seamlessly integrate via API or Webhooks and stay in control of your alerts like never before. | **40% OFF**, with code **BLACKFRIDAY** |
 |  ⭐ | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% OFF with code **BF2024** |
 |  🔥 | [Polypane Developer Browser](https://polypane.app) | The browser for ambitious web developers. everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF!** |
+|  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks downtime, errors, and performance, with instant alerts via email, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
+|  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
@@ -153,6 +157,7 @@ Total deals: 410
 | 🚀 | [EnConvo](https://enconvo.com/) | An context awareness all-in-one AI Launcher that integrates knowledge base, workflows, voice input method, PopBar, image generation, AI websearch capabilities with plugins system.  | 60% OFF Lifetime Premium Plan **ENCONVOBLACKFRIDAY2024** |
 | ✨ | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=trungdq88%2FAwesome-Black-Friday-Cyber-Monday) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.  | 35-50% OFF  |
 | 💬 | [Chatbox](https://chatboxai.app/?utm_source=awesomebf) | Access all AI models from any device - PC, Mac, or mobile. Switch between top AI services and local models seamlessly across all your devices. | 10% OFF annual subscription with code **YKLNZPY3** |
+| 🧠 | [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=abfcm) | Access ChatGPT across all your macOS apps with the press of a shortcut. | 51% OFF with code **LASTLTDBF51** |
 | 🔨 | [HammerAI](https://www.hammerai.com/?utm_source=bf) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -189,6 +194,8 @@ Total deals: 410
 | 🎬 | [Video Short Generator](https://harishgarg.gumroad.com/l/vxolwd/yqfeq2r) | Generate Video Shorts locally. Comes with Full source code | 30% OFF all one time purchase with the coupon code **`YQFEQ2R`** |
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 |  🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
+| ⭐ | [RightBlogger](https://rightblogger.com/) | AI Article Writer and powerful AI tools suite for bloggers and content creators. Create engaging blog posts that are optimized for SEO and readers will love. | 50% OFF yearly plan with code **BF2024** |
+|  📨 | [Tailored Emails](https://tailoredemails.com) | A desktop MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% off on-site |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -210,6 +217,7 @@ Total deals: 410
 | 🤑 | [DigiParser.com](https://www.digiparser.com/) | Extract data from documents and emails with our AI Powered OCR models | **50% OFF** for one year with code **BLACKFRIDAY2024** |
 | 🎙️ | [ai speech writer](https://verble.app) | An AI-powered tool for generating high-quality speech content | **50% OFF** with code **BLACKFRIDAY2024**, unlimited access for $7.50 |
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
+| 🥗 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | A nutrition app that lets users log meals by photo and uses AI to estimate calories and nutrients. | **50% OFF** first year with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -285,6 +293,7 @@ Total deals: 410
 | 📊 | [SmartGantt](https://smartgantt.net) | Instant Gantt Chart Creator. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off until Nov 25th |
+| 🗒️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -307,6 +316,7 @@ Total deals: 410
 | 🌅 | [Rapidemo](https://getrapidemo.com) | Screen recorder with automatic zoom effects. Made for Windows. | 1 free month with code **BLACKFRIDAY24** |
 | 🖥️ | [SMBAct](https://smbact.com) | Cross-platform Window Manager and Switcher | 30% off with code **BF2024** until Dec 21st |
 | 🖥️ | [High DPI Screenshots](https://www.highdpiscreenshots.com/) | A Chrome Plugin that generates super-detailed, high-DPI screenshots beyond standard screen capture capabilities. One time purchase. | 55% discount (automatically applied) |
+| 🔮 | [TabTab](https://tabtabapp.net) | Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps. | **30% OFF** One Time Purchase with code **TABTABLAUNCH** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -318,6 +328,7 @@ Total deals: 410
 |  💰 | [Rize.io Time Tracker](https://rize.io) | Rize is an AI-powered time tracker that improves your focus and builds better work habits. | 40% OFF with code **BLACKFRIDAY2024** |
 | ⭐ | [WhatPulse](https://whatpulse.org?ref=awbfcm) | Analyze your productivity and activity using WhatPulse. Track time spent in applications, keyboard and mouse usage, and network traffic. | 20% OFF with code **E3ROSPGL1O** |
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
+| 🕓 | [Minizones](https://minizones.app) | Quickly glance at different timezones, right from your menubar. | **50% OFF** till Dec 3 (automatically applied) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -355,6 +366,7 @@ Total deals: 410
 | 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
 | 🚀 | [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) | Break down projects into multiple milestones and track the progress - project management app made by an indie, for indies (iOS, iPad). | 50% OFF all plans, including LIFETIME |
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030)              | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Fast accurate and runs Whisper models locally on device. Can also live transcribe or trascribe local video and audio files without the need of an internet connection. |  50% OFF **BFS2024** on yearly plan|
+| ⭐ | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets. | Lifetime 50% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -426,6 +438,7 @@ Total deals: 410
 | ⭐ | [Page Generator Pro](https://www.wpzinc.com/plugins/page-generator-pro/) | Auto mass generate WordPress Pages and Posts, with AI integration | 30% OFF with code **BF2024** |
 | ✍️ | [NotionSEO](https://www.notionseo.xyz) |NotionSEO is a plugin that improves your Notion Pages by helping you optimize your content and keywords for SEO| 30% OFF on Lifetime Plan with code **BLACKFRIDAY2024** |
 | 🔗 | [DA 59 backlinks](https://worldclass.domains/) | Create your profile page and showcase all your projects with DA 59 backlinks | $30/yr(56% OFF) with code **BFLIFETIME** for lifetime |
+| ✅ | [CheckMySEO](https://www.checkmyseo.io?utm_source=git_tdinh_me) | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -439,7 +452,7 @@ Total deals: 410
 |  ⭐ | [UptimeBeats](https://uptimebeats.com/) | Uptime Monitoring Service to ensure 24/7 availability, Track response times, Receive downtime alerts, and Create custom status pages. | 20% OFF with code **BLACKFRIDAY** on Lifetime Deals and all other plans. |
 |  🦊 | [FoxyApps](https://www.foxyapps.com/) | No-code platform to Build, Host & Monetize your AI toolsets | 30% OFF with code **FOXYFORFOUNDERS** on any plan |
 |  📝 | [Youform](https://youform.com) | Form builder - An affordable Typeform alternative | 30% OFF FOR LIFE with code **BLACKFRIDAY2024** |
-|  📊 | [Monitorator](https://monitorator.com?ref=blackfriday) | Unified dashboard for all your Stripe and Plausible accounts. Track revenue and analytics across multiple projects in one place - perfect for agencies and multi-project founders to measure SEO and marketing impact. | 15% OFF on first payment (monthly or annual) |   
+|  📊 | [Monitorator](https://monitorator.com?ref=blackfriday) | Unified dashboard for all your Stripe and Plausible accounts. Track revenue and analytics across multiple projects in one place - perfect for agencies and multi-project founders to measure SEO and marketing impact. | 15% OFF on first payment (monthly or annual) |
 |  📊 | [FeatureHunt](https://featurehunt.app) | Track every feature request from your customers and always have answer to "What Next to Do" | 30% OFF on first payemnt |
 |  🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code **BLACKFRIDAY2024** |
 | 📊 | [FormBold](https://formbold.com/) | Premium form solution featuring a powerful API and backend. Receive submissions via email, Slack, Notion, and more—no coding required. Seamless integration! | **40% OFF** with code **BLFCM2024** |
@@ -452,6 +465,7 @@ Total deals: 410
 | 👑 | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | **75% OFF** all paid plans with code **PH75OFF**|
 | 👥 | [groupsync.app](https://groupsync.app) | Effortlessly sync groups between Slack and Google Workspace. Make it so that @anygroup in Slack and anygroup@yourcompany.com reaches the same people. | **50% OFF** subscriptions with **BLACK50FRIDAY**|
 | 🔗 | [Backlinks for Slack](https://slacklinker.com) | Automatically create backlinks in Slack, linking messages for quick navigation and streamlined project tracking. Keep important info accessible and never lose track of crucial discussions again. | **50% OFF** with code **50BF2024**|
+| 📄 | [DocuGenerate](https://www.docugenerate.com/) | DocuGenerate provides a scalable platform for generating high-quality PDF documents. Developers can leverage our REST API to add document generation to their apps, while non-developers can effortlessly use our No-Code integrations. | **50% OFF** for the First 3 Months with code **BLACKFRIDAY2024**|
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -529,13 +543,13 @@ Total deals: 410
 |  ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer!  |
 |  🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
 |  🚀 | [SuperSaaS](https://supersaas.dev) | The comple Nuxt 3 Fullstack starter kit | **$99 Only** Discount applied already |
-| 🛠️ | [SaaSBold](https://saasbold.com) | SaaSBold is a full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | **40% OFF** with code **BLFCM2024** |  
-| 🌟 | [NextjsTemplates](https://nextjstemplates.com) | 20+ high-quality Next.js templates, starter kits, and boilerplates for your web projects. Effortlessly build stunning websites, SaaS applications, and landing pages! | **40% OFF** with code **BLFCM2024**  |  
-| 🚀 | [UiDeck](https://uideck.com) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses. | **50% OFF** on All-Access plan with code **BLFCM2024** |  
-| 💻 | [GrayGrids](https://graygrids.com) | 100+ ready-to-use website templates, 200+ Bootstrap components, and a Tailwind CSS website builder for businesses, landing pages, eCommerce, and more. | **60% OFF** on All-Access plan with code **BLFCM2024**  |  
-| 📊 | [TailAdmin](https://tailadmin.com) | Leading Tailwind CSS Dashboard Template with 200+ essential UI components for creating feature-rich dashboards and admin panels—available for HTML, React, Next.js, and Vue! | **40% OFF** with code **BLFCM2024** |  
-| ⚙️ | [NextAdmin](https://nextadmin.co) | 200+ Premium Next.js dashboard templates and UI components featuring a variety of pre-built elements, components, pages, and more. | **40% OFF** with code **BLFCM2024**  |  
-| 🛠️ | [TailTemplates](https://tailtemplates.com) | Ready-to-use Premium Tailwind CSS Templates specially crafted for startups, apps, SaaS, landing pages, and business websites. | **40% OFF** on All-Access plan with code **BLFCM2024**|  
+| 🛠️ | [SaaSBold](https://saasbold.com) | SaaSBold is a full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | **40% OFF** with code **BLFCM2024** |
+| 🌟 | [NextjsTemplates](https://nextjstemplates.com) | 20+ high-quality Next.js templates, starter kits, and boilerplates for your web projects. Effortlessly build stunning websites, SaaS applications, and landing pages! | **40% OFF** with code **BLFCM2024**  |
+| 🚀 | [UiDeck](https://uideck.com) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses. | **50% OFF** on All-Access plan with code **BLFCM2024** |
+| 💻 | [GrayGrids](https://graygrids.com) | 100+ ready-to-use website templates, 200+ Bootstrap components, and a Tailwind CSS website builder for businesses, landing pages, eCommerce, and more. | **60% OFF** on All-Access plan with code **BLFCM2024**  |
+| 📊 | [TailAdmin](https://tailadmin.com) | Leading Tailwind CSS Dashboard Template with 200+ essential UI components for creating feature-rich dashboards and admin panels—available for HTML, React, Next.js, and Vue! | **40% OFF** with code **BLFCM2024** |
+| ⚙️ | [NextAdmin](https://nextadmin.co) | 200+ Premium Next.js dashboard templates and UI components featuring a variety of pre-built elements, components, pages, and more. | **40% OFF** with code **BLFCM2024**  |
+| 🛠️ | [TailTemplates](https://tailtemplates.com) | Ready-to-use Premium Tailwind CSS Templates specially crafted for startups, apps, SaaS, landing pages, and business websites. | **40% OFF** on All-Access plan with code **BLFCM2024**|
 | 📊 | [PlainAdmin](https://plainadmin.com) | Bootstrap 5 based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | **40% OFF** with code **BLFCM2024**  |
 |  📩 | [WaitlistEasy](https://waitlisteasy.com/) | The ready-to-deploy boilerplate for waitlists. Build, Publish, Manage - All in ONE | 50% OFF with code **BLACKFRIDAY2024** |
 |  🚀 | [SaaSykit](https://saasykit.com/) | SaaSykit is a Laravel-based boilerplate with everything you need to build an awesome SaaS. Available in both multi-tenant and single-tenant versions. | **25% OFF** on SaaSykit Complete with code **BLACKFRIDAY2024** |
@@ -544,6 +558,8 @@ Total deals: 410
 | ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
 |  🚀 | [Mkdirs](https://mkdirs.com) | The best directory website template, packed with Listings, Payment, Submission, CMS, Blog, Authentication, Newsletter, SEO, Themes and more. | **$119 Only** Discount applied already |
 |  🔥 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | **25% OFF** with **BLACKFRIDAY2024** |
+| 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
+|  💻 | [AdminKit](https://adminkit.io) | Professional admin & dashboard template featuring 500+ ready-to-use UI components, forms, tables, charts and icons | **30% OFF** with **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -613,6 +629,7 @@ Total deals: 410
 | 🕵️ | [CSP Developer Field Guide](https://foundeo.gumroad.com/l/csp-developer-field-guide) | Boost your web app's security, and quiclky master Content-Security-Policy with this book.   | 50% OFF with code **BLACKFRIDAY** |
 | 🔥 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** |
 | ♦️ | [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) | Make your Git development experience super smooth. | 50% off from $39 to $19.50. No code needed. |
+| 🧙 | [Wizard Zines](https://wizardzines.com/) | 50% off PDF and 30% off print zines on many tech topics | 50% off PDF zines with code **WIZARDPDF** and 30% off print zines with code **WIZARDPRINT**. Only valid on Fri Nov 29. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -692,6 +709,7 @@ Total deals: 410
 | ✨ | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** from Nov 15 - Nov 30 |
 | 🚀  | [Get Your First Client as a Freelancer](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% off using code **BLACK** from Nov 15 - Nov 30 |
 | 🚀  | [Zorga](https://www.zorga.io/) | Master the Habits of the World's Top Professionals and Entrepreneurs. Find your Vision and Purpose. Set goals, get a Daily Action Plan, build habits, improve your mindset and optimize your physical and mental health. | 50% off using code **BF2024** (valid 11/20/24 - 11/30/24) |
+| 🧰 | [The Complete Career Toolkit: Personal Branding, Resume Building + more](https://zerotomastery.io/courses/personal-branding/) | The job market is tough. You need to stand out. That's exactly what this course will do by helping you build your personal brand. By the end, you'll also have a professional resume, cover letter, and portfolio website that will make sure you STAND OUT and land more job interviews in 2025. | [50% OFF with code **BUILDMYBRAND**](https://zerotomastery.io/courses/personal-branding/?utm_source=github&utm_medium=bfcm-deals-repo) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -759,6 +777,7 @@ Total deals: 410
 | 🎙️ | [Roads Audio](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
 | 📚 | [Easy Language Learning](https://gagansharma.gumroad.com/l/lnvwah/BF24) | A no-fluff guide to learning languages! | 50% OFF for Black Friday: Code **BF24** |
 | 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
+| 🎮 | [now.gg](https://now.gg) | Ad-free Premium Subscription | Black Friday deal, upto 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
