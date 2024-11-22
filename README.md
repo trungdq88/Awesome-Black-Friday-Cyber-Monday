@@ -44,7 +44,7 @@ Total deals: 410
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (21)](#-marketing-tools)
 - [🔍 SEO Tools (16)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (18)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (17)](#-startup-saastools)
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
 - [🎛 Utility Tools (11)](#-utility-tools)
@@ -55,7 +55,7 @@ Total deals: 410
 		- [Web Dev & Design (10)](#web-dev--design)
 		- [Apps Development (Mobile/Desktop) (5)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
-		- [Misc Programming Books (6)](#misc-programming-books)
+		- [Misc Programming Books (5)](#misc-programming-books)
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
@@ -156,7 +156,6 @@ Total deals: 410
 | 🚀 | [EnConvo](https://enconvo.com/) | An context awareness all-in-one AI Launcher that integrates knowledge base, workflows, voice input method, PopBar, image generation, AI websearch capabilities with plugins system.  | 60% OFF Lifetime Premium Plan **ENCONVOBLACKFRIDAY2024** |
 | ✨ | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=trungdq88%2FAwesome-Black-Friday-Cyber-Monday) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.  | 35-50% OFF  |
 | 💬 | [Chatbox](https://chatboxai.app/?utm_source=awesomebf) | Access all AI models from any device - PC, Mac, or mobile. Switch between top AI services and local models seamlessly across all your devices. | 10% OFF annual subscription with code **YKLNZPY3** |
-| 🧠 | [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=abfcm) | Access ChatGPT across all your macOS apps with the press of a shortcut. | 51% OFF with code **LASTLTDBF51** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -193,7 +192,7 @@ Total deals: 410
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 |  🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
 | ⭐ | [RightBlogger](https://rightblogger.com/) | AI Article Writer and powerful AI tools suite for bloggers and content creators. Create engaging blog posts that are optimized for SEO and readers will love. | 50% OFF yearly plan with code **BF2024** |
-|  📨 | [Tailored Emails](https://tailoredemails.com) | A desktop MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% off on-site |
+|  ⭐ | [TranscriptionPlus](https://transcription.plus?ref=awesomebf) | Advanced transcription service with summary generation, topics identification and speaker identification. | 40% off **forever** with code **`BLACKFRIDAY2024`** at checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -215,7 +214,6 @@ Total deals: 410
 | 🤑 | [DigiParser.com](https://www.digiparser.com/) | Extract data from documents and emails with our AI Powered OCR models | **50% OFF** for one year with code **BLACKFRIDAY2024** |
 | 🎙️ | [ai speech writer](https://verble.app) | An AI-powered tool for generating high-quality speech content | **50% OFF** with code **BLACKFRIDAY2024**, unlimited access for $7.50 |
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
-| 🥗 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | A nutrition app that lets users log meals by photo and uses AI to estimate calories and nutrients. | **50% OFF** first year with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -364,7 +362,6 @@ Total deals: 410
 | 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
 | 🚀 | [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) | Break down projects into multiple milestones and track the progress - project management app made by an indie, for indies (iOS, iPad). | 50% OFF all plans, including LIFETIME |
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030)              | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Fast accurate and runs Whisper models locally on device. Can also live transcribe or trascribe local video and audio files without the need of an internet connection. |  50% OFF **BFS2024** on yearly plan|
-| ⭐ | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets. | Lifetime 50% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -463,7 +460,6 @@ Total deals: 410
 | 👑 | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | **75% OFF** all paid plans with code **PH75OFF**|
 | 👥 | [groupsync.app](https://groupsync.app) | Effortlessly sync groups between Slack and Google Workspace. Make it so that @anygroup in Slack and anygroup@yourcompany.com reaches the same people. | **50% OFF** subscriptions with **BLACK50FRIDAY**|
 | 🔗 | [Backlinks for Slack](https://slacklinker.com) | Automatically create backlinks in Slack, linking messages for quick navigation and streamlined project tracking. Keep important info accessible and never lose track of crucial discussions again. | **50% OFF** with code **50BF2024**|
-| 📄 | [DocuGenerate](https://www.docugenerate.com/) | DocuGenerate provides a scalable platform for generating high-quality PDF documents. Developers can leverage our REST API to add document generation to their apps, while non-developers can effortlessly use our No-Code integrations. | **50% OFF** for the First 3 Months with code **BLACKFRIDAY2024**|
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -557,7 +553,6 @@ Total deals: 410
 |  🚀 | [Mkdirs](https://mkdirs.com) | The best directory website template, packed with Listings, Payment, Submission, CMS, Blog, Authentication, Newsletter, SEO, Themes and more. | **$119 Only** Discount applied already |
 |  🔥 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | **25% OFF** with **BLACKFRIDAY2024** |
 | 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
-|  💻 | [AdminKit](https://adminkit.io) | Professional admin & dashboard template featuring 500+ ready-to-use UI components, forms, tables, charts and icons | **30% OFF** with **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -627,7 +622,6 @@ Total deals: 410
 | 🕵️ | [CSP Developer Field Guide](https://foundeo.gumroad.com/l/csp-developer-field-guide) | Boost your web app's security, and quiclky master Content-Security-Policy with this book.   | 50% OFF with code **BLACKFRIDAY** |
 | 🔥 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** |
 | ♦️ | [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) | Make your Git development experience super smooth. | 50% off from $39 to $19.50. No code needed. |
-| 🧙 | [Wizard Zines](https://wizardzines.com/) | 50% off PDF and 30% off print zines on many tech topics | 50% off PDF zines with code **WIZARDPDF** and 30% off print zines with code **WIZARDPRINT**. Only valid on Fri Nov 29. |
 
 [⬆️ Go to Top](#table-of-contents)
 
