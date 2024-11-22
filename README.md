@@ -557,6 +557,7 @@ Total deals: 410
 |  🚀 | [Mkdirs](https://mkdirs.com) | The best directory website template, packed with Listings, Payment, Submission, CMS, Blog, Authentication, Newsletter, SEO, Themes and more. | **$119 Only** Discount applied already |
 |  🔥 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | **25% OFF** with **BLACKFRIDAY2024** |
 | 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
+|  💻 | [AdminKit](https://adminkit.io) | Professional admin & dashboard template featuring 500+ ready-to-use UI components, forms, tables, charts and icons | **30% OFF** with **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
