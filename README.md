@@ -364,6 +364,7 @@ Total deals: 410
 | 💰 | [Sono - Debt tracker app](https://sonofinance.com) | Sono is a debt tracker and management app that helps you easily manage money borrowed or lent to others, with advanced features. | 50% OFF for lifetime premium |
 | 🚀 | [Milestones - Project Management](https://apps.apple.com/us/app/project-planner-milestones/id6737195092) | Break down projects into multiple milestones and track the progress - project management app made by an indie, for indies (iOS, iPad). | 50% OFF all plans, including LIFETIME |
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030)              | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Fast accurate and runs Whisper models locally on device. Can also live transcribe or trascribe local video and audio files without the need of an internet connection. |  50% OFF **BFS2024** on yearly plan|
+| ⭐ | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts. Save and organize your quotes, thoughts, lessons learned, etc. and review them in a feed of your inspirations and in widgets. | Lifetime 50% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
