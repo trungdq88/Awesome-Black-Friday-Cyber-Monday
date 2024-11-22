@@ -27,7 +27,7 @@ Total deals: 410
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (17)](#-developer-macos-apps)
-	- [💻 Tools & Services (34)](#-tools--services)
+	- [💻 Tools & Services (35)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (11)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (27)](#-ai-productivity--learning-tools)
@@ -134,6 +134,8 @@ Total deals: 410
 |  ⭐ | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% OFF with code **BF2024** |
 |  🔥 | [Polypane Developer Browser](https://polypane.app) | The browser for ambitious web developers. everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF!** |
 |  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks downtime, errors, and performance, with instant alerts via email, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
+|  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
