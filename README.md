@@ -158,6 +158,7 @@ Total deals: 450
 | ✨ | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=trungdq88%2FAwesome-Black-Friday-Cyber-Monday) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast.  | 35-50% OFF  |
 | 💬 | [Chatbox](https://chatboxai.app/?utm_source=awesomebf) | Access all AI models from any device - PC, Mac, or mobile. Switch between top AI services and local models seamlessly across all your devices. | 10% OFF annual subscription with code **YKLNZPY3** |
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=abfcm) | Access ChatGPT across all your macOS apps with the press of a shortcut. | 51% OFF with code **LASTLTDBF51** |
+| 🔨 | [HammerAI](https://www.hammerai.com/?utm_source=bf) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 
 [⬆️ Go to Top](#table-of-contents)
 
