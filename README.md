@@ -533,7 +533,7 @@ Total deals: 453
 | 🤑 | [Pi-hole Remote](https://apps.apple.com/app/apple-store/id1515445551) | The best Pi-hole companion on iOS, macOS, and watchOS. | One-time app purchase 50% off |
 | 🤑 | [Cork](https://corkmac.app) | The Ultimate Homebrew Companion - Cork is the most fully-featured and intuitive GUI for Homebrew, native to the Mac. | 50% OFF the LIFETIME LICENSE with code **`BFINDIEOFF`** |
 | 💰 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) |
-
+| 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | 25% off (automatic) |
 
 
 [⬆️ Go to Top](#table-of-contents)
