@@ -120,7 +120,7 @@ Total deals: 450
 | ⭐ | [screenpipe](https://screenpi.pe/) | rewind.ai x cursor.com = AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. | 30% OFF |
 |  👀 | [Oh Dear](https://ohdear.app) | Monitor uptime, SSL certifcates, broken links, scheduled jobs, domain expiry, DNS records, and much more! We offer beautiful status pages as well. Get alerted via mail, SMS, Slack, webhooks and may other channels.  | 30% off on all yearly plans code **BACKFRIDAY24** |
 |  ⭐ | [TagHound](https://chromewebstore.google.com/detail/taghound-analyticsgtmpixe/canpneabbfipaelecfibpmmjbdkiaolf) | Validate and debug +22 analytics tools, Google Tag Manager and ad platforms pixels with ease. | [25% OFF on all plans for TagHound Plus with code *BLACK24*](https://trafikant.gumroad.com/l/TagHoundPlus) |
-|  🐰 | [CodeRabbit](https://coderabbit.ai) | AI-Powered Code Review Bot - Detailed code reviews and suggestions to improve code quality. Supports GitHub, GitLab. | Free for open source projects |
+| 🐰 | [CodeRabbit](https://coderabbit.ai) | AI-Powered Code Review Bot - Detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. | Free for open-source projects | Use code **BLACKFRIDAY** for 1 month free on the pro version. [Learn more](https://www.coderabbit.ai/pricing) |
 | 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 | 🤑 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Pixpa is an all-in-one, no-code website builder for creatives and small businesses to create beautiful, professional websites with an in-built online store, a dynamic blog, client galleries, ecommerce galleries, a photo gallery app, and marketing tools. Pixpa’s versatile platform has everything you need to showcase your work, share ideas, and sell your work online without any coding knowledge.| Use this promo code **BLFPIXPA55** to get up to **55% discount** on annual plans.|
@@ -202,6 +202,7 @@ Total deals: 450
 |  📨 | [Tailored Emails](https://tailoredemails.com) | A desktop MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% off on-site |
 | 💬 | [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=awesome-bf&mt=8) | Fast, privacy-focus way to transcribe audio, video, and podcast files. | 50% off - USD 12.99 -> 6.59 until Dec 3th |
 | ⭐ | [TalkTune](https://www.talktune.ai) | AI-powered tool to enhance speaking skills and build confidence through personalized practice sessions | Use promo code **BLACKFRIDAY2024** for a **50% discount** |
+| ⭐ | [PageGen](https://pagegen.ai) | 10x Faster Page Generation with Claude AI, React and Shadcn UI | Use promo code **BLACK24** for a **30% discount** |
 | 🧠 | [MemFree](https://www.memfree.me) | MemFree - Hybrid AI search: Unlock Accurate Answers Faster | Use promo code **BLACK24** for a **30% discount** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -225,6 +226,7 @@ Total deals: 450
 | 🎙️ | [ai speech writer](https://verble.app) | An AI-powered tool for generating high-quality speech content | **50% OFF** with code **BLACKFRIDAY2024**, unlimited access for $7.50 |
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
 | 🥗 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | A nutrition app that lets users log meals by photo and uses AI to estimate calories and nutrients. | **50% OFF** first year with code **BF24** |
+| 🐧 | [SnapStory](https://www.snapstoryai.com/) | SnapStory turns your photos into captivating stories and visually striking images with unique styles. Personalize storytelling tones, share seamlessly on social media, or download to keep forever. | **30% OFF** on any plan with code **BLACK24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -299,7 +301,7 @@ Total deals: 450
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 60% OFF |
 | 📊 | [SmartGantt](https://smartgantt.net) | Instant Gantt Chart Creator. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
-| 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off until Nov 25th |
+| 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 | 🗒️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime |
 
 
@@ -571,7 +573,8 @@ Total deals: 450
 | 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
 |  💻 | [AdminKit](https://adminkit.io) | Professional admin & dashboard template featuring 500+ ready-to-use UI components, forms, tables, charts and icons | **30% OFF** with **BF2024** |
 | 🪐 | [Gravity](https://usegravity.app) | Join 1100+ customers who shipped at warp speed with the SaaS boilerplate that handles the complex, boring code like payments and authentication while you build fun features that generate revenue. | **30% OFF** with **BLACKFRIDAY24** |
-| 🪐 | [Lexington Themes](https://lexingtonthemes.com/) | The most popular Astro Js and Tailwind CSS bundle on the market with 30 stunning and multipage templates. Includes new themes, updates, unlimited projects, and lifetime support. — No subscription required!. | **40% OFF** with **LEXINGTON40** |
+| 💫 | [Lexington Themes](https://lexingtonthemes.com/) | The most popular Astro Js and Tailwind CSS bundle on the market with 30 stunning and multipage templates. Includes new themes, updates, unlimited projects, and lifetime support. — No subscription required!. | **40% OFF** with **LEXINGTON40** |
+| 🎉 | [OxbowUI](https://oxbowui.com/) | Free and premium components and UI Blocks Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise. — No subscription required!. | **70% OFF** with **OXBOW70** |
 
 
 
