@@ -326,6 +326,8 @@ Total deals: 450
 | 🖥️ | [SMBAct](https://smbact.com) | Cross-platform Window Manager and Switcher | 30% off with code **BF2024** until Dec 21st |
 | 🖥️ | [High DPI Screenshots](https://www.highdpiscreenshots.com/) | A Chrome Plugin that generates super-detailed, high-DPI screenshots beyond standard screen capture capabilities. One time purchase. | 55% discount (automatically applied) |
 | 🔮 | [TabTab](https://tabtabapp.net) | Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps. | **30% OFF** One Time Purchase with code **TABTABLAUNCH** |
+| 🦆 | [Duckboard](https://duckboard.pro/) | Stop the browser tabs madness. Capture web fragments as interactive widgets. | **20% OFF** One Time Purchase with code **BLACK2024FRIDAY** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
