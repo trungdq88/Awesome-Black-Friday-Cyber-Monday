@@ -354,6 +354,8 @@ Total deals: 450
 | 📞 | [MuteDeck](https://mutedeck.com?ref=awbfcm) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
 | 💰 | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | **BLACKFRIDAY2024** 25% off |
 | 💻  | [Voice Type-Dictation Tool](https://carelesswhisper.app)    | Local dictation tool for macOS. Good for folks using ChatGpt, Claude, Cursor etc all day. Voice types technical terms really fast and accurate. ++ if you suffer from RSI, wrist or neck pain from extended desk work. One time purchase since it runs locally. |  50% OFF till Nov-30 |
+| 🖥️ | [GlanceCam IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) | GlanceCam is beloved and powerful IP camera viewer for Mac with support for standard streaming protocols | Standard version $ 1,99 (**50% off!**) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
