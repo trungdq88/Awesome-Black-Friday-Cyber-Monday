@@ -319,6 +319,7 @@ Total deals: 410
 |  💰 | [Rize.io Time Tracker](https://rize.io) | Rize is an AI-powered time tracker that improves your focus and builds better work habits. | 40% OFF with code **BLACKFRIDAY2024** |
 | ⭐ | [WhatPulse](https://whatpulse.org?ref=awbfcm) | Analyze your productivity and activity using WhatPulse. Track time spent in applications, keyboard and mouse usage, and network traffic. | 20% OFF with code **E3ROSPGL1O** |
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
+| 🕓 | [Minizones](https://minizones.app) | Quickly glance at different timezones, right from your menubar. | **50% OFF** till Dec 3 (automatically applied) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -546,6 +547,7 @@ Total deals: 410
 | ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
 |  🚀 | [Mkdirs](https://mkdirs.com) | The best directory website template, packed with Listings, Payment, Submission, CMS, Blog, Authentication, Newsletter, SEO, Themes and more. | **$119 Only** Discount applied already |
 |  🔥 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | **25% OFF** with **BLACKFRIDAY2024** |
+| 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
