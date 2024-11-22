@@ -192,6 +192,7 @@ Total deals: 410
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 |  🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
 | ⭐ | [RightBlogger](https://rightblogger.com/) | AI Article Writer and powerful AI tools suite for bloggers and content creators. Create engaging blog posts that are optimized for SEO and readers will love. | 50% OFF yearly plan with code **BF2024** |
+|  📨 | [Tailored Emails](https://tailoredemails.com) | A desktop MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% off on-site |
 
 [⬆️ Go to Top](#table-of-contents)
 
