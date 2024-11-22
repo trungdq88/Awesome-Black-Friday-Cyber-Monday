@@ -572,7 +572,8 @@ Total deals: 450
 | 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
 |  💻 | [AdminKit](https://adminkit.io) | Professional admin & dashboard template featuring 500+ ready-to-use UI components, forms, tables, charts and icons | **30% OFF** with **BF2024** |
 | 🪐 | [Gravity](https://usegravity.app) | Join 1100+ customers who shipped at warp speed with the SaaS boilerplate that handles the complex, boring code like payments and authentication while you build fun features that generate revenue. | **30% OFF** with **BLACKFRIDAY24** |
-| 🪐 | [Lexington Themes](https://lexingtonthemes.com/) | The most popular Astro Js and Tailwind CSS bundle on the market with 30 stunning and multipage templates. Includes new themes, updates, unlimited projects, and lifetime support. — No subscription required!. | **40% OFF** with **LEXINGTON40** |
+| 💫 | [Lexington Themes](https://lexingtonthemes.com/) | The most popular Astro Js and Tailwind CSS bundle on the market with 30 stunning and multipage templates. Includes new themes, updates, unlimited projects, and lifetime support. — No subscription required!. | **40% OFF** with **LEXINGTON40** |
+| 🎉 | [OxbowUI](https://oxbowui.com/) | Free and premium components and UI Blocks Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise. — No subscription required!. | **70% OFF** with **OXBOW70** |
 
 
 
