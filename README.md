@@ -583,6 +583,7 @@ Total deals: 450
 | 🪐 | [Gravity](https://usegravity.app) | Join 1100+ customers who shipped at warp speed with the SaaS boilerplate that handles the complex, boring code like payments and authentication while you build fun features that generate revenue. | **30% OFF** with **BLACKFRIDAY24** |
 | 💫 | [Lexington Themes](https://lexingtonthemes.com/) | The most popular Astro Js and Tailwind CSS bundle on the market with 30 stunning and multipage templates. Includes new themes, updates, unlimited projects, and lifetime support. — No subscription required!. | **40% OFF** with **LEXINGTON40** |
 | 🎉 | [OxbowUI](https://oxbowui.com/) | Free and premium components and UI Blocks Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise. — No subscription required!. | **70% OFF** with **OXBOW70** |
+| 📱 | [KAppMaker](https://kappmaker.com/) | KAppMaker is a Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS - Auth, Notification, In app purchases. | **30% OFF** with **BLACKFRIDAY30** |
 
 
 
