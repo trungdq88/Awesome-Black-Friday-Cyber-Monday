@@ -201,6 +201,7 @@ Total deals: 450
 | ⭐ | [RightBlogger](https://rightblogger.com/) | AI Article Writer and powerful AI tools suite for bloggers and content creators. Create engaging blog posts that are optimized for SEO and readers will love. | 50% OFF yearly plan with code **BF2024** |
 |  📨 | [Tailored Emails](https://tailoredemails.com) | A desktop MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% off on-site |
 | 💬 | [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=awesome-bf&mt=8) | Fast, privacy-focus way to transcribe audio, video, and podcast files. | 50% off - USD 12.99 -> 6.59 until Dec 3th |
+| ⭐ | [TalkTune](https://www.talktune.ai) | AI-powered tool to enhance speaking skills and build confidence through personalized practice sessions | Use promo code **BLACKFRIDAY2024** for a **50% discount** |
 
 [⬆️ Go to Top](#table-of-contents)
 
