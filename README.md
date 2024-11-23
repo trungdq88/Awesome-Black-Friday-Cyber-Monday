@@ -143,6 +143,7 @@ Total deals: 487
 |  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 | 🍍  | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout.                                                                                             |
 |  🚀 | [CTFreak](https://ctfreak.com) | IT task scheduler for concurrent and remote executions of Bash / Powershell / SQL scripts. | **30% off** the first year |
+|  🔥 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering customization options for seamless integration and enhanced document viewing experiences. | 55% OFF any license |
 
 [⬆️ Go to Top](#table-of-contents)
 
