@@ -233,6 +233,7 @@ Total deals: 487
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
 | 🥗 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | A nutrition app that lets users log meals by photo and uses AI to estimate calories and nutrients. | **50% OFF** first year with code **BF24** |
 | 🐧 | [SnapStory](https://www.snapstoryai.com/) | SnapStory turns your photos into captivating stories and visually striking images with unique styles. Personalize storytelling tones, share seamlessly on social media, or download to keep forever. | **30% OFF** on any plan with code **BLACK24** |
+| ✒️ | [Career Craft AI](https://careercraftai.com/#pricing) | CareerCraftAI is your go-to AI-powered platform for generating customized cover letters, getting personalized resume feedback, creating impactful resume summaries, and impressive LinkedIn profile. | 40% OFF on all plans, Use discount code: **BFDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
