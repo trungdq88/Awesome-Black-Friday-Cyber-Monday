@@ -210,6 +210,7 @@ Total deals: 451
 | 🧠 | [MemFree](https://www.memfree.me) | MemFree - Hybrid AI search: Unlock Accurate Answers Faster | Use promo code **BLACK24** for a **30% discount** |
 | 📚 | [Rephrasy](https://rephrasy.ai) | Rephrasy - AI Humanizer and built-in AI Detector | Use promo code **BLF25** for an additional **25% discount** on the lifetime deal |
 
+
 [⬆️ Go to Top](#table-of-contents)
 
 ### ✨ Other AI tools
@@ -271,6 +272,7 @@ Total deals: 451
 | 🖌️ | [Affinity Photo](https://affinity.serif.com/en-gb/photo/) | Affinity Photo is the first choice of millions of creative and photography professionals around the world | 50% OFF (automatic) |
 | 📷 | [Image Tools Hub](https://imagetoolshub.com/) | Streamline Your Workflow with All-in-One 15 AI Bulk Image Tools For design, e-commerce and marketing agencies | **50% OFF** with code BFCM50 |
 | 🪄 | [Charm Shot AI](https://charmshotai.com/) | Turn Boring Screenshots into Charming Shots For design, content creators and marketing agencies | **40% OFF** with code BFCM40 |
+| 🖌️ | [Noble Shapes](https://nobleshapes.com) | Noble Shapes - AI Image Generation Prompt Assistant: Explore a handpicked collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using Style References (srefs) by looking at our beautiful generated images to "Know It When You See It.” | Use Discount code **BF24** for a **25% discount** |
 
 [⬆️ Go to Top](#table-of-contents)
 
