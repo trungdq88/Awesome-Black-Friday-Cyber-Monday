@@ -205,6 +205,7 @@ Total deals: 450
 | ⭐ | [TalkTune](https://www.talktune.ai) | AI-powered tool to enhance speaking skills and build confidence through personalized practice sessions | Use promo code **BLACKFRIDAY2024** for a **50% discount** |
 | ⭐ | [PageGen](https://pagegen.ai) | 10x Faster Page Generation with Claude AI, React and Shadcn UI | Use promo code **BLACK24** for a **30% discount** |
 | 🧠 | [MemFree](https://www.memfree.me) | MemFree - Hybrid AI search: Unlock Accurate Answers Faster | Use promo code **BLACK24** for a **30% discount** |
+| 📚 | [Rephrasy](https://rephrasy.ai) | Rephrasy - AI Humanizer and built-in AI Detector | Use promo code **BLF25** for an additional **25% discount** on the lifetime deal |
 
 [⬆️ Go to Top](#table-of-contents)
 
