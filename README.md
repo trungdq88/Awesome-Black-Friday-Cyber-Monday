@@ -273,6 +273,7 @@ Total deals: 487
 | 📷 | [Image Tools Hub](https://imagetoolshub.com/) | Streamline Your Workflow with All-in-One 15 AI Bulk Image Tools For design, e-commerce and marketing agencies | **50% OFF** with code BFCM50 |
 | 🪄 | [Charm Shot AI](https://charmshotai.com/) | Turn Boring Screenshots into Charming Shots For design, content creators and marketing agencies | **40% OFF** with code BFCM40 |
 | 🖌️ | [Noble Shapes](https://nobleshapes.com) | Noble Shapes - AI Image Generation Prompt Assistant: Explore a handpicked collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using Style References (srefs) by looking at our beautiful generated images to "Know It When You See It.” | Use Discount code **BF24** for a **25% discount** |
+| 🎨 | [Quick QR Art](https://quickqr.art/) | #1 QR Code Art Generator (1.3M+ users) - Create beautiful and functional QR codes with artistic designs | 40% OFF yearly package with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -439,6 +440,7 @@ Total deals: 487
 | 🚀 | [Redditpulse](https://redditpulse.solobuilderhub.com/) | Elevate Your Reddit Game with AI-Powered Comments. | Get flat $30 off on Redditor Pro quaterly deal with the code **BF24** |
 |  👨‍💻 | [DevSuite](https://devsuite.co) | Find the Perfect Developer Tools for Your Next Project | 50% OFF of all premium submission options with code **BLACKFRIDAY24** |
 | 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
+| 🤖 | [AgenticFlow AI](https://agenticflow.ai/) | Automate marketing workflows and scale with Agentic AI. No-code platform for content creation, CRM enrichment, and prospecting. | 40% OFF all plans with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
