@@ -479,7 +479,7 @@ Total deals: 450
 | 👥 | [groupsync.app](https://groupsync.app) | Effortlessly sync groups between Slack and Google Workspace. Make it so that @anygroup in Slack and anygroup@yourcompany.com reaches the same people. | **50% OFF** subscriptions with **BLACK50FRIDAY**|
 | 🔗 | [Backlinks for Slack](https://slacklinker.com) | Automatically create backlinks in Slack, linking messages for quick navigation and streamlined project tracking. Keep important info accessible and never lose track of crucial discussions again. | **50% OFF** with code **50BF2024**|
 | 📄 | [DocuGenerate](https://www.docugenerate.com/) | DocuGenerate provides a scalable platform for generating high-quality PDF documents. Developers can leverage our REST API to add document generation to their apps, while non-developers can effortlessly use our No-Code integrations. | **50% OFF** for the First 3 Months with code **BLACKFRIDAY2024**|
-| 📬| [RogerRoger](https://rogerroger.io) | This next-gen sales inbox brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It has a built-in sales pipeline and a hint of CRM, helping you manage follow-ups and keeping your conversations front and center. | 40% off all plans with code *BF2024SALE* . | Nov 22 - Dec 3 |
+| 📬| [RogerRoger](https://rogerroger.io) | This next-gen sales inbox brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It has a built-in sales pipeline and a hint of CRM, helping you manage follow-ups and keeping your conversations front and center. | 40% off all plans with code *BF2024SALE* . Nov 22 - Dec 3 |
 
 
 [⬆️ Go to Top](#table-of-contents)
