@@ -43,7 +43,7 @@ Total deals: 450
 	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (22)](#-marketing-tools)
-- [🔍 SEO Tools (19)](#-seo-tools)
+- [🔍 SEO Tools (20)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (18)](#-startup-saastools)
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
@@ -457,6 +457,7 @@ Total deals: 450
 | ✍️ | [NotionSEO](https://www.notionseo.xyz) |NotionSEO is a plugin that improves your Notion Pages by helping you optimize your content and keywords for SEO| 30% OFF on Lifetime Plan with code **BLACKFRIDAY2024** |
 | 🔗 | [DA 59 backlinks](https://worldclass.domains/) | Create your profile page and showcase all your projects with DA 59 backlinks | $30/yr(56% OFF) with code **BFLIFETIME** for lifetime |
 | ✅ | [CheckMySEO](https://www.checkmyseo.io?utm_source=git_tdinh_me) | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
+| 🏄 | [Surfer](https://surferseo.com/black-friday/?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | SEO platform that helps you create the best-performing content and maximize organic traffic. | 30% more credits (all plans, for life), 30% OFF annual plans (for life), up to 40% off on AI packages. |
 
 
 [⬆️ Go to Top](#table-of-contents)
