@@ -440,7 +440,7 @@ Total deals: 487
 | 🚀 | [Redditpulse](https://redditpulse.solobuilderhub.com/) | Elevate Your Reddit Game with AI-Powered Comments. | Get flat $30 off on Redditor Pro quaterly deal with the code **BF24** |
 |  👨‍💻 | [DevSuite](https://devsuite.co) | Find the Perfect Developer Tools for Your Next Project | 50% OFF of all premium submission options with code **BLACKFRIDAY24** |
 | 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
-
+| 💌 | [recuremail](https://recuremail.com) | Simple Headless Newsletter Tool | 30% OFF for all new plans **FRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
