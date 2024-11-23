@@ -531,7 +531,7 @@ Total deals: 487
 | 🖥️ | [CheckCraft](https://apps.apple.com/us/app/shellhistory/id1564015476) | Print Checks at Home (US Only) | 50% off - USD 1.99 -> USD 0.99 until Dec 7th |
 | 💹 | [Finance Bay](https://apps.apple.com/us/app/portfolio-tracker-finance-bay/id1564797771) | Comprehensive investment tracking app, designed to help you analyze, optimize, and benchmark your financial portfolios | 50% OFF using this [Redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=1564797771&code=BLACKFRIDAY24) |
 | 💵 | [stocktrader.studio](https://stocktrader.studio) | AI-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners and global coverage. | 50% OFF with code **BLACKFRIDAY2024** |
-
+| 📈 | [Project Profit](https://projectprof.it?ref=awesomebf) | Optimize project finance management with Project Profit for tracking expenses and income. | 50% off with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
