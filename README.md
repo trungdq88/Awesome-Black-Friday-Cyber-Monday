@@ -23,32 +23,32 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 451
+Total deals: 487
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (19)](#-developer-macos-apps)
-	- [💻 Tools & Services (39)](#-tools--services)
+	- [💻 Developer macOS Apps (23)](#-developer-macos-apps)
+	- [💻 Tools & Services (40)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (14)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (30)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (16)](#-other-ai-tools)
-- [🌅 Design Tools (28)](#-design-tools)
+	- [💬 AI Chat UI (16)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (35)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (17)](#-other-ai-tools)
+- [🌅 Design Tools (31)](#-design-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (17)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (15)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (5)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (8)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
+		- [Tasks, Organize, Planning (18)](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities (16)](#window-screen-clipboard-utilities)
+		- [Time, Distraction, Focus (6)](#time-distraction-focus)
+		- [Miscellaneous Productivity Apps (9)](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps (16)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (22)](#-marketing-tools)
 - [🔍 SEO Tools (20)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (18)](#-startup-saastools)
-- [🌏 Social Media Tools (12)](#-social-media-tools)
-- [💸 Finance Tools (7)](#-finance-tools)
-- [🎛 Utility Tools (11)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (32)](#-boilerplates-starter-kit-templates)
+- [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
+- [🌏 Social Media Tools (13)](#-social-media-tools)
+- [💸 Finance Tools (9)](#-finance-tools)
+- [🎛 Utility Tools (14)](#-utility-tools)
+- [💅 Boilerplates, Starter-Kit, Templates (36)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (2)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
@@ -64,7 +64,7 @@ Total deals: 451
 	- [🎢 Career Courses (9)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (33)](#-miscellaneous)
+- [👨‍🎨 Miscellaneous (35)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
