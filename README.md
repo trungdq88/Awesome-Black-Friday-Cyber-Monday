@@ -141,6 +141,7 @@ Total deals: 451
 |  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks downtime, errors, and performance, with instant alerts via email, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
 |  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 | 🍍  | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout.                                                                                             |
+|  🚀 | [CTFreak](https://ctfreak.com) | IT task scheduler for concurrent and remote executions of Bash / Powershell / SQL scripts. | **30% off** the first year |
 
 [⬆️ Go to Top](#table-of-contents)
 
