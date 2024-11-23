@@ -27,7 +27,7 @@ Total deals: 450
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (19)](#-developer-macos-apps)
-	- [💻 Tools & Services (38)](#-tools--services)
+	- [💻 Tools & Services (39)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (14)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (30)](#-ai-productivity--learning-tools)
@@ -43,7 +43,7 @@ Total deals: 450
 	- [📱 Productivity Mobile Apps (15)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (22)](#-marketing-tools)
-- [🔍 SEO Tools (19)](#-seo-tools)
+- [🔍 SEO Tools (20)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (18)](#-startup-saastools)
 - [🌏 Social Media Tools (12)](#-social-media-tools)
 - [💸 Finance Tools (7)](#-finance-tools)
@@ -140,6 +140,7 @@ Total deals: 450
 |  🔥 | [Polypane Developer Browser](https://polypane.app) | The browser for ambitious web developers. everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF!** |
 |  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks downtime, errors, and performance, with instant alerts via email, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
 |  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
+| 🍍  | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout.                                                                                             |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -204,6 +205,7 @@ Total deals: 450
 | ⭐ | [TalkTune](https://www.talktune.ai) | AI-powered tool to enhance speaking skills and build confidence through personalized practice sessions | Use promo code **BLACKFRIDAY2024** for a **50% discount** |
 | ⭐ | [PageGen](https://pagegen.ai) | 10x Faster Page Generation with Claude AI, React and Shadcn UI | Use promo code **BLACK24** for a **30% discount** |
 | 🧠 | [MemFree](https://www.memfree.me) | MemFree - Hybrid AI search: Unlock Accurate Answers Faster | Use promo code **BLACK24** for a **30% discount** |
+| 📚 | [Rephrasy](https://rephrasy.ai) | Rephrasy - AI Humanizer and built-in AI Detector | Use promo code **BLF25** for an additional **25% discount** on the lifetime deal |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -305,6 +307,7 @@ Total deals: 450
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 | 🗒️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime |
+|  📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -457,6 +460,7 @@ Total deals: 450
 | ✍️ | [NotionSEO](https://www.notionseo.xyz) |NotionSEO is a plugin that improves your Notion Pages by helping you optimize your content and keywords for SEO| 30% OFF on Lifetime Plan with code **BLACKFRIDAY2024** |
 | 🔗 | [DA 59 backlinks](https://worldclass.domains/) | Create your profile page and showcase all your projects with DA 59 backlinks | $30/yr(56% OFF) with code **BFLIFETIME** for lifetime |
 | ✅ | [CheckMySEO](https://www.checkmyseo.io?utm_source=git_tdinh_me) | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
+| 🏄 | [Surfer](https://surferseo.com/black-friday/?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | SEO platform that helps you create the best-performing content and maximize organic traffic. | 30% more credits (all plans, for life), 30% OFF annual plans (for life), up to 40% off on AI packages. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -484,6 +488,7 @@ Total deals: 450
 | 👥 | [groupsync.app](https://groupsync.app) | Effortlessly sync groups between Slack and Google Workspace. Make it so that @anygroup in Slack and anygroup@yourcompany.com reaches the same people. | **50% OFF** subscriptions with **BLACK50FRIDAY**|
 | 🔗 | [Backlinks for Slack](https://slacklinker.com) | Automatically create backlinks in Slack, linking messages for quick navigation and streamlined project tracking. Keep important info accessible and never lose track of crucial discussions again. | **50% OFF** with code **50BF2024**|
 | 📄 | [DocuGenerate](https://www.docugenerate.com/) | DocuGenerate provides a scalable platform for generating high-quality PDF documents. Developers can leverage our REST API to add document generation to their apps, while non-developers can effortlessly use our No-Code integrations. | **50% OFF** for the First 3 Months with code **BLACKFRIDAY2024**|
+| 📬| [RogerRoger](https://rogerroger.io) | This next-gen sales inbox brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It has a built-in sales pipeline and a hint of CRM, helping you manage follow-ups and keeping your conversations front and center. | 40% off all plans with code *BF2024SALE* . Nov 22 - Dec 3 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -504,7 +509,7 @@ Total deals: 450
 | 🌟 | [Writastic](https://writastic.com/)    | Make Your Post 10x Viral - From boring to fascinating with templates and rewriting | 50% OFF on all plans with the code **BF2024** (Nov 22 - Dec 6) |
 | ⭐ | [WP to Buffer Pro](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) | Auto send content from WordPress to Facebook, X, Instagram, Threads, LinkedIn, Pinterest, Mastodon, Bluesky and Google Business using Buffer.com | 30% OFF with code **BF2024** |
 | 🟠 | [OSCR AI](https://www.oscr.tech/) | Transform research, videos, audio, and long-form articles into engaging, on-brand social posts in seconds. | 50% OFF on all plans with the code **BF2024** (Nov 18 - Dec 15) |
-
+| 💜 | [IQ Hashtags](https://iqhashtags.com/) | Boost your Instagram profile's visibility and engagement. Access advanced analytics and AI-powered solutions designed for influencers and brands to create a standout social media presence. | Up to 70% OFF on all yearly plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -519,6 +524,7 @@ Total deals: 450
 | 💸 | [Ultimate Budgeting Spreadsheet + Assets Tracker](https://prosheetivity.gumroad.com/l/budgeting-money-management-financial-tracking/BF39) | Plan budgets, track expenses, and manage lifetime assets with this all-in-one spreadsheet, complete with automated stock price updates! | 39% OFF with code **BF39** – Lifetime access for just **$4.27** |
 | 💵 | [SubManager](https://submanager.app) | Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% OFF SubManager+ Lifetime IAP ($0.99) available from Nov 29 to Dec 2 |
 | 🖥️ | [CheckCraft](https://apps.apple.com/us/app/shellhistory/id1564015476) | Print Checks at Home (US Only) | 50% off - USD 1.99 -> USD 0.99 until Dec 7th |
+| 💹 | [Finance Bay](https://apps.apple.com/us/app/portfolio-tracker-finance-bay/id1564797771) | Comprehensive investment tracking app, designed to help you analyze, optimize, and benchmark your financial portfolios | 50% OFF using this [Redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=1564797771&code=BLACKFRIDAY24) |
 | 💵 | [stocktrader.studio](https://stocktrader.studio) | AI-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners and global coverage. | 50% OFF with code **BLACKFRIDAY2024** |
 
 
@@ -584,6 +590,7 @@ Total deals: 450
 | 🪐 | [Gravity](https://usegravity.app) | Join 1100+ customers who shipped at warp speed with the SaaS boilerplate that handles the complex, boring code like payments and authentication while you build fun features that generate revenue. | **30% OFF** with **BLACKFRIDAY24** |
 | 💫 | [Lexington Themes](https://lexingtonthemes.com/) | The most popular Astro Js and Tailwind CSS bundle on the market with 30 stunning and multipage templates. Includes new themes, updates, unlimited projects, and lifetime support. — No subscription required!. | **40% OFF** with **LEXINGTON40** |
 | 🎉 | [OxbowUI](https://oxbowui.com/) | Free and premium components and UI Blocks Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise. — No subscription required!. | **70% OFF** with **OXBOW70** |
+| 📱 | [KAppMaker](https://kappmaker.com/) | KAppMaker is a Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS - Auth, Notification, In app purchases. | **30% OFF** with **BLACKFRIDAY30** |
 
 
 
@@ -705,7 +712,7 @@ Total deals: 450
 |  💻 | [Cursor AI - Master the AI-Powered IDE](https://www.udemy.com/course/cursor-ai-ide/?couponCode=BLACK-FRIDAY-2024) | Learn to supercharge your coding productivity with Cursor AI IDE. Master AI pair programming and code generation features through real-world examples. | 90% OFF with code **BLACK-FRIDAY-2024** |
 |  🧪 | [LabEx](https://labex.io/pricing) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | 50% OFF (2 Years) with code **BF50OFF**, 30% OFF (1 Years) with code **BF30OFF** |
 |  🕷️ | [The Ultimate Web Scraping Course!](https://adrianhorning.gumroad.com/l/the-ultimate-web-scraping-course)  | The best web scraping course out there. (Node.js) By Adrian The Web Scraping Guy | 50% OFF!!! with code **NR3P9NI** |
-|  🚀 | [Zero To Mastery](https://zerotomastery.io/courses/) | [Expires Dec 3] 58% OFF annual membership (that’s $270 of savings): Zero To Mastery’s biggest sale EVER. Learn the most in-demand skills to actually get hired in tech in 2025. Use the promo code **BFCM24** at checkout. BONUS: you’ll automatically be entered into a draw to win a brand new MacBook Pro M4 ($2,099 value)! | 58% OFF with code **BFCM24** |
+|  🚀 | [Zero To Mastery](https://zerotomastery.io/courses/) | [Expires Dec 3] 58% OFF annual membership (that’s $270 of savings): Zero To Mastery’s biggest sale EVER. Learn the most in-demand skills to actually get hired in tech in 2025. Use the promo code **BFCM24** at checkout. BONUS: you’ll automatically be entered into a draw to win a brand new MacBook Pro M4 ($2,099 value)! | [58% OFF with code **BFCM24**](https://links.zerotomastery.io/bfcm2024-github) |
 |  🐍 | [Python Jumpstart](https://www.pythonmorsels.com/courses/jumpstart/overview/) | $100 OFF a very hands-on introductory Python course from Python Morsels, taught by Trey Hunner. Includes 46 Python exercises, each with a short video beforehand and a detailed solution walk-through afterward. | 50% OFF through December 2 |
 
 [⬆️ Go to Top](#table-of-contents)
