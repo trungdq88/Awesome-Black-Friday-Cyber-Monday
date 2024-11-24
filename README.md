@@ -144,6 +144,7 @@ Total deals: 487
 | 🍍  | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout.                                                                                             |
 |  🚀 | [CTFreak](https://ctfreak.com) | IT task scheduler for concurrent and remote executions of Bash / Powershell / SQL scripts. | **30% off** the first year |
 |  🔥 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering customization options for seamless integration and enhanced document viewing experiences. | 55% OFF any license |
+|  🔥 | [BoloSign](https://boloforms.com) | The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| **40% OFF** with the code **BFCM40** at checkout|
 
 [⬆️ Go to Top](#table-of-contents)
 
