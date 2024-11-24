@@ -143,8 +143,8 @@ Total deals: 487
 |  🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 | 🍍  | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout.                                                                                             |
 |  🚀 | [CTFreak](https://ctfreak.com) | IT task scheduler for concurrent and remote executions of Bash / Powershell / SQL scripts. | **30% off** the first year |
+|  🔥 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering customization options for seamless integration and enhanced document viewing experiences. | 55% OFF any license |
 |  🔥 | [BoloSign](https://boloforms.com) | The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| **40% OFF** with the code **BFCM40** at checkout|
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -600,7 +600,7 @@ Total deals: 487
 | 🎉 | [OxbowUI](https://oxbowui.com/) | Free and premium components and UI Blocks Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise. — No subscription required!. | **70% OFF** with **OXBOW70** |
 | 📱 | [KAppMaker](https://kappmaker.com/) | KAppMaker is a Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS - Auth, Notification, In app purchases. | **30% OFF** with **BLACKFRIDAY30** |
 | 🚀 | [Nexi Launch](https://nexilaunch.com/) | High-converting landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | **50% OFF** with **BF2024** |
-
+| 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
