@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 487
+Total deals: 488
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (23)](#-developer-macos-apps)
@@ -47,7 +47,7 @@ Total deals: 487
 - [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
 - [🌏 Social Media Tools (13)](#-social-media-tools)
 - [💸 Finance Tools (9)](#-finance-tools)
-- [🎛 Utility Tools (14)](#-utility-tools)
+- [🎛 Utility Tools (15)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (36)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (2)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -571,6 +571,7 @@ Total deals: 487
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | 25% off (automatic) |
 | 🗜️ | [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=awesome-bf) | A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats. | Lifetime 50% OFF |
 | ± | [DiffAlert](https://diffalert.io?ref=awesomebf) | Automate HTTP request monitoring. Be notified instantly when changes in API responses or web data occur. | 50% off with code **BF2024** |
+|  🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video and audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) |
 
 
 [⬆️ Go to Top](#table-of-contents)
