@@ -144,6 +144,8 @@ Total deals: 487
 | 🍍  | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout.                                                                                             |
 |  🚀 | [CTFreak](https://ctfreak.com) | IT task scheduler for concurrent and remote executions of Bash / Powershell / SQL scripts. | **30% off** the first year |
 | 📦 | [DepsAudit](https://depsaudit.com?ref=awesomebf) | Secure your app with DepsAudit, the package monitoring tool. Set it up once and receive notifications about any new dependency vulnerabilities. | 50% off with code **BF2024** |
+|  🔥 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering customization options for seamless integration and enhanced document viewing experiences. | 55% OFF any license |
+|  🔥 | [BoloSign](https://boloforms.com) | The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| **40% OFF** with the code **BFCM40** at checkout|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -234,6 +236,8 @@ Total deals: 487
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
 | 🥗 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | A nutrition app that lets users log meals by photo and uses AI to estimate calories and nutrients. | **50% OFF** first year with code **BF24** |
 | 🐧 | [SnapStory](https://www.snapstoryai.com/) | SnapStory turns your photos into captivating stories and visually striking images with unique styles. Personalize storytelling tones, share seamlessly on social media, or download to keep forever. | **30% OFF** on any plan with code **BLACK24** |
+| ✒️ | [Career Craft AI](https://careercraftai.com/#pricing) | CareerCraftAI is your go-to AI-powered platform for generating customized cover letters, getting personalized resume feedback, creating impactful resume summaries, and impressive LinkedIn profile. | **40% OFF** on all plans. Use discount code: **BFDAY24** |
+|  ⭐ | [Easy-Peasy.AI](https://easy-peasy.ai) | All-In-One AI Platform | 30% OFF for all plans with code **BFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -274,6 +278,7 @@ Total deals: 487
 | 📷 | [Image Tools Hub](https://imagetoolshub.com/) | Streamline Your Workflow with All-in-One 15 AI Bulk Image Tools For design, e-commerce and marketing agencies | **50% OFF** with code BFCM50 |
 | 🪄 | [Charm Shot AI](https://charmshotai.com/) | Turn Boring Screenshots into Charming Shots For design, content creators and marketing agencies | **40% OFF** with code BFCM40 |
 | 🖌️ | [Noble Shapes](https://nobleshapes.com) | Noble Shapes - AI Image Generation Prompt Assistant: Explore a handpicked collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using Style References (srefs) by looking at our beautiful generated images to "Know It When You See It.” | Use Discount code **BF24** for a **25% discount** |
+| 🎨 | [Quick QR Art](https://quickqr.art/) | #1 QR Code Art Generator (1.3M+ users) - Create beautiful and functional QR codes with artistic designs | 40% OFF yearly package with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -313,7 +318,8 @@ Total deals: 487
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 | 🗒️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime |
-|  📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
+| 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
+| 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -338,6 +344,8 @@ Total deals: 487
 | 🖥️ | [High DPI Screenshots](https://www.highdpiscreenshots.com/) | A Chrome Plugin that generates super-detailed, high-DPI screenshots beyond standard screen capture capabilities. One time purchase. | 55% discount (automatically applied) |
 | 🔮 | [TabTab](https://tabtabapp.net) | Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps. | **30% OFF** One Time Purchase with code **TABTABLAUNCH** |
 | 🦆 | [Duckboard](https://duckboard.pro/) | Stop the browser tabs madness. Capture web fragments as interactive widgets. | **20% OFF** One Time Purchase with code **BLACK2024FRIDAY** |
+| 🖥 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
+| 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays. | Lifetime 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -440,6 +448,7 @@ Total deals: 487
 | 🚀 | [Redditpulse](https://redditpulse.solobuilderhub.com/) | Elevate Your Reddit Game with AI-Powered Comments. | Get flat $30 off on Redditor Pro quaterly deal with the code **BF24** |
 |  👨‍💻 | [DevSuite](https://devsuite.co) | Find the Perfect Developer Tools for Your Next Project | 50% OFF of all premium submission options with code **BLACKFRIDAY24** |
 | 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
+| 🤖 | [AgenticFlow AI](https://agenticflow.ai/) | Automate marketing workflows and scale with Agentic AI. No-code platform for content creation, CRM enrichment, and prospecting. | 40% OFF all plans with code **BLACKFRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -554,6 +563,7 @@ Total deals: 487
 | 🛫 | [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=awesome-bf&mt=8) | Currency calculator | 50% off - USD 5.99 -> 2.99 until Dec 3th |
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | 25% off (automatic) |
 | 🗜️ | [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=awesome-bf) | A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats. | Lifetime 50% OFF |
+| ± | [DiffAlert](https://diffalert.io?ref=awesomebf) | Automate HTTP request monitoring. Be notified instantly when changes in API responses or web data occur. | 50% off with code **BF2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -599,7 +609,7 @@ Total deals: 487
 | 🎉 | [OxbowUI](https://oxbowui.com/) | Free and premium components and UI Blocks Beautifully crafted with Tailwind CSS and Alpine JS — Simple & easy to customise. — No subscription required!. | **70% OFF** with **OXBOW70** |
 | 📱 | [KAppMaker](https://kappmaker.com/) | KAppMaker is a Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS - Auth, Notification, In app purchases. | **30% OFF** with **BLACKFRIDAY30** |
 | 🚀 | [Nexi Launch](https://nexilaunch.com/) | High-converting landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | **50% OFF** with **BF2024** |
-
+| 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
