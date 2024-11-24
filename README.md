@@ -451,7 +451,7 @@ Total deals: 487
 |  👨‍💻 | [DevSuite](https://devsuite.co) | Find the Perfect Developer Tools for Your Next Project | 50% OFF of all premium submission options with code **BLACKFRIDAY24** |
 | 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
 | 🤖 | [AgenticFlow AI](https://agenticflow.ai/) | Automate marketing workflows and scale with Agentic AI. No-code platform for content creation, CRM enrichment, and prospecting. | 40% OFF all plans with code **BLACKFRIDAY24** |
-
+| 💌 | [recuremail](https://recuremail.com) | Simple Headless Newsletter Tool | 30% OFF for all new plans **FRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
