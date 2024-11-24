@@ -547,6 +547,8 @@ Total deals: 487
 | 💵 | [stocktrader.studio](https://stocktrader.studio) | AI-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners and global coverage. | 50% OFF with code **BLACKFRIDAY2024** |
 | 📈 | [Project Profit](https://projectprof.it?ref=awesomebf) | Optimize project finance management with Project Profit for tracking expenses and income. | 50% off with code **BF2024** |
 | 💵 | [Insights for Admob: Stats](https://apps.apple.com/us/app/insights-for-admob-stats/id6738271607) | Great tool to track your AdMob earnings right from your home screen with beautiful widgets. ✅ Daily, Weekly, and Monthly Revenue ✅ Charts ✅ App earnings ✅ eCPM, Impressions, and Clicks ✅ Support converting to more than 150 currencies.| 50% OFF Annual Subscription available from Nov 23 to Nov 30 |
+| 🛡️ | [Expenses Manager](https://apps.apple.com/us/app/monthly-expenses-tracker-app/id1590852070) | #1 Private Expense Tracker: Budget, Track Spending, and Save Smarter with Expenses Manager. | **80% OFF** on Liftime Premium (Available from Nov 26 - Dec 2) |
+| 🧾 | [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) | Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need. | **50% OFF** (Available from Nov 26 - Dec 2) |
 
 [⬆️ Go to Top](#table-of-contents)
 
