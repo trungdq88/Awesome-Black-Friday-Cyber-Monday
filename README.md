@@ -545,6 +545,7 @@ Total deals: 487
 | 💹 | [Finance Bay](https://apps.apple.com/us/app/portfolio-tracker-finance-bay/id1564797771) | Comprehensive investment tracking app, designed to help you analyze, optimize, and benchmark your financial portfolios | 50% OFF using this [Redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=1564797771&code=BLACKFRIDAY24) |
 | 💵 | [stocktrader.studio](https://stocktrader.studio) | AI-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners and global coverage. | 50% OFF with code **BLACKFRIDAY2024** |
 | 📈 | [Project Profit](https://projectprof.it?ref=awesomebf) | Optimize project finance management with Project Profit for tracking expenses and income. | 50% off with code **BF2024** |
+| 💵 | [Insights for Admob: Stats](https://apps.apple.com/us/app/insights-for-admob-stats/id6738271607) | Great tool to track your AdMob earnings right from your home screen with beautiful widgets. ✅ Daily, Weekly, and Monthly Revenue ✅ Charts ✅ App earnings ✅ eCPM, Impressions, and Clicks ✅ Support converting to more than 150 currencies.| 50% OFF Annual Subscription available from Nov 23 to Nov 30 |
 
 [⬆️ Go to Top](#table-of-contents)
 
