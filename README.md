@@ -315,7 +315,8 @@ Total deals: 487
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 | 🗒️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime |
-|  📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
+| 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
+| 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -340,6 +341,8 @@ Total deals: 487
 | 🖥️ | [High DPI Screenshots](https://www.highdpiscreenshots.com/) | A Chrome Plugin that generates super-detailed, high-DPI screenshots beyond standard screen capture capabilities. One time purchase. | 55% discount (automatically applied) |
 | 🔮 | [TabTab](https://tabtabapp.net) | Supercharged Windows & Tabs Manager for the Mac. TabTab aims to replace ⌘Command+Tab by making it easy to manage windows and tabs across your Mac apps. | **30% OFF** One Time Purchase with code **TABTABLAUNCH** |
 | 🦆 | [Duckboard](https://duckboard.pro/) | Stop the browser tabs madness. Capture web fragments as interactive widgets. | **20% OFF** One Time Purchase with code **BLACK2024FRIDAY** |
+| 🖥 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
+| 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays. | Lifetime 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
