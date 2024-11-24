@@ -526,6 +526,7 @@ Total deals: 487
 | 🟠 | [OSCR AI](https://www.oscr.tech/) | Transform research, videos, audio, and long-form articles into engaging, on-brand social posts in seconds. | 50% OFF on all plans with the code **BF2024** (Nov 18 - Dec 15) |
 | 💜 | [IQ Hashtags](https://iqhashtags.com/) | Boost your Instagram profile's visibility and engagement. Access advanced analytics and AI-powered solutions designed for influencers and brands to create a standout social media presence. | Up to 70% OFF on all yearly plans |
 | 💜 | [Display Purposes](https://displaypurposes.com/) | All-in-one solution: Analyze your Instagram profile, create engaging content using advanced AI tools, and discover relevant keywords to boost your posts and Reels. | Up to 70% OFF on all yearly plans |
+| 👑 | [Mixpost](https://mixpost.app/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Boost your social media with Mixpost — a self-hosted platform to create, schedule, and manage content with ease, all while saving time and staying in control. Open Source? Absolutely. SaaS and White Label? You bet! | 30% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
