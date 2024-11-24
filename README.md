@@ -146,6 +146,7 @@ Total deals: 487
 | 📦 | [DepsAudit](https://depsaudit.com?ref=awesomebf) | Secure your app with DepsAudit, the package monitoring tool. Set it up once and receive notifications about any new dependency vulnerabilities. | 50% off with code **BF2024** |
 |  🔥 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering customization options for seamless integration and enhanced document viewing experiences. | 55% OFF any license |
 |  🔥 | [BoloSign](https://boloforms.com) | The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| **40% OFF** with the code **BFCM40** at checkout|
+|  🌐 | [DomainDetails](https://domaindetails.cio) | Simple (local first) Domain Registration & Detail lookup (always free) and advanced monitoring (pro_.  | **1 Month Free Extra On Pro**  with code BF2024 |
 
 [⬆️ Go to Top](#table-of-contents)
 
