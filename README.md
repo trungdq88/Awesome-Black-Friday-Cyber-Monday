@@ -95,7 +95,7 @@ Total deals: 488
 | 🌐 | [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=awesome-bf&mt=8) | Translate your app in 1 click | 50% off USD 39.99 -> 19.99 until Dec 3th|
 | 🌐 | [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=awesome-bf&mt=8) | Easiest way to localize and update App Store metadata | 50% off - USD 12.99 -> 6.59 until Dec 3th |
 | 🖥️ | [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=awesome-bf&mt=8) | Create App Store screenshots in minutes not hours | 30% off - USD 29.99 -> 21.00 until Dec 3th |
-
+| 🔥 | [Webhookify](https://webhookify.io?ref=abfcm) | Effortless Webhook Integrations for Developers. | 70% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
