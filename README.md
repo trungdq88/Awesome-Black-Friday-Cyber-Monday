@@ -350,6 +350,7 @@ Total deals: 489
 | 🦆 | [Duckboard](https://duckboard.pro/) | Stop the browser tabs madness. Capture web fragments as interactive widgets. | **20% OFF** One Time Purchase with code **BLACK2024FRIDAY** |
 | 🖥 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
 | 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays. | Lifetime 50% OFF |
+| 🌅 | [ScreenSage](https://screensage.macaify.com/) | Auto-zoom screen recorder that makes every event count. Professional Screen Recording & Tutorial Creation Tool for macOS. | Lifetime 50% OFF with code **BFS2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
