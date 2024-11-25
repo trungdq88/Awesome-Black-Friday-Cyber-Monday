@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 488
+Total deals: 489
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (23)](#-developer-macos-apps)
@@ -59,7 +59,7 @@ Total deals: 488
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
-	- [💻 Programming Courses (19)](#-programming-courses)
+	- [💻 Programming Courses (20)](#-programming-courses)
 	- [🔒 Information Security Courses (4)](#-information-security-courses)
 	- [🎢 Career Courses (9)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
@@ -748,6 +748,7 @@ Total deals: 488
 |  🐍 | [Python Jumpstart](https://www.pythonmorsels.com/courses/jumpstart/overview/) | $100 OFF a very hands-on introductory Python course from Python Morsels, taught by Trey Hunner. Includes 46 Python exercises, each with a short video beforehand and a detailed solution walk-through afterward. | 50% OFF through December 2 |
 |  💰 | [Modern Full Stack Next.js Course](https://nextjscourse.dev/) | Build and Deploy Production-Ready Next.js apps including SaaS apps, Auth systems etc. includes interactive demos, exercises and quizzes to keep learning fun | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 |  💰 | [Become a Successful Engineering Leader](https://www.developertoleader.com/) | Learn how to lead a team successfully even if you've never managed or led anyone before. Includes 50+ lessons, 20+ Templates and in-depth real world scenarios for you to lead with confidence | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
+|  📖 | [Ultimate Cursor AI Course (Instructa.ai)](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with code **BLACKCURSOR25** |
 
 [⬆️ Go to Top](#table-of-contents)
 
