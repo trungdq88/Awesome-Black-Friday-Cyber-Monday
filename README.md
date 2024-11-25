@@ -42,7 +42,7 @@ Total deals: 488
 		- [Miscellaneous Productivity Apps (9)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (16)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (22)](#-marketing-tools)
+- [🌈 Marketing Tools (23)](#-marketing-tools)
 - [🔍 SEO Tools (20)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (19)](#-startup-saastools)
 - [🌏 Social Media Tools (13)](#-social-media-tools)
@@ -455,6 +455,7 @@ Total deals: 488
 | 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
 | 🤖 | [AgenticFlow AI](https://agenticflow.ai/) | Automate marketing workflows and scale with Agentic AI. No-code platform for content creation, CRM enrichment, and prospecting. | 40% OFF all plans with code **BLACKFRIDAY24** |
 | 💌 | [recuremail](https://recuremail.com) | Simple Headless Newsletter Tool | 30% OFF for all new plans **FRIDAY2024** |
+| 📈 | [Appfigures](https://appfigures.com) | App Store Optimization & App Intelligence tools to help you grow you downloads and revenue | 50% OFF with a yearly subscription with code **BF2450** |
 
 [⬆️ Go to Top](#table-of-contents)
 
