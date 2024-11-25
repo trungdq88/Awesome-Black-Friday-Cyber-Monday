@@ -625,6 +625,7 @@ Total deals: 489
 | 🚀 | [Nexi Launch](https://nexilaunch.com/) | High-converting landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | **50% OFF** with **BF2024** |
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** |
 | 🚀 | [Rails Designer](https://railsdesigner.com/) | UI Component Library for Ruby on Rails. Built with ViewComponent. Designed with Tailwind CSS. Enhanced with Hotwire. | **Up to 50% off on check out** |
+| 🗂️ | [Lists Kit](https://listskit.com/?trungdq88) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -635,6 +636,7 @@ Total deals: 489
 | -- | ---| ------ | ------ |
 |  🐿️ | [Chipmunk Theme](https://chipmunktheme.com) | Launch Your Directory Website Today with Our User-Friendly WordPress Theme 🚀 | 40% OFF with code **BLACKFRIDAY24** |
 |  😺 | [Gato GraphQL](https://gatographql.com) | Powerful and flexible GraphQL server for WordPress: Access Control, HTTP Caching, Persisted Queries, Custom Endpoints, and more | 50% OFF, including LTD! Use code **BF2024** (Until Nov 29th) |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?trungdq88) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -847,6 +849,7 @@ Total deals: 489
 | 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
 | 🎮 | [now.gg](https://now.gg) | Ad-free Premium Subscription | Black Friday deal, upto 50% OFF |
 | ✏️ | [Soinna - Zen of Minimalism writing](https://soinna.com) | A minimalist, beautiful, zen-like, SEO-friendly text medium. | Lifetime 70% OFF with code **BF70** |
+| 📝 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
 
 
 [⬆️ Go to Top](#table-of-contents)
