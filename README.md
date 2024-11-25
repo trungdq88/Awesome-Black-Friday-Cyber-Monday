@@ -305,6 +305,7 @@ Total deals: 489
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
 |  ⭐ | [Marmo UI](https://www.marmoui.com) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project. | 70% OFF with code **BLACKFRIDAY24** |
 |  🧐 | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
 |  🧘‍♂️ | [Zen Mode macOS](https://zenmode.app/) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF |
