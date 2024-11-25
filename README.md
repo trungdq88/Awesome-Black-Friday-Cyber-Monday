@@ -147,6 +147,7 @@ Total deals: 488
 |  🔥 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering customization options for seamless integration and enhanced document viewing experiences. | 55% OFF any license |
 |  🔥 | [BoloSign](https://boloforms.com) | The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| **40% OFF** with the code **BFCM40** at checkout|
 |  🌐 | [DomainDetails](https://domaindetails.io) | Simple (local first) Domain Registration & Detail lookup (always free) and advanced monitoring (pro_.  | **1 Month Free Extra On Pro**  with code BF2024 |
+| 🌐 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | **30% OFF** first payment with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
