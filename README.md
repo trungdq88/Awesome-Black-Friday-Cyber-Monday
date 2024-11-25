@@ -95,7 +95,7 @@ Total deals: 488
 | 🌐 | [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=awesome-bf&mt=8) | Translate your app in 1 click | 50% off USD 39.99 -> 19.99 until Dec 3th|
 | 🌐 | [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=awesome-bf&mt=8) | Easiest way to localize and update App Store metadata | 50% off - USD 12.99 -> 6.59 until Dec 3th |
 | 🖥️ | [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=awesome-bf&mt=8) | Create App Store screenshots in minutes not hours | 30% off - USD 29.99 -> 21.00 until Dec 3th |
-
+| 🔥 | [Webhookify](https://webhookify.io?ref=abfcm) | Effortless Webhook Integrations for Developers. | 70% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -146,6 +146,7 @@ Total deals: 488
 | 📦 | [DepsAudit](https://depsaudit.com?ref=awesomebf) | Secure your app with DepsAudit, the package monitoring tool. Set it up once and receive notifications about any new dependency vulnerabilities. | 50% off with code **BF2024** |
 |  🔥 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering customization options for seamless integration and enhanced document viewing experiences. | 55% OFF any license |
 |  🔥 | [BoloSign](https://boloforms.com) | The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| **40% OFF** with the code **BFCM40** at checkout|
+|  🌐 | [DomainDetails](https://domaindetails.io) | Simple (local first) Domain Registration & Detail lookup (always free) and advanced monitoring (pro_.  | **1 Month Free Extra On Pro**  with code BF2024 |
 | 🌐 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | **30% OFF** first payment with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -171,6 +172,7 @@ Total deals: 488
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=abfcm) | Access ChatGPT across all your macOS apps with the press of a shortcut. | 51% OFF with code **LASTLTDBF51** |
 | 🔨 | [HammerAI](https://www.hammerai.com/?utm_source=bf) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 | ⛰️ | [Heights Platform](https://heightsplatform.com/black-friday-2024?utm_source=awesomebf) | All-in-one platform for creating & selling online courses, digital products, community memberships and coaching programs with Heights AI 2. | 35% OFF, save up to $1000 - no code needed |
+| 🤑 | [AnySelect](https://anyselectai.com/) | The best and quickest way to use ChatGPT/LLM from any app on macOS! | 60% OFF with this discount code **`BF2024`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -507,6 +509,8 @@ Total deals: 488
 | 🔗 | [Backlinks for Slack](https://slacklinker.com) | Automatically create backlinks in Slack, linking messages for quick navigation and streamlined project tracking. Keep important info accessible and never lose track of crucial discussions again. | **50% OFF** with code **50BF2024**|
 | 📄 | [DocuGenerate](https://www.docugenerate.com/) | DocuGenerate provides a scalable platform for generating high-quality PDF documents. Developers can leverage our REST API to add document generation to their apps, while non-developers can effortlessly use our No-Code integrations. | **50% OFF** for the First 3 Months with code **BLACKFRIDAY2024**|
 | 📬| [RogerRoger](https://rogerroger.io) | This next-gen sales inbox brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It has a built-in sales pipeline and a hint of CRM, helping you manage follow-ups and keeping your conversations front and center. | 40% off all plans with code *BF2024SALE* . Nov 22 - Dec 3 |
+| 💡| [ProductLogz](https://productlogz.com) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications. | **10% OFF** on the LTD Plans with code *BF2024SALE* . Nov 24 - Dec 6 |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -741,6 +745,8 @@ Total deals: 488
 |  🕷️ | [The Ultimate Web Scraping Course!](https://adrianhorning.gumroad.com/l/the-ultimate-web-scraping-course)  | The best web scraping course out there. (Node.js) By Adrian The Web Scraping Guy | 50% OFF!!! with code **NR3P9NI** |
 |  🚀 | [Zero To Mastery](https://zerotomastery.io/courses/) | [Expires Dec 3] 58% OFF annual membership (that’s $270 of savings): Zero To Mastery’s biggest sale EVER. Learn the most in-demand skills to actually get hired in tech in 2025. Use the promo code **BFCM24** at checkout. BONUS: you’ll automatically be entered into a draw to win a brand new MacBook Pro M4 ($2,099 value)! | [58% OFF with code **BFCM24**](https://links.zerotomastery.io/bfcm2024-github) |
 |  🐍 | [Python Jumpstart](https://www.pythonmorsels.com/courses/jumpstart/overview/) | $100 OFF a very hands-on introductory Python course from Python Morsels, taught by Trey Hunner. Includes 46 Python exercises, each with a short video beforehand and a detailed solution walk-through afterward. | 50% OFF through December 2 |
+|  💰 | [Modern Full Stack Next.js Course](https://nextjscourse.dev/) | Build and Deploy Production-Ready Next.js apps including SaaS apps, Auth systems etc. includes interactive demos, exercises and quizzes to keep learning fun | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
+|  💰 | [Become a Successful Engineering Leader](https://www.developertoleader.com/) | Learn how to lead a team successfully even if you've never managed or led anyone before. Includes 50+ lessons, 20+ Templates and in-depth real world scenarios for you to lead with confidence | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
