@@ -171,6 +171,7 @@ Total deals: 488
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com/?utm_source=github&utm_medium_social&utm_campaign=bf2024&utm_content=abfcm) | Access ChatGPT across all your macOS apps with the press of a shortcut. | 51% OFF with code **LASTLTDBF51** |
 | 🔨 | [HammerAI](https://www.hammerai.com/?utm_source=bf) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 | ⛰️ | [Heights Platform](https://heightsplatform.com/black-friday-2024?utm_source=awesomebf) | All-in-one platform for creating & selling online courses, digital products, community memberships and coaching programs with Heights AI 2. | 35% OFF, save up to $1000 - no code needed |
+| 🤑 | [AnySelect](https://anyselectai.com/) | The best and quickest way to use ChatGPT/LLM from any app on macOS! | 60% OFF with this discount code **`BF2024`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
