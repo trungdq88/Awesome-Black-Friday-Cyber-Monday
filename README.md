@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 489
+Total deals: 493
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (23)](#-developer-macos-apps)
@@ -294,6 +294,10 @@ Total deals: 489
 |  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY** |
 | 🚀 | [TailGrids](https://tailgrids.com) | 600+ High-Quality Tailwind CSS UI Components Library. Effortlessly copy, paste, and start building—available for HTML, React, Vue, and Figma!| **40% OFF** with code **BLFCM2024** |
 | ⭐ | [Ayro UI](https://ayroui.com/) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast - Landing Pages, Templates, or Websites by Copy-Pasting Blocks.| **40% OFF** with code **BLFCM2024** |
+| 🔌 | [Temrinalwire](https://terminalwire.com/black-friday?utm_source=gh-trungdq88) | Build command-line interfaces for web apps
+Ship terminal applications 10× faster using your favorite web framework
+ | **25% OFF Pro License** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -536,6 +540,8 @@ Total deals: 489
 | 💜 | [Display Purposes](https://displaypurposes.com/) | All-in-one solution: Analyze your Instagram profile, create engaging content using advanced AI tools, and discover relevant keywords to boost your posts and Reels. | Up to 70% OFF on all yearly plans |
 | 👑 | [Mixpost](https://mixpost.app/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Boost your social media with Mixpost — a self-hosted platform to create, schedule, and manage content with ease, all while saving time and staying in control. Open Source? Absolutely. SaaS and White Label? You bet! | 30% OFF (automatic) |
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
+| ⚡️ | [TinyZap⚡️](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -854,6 +860,8 @@ Total deals: 489
 | ✏️ | [Soinna - Zen of Minimalism writing](https://soinna.com) | A minimalist, beautiful, zen-like, SEO-friendly text medium. | Lifetime 70% OFF with code **BF70** |
 | 📝 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
 |  🤑 | [BoringCashCow](https://boringcashcow.com/premium) | access to proven business ideas that solving real problems and build your profitable business  | **30% off** membership forever with code **CLMVBG**.  |
+|  📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=gh-trungdq88) | Read unsensational news and learn something | **25% OFF** annual subscription with coupon code **BF24**.  |
+|  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
 
 
 [⬆️ Go to Top](#table-of-contents)
