@@ -241,6 +241,7 @@ Total deals: 489
 | 🐧 | [SnapStory](https://www.snapstoryai.com/) | SnapStory turns your photos into captivating stories and visually striking images with unique styles. Personalize storytelling tones, share seamlessly on social media, or download to keep forever. | **30% OFF** on any plan with code **BLACK24** |
 | ✒️ | [Career Craft AI](https://careercraftai.com/#pricing) | CareerCraftAI is your go-to AI-powered platform for generating customized cover letters, getting personalized resume feedback, creating impactful resume summaries, and impressive LinkedIn profile. | **40% OFF** on all plans. Use discount code: **BFDAY24** |
 |  ⭐ | [Easy-Peasy.AI](https://easy-peasy.ai) | All-In-One AI Platform | 30% OFF for all plans with code **BFRIDAY2024** |
+| 🐦 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Echo helps you ace soft skills interviews with 50+ common questions, practice tools to refine your answers, and personalized feedback to improve your performance. | 55% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
