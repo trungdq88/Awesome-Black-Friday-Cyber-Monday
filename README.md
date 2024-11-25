@@ -851,6 +851,7 @@ Total deals: 489
 | 🎮 | [now.gg](https://now.gg) | Ad-free Premium Subscription | Black Friday deal, upto 50% OFF |
 | ✏️ | [Soinna - Zen of Minimalism writing](https://soinna.com) | A minimalist, beautiful, zen-like, SEO-friendly text medium. | Lifetime 70% OFF with code **BF70** |
 | 📝 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
+|  🤑 | [BoringCashCow](https://boringcashcow.com/premium) | access to proven business ideas that solving real problems and build your profitable business  | **30% off** membership forever with code **CLMVBG**.  |
 
 
 [⬆️ Go to Top](#table-of-contents)
