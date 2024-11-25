@@ -55,7 +55,7 @@ Total deals: 489
 		- [Web Dev & Design (11)](#web-dev--design)
 		- [Apps Development (Mobile/Desktop) (5)](#apps-development-mobiledesktop)
 		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
-		- [ Programming Books (6)](#-programming-books)
+		- [Misc Programming Books (6)](#misc-programming-books)
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
