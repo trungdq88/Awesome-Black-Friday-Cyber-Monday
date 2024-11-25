@@ -253,7 +253,6 @@ Total deals: 489
 | 💰 | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows & Linux. Mobile apps coming soon.  | 30% OFF with code **BLACK22** |
 | 🤑 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) |
 | 💰 | [Horcrux Email Backup](https://thehorcrux.com) | A mac app that lets you easily backup your emails as well as moves your emails between different providers when crisis strikes. | 30% OFF with code **BLACKFRIDAY** |
-| 💰 | [StopTheMadness](https://underpassapp.com/StopTheMadness/) | Web browser extension that stops web sites from making your browser harder to use. And it protects your privacy on the web! | $3 off in the iOS App Store and Mac App Store |
 | 💰 | [Shelf](https://apps.apple.com/app/id6443596253) | Pin photos, text, and actions to your Lock Screen. For iPhone. | Up to 40% off Shelf Pro |
 | 🤑 | [Recut](https://getrecut.com) | A Mac + Windows app that speeds up video/audio editing by automatically cutting out pauses. | $50 off (automatic) |
 | 💰 | [Quickpresent App](https://www.quickpresent.app?utm_source=tony) | One click to hide desktop icons, minimise active apps, turn off speakers, change wallpaper, disable Notifications. | get **30% off** on all paid plans with code **blackfridayhai** |
@@ -580,6 +579,10 @@ Total deals: 489
 | 🗜️ | [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=awesome-bf) | A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats. | Lifetime 50% OFF |
 | ± | [DiffAlert](https://diffalert.io?ref=awesomebf) | Automate HTTP request monitoring. Be notified instantly when changes in API responses or web data occur. | 50% off with code **BF2024** |
 |  🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video and audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) |
+| 💰 | [Link Unshortener](https://apps.apple.com/app/link-unshortener/id1506953658?mt=12) | Native Mac app that reveals and bypasses URL redirects | 50% off |
+| 💰 | [StopTheScript](https://apps.apple.com/app/stopthescript/id1588394487) | Safari extension for iOS and Mac that stops JavaScript on selected websites | 50% off |
+| 💰 | [StopTheFonts](https://apps.apple.com/app/stopthefonts/id1671452642) | Safari content blocker for iOS and Mac that blocks web fonts | 50% off |
+| 💰 | [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) | Safari extension for iOS and Mac that opens Mastodon URLs in your own instance | 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
