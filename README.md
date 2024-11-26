@@ -288,6 +288,7 @@ Total deals: 489
 | 🖌️ | [Noble Shapes](https://nobleshapes.com) | Noble Shapes - AI Image Generation Prompt Assistant: Explore a handpicked collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using Style References (srefs) by looking at our beautiful generated images to "Know It When You See It.” | Use Discount code **BF24** for a **25% discount** |
 | 🌅 | [Savvyshot](https://www.savvyshot.app/) | No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac | **70% OFF** with code **BLACKFRIDAY2024** |
 | 🎨 | [Quick QR Art](https://quickqr.art/) | #1 QR Code Art Generator (1.3M+ users) - Create beautiful and functional QR codes with artistic designs | 40% OFF yearly package with code **BLACKFRIDAY24** |
+| 🤑 | [ImageFramer](https://imageframer.net) | Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac | 50% off until Dec 2nd|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -355,7 +356,7 @@ Total deals: 489
 | 🦆 | [Duckboard](https://duckboard.pro/) | Stop the browser tabs madness. Capture web fragments as interactive widgets. | **20% OFF** One Time Purchase with code **BLACK2024FRIDAY** |
 | 🖥 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
 | 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays. | Lifetime 50% OFF |
-
+| 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Dec 2|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -563,6 +564,7 @@ Total deals: 489
 | 🛡️ | [Expenses Manager](https://apps.apple.com/us/app/monthly-expenses-tracker-app/id1590852070) | #1 Private Expense Tracker: Budget, Track Spending, and Save Smarter with Expenses Manager. | **80% OFF** on Liftime Premium (Available from Nov 26 - Dec 2) |
 | 🧾 | [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) | Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need. | **50% OFF** (Available from Nov 26 - Dec 2) |
 | 🚀 | [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday) | Financial market Data for Developers. | **50% OFF** (Available from Nov 25 - Nov 30) |
+| 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forecasting (Mac app) | 50% off first year [using this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -865,6 +867,7 @@ Total deals: 489
 | ✏️ | [Soinna - Zen of Minimalism writing](https://soinna.com) | A minimalist, beautiful, zen-like, SEO-friendly text medium. | Lifetime 70% OFF with code **BF70** |
 | 📝 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
 |  🤑 | [BoringCashCow](https://boringcashcow.com/premium) | access to proven business ideas that solving real problems and build your profitable business  | **30% off** membership forever with code **CLMVBG**.  |
+| 🤑 | [Eter](https://apps.apple.com/app/eter/id1523221566) | Internet Radio player app (iOS, Mac, TV, Watch) | 50% off (only US$2.5 one-time) |
 
 
 [⬆️ Go to Top](#table-of-contents)
