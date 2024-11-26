@@ -590,6 +590,7 @@ Total deals: 489
 | 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forecasting (Mac app) | 50% off first year [using this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24) |
 | 🥳 | [Capitally](https://www.mycapitally.com/?ref=gh-awsm) | Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner! | **Lifetime promo** (Available from Nov 25 - Dec 8) |
 | 🤑 | [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) | Get your Bills paid on time and your Budgets under Control, with Bills to Budget! | **Over 55% off** Bills to Budget Plus Lifetime and Family Plus Lifetime, Nov 29 - Dec 3 |
+| 📊 | [Tradojo](https://www.tradojo.com) | Automated trading journal & analytics for crypto traders | 50% OFF all plans + limited lifetime deal. Applied automatically. |
 
 
 [⬆️ Go to Top](#table-of-contents)
