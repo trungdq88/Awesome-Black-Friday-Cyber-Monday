@@ -32,7 +32,7 @@ Total deals: 489
 	- [💬 AI Chat UI (16)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (35)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (17)](#-other-ai-tools)
-- [🌅 Design Tools (31)](#-design-tools)
+- [🌅 Design Tools (32)](#-design-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
@@ -301,6 +301,7 @@ Total deals: 489
 | 🌅 | [Savvyshot](https://www.savvyshot.app/) | No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac | **70% OFF** with code **BLACKFRIDAY2024** |
 | 🎨 | [Quick QR Art](https://quickqr.art/) | #1 QR Code Art Generator (1.3M+ users) - Create beautiful and functional QR codes with artistic designs | 40% OFF yearly package with code **BLACKFRIDAY24** |
 | 🤑 | [ImageFramer](https://imageframer.net) | Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac | 50% off until Dec 2nd|
+| 🎬 | [FireCut](https://firecut.ai/) | Adobe Premiere Pro plugin that lets you automatically add AI transcribed captions with animations & emojis, remove silences from raw footage, detect chapters in your video, remove repetition (multiple takes of the script), edit multi-track videos like podcasts, and much more... | **50% OFF** (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
