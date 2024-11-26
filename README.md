@@ -456,7 +456,7 @@ Total deals: 489
 ## 🌈 Marketing Tools
 
 |    | Name      | Description | Discount Code & Terms                                                                             |
-|----|-----------| :----- |---------------------------------------------------------------------------------------------------|
+|----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 |  ⭐ | [Uneed](https://uneed.best) | Product Hunt alternative. | 30% off "Skip the waiting line" with code **BLACKFRIDAY2024** to promote your product.|
 |  ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** (both 3 Day Access Plan and all recurring plans)|
 |  📹 | [Product Video Examples](https://productvideoexamples.com) | A product video library of more than 100+ hand selected product videos and tools that help you create product videos that will create awareness and convert customers | 40% OFF with code **BLACKFRIDAY2024**|
