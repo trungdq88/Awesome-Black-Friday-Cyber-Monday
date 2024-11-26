@@ -73,6 +73,7 @@ Total deals: 489
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  ⭐ | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF with code **FRIDAY50** |
 |  ⭐ | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster like a Pro. Support macOS Sequoia, iOS, Windows, and Linux. | 30% OFF for all plans with code **BLACKFRIDAY2024** |
 |  ⭐ | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
