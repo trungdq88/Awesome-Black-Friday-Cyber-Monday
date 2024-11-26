@@ -217,6 +217,7 @@ Total deals: 489
 | 🧠 | [MemFree](https://www.memfree.me) | MemFree - Hybrid AI search: Unlock Accurate Answers Faster | Use promo code **BLACK24** for a **30% discount** |
 | 📚 | [Rephrasy](https://rephrasy.ai) | Rephrasy - AI Humanizer and built-in AI Detector | Use promo code **BLF25** for an additional **25% discount** on the lifetime deal |
 | 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
+| 🔥 | [Transcript LOL](https://transcript.lol?ref=awesomebf) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** |
 
 [⬆️ Go to Top](#table-of-contents)
 
