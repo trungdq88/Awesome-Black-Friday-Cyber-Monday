@@ -490,6 +490,7 @@ Total deals: 489
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  ⭐ | [SubmitSites](https://buy.stripe.com/14keV3aobc5Gh2M9AE) | Attract early adopters, increase traffic and build backlinks from high DA sites when we manually submit your startup to 100+ directories FAST. | Discount Code & Terms - 20% off with **BF20OFF** |
 |  ⭐ | [SEO Utils](https://seoutils.app) | An SEO desktop application built for macOS, Windows, Linux that provides a set of essential tools and utilities for your SEO tasks, including Backlink & Analytics, Keyword Clustering, Rank Tracker, Local Grid Tracker, Auto Indexing, etc.. | 20% OFF with code **BLACKFRIDAY24** |
 |  ⭐ | [JournoFinder](https://journofinder.com) | PR Media Database to find journalists that will feature your business in the press. | 30% off all plans (including the lifetime deal) with code BLACKFRIDAY30 |
 |  ⭐ | [SEO Course, SEO Blueprint 3](https://seoblueprint.com) | Cutting-edge SEO training with four years of current updates and lifetime future updates | Free private website video audit with every order (Black Friday only) |
@@ -629,6 +630,7 @@ Total deals: 489
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🚀 | [DaasBoilerplate](https://buy.stripe.com/aEU6qyfXd5pmfN6eUW) | DaaSBoilerplate is a production ready DaaS boilerplate with everything that you need to start making money with your data as a service product. | Discount Code & Terms - 20% off with **20OFF** |
 |  🦄 | [SaaS Pegasus](https://www.saaspegasus.com) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses. | 50% OFF lifetime license with code **bf2024preview** |
 |  ⚡ | [NextReady](https://nextready.dev) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 💰  | [Shipped.club](https://shipped.club)        | Launch your startup in days, not months! 💆‍♂️ NextJS SaaS Kit TS/React/Tailwind/shadcn                            | 20% OFF with the code `BF2024` at checkout |
@@ -833,6 +835,7 @@ Total deals: 489
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+|  🚀 | [The100kDatabase ](https://www.dannypostma.com/seo-course) | The100kDatabase is a complete blueprint for starting, building, scaling and sustaining a profitable data as a service (DAAS) product. |Discount Code & Terms - 20% off with **BF20OFF** |
 |  ⭐ | [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) | Watch over my shoulder as I reveal my entire SEO system. Everything I've learned ranking 20+ sites to #1 | 20% OFF with code **FRIDAY20** |
 |  🚀 | ['Launch with AI' Program](https://solveo.co/launch-program/) | Master the art of product launch with our comprehensive program created by growth experts with a proven track record of working with 500+ startups | 75% OFF with code **bf75** |
 |  🕹️ | [Show Them Course](https://showthem.com) | Landing Page Optimization Course by Rob Hope from One Page Love | 60% off with code **BF2024** |
