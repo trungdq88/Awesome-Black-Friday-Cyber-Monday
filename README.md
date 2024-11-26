@@ -423,6 +423,7 @@ Total deals: 489
 |  🌍 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake notifications leveraging multiple authoritative sources. Features instant push notifications, native SwiftUI design, and comprehensive data from USGS, EMSC, CENC and more. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📸 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you revisit memories from this day in history. Features automatic photo display, location-based timeline, and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | ✨ | [Ranti](https://apps.apple.com/app/apple-store/id6503905853) | Ranti is a productivity and reminder app designed to help you stay organized. Manage tasks, save links, convert voice notes into actionable items, and stay focused with features like AI assistance, prioritization, and task-based playlists. | Lifetime 70% OFF (automatic) |
+| 🎨 | [Litur](https://apps.apple.com/us/app/litur/id1487096693?ls=1) | Litur is a color picker and library app designed to be the perfect designer's color toolkit. | Lifetime 33% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -609,6 +610,7 @@ Total deals: 489
 | 💰 | [StopTheScript](https://apps.apple.com/app/stopthescript/id1588394487) | Safari extension for iOS and Mac that stops JavaScript on selected websites | 50% off |
 | 💰 | [StopTheFonts](https://apps.apple.com/app/stopthefonts/id1671452642) | Safari content blocker for iOS and Mac that blocks web fonts | 50% off |
 | 💰 | [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) | Safari extension for iOS and Mac that opens Mastodon URLs in your own instance | 50% off |
+| 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for Mac | 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
