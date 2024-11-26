@@ -252,6 +252,7 @@ Total deals: 489
 |  ⭐ | [Easy-Peasy.AI](https://easy-peasy.ai) | All-In-One AI Platform | 30% OFF for all plans with code **BFRIDAY2024** |
 | 🐦 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Echo helps you ace soft skills interviews with 50+ common questions, practice tools to refine your answers, and personalized feedback to improve your performance. | 55% OFF with code **BLACKFRIDAY2024** |
 |  🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
+| 📰 | [AI Best Tools](https://aibest.tools) | AIBest.Tools is a curated list of the best AI tools that are currently trending and profitable. Discover the latest and the best AI tools and stay ahead of the curve. | 50% ONCE OFF with code **BLACKFRIDAY50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -531,6 +532,7 @@ Total deals: 489
 | 📬| [RogerRoger](https://rogerroger.io) | This next-gen sales inbox brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It has a built-in sales pipeline and a hint of CRM, helping you manage follow-ups and keeping your conversations front and center. | 40% off all plans with code *BF2024SALE* . Nov 22 - Dec 3 |
 | 💡| [ProductLogz](https://productlogz.com) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications. | **10% OFF** on the LTD Plans with code *BF2024SALE* . Nov 24 - Dec 6 |
 | 🚀 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | Platform with tools for collecting and sharing information about people and their work. | **30% OFF** first payment (month/year) *BF2024_CODE* . Nov 17 - Dec 2 |
+| 🤖 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | **50% OFF** once off *BLACKFRIDAY50* . Nov 17 - Dec 30 |
 
 
 
