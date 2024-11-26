@@ -845,6 +845,7 @@ Total deals: 489
 |  💡 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
 | 💪  | [Examine+](https://examine.com) | Evidence-based nutrition and supplement information. | Over 27% off Nov 26 - Dec 2. Early bird: up to 40% off from Mon Nov 25 at 12pm ET. |
 | 🍼 | [Wake Wise - Baby Sleep Tracker App](https://apps.apple.com/gb/app/id6736522449) | Track your baby's sleep and get suggested bedtimes. | 50% Off Lifetime Subscription - Nov 21 2024 - Dec 4 2024 |
+| 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
 
 [⬆️ Go to Top](#table-of-contents)
 
