@@ -418,6 +418,7 @@ Total deals: 489
 | 📝 | [Note Taking - Voice Photo Memo](https://apps.apple.com/app/apple-store/id6479198427?pt=594185&ct=awesome-bf&mt=8) | Write it, Speak it, Snap it – Your Notes, Your Way. |  50% off - USD 29.99 -> 14.99 until Dec 3th |
 |  🌍 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake notifications leveraging multiple authoritative sources. Features instant push notifications, native SwiftUI design, and comprehensive data from USGS, EMSC, CENC and more. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📸 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you revisit memories from this day in history. Features automatic photo display, location-based timeline, and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+| ✨ | [Ranti](https://apps.apple.com/app/apple-store/id6503905853) | Ranti is a productivity and reminder app designed to help you stay organized. Manage tasks, save links, convert voice notes into actionable items, and stay focused with features like AI assistance, prioritization, and task-based playlists. | Lifetime 70% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -435,6 +436,7 @@ Total deals: 489
 |  📁 | [Files to Notion](https://www.files2notion.com/) | Open and organise your local files in Notion | 20% OFF on Extended plan with code **BLACK2024FRIDAY** |
 |  📝 | [Writing Habit Builder](https://writemore.io/) | Build Your Writing Muscle with Tools and Analytics Across All Devices | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year. |
 | 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | **BLACKFRIDAY2024** 25% off |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
