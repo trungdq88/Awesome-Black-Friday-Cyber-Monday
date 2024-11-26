@@ -254,6 +254,7 @@ Total deals: 489
 |  ⭐ | [Easy-Peasy.AI](https://easy-peasy.ai) | All-In-One AI Platform | 30% OFF for all plans with code **BFRIDAY2024** |
 | 🐦 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Echo helps you ace soft skills interviews with 50+ common questions, practice tools to refine your answers, and personalized feedback to improve your performance. | 55% OFF with code **BLACKFRIDAY2024** |
 |  🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
+| 📸 | [VectorArt.ai](https://vectorart.ai/) | Create Vector Images with AI. The largest AI generated vector image library and AI vector art generator. | **50% OFF** with code **BLACK50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
