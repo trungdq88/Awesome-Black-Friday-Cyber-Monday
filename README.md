@@ -573,6 +573,8 @@ Total deals: 489
 | 🚀 | [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday) | Financial market Data for Developers. | **50% OFF** (Available from Nov 25 - Nov 30) |
 | 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forecasting (Mac app) | 50% off first year [using this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24) |
 | 🥳 | [Capitally](https://www.mycapitally.com/?ref=gh-awsm) | Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner! | **Lifetime promo** (Available from Nov 25 - Dec 8) |
+| 🤑 | [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) | Get your Bills paid on time and your Budgets under Control, with Bills to Budget! | **Over 55% off** Bills to Budget Plus Lifetime and Family Plus Lifetime, Nov 29 - Dec 3 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
