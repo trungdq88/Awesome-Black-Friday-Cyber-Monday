@@ -724,6 +724,7 @@ Total deals: 489
 | 🔥 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** |
 | ♦️ | [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) | Make your Git development experience super smooth. | 50% off from $39 to $19.50. No code needed. |
 | 🧙 | [Wizard Zines](https://wizardzines.com/) | 50% off PDF and 30% off print zines on many tech topics | 50% off PDF zines with code **WIZARDPDF** and 30% off print zines with code **WIZARDPRINT**. Only valid on Fri Nov 29. |
+| ⚓️ | [How To Build a Serverless App Platform On Kubernetes](https://pmbanugo.gumroad.com/l/serverless-app-platform) | Learn to build your own PaaS (like Coolify/Kamal) and improve your DevOps skills  | 80% off with code **BFRIDAY24**. Valid from Nov 25 to Dec 2. |
 
 [⬆️ Go to Top](#table-of-contents)
 
