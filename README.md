@@ -879,6 +879,7 @@ Total deals: 489
 | 📝 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
 |  🤑 | [BoringCashCow](https://boringcashcow.com/premium) | access to proven business ideas that solving real problems and build your profitable business  | **30% off** membership forever with code **CLMVBG**.  |
 | 🤑 | [Eter](https://apps.apple.com/app/eter/id1523221566) | Internet Radio player app (iOS, Mac, TV, Watch) | 50% off (only US$2.5 one-time) |
+| 💡 | [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) | Communicate at home with the smart lights you already have, with Signals for HomeKit! | Signals Plus and Signals Automate (Mac only) In-App Purchases **over 40%** off! |
 
 
 [⬆️ Go to Top](#table-of-contents)
