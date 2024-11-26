@@ -96,6 +96,7 @@ Total deals: 489
 | 🌐 | [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=awesome-bf&mt=8) | Easiest way to localize and update App Store metadata | 50% off - USD 12.99 -> 6.59 until Dec 3th |
 | 🖥️ | [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=awesome-bf&mt=8) | Create App Store screenshots in minutes not hours | 30% off - USD 29.99 -> 21.00 until Dec 3th |
 | 🔥 | [Webhookify](https://webhookify.io?ref=abfcm) | Effortless Webhook Integrations for Developers. | 70% OFF |
+| 🖥️ | [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) | Audit your app's metadata to follow App Store best practices for ASO to rank as high as possible in the App Store | 50% off, from 39.99$ / year to 19.99$. Promo code: BLACKFRIDAY2024 for first 1000 uses. Valid until December 7th |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -216,6 +217,7 @@ Total deals: 489
 | 🧠 | [MemFree](https://www.memfree.me) | MemFree - Hybrid AI search: Unlock Accurate Answers Faster | Use promo code **BLACK24** for a **30% discount** |
 | 📚 | [Rephrasy](https://rephrasy.ai) | Rephrasy - AI Humanizer and built-in AI Detector | Use promo code **BLF25** for an additional **25% discount** on the lifetime deal |
 | 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
+| 🔥 | [Transcript LOL](https://transcript.lol?ref=awesomebf) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** |
 | 🚀 | [Repurpose LOL](https://repurpose.lol?utm_source=awesomebf&utm_medium=github) | Automate your content marketing - video to short clips, blogs, social posts, newsletter etc. | Use promo code **BF30** for a **30% discount** on all plans |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -242,6 +244,7 @@ Total deals: 489
 | 🐧 | [SnapStory](https://www.snapstoryai.com/) | SnapStory turns your photos into captivating stories and visually striking images with unique styles. Personalize storytelling tones, share seamlessly on social media, or download to keep forever. | **30% OFF** on any plan with code **BLACK24** |
 | ✒️ | [Career Craft AI](https://careercraftai.com/#pricing) | CareerCraftAI is your go-to AI-powered platform for generating customized cover letters, getting personalized resume feedback, creating impactful resume summaries, and impressive LinkedIn profile. | **40% OFF** on all plans. Use discount code: **BFDAY24** |
 |  ⭐ | [Easy-Peasy.AI](https://easy-peasy.ai) | All-In-One AI Platform | 30% OFF for all plans with code **BFRIDAY2024** |
+| 🐦 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Echo helps you ace soft skills interviews with 50+ common questions, practice tools to refine your answers, and personalized feedback to improve your performance. | 55% OFF with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -581,6 +584,7 @@ Total deals: 489
 | 🗜️ | [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=awesome-bf) | A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats. | Lifetime 50% OFF |
 | ± | [DiffAlert](https://diffalert.io?ref=awesomebf) | Automate HTTP request monitoring. Be notified instantly when changes in API responses or web data occur. | 50% off with code **BF2024** |
 |  🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video and audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) |
+| 🧾 | [Split the Bill with Checkparty](https://itunes.apple.com/us/app/checkparty/id905723797) | Fairly split your bill with friends at restaurants so everyone pays the correct percent of tax, tip. Send payment summaries and requests. See share breakdown and track who's paid you back already. | 50% OFF Lifetime Purchase 5.99$ -> 2.99$ unless December 3rd |
 
 
 [⬆️ Go to Top](#table-of-contents)
