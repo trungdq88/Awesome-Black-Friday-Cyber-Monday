@@ -224,6 +224,7 @@ Total deals: 489
 | 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
 | 🔥 | [Transcript LOL](https://transcript.lol?ref=awesomebf) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** |
 | 🚀 | [Repurpose LOL](https://repurpose.lol?utm_source=awesomebf&utm_medium=github) | Automate your content marketing - video to short clips, blogs, social posts, newsletter etc. | Use promo code **BF30** for a **30% discount** on all plans |
+| 🎙️ | [Chibi AI]([https://chibi.ai/l/](https://chibi.ai/l/black-friday-2024)) | The right tool for the write job | 33% off, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
