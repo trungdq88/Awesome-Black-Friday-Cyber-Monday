@@ -225,6 +225,7 @@ Total deals: 489
 | 🔥 | [Transcript LOL](https://transcript.lol?ref=awesomebf) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** |
 | 🚀 | [Repurpose LOL](https://repurpose.lol?utm_source=awesomebf&utm_medium=github) | Automate your content marketing - video to short clips, blogs, social posts, newsletter etc. | Use promo code **BF30** for a **30% discount** on all plans |
 | 🎙️ | [Chibi AI]([https://chibi.ai/l/](https://chibi.ai/l/black-friday-2024)) | The right tool for the write job | 33% off, automatically applied |
+| 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2024BF30** for a **30% discount** on all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
