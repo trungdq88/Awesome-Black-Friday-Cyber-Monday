@@ -900,6 +900,8 @@ Total deals: 489
 |  🤑 | [BoringCashCow](https://boringcashcow.com/premium) | access to proven business ideas that solving real problems and build your profitable business  | **30% off** membership forever with code **CLMVBG**.  |
 | 🤑 | [Eter](https://apps.apple.com/app/eter/id1523221566) | Internet Radio player app (iOS, Mac, TV, Watch) | 50% off (only US$2.5 one-time) |
 | 💡 | [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) | Communicate at home with the smart lights you already have, with Signals for HomeKit! | Signals Plus and Signals Automate (Mac only) In-App Purchases **over 40%** off! |
+| 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
+| 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
 
 
 [⬆️ Go to Top](#table-of-contents)
