@@ -179,6 +179,8 @@ Total deals: 489
 | 🤑 | [AnySelect](https://anyselectai.com/) | The best and quickest way to use ChatGPT/LLM from any app on macOS! | 60% OFF with this discount code **`BF2024`** |
 | 🟣 | [RecurseChat](https://recurse.chat/) | Personal, Local and Private AI chat. | 50% off lifetime |
 |  ⭐ | [OVH VPS](https://us.ovh.com/us/order/vps/) | Virtual Private Server Instance (VPS): 1 vCore, 2 GB RAM, 20 GB SSD SATA, public bandwidth 100Mbps | -77% the first 12 months (New customer, 10 max) |
+| 🤖 | [SharpAPI](https://sharpapi.com) | Leverage AI API for seamless workflow automation across E-Commerce, Marketing, HR Tech, and more. | **50% OFF** Black Friday & Cyber Week Sale. Valid from **Nov 26 to Dec 2**. Use code **BF2024** (valid for 12 months). |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -224,7 +226,7 @@ Total deals: 489
 | 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
 | 🔥 | [Transcript LOL](https://transcript.lol?ref=awesomebf) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** |
 | 🚀 | [Repurpose LOL](https://repurpose.lol?utm_source=awesomebf&utm_medium=github) | Automate your content marketing - video to short clips, blogs, social posts, newsletter etc. | Use promo code **BF30** for a **30% discount** on all plans |
-| 🎙️ | [Chibi AI]([https://chibi.ai/l/](https://chibi.ai/l/black-friday-2024)) | The right tool for the write job | 33% off, automatically applied |
+| ✍️ | [Chibi AI](https://chibi.ai/l/black-friday-2024) | The right tool for the write job | 33% off, automatically applied |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -252,6 +254,7 @@ Total deals: 489
 |  ⭐ | [Easy-Peasy.AI](https://easy-peasy.ai) | All-In-One AI Platform | 30% OFF for all plans with code **BFRIDAY2024** |
 | 🐦 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Echo helps you ace soft skills interviews with 50+ common questions, practice tools to refine your answers, and personalized feedback to improve your performance. | 55% OFF with code **BLACKFRIDAY2024** |
 |  🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
+| 📸 | [VectorArt.ai](https://vectorart.ai/) | Create Vector Images with AI. The largest AI generated vector image library and AI vector art generator. | **50% OFF** with code **BLACK50** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -423,6 +426,7 @@ Total deals: 489
 |  🌍 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake notifications leveraging multiple authoritative sources. Features instant push notifications, native SwiftUI design, and comprehensive data from USGS, EMSC, CENC and more. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📸 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you revisit memories from this day in history. Features automatic photo display, location-based timeline, and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | ✨ | [Ranti](https://apps.apple.com/app/apple-store/id6503905853) | Ranti is a productivity and reminder app designed to help you stay organized. Manage tasks, save links, convert voice notes into actionable items, and stay focused with features like AI assistance, prioritization, and task-based playlists. | Lifetime 70% OFF (automatic) |
+| 🎨 | [Litur](https://apps.apple.com/us/app/litur/id1487096693?ls=1) | Litur is a color picker and library app designed to be the perfect designer's color toolkit. | Lifetime 33% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -609,6 +613,7 @@ Total deals: 489
 | 💰 | [StopTheScript](https://apps.apple.com/app/stopthescript/id1588394487) | Safari extension for iOS and Mac that stops JavaScript on selected websites | 50% off |
 | 💰 | [StopTheFonts](https://apps.apple.com/app/stopthefonts/id1671452642) | Safari content blocker for iOS and Mac that blocks web fonts | 50% off |
 | 💰 | [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) | Safari extension for iOS and Mac that opens Mastodon URLs in your own instance | 50% off |
+| 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for Mac | 50% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -792,11 +797,12 @@ Total deals: 489
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [Cyberwarfare Labs](https://cyberwarfare.live/blackfriday/) | CyberWarfare Labs provides advanced training courses in Red Teaming, Cloud Security, and Blue Teaming, offering hands-on lab access to help you enhance your cybersecurity skills and stay ahead of evolving threats.| Upto **80%** off on the bundle **50%** OFF on all the individual courses|
+| ⭐ | [Cyberwarfare Labs](https://cyberwarfare.live/blackfriday/) | CyberWarfare Labs provides advanced training courses in Red Teaming, Cloud Security, and Blue Teaming, offering hands-on lab access to help you enhance your cybersecurity skills and stay ahead of evolving threats.| Upto **80%** off on the bundle **50%** OFF on all the individual courses|
 | 🚀 | [Securing AWS: Strategies for Lean Teams](https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Teams-from-Chandrapal-Badshah-666415ee3a16ef700a69c1c5) | Practical tools, techniques and mental frameworks for securing AWS infrastructure with limited security resources | Get **51%** OFF at checkout |
-|  🔥 | [AppSecEngineer]([https://appsecengineer.com](https://www.appsecengineer.com/individuals/pricing)) | Hands-on Training for AppSec, Cloud Security, AI Security, Kubernetes Security, DevSecOps, Threat Modeling and more| 40% off on all Annual Plans using the code `LEVELUP40` |
+| 🔥 | [AppSecEngineer]([https://appsecengineer.com](https://www.appsecengineer.com/individuals/pricing)) | Hands-on Training for AppSec, Cloud Security, AI Security, Kubernetes Security, DevSecOps, Threat Modeling and more| 40% off on all Annual Plans using the code `LEVELUP40` |
 | 💻 | [The SecOps Group](https://secops.group/pentesting-exams/) | The SecOps Group is offering Black Friday deals for their cybersecurity exams! Learn from various platforms and validate your skills by taking their exams. A great opportunity to level up your expertise! | Use promo code **BLACKFRIDAY-90** to get a **flat 90% off** |
 | 💻 | [EXPLIoT Academy](https://academy.expliot.io/) | Get upto **50%** OFF on all courses offered by EXPLIoT Academy and level up your device security game this Black Friday | Get upto **50% OFF** on our courses and bundles |
+| ✨ | [Practical DevSecOps](https://www.practical-devsecops.com/pricing/) | Practical DevSecOps ​(a Hysn Technologies Inc company) offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals | Get **15%** OFF at checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -840,6 +846,7 @@ Total deals: 489
 |  💡 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
 | 💪  | [Examine+](https://examine.com) | Evidence-based nutrition and supplement information. | Over 27% off Nov 26 - Dec 2. Early bird: up to 40% off from Mon Nov 25 at 12pm ET. |
 | 🍼 | [Wake Wise - Baby Sleep Tracker App](https://apps.apple.com/gb/app/id6736522449) | Track your baby's sleep and get suggested bedtimes. | 50% Off Lifetime Subscription - Nov 21 2024 - Dec 4 2024 |
+| 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
 
 [⬆️ Go to Top](#table-of-contents)
 
