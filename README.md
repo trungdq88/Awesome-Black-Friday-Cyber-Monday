@@ -97,6 +97,8 @@ Total deals: 489
 | 🖥️ | [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=awesome-bf&mt=8) | Create App Store screenshots in minutes not hours | 30% off - USD 29.99 -> 21.00 until Dec 3th |
 | 🔥 | [Webhookify](https://webhookify.io?ref=abfcm) | Effortless Webhook Integrations for Developers. | 70% OFF |
 | 🖥️ | [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) | Audit your app's metadata to follow App Store best practices for ASO to rank as high as possible in the App Store | 50% off, from 39.99$ / year to 19.99$. Promo code: BLACKFRIDAY2024 for first 1000 uses. Valid until December 7th |
+| 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
