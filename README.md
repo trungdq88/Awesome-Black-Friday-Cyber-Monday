@@ -570,6 +570,7 @@ Total deals: 489
 | 🧾 | [ReceiptBox](https://apps.apple.com/us/app/receipt-organizer-receiptbox/id6657987970) | Say goodbye to paper clutter! Store your receipts securely in cloud and access them whenever you need. | **50% OFF** (Available from Nov 26 - Dec 2) |
 | 🚀 | [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday) | Financial market Data for Developers. | **50% OFF** (Available from Nov 25 - Nov 30) |
 | 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forecasting (Mac app) | 50% off first year [using this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24) |
+| 🥳 | [Capitally](https://www.mycapitally.com/?ref=gh-awsm) | Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner! | **Lifetime promo** (Available from Nov 25 - Dec 8) |
 
 [⬆️ Go to Top](#table-of-contents)
 
