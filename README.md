@@ -456,6 +456,7 @@ Total deals: 489
 | 🤖 | [AgenticFlow AI](https://agenticflow.ai/) | Automate marketing workflows and scale with Agentic AI. No-code platform for content creation, CRM enrichment, and prospecting. | 40% OFF all plans with code **BLACKFRIDAY24** |
 | 💌 | [recuremail](https://recuremail.com) | Simple Headless Newsletter Tool | 30% OFF for all new plans **FRIDAY2024** |
 | 📈 | [Appfigures](https://appfigures.com) | App Store Optimization & App Intelligence tools to help you grow you downloads and revenue | 50% OFF with a yearly subscription with code **BF2450** |
+| 🧠 | [AskCory](https://askcory.ai) | Elevate your marketing strategy with AskCory.ai, the AI-driven platform that empowers you to craft tailored plans, and access benchmarks in minutes. | 67% OFF on all plans with code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
