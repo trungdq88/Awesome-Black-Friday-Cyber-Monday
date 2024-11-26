@@ -359,6 +359,8 @@ Total deals: 489
 | 🖥 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
 | 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays. | Lifetime 50% OFF |
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Dec 2|
+| 🌅 | [ScreenSage](https://screensage.macaify.com/) | Auto-zoom screen recorder that makes every event count. Professional Screen Recording & Tutorial Creation Tool for macOS. | Lifetime 50% OFF with code **BFS2024** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
