@@ -40,7 +40,7 @@ Total deals: 489
 		- [Window, Screen, Clipboard, Utilities (16)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (6)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (9)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (16)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (17)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
 - [🌈 Marketing Tools (23)](#-marketing-tools)
 - [🔍 SEO Tools (20)](#-seo-tools)
@@ -426,6 +426,7 @@ Total deals: 489
 |  🌍 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake notifications leveraging multiple authoritative sources. Features instant push notifications, native SwiftUI design, and comprehensive data from USGS, EMSC, CENC and more. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📸 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you revisit memories from this day in history. Features automatic photo display, location-based timeline, and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | ✨ | [Ranti](https://apps.apple.com/app/apple-store/id6503905853) | Ranti is a productivity and reminder app designed to help you stay organized. Manage tasks, save links, convert voice notes into actionable items, and stay focused with features like AI assistance, prioritization, and task-based playlists. | Lifetime 70% OFF (automatic) |
+| ✨ | [Liquid Player](https://apps.apple.com/app/apple-store/id1448868559) | Liquid Player is a simple and user-friendly video player that supports all video formats, online playback, and subtitle translation. It is the best tool for watching videos and learning languages. | Lifetime 50% OFF (automatic, ends Dec 1) |
 | 🎨 | [Litur](https://apps.apple.com/us/app/litur/id1487096693?ls=1) | Litur is a color picker and library app designed to be the perfect designer's color toolkit. | Lifetime 33% OFF (automatic) |
 
 [⬆️ Go to Top](#table-of-contents)
