@@ -939,6 +939,7 @@ Total deals: 491
 | 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
 |  📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=gh-trungdq88) | Read unsensational news and learn something | **25% OFF** annual subscription with coupon code **BF24**.  |
+|  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
 
 
 [⬆️ Go to Top](#table-of-contents)
