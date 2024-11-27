@@ -73,7 +73,6 @@ Total deals: 489
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-|  ⭐ | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF with code **FRIDAY50** |
 |  ⭐ | [Proxyman](https://proxyman.io/) | Debug Network HTTP/HTTPS Faster like a Pro. Support macOS Sequoia, iOS, Windows, and Linux. | 30% OFF for all plans with code **BLACKFRIDAY2024** |
 |  ⭐ | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
@@ -93,6 +92,7 @@ Total deals: 489
 | ⚡️ | [AWS S3 Manager for Desktop](https://buy.polar.sh/polar_cl_D6-7621_p56eN2WX5k3HRDzuUttaYpNdXsTART3-sag) | Effortlessly manage S3 files for Desktop | on-site 50% off |
 |  ⭐ | [TablePlus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% OFF for all plans with code **BLACK_FRIDAY_2024** |
 | ⭐️ | [StoreReviewKit](https://apps.apple.com/app/apple-store/id6670761635?pt=594185&ct=awesome-bf&mt=8) | Read and respond to App Store reviews | 50% off - USD 12.99 -> 6.59 until Dec 3th |
+| 🤖 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF with code **FRIDAY50** |
 | 🌐 | [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=awesome-bf&mt=8) | Translate your app in 1 click | 50% off USD 39.99 -> 19.99 until Dec 3th|
 | 🌐 | [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=awesome-bf&mt=8) | Easiest way to localize and update App Store metadata | 50% off - USD 12.99 -> 6.59 until Dec 3th |
 | 🖥️ | [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=awesome-bf&mt=8) | Create App Store screenshots in minutes not hours | 30% off - USD 29.99 -> 21.00 until Dec 3th |
