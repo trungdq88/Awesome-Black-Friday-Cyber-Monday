@@ -30,7 +30,7 @@ Total deals: 491
 	- [💻 Tools & Services (40)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (16)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (35)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (36)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (17)](#-other-ai-tools)
 - [🌅 Design Tools (32)](#-design-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
@@ -233,6 +233,7 @@ Total deals: 491
 | 🎙️ | [Chibi AI]([https://chibi.ai/l/](https://chibi.ai/l/black-friday-2024)) | The right tool for the write job | 33% off, automatically applied |
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2024BF30** for a **30% discount** on all plans |
 | ✍️ | [Chibi AI](https://chibi.ai/l/black-friday-2024) | The right tool for the write job | 33% off, automatically applied |
+| 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
 
 [⬆️ Go to Top](#table-of-contents)
 
