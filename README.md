@@ -157,6 +157,7 @@ Total deals: 491
 | 🌐 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | **30% OFF** first payment with code **BF2024** |
 | ⭐ | [Harbor](https://getharbor.xyz/) | A ready-to-use Chrome Tabs management Extension with Kanban View for enhanced experience. Powered by AI-driven tab grouping, automatic data backup, and seamless Notion sync. | **20% OFF** with discount code **HAPPYBF2024** |
 | 📊 | [Polling.com](https://polling.com) | Understand your audience better with a powerful and feature-rich survey software. | **50% OFF** on annual plans with code **BF50OFF** |
+|  ⭐ | [OVH VPS](https://us.ovh.com/us/order/vps/) | Virtual Private Server Instance (VPS): 1 vCore, 2 GB RAM, 20 GB SSD SATA, public bandwidth 100Mbps | -77% the first 12 months (New customer, 10 max) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -183,7 +184,6 @@ Total deals: 491
 | ⛰️ | [Heights Platform](https://heightsplatform.com/black-friday-2024?utm_source=awesomebf) | All-in-one platform for creating & selling online courses, digital products, community memberships and coaching programs with Heights AI 2. | 35% OFF, save up to $1000 - no code needed |
 | 🤑 | [AnySelect](https://anyselectai.com/) | The best and quickest way to use ChatGPT/LLM from any app on macOS! | 60% OFF with this discount code **`BF2024`** |
 | 🟣 | [RecurseChat](https://recurse.chat/) | Personal, Local and Private AI chat. | 50% off lifetime |
-|  ⭐ | [OVH VPS](https://us.ovh.com/us/order/vps/) | Virtual Private Server Instance (VPS): 1 vCore, 2 GB RAM, 20 GB SSD SATA, public bandwidth 100Mbps | -77% the first 12 months (New customer, 10 max) |
 | 🤖 | [SharpAPI](https://sharpapi.com) | Leverage AI API for seamless workflow automation across E-Commerce, Marketing, HR Tech, and more. | **50% OFF** Black Friday & Cyber Week Sale. Valid from **Nov 26 to Dec 2**. Use code **BF2024** (valid for 12 months). |
 | 💬 | [YourGPT](https://play.google.com/store/apps/details?id=io.yourgptapp) | Mobile app to use LLMs with your API key | 50% OFF Lifetime Premium Plan |
 
