@@ -668,6 +668,7 @@ Total deals: 489
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** |
 | 🚀 | [Rails Designer](https://railsdesigner.com/) | UI Component Library for Ruby on Rails. Built with ViewComponent. Designed with Tailwind CSS. Enhanced with Hotwire. | **Up to 50% off on check out** |
 | 🗂️ | [Lists Kit](https://listskit.com/?trungdq88) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off |
+| 🚀 | [StartupBolt](https://www.startupbolt.com/) | StartupBolt is a Next.js Rapid Launch Kit that eliminates roadblocks like payment integration, auth, SEO, and more. Just unzip, install, and build. | **60% OFF** with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
