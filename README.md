@@ -697,6 +697,7 @@ Total deals: 491
 | 🗂️ | [Lists Kit](https://listskit.com/?trungdq88) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off |
 | 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 |  🚀 | [DaasBoilerplate](https://buy.stripe.com/aEU6qyfXd5pmfN6eUW) | DaaSBoilerplate is a production ready DaaS boilerplate with everything that you need to start making money with your data as a service product. | Discount Code & Terms - 20% off with **20OFF** |
+| 🚀 | [StartupBolt](https://www.startupbolt.com/) | StartupBolt is a Next.js Rapid Launch Kit that eliminates roadblocks like payment integration, auth, SEO, and more. Just unzip, install, and build. | **60% OFF** with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
