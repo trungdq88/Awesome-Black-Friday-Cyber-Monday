@@ -23,7 +23,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 489
+Total deals: 491
 
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (23)](#-developer-macos-apps)
@@ -260,7 +260,7 @@ Total deals: 489
 |  🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
 | 📸 | [VectorArt.ai](https://vectorart.ai/) | Create Vector Images with AI. The largest AI generated vector image library and AI vector art generator. | **50% OFF** with code **BLACK50** |
 | 📰 | [AI Best Tools](https://aibest.tools) | AIBest.Tools is a curated list of the best AI tools that are currently trending and profitable. Discover the latest and the best AI tools and stay ahead of the curve. | 50% ONCE OFF with code **BLACKFRIDAY50** |
-
+| 🤖 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -592,7 +592,7 @@ Total deals: 489
 | 🤑 | [Cashculator](https://cashculator.app) | Financial planning and forecasting (Mac app) | 50% off first year [using this link only](https://apps.apple.com/redeem?ctx=offercodes&id=1591642644&code=BLACKFRIDAY24) |
 | 🥳 | [Capitally](https://www.mycapitally.com/?ref=gh-awsm) | Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner! | **Lifetime promo** (Available from Nov 25 - Dec 8) |
 | 🤑 | [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) | Get your Bills paid on time and your Budgets under Control, with Bills to Budget! | **Over 55% off** Bills to Budget Plus Lifetime and Family Plus Lifetime, Nov 29 - Dec 3 |
-
+| 🗒️ | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever |
 
 [⬆️ Go to Top](#table-of-contents)
 
