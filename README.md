@@ -484,7 +484,7 @@ Total deals: 489
 | 📈 | [Appfigures](https://appfigures.com) | App Store Optimization & App Intelligence tools to help you grow you downloads and revenue | 50% OFF with a yearly subscription with code **BF2450** |
 | 🧠 | [AskCory](https://askcory.ai) | Elevate your marketing strategy with AskCory.ai, the AI-driven platform that empowers you to craft tailored plans, and access benchmarks in minutes. | 67% OFF on all plans with code **BF24** |
 | 🔥 | [Marketing Strategy Generator](https://founderpal.ai/marketing-strategy-generator) | Unique marketing strategy for your business in 5 minutes  | 50% OFF all plans with code  **FRIDAY50** |
-
+| 💰 | [Ai Teach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging.| 50% OFF with code **BLACKFRIDAY** |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
@@ -541,7 +541,7 @@ Total deals: 489
 | 💡| [ProductLogz](https://productlogz.com) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications. | **10% OFF** on the LTD Plans with code *BF2024SALE* . Nov 24 - Dec 6 |
 | 🚀 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | Platform with tools for collecting and sharing information about people and their work. | **30% OFF** first payment (month/year) *BF2024_CODE* . Nov 17 - Dec 2 |
 | 🤖 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | **50% OFF** once off *BLACKFRIDAY50* . Nov 17 - Dec 30 |
-
+| 💰 | [Ai Teach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging.| 50% OFF with code **BLACKFRIDAY** |
 
 
 [⬆️ Go to Top](#table-of-contents)
