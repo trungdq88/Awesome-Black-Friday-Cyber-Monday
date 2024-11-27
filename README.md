@@ -234,6 +234,7 @@ Total deals: 491
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2024BF30** for a **30% discount** on all plans |
 | ✍️ | [Chibi AI](https://chibi.ai/l/black-friday-2024) | The right tool for the write job | 33% off, automatically applied |
 | 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
+| 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
 
 [⬆️ Go to Top](#table-of-contents)
 
