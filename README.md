@@ -449,6 +449,7 @@ Total deals: 489
 |  📁 | [Files to Notion](https://www.files2notion.com/) | Open and organise your local files in Notion | 20% OFF on Extended plan with code **BLACK2024FRIDAY** |
 |  📝 | [Writing Habit Builder](https://writemore.io/) | Build Your Writing Muscle with Tools and Analytics Across All Devices | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year. |
 | 💰 | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | **BLACKFRIDAY2024** 25% off |
+| 🧹 | [Mail Sweeper](https://www.mailsweeper.co/?ref=awesomegh) | Save time and money on gmail with your personal gmail janitor. | 50% OFF forever with code **BLACKFRIDAY50**  |
 
 
 [⬆️ Go to Top](#table-of-contents)
