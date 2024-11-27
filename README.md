@@ -325,6 +325,7 @@ Total deals: 491
 |  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY** |
 | 🚀 | [TailGrids](https://tailgrids.com) | 600+ High-Quality Tailwind CSS UI Components Library. Effortlessly copy, paste, and start building—available for HTML, React, Vue, and Figma!| **40% OFF** with code **BLFCM2024** |
 | ⭐ | [Ayro UI](https://ayroui.com/) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast - Landing Pages, Templates, or Websites by Copy-Pasting Blocks.| **40% OFF** with code **BLFCM2024** |
+| 🔌 | [Temrinalwire](https://terminalwire.com/black-friday?utm_source=gh-trungdq88) | Build command-line interfaces for web apps. Ship terminal applications 10× faster using your favorite web framework. | **25% OFF Pro License** |
 
 
 [⬆️ Go to Top](#table-of-contents)
