@@ -350,7 +350,7 @@ Total deals: 491
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
-
+| 🖥️ | [Beaconly]([https://www.apptorium.com/fivenotes](https://apps.apple.com/us/app/beaconly/id1520138793?mt=8&utm_source=website&utm_campaign=beaconly_launch)) | Manage Jira, Asana, Trello, Crypto, AWS and more with 500+ extensions from your macOs menu. | 33% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
