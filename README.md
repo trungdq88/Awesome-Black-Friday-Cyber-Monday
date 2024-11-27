@@ -671,7 +671,7 @@ Total deals: 491
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** |
 | 🚀 | [Rails Designer](https://railsdesigner.com/) | UI Component Library for Ruby on Rails. Built with ViewComponent. Designed with Tailwind CSS. Enhanced with Hotwire. | **Up to 50% off on check out** |
 | 🗂️ | [Lists Kit](https://listskit.com/?trungdq88) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off |
-
+| 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 
 [⬆️ Go to Top](#table-of-contents)
 
