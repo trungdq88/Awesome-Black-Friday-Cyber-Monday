@@ -65,6 +65,7 @@ Total deals: 489
 	- [📈 Marketing Courses (3)](#-marketing-courses)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (35)](#-miscellaneous)
+- [☁️ Cloud Storage (1)](#-cloud-storage)
 
 ## 👨‍💻 Developer Tools
 
@@ -903,3 +904,9 @@ Total deals: 489
 
 
 [⬆️ Go to Top](#table-of-contents)
+
+## ☁️ Cloud Storage
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 💾  | [pCloud](https://landing.pcloud.com/BlackFriday2024) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents  | 54% - 58% dependent on plan selected applied automatically |
