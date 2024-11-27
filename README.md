@@ -152,6 +152,8 @@ Total deals: 489
 |  🔥 | [BoloSign](https://boloforms.com) | The eSignature/digital signature Platform for Small Businesses. Unlimited PDF signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| **40% OFF** with the code **BFCM40** at checkout|
 |  🌐 | [DomainDetails](https://domaindetails.io) | Simple (local first) Domain Registration & Detail lookup (always free) and advanced monitoring (pro_.  | **1 Month Free Extra On Pro**  with code BF2024 |
 | 🌐 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | **30% OFF** first payment with code **BF2024** |
+| 📊 | [Polling.com](https://polling.com) | Understand your audience better with a powerful and feature-rich survey software. | **50% OFF** on annual plans with code **BF50OFF** |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
