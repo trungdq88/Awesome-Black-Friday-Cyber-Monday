@@ -63,7 +63,7 @@ Total deals: 491
 	- [🔒 Information Security Courses (4)](#-information-security-courses)
 	- [🎢 Career Courses (9)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
-- [💪 Health and Fitness (8)](#-health-and-fitness)
+- [💪 Health and Fitness (9)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (35)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
@@ -873,6 +873,7 @@ Total deals: 491
 | 💪  | [Examine+](https://examine.com) | Evidence-based nutrition and supplement information. | Over 27% off Nov 26 - Dec 2. Early bird: up to 40% off from Mon Nov 25 at 12pm ET. |
 | 🍼 | [Wake Wise - Baby Sleep Tracker App](https://apps.apple.com/gb/app/id6736522449) | Track your baby's sleep and get suggested bedtimes. | 50% Off Lifetime Subscription - Nov 21 2024 - Dec 4 2024 |
 | 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
+| 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | 33% OFF Annual Plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
