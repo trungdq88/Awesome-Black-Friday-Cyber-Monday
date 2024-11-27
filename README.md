@@ -342,7 +342,7 @@ Total deals: 489
 | 🗒️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
-
+| 🖥️ | [Beaconly]([https://www.apptorium.com/fivenotes](https://apps.apple.com/us/app/beaconly/id1520138793?mt=8&utm_source=website&utm_campaign=beaconly_launch)) | Manage Jira, Asana, Trello, Crypto, AWS and more with 500+ extensions from your macOs menu. | 33% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
