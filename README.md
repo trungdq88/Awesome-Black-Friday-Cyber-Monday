@@ -484,6 +484,7 @@ Total deals: 489
 | 📈 | [Appfigures](https://appfigures.com) | App Store Optimization & App Intelligence tools to help you grow you downloads and revenue | 50% OFF with a yearly subscription with code **BF2450** |
 | 🧠 | [AskCory](https://askcory.ai) | Elevate your marketing strategy with AskCory.ai, the AI-driven platform that empowers you to craft tailored plans, and access benchmarks in minutes. | 67% OFF on all plans with code **BF24** |
 | 🔥 | [Marketing Strategy Generator](https://founderpal.ai/marketing-strategy-generator) | Unique marketing strategy for your business in 5 minutes  | 50% OFF all plans with code  **FRIDAY50** |
+| 🎥 | [Vidlo](https://vidlo.video) | Collect Video Testimonials and UGC Videos Easily | 30% OFF for 3 months with code  **BlackFriday2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
