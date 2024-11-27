@@ -264,6 +264,7 @@ Total deals: 491
 | 📰 | [AI Best Tools](https://aibest.tools) | AIBest.Tools is a curated list of the best AI tools that are currently trending and profitable. Discover the latest and the best AI tools and stay ahead of the curve. | 50% ONCE OFF with code **BLACKFRIDAY50** |
 | 🤖 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans. |
 | ✒️ | [Magic Resume AI]([https://careercraftai.com/#pricing](https://magic-resume.ai/pricing)) | MagicResumeAI creates a professional resume or cover letter, tailored for specific job | **-5$** on all plans. Use discount code: **BFRIDAY2024** |
+| 🌠 | [AI Face Swap - AISaver](https://aisaver.io/) | AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day |
 
 [⬆️ Go to Top](#table-of-contents)
 
