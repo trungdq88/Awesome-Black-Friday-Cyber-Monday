@@ -622,6 +622,7 @@ Total deals: 491
 | 💰 | [StopTheFonts](https://apps.apple.com/app/stopthefonts/id1671452642) | Safari content blocker for iOS and Mac that blocks web fonts | 50% off |
 | 💰 | [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) | Safari extension for iOS and Mac that opens Mastodon URLs in your own instance | 50% off |
 | 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for Mac | 50% off |
+| 😇 | [DynamicLakePro](https://www.dynamiclake.com) | Smartly transforms your Mac's unused notch into a hub for instant media controls, quick messaging replies, effortless file sharing, and more | 35% OFF with code **PBUBUTA** |
 
 
 [⬆️ Go to Top](#table-of-contents)
