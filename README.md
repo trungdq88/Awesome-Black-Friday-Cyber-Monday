@@ -638,6 +638,7 @@ Total deals: 491
 | 💰 | [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) | Safari extension for iOS and Mac that opens Mastodon URLs in your own instance | 50% off |
 | 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for Mac | 50% off |
 | 😇 | [DynamicLakePro](https://www.dynamiclake.com) | Smartly transforms your Mac's unused notch into a hub for instant media controls, quick messaging replies, effortless file sharing, and more | 35% OFF with code **PBUBUTA** |
+| ✒️ | [Gorby - Text Analyzer](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvements, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. |
 
 
 [⬆️ Go to Top](#table-of-contents)
