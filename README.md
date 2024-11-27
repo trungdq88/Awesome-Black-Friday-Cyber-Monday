@@ -647,6 +647,7 @@ Total deals: 491
 | 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for Mac | 50% off |
 | 😇 | [DynamicLakePro](https://www.dynamiclake.com) | Smartly transforms your Mac's unused notch into a hub for instant media controls, quick messaging replies, effortless file sharing, and more | 35% OFF with code **PBUBUTA** |
 | ✒️ | [Gorby - Text Analyzer](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvements, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. |
+| ⚡️ | [Usage](https://usage.pro) | System Activity Monitor for Mac and iPhone | 40% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
