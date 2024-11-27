@@ -620,6 +620,7 @@ Total deals: 489
 | 💰 | [StopTheFonts](https://apps.apple.com/app/stopthefonts/id1671452642) | Safari content blocker for iOS and Mac that blocks web fonts | 50% off |
 | 💰 | [Homecoming for Mastodon](https://apps.apple.com/app/homecoming-for-mastodon/id1666139593) | Safari extension for iOS and Mac that opens Mastodon URLs in your own instance | 50% off |
 | 💰 | [Viso](https://getviso.app) | Beautiful minimal image viewer for Mac | 50% off |
+| ⚡️ | [Usage](https://usage.pro) | System Activity Monitor for Mac and iPhone | 40% off |
 
 
 [⬆️ Go to Top](#table-of-contents)
