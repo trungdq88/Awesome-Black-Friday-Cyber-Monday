@@ -258,6 +258,7 @@ Total deals: 489
 |  🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
 | 📸 | [VectorArt.ai](https://vectorart.ai/) | Create Vector Images with AI. The largest AI generated vector image library and AI vector art generator. | **50% OFF** with code **BLACK50** |
 | 📰 | [AI Best Tools](https://aibest.tools) | AIBest.Tools is a curated list of the best AI tools that are currently trending and profitable. Discover the latest and the best AI tools and stay ahead of the curve. | 50% ONCE OFF with code **BLACKFRIDAY50** |
+| 🌠 | [AI Face Swap - AISaver](https://aisaver.io/) | AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day |
 
 
 [⬆️ Go to Top](#table-of-contents)
