@@ -156,6 +156,7 @@ Total deals: 491
 |  🌐 | [DomainDetails](https://domaindetails.io) | Simple (local first) Domain Registration & Detail lookup (always free) and advanced monitoring (pro_.  | **1 Month Free Extra On Pro**  with code BF2024 |
 | 🌐 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | **30% OFF** first payment with code **BF2024** |
 | ⭐ | [Harbor](https://getharbor.xyz/) | A ready-to-use Chrome Tabs management Extension with Kanban View for enhanced experience. Powered by AI-driven tab grouping, automatic data backup, and seamless Notion sync. | **20% OFF** with discount code **HAPPYBF2024** |
+| 📊 | [Polling.com](https://polling.com) | Understand your audience better with a powerful and feature-rich survey software. | **50% OFF** on annual plans with code **BF50OFF** |
 
 [⬆️ Go to Top](#table-of-contents)
 
