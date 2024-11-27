@@ -301,6 +301,7 @@ Total deals: 489
 | 🌅 | [Savvyshot](https://www.savvyshot.app/) | No more boring Screenshot, ever! Beautify, enhance, and share stunning screenshots effortlessly on Windows and Mac | **70% OFF** with code **BLACKFRIDAY2024** |
 | 🎨 | [Quick QR Art](https://quickqr.art/) | #1 QR Code Art Generator (1.3M+ users) - Create beautiful and functional QR codes with artistic designs | 40% OFF yearly package with code **BLACKFRIDAY24** |
 | 🤑 | [ImageFramer](https://imageframer.net) | Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac | 50% off until Dec 2nd|
+| 🎨 | [Flux AI Image Generator](https://flux1.ai/) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** OFF with code **BF5** |
 
 [⬆️ Go to Top](#table-of-contents)
 
