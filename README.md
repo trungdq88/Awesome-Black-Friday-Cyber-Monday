@@ -60,7 +60,7 @@ Total deals: 491
 	- [📕 Marketing Books (4)](#-marketing-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (20)](#-programming-courses)
-	- [🔒 Information Security Courses (4)](#-information-security-courses)
+	- [🔒 Information Security Courses (7)](#-information-security-courses)
 	- [🎢 Career Courses (9)](#-career-courses)
 	- [📈 Marketing Courses (3)](#-marketing-courses)
 - [💪 Health and Fitness (9)](#-health-and-fitness)
@@ -829,6 +829,7 @@ Total deals: 491
 | 💻 | [The SecOps Group](https://secops.group/pentesting-exams/) | The SecOps Group is offering Black Friday deals for their cybersecurity exams! Learn from various platforms and validate your skills by taking their exams. A great opportunity to level up your expertise! | Use promo code **BLACKFRIDAY-90** to get a **flat 90% off** |
 | 💻 | [EXPLIoT Academy](https://academy.expliot.io/) | Get upto **50%** OFF on all courses offered by EXPLIoT Academy and level up your device security game this Black Friday | Get upto **50% OFF** on our courses and bundles |
 | ✨ | [Practical DevSecOps](https://www.practical-devsecops.com/pricing/) | Practical DevSecOps ​(a Hysn Technologies Inc company) offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals | Get **15%** OFF at checkout |
+| 🌐 | [DNS for Developers](https://nslookup.io/dns-course/) | Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all. | Get **66%** OFF at checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
