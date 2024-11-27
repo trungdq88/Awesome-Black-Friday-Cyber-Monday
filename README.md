@@ -100,6 +100,7 @@ Total deals: 489
 | 🖥️ | [Lintastic ASO Metadata Linter](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024) | Audit your app's metadata to follow App Store best practices for ASO to rank as high as possible in the App Store | 50% off, from 39.99$ / year to 19.99$. Promo code: BLACKFRIDAY2024 for first 1000 uses. Valid until December 7th |
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! |
 | 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF |
+| 🕺 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime |
 
 
 [⬆️ Go to Top](#table-of-contents)
