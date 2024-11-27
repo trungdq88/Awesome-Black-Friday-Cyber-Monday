@@ -522,6 +522,7 @@ Total deals: 491
 | 🔗 | [DA 59 backlinks](https://worldclass.domains/) | Create your profile page and showcase all your projects with DA 59 backlinks | $30/yr(56% OFF) with code **BFLIFETIME** for lifetime |
 | ✅ | [CheckMySEO](https://www.checkmyseo.io?utm_source=git_tdinh_me) | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
 | 🏄 | [Surfer](https://surferseo.com/black-friday/?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | SEO platform that helps you create the best-performing content and maximize organic traffic. | 30% more credits (all plans, for life), 30% OFF annual plans (for life), up to 40% off on AI packages. |
+|  ⭐ | [SubmitSites](https://buy.stripe.com/14keV3aobc5Gh2M9AE) | Attract early adopters, increase traffic and build backlinks from high DA sites when we manually submit your startup to 100+ directories FAST. | Discount Code & Terms - 20% off with **BF20OFF** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -683,6 +684,7 @@ Total deals: 491
 | 🚀 | [Rails Designer](https://railsdesigner.com/) | UI Component Library for Ruby on Rails. Built with ViewComponent. Designed with Tailwind CSS. Enhanced with Hotwire. | **Up to 50% off on check out** |
 | 🗂️ | [Lists Kit](https://listskit.com/?trungdq88) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off |
 | 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
+|  🚀 | [DaasBoilerplate](https://buy.stripe.com/aEU6qyfXd5pmfN6eUW) | DaaSBoilerplate is a production ready DaaS boilerplate with everything that you need to start making money with your data as a service product. | Discount Code & Terms - 20% off with **20OFF** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -850,6 +852,7 @@ Total deals: 491
 |  ⭐ | [Danny Postma's SEO Blueprint](https://www.dannypostma.com/seo-course) | Watch over my shoulder as I reveal my entire SEO system. Everything I've learned ranking 20+ sites to #1 | 20% OFF with code **FRIDAY20** |
 |  🚀 | ['Launch with AI' Program](https://solveo.co/launch-program/) | Master the art of product launch with our comprehensive program created by growth experts with a proven track record of working with 500+ startups | 75% OFF with code **bf75** |
 |  🕹️ | [Show Them Course](https://showthem.com) | Landing Page Optimization Course by Rob Hope from One Page Love | 60% off with code **BF2024** |
+|  🚀 | [The100kDatabase ](https://buy.stripe.com/eVa9D16Xj6V96E8aEJ/) | The100kDatabase is a complete blueprint for starting, building, scaling and sustaining a profitable data as a service (DAAS) product. |Discount Code & Terms - 20% off with **BF20OFF** |
 
 [⬆️ Go to Top](#table-of-contents)
 
