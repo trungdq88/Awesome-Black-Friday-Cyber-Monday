@@ -591,6 +591,8 @@ Total deals: 491
 | 💜 | [Display Purposes](https://displaypurposes.com/) | All-in-one solution: Analyze your Instagram profile, create engaging content using advanced AI tools, and discover relevant keywords to boost your posts and Reels. | Up to 70% OFF on all yearly plans |
 | 👑 | [Mixpost](https://mixpost.app/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Boost your social media with Mixpost — a self-hosted platform to create, schedule, and manage content with ease, all while saving time and staying in control. Open Source? Absolutely. SaaS and White Label? You bet! | 30% OFF (automatic) |
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
+| 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
