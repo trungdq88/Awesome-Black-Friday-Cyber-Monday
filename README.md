@@ -236,6 +236,7 @@ Total deals: 610
 | ✍️ | [Chibi AI](https://chibi.ai/l/black-friday-2024) | The right tool for the write job | 33% off, automatically applied |
 | 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
 | 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
+| ✍️ | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | 50% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
