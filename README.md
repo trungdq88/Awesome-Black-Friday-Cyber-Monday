@@ -42,7 +42,7 @@ Total deals: 610
 		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (22)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (13)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (30)](#-marketing-tools)
+- [🌈 Marketing Tools (31)](#-marketing-tools)
 - [🔍 SEO Tools (22)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (22)](#-startup-saastools)
 - [🌏 Social Media Tools (17)](#-social-media-tools)
@@ -505,6 +505,7 @@ Total deals: 610
 | 💰 | [Reddit Growth Bundle]( https://www.bynapkin.com/guides/reddit) | Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics. | 40% off the complete bundle ($89 instead of $148) |
 | 🎥 | [Vidlo](https://vidlo.video) | Collect Video Testimonials and UGC Videos Easily | 30% OFF for 3 months with code  **BlackFriday2024** |
 | 🚀 | [WP Full Picture](https://wpfullpicture.com/) | Analytics and Privacy toolkit for WordPress. Easily install Google Analytics, Google Ads, Meta Pixel or any other tracking tool and use it according to privacy laws. | 50% OFF Lifetime plans |
+| 🚀 | [lowkey viral](https://lowkeyviral.com/) | Generate viral Reels & TikToks in the trending grid format with AI | 50% OFF (from 0.22$ per video) |
 
 [⬆️ Go to Top](#table-of-contents)
 
