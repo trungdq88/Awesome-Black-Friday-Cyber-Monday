@@ -314,7 +314,7 @@ Total deals: 610
 | 🎬 | [FireCut](https://firecut.ai/) | Adobe Premiere Pro plugin that lets you automatically add AI transcribed captions with animations & emojis, remove silences from raw footage, detect chapters in your video, remove repetition (multiple takes of the script), edit multi-track videos like podcasts, and much more... | **50% OFF** (automatic) |
 | 🎨 | [Flux AI Image Generator](https://flux1.ai/) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** OFF with code **BF5** |
 | 🌎 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2024) | Photo geotagging for Mac. Add GPS locations to JPEG, RAW, Apple Photos | **30% OFF** with code **BLACKFRIDAY2024** |
-| 📷 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) | Photos Workbench help you curate your Apple Photos library | **30% OFF** with code **BLACKFRIDAY2024** |
+| 📷 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) | Curate your Apple Photos library. Organize, rate, and compare your photos | **30% OFF** with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -653,7 +653,7 @@ Total deals: 610
 | 😇 | [DynamicLakePro](https://www.dynamiclake.com) | Smartly transforms your Mac's unused notch into a hub for instant media controls, quick messaging replies, effortless file sharing, and more | 35% OFF with code **PBUBUTA** |
 | ✒️ | [Gorby - Text Analyzer](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvements, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. |
 | ⚡️ | [Usage](https://usage.pro) | System Activity Monitor for Mac and iPhone | 40% off |
-| 🔍 | [HoudahSpot]([https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024]) | File search tool that helps you organize files and finds these if you did not | **30% OFF** with code **BLACKFRIDAY2024** |
+| 🔍 | [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024) | File search tool that helps you organize files and finds these if you did not | **30% OFF** with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
