@@ -447,6 +447,8 @@ Total deals: 610
 | ✨ | [Liquid Player](https://apps.apple.com/app/apple-store/id1448868559) | Liquid Player is a simple and user-friendly video player that supports all video formats, online playback, and subtitle translation. It is the best tool for watching videos and learning languages. | Lifetime 50% OFF (automatic, ends Dec 1) |
 | 🎨 | [Litur](https://apps.apple.com/us/app/litur/id1487096693?ls=1) | Litur is a color picker and library app designed to be the perfect designer's color toolkit. | Lifetime 33% OFF (automatic) |
 | ✅ | [Memento](https://apps.apple.com/app/apple-store/id1200227397?pt=972586&ct=awesome-black-friday-github&mt=8) | Memento is a minimalist reminders app that hooks into Apple's reminders. | $5.99 -> $0.99 Lifetime Nov 25 - Dec 2 |
+| 💵 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/note/id1602765272)) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | Annual Subscription 50% OFF with code **BLACK50** Nov 28 - Jan 5 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -747,6 +749,8 @@ Total deals: 610
 | 💻 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** |
 | 🤑 | [Swift Gems](https://books.nilcoalescing.com/swift-gems) | 100+ tips to take your Swift code to the next level. | 30% OFF with code **BLACKFRIDAY24** |
 | 📚 | [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) | A detailed guide on gradually adopting SwiftUI in UIKit projects. | 30% OFF with code **BLACKFRIDAY24** |
+| 🍎 | [Uplift iOS Interview](https://ishtiakahmed.lemonsqueezy.com/buy/6a4db36d-59b9-4fc7-b2cc-9e57a482a771) | A Comprehensive Guide to Master Your iOS Interview. | 25% OFF using code **BLACK25** Nov 28 - Jan 05 |
+| 🍏 | [Ace iOS Coding Interview](https://ishtiakahmed.lemonsqueezy.com/buy/9116d101-ef55-4244-a61d-e63e0c38ad4d) | Conquer iOS Coding Interviews with Confidence and Expertise. | 25% OFF using code **BLACK25** Nov 28 - Jan 05 |
 
 [⬆️ Go to Top](#table-of-contents)
 
