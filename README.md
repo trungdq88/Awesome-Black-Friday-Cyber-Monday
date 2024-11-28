@@ -385,7 +385,7 @@ Total deals: 610
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Dec 2|
 | 🌅 | [ScreenSage](https://screensage.macaify.com/) | Auto-zoom screen recorder that makes every event count. Professional Screen Recording & Tutorial Creation Tool for macOS. | Lifetime 50% OFF with code **BFS2024** |
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new & returning users |
-
+| 🖥️ | [Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) | Spotlight style universal clipboard | Lifetime 30% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -399,6 +399,7 @@ Total deals: 610
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 | 🕓 | [Minizones](https://minizones.app) | Quickly glance at different timezones, right from your menubar. | **50% OFF** till Dec 3 (automatically applied) |
 | 🕓 | [Daily Time Tracking](https://dailytimetracking.com?utm_source=awesome) | Time tracking for Mac without toggling timers. | **30% OFF** (automatically applied) |
+| 🕓 | [Timekeeper](https://apps.apple.com/us/app/timekeeper-time-calculator/id6450931725) | Time tracker synced across all your devices | **50% OFF** (automatically applied) |
 
 
 [⬆️ Go to Top](#table-of-contents)
