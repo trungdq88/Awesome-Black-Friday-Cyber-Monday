@@ -48,7 +48,7 @@ Total deals: 491
 - [🌏 Social Media Tools (13)](#-social-media-tools)
 - [💸 Finance Tools (9)](#-finance-tools)
 - [🎛 Utility Tools (15)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (36)](#-boilerplates-starter-kit-templates)
+- [💅 Boilerplates, Starter-Kit, Templates (37)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (2)](#-themes-plugins)
 - [📚 Books ](#-books)
 	- [📗 Programming Books ](#-programming-books)
@@ -700,6 +700,7 @@ Total deals: 491
 | 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 |  🚀 | [DaasBoilerplate](https://buy.stripe.com/aEU6qyfXd5pmfN6eUW) | DaaSBoilerplate is a production ready DaaS boilerplate with everything that you need to start making money with your data as a service product. | Discount Code & Terms - 20% off with **20OFF** |
 | 🚀 | [StartupBolt](https://www.startupbolt.com/) | StartupBolt is a Next.js Rapid Launch Kit that eliminates roadblocks like payment integration, auth, SEO, and more. Just unzip, install, and build. | **60% OFF** with code **BLACKFRIDAY** |
+| 🚀 |  [Nuxt SaaS Kit](https://nuxtsaaskit.com/) | Nuxt SaaS Kit is a Nuxt boilerplate designed for developers eager to build SaaS products efficiently. It provides all the important building blocks, allowing you to concentrate on your business. | **$30 OFF** (Get it for just $69) with code **IZNDE5NQ** |
 
 [⬆️ Go to Top](#table-of-contents)
 
