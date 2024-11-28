@@ -313,7 +313,7 @@ Total deals: 610
 | 🤑 | [ImageFramer](https://imageframer.net) | Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac | 50% off until Dec 2nd|
 | 🎬 | [FireCut](https://firecut.ai/) | Adobe Premiere Pro plugin that lets you automatically add AI transcribed captions with animations & emojis, remove silences from raw footage, detect chapters in your video, remove repetition (multiple takes of the script), edit multi-track videos like podcasts, and much more... | **50% OFF** (automatic) |
 | 🎨 | [Flux AI Image Generator](https://flux1.ai/) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** OFF with code **BF5** |
-| 📸 | [WarpCam Background generator Camera](https://apps.apple.com/us/app/warpcam-wallpaper-maker/id6686408324) | Turn boring photos into stunning backgrounds | **100%** OFF |
+| 📸 | [WarpCam](https://apps.apple.com/us/app/warpcam-wallpaper-maker/id6686408324) | Background generator Camera - Turn boring photos into stunning backgrounds | **100%** OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
