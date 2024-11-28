@@ -45,7 +45,7 @@ Total deals: 610
 - [🌈 Marketing Tools (30)](#-marketing-tools)
 - [🔍 SEO Tools (22)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (22)](#-startup-saastools)
-- [🌏 Social Media Tools (17)](#-social-media-tools)
+- [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (19)](#-finance-tools)
 - [🎛 Utility Tools (25)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (43)](#-boilerplates-starter-kit-templates)
@@ -590,7 +590,8 @@ Total deals: 610
 | 💜 | [Display Purposes](https://displaypurposes.com/) | All-in-one solution: Analyze your Instagram profile, create engaging content using advanced AI tools, and discover relevant keywords to boost your posts and Reels. | Up to 70% OFF on all yearly plans |
 | 👑 | [Mixpost](https://mixpost.app/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Boost your social media with Mixpost — a self-hosted platform to create, schedule, and manage content with ease, all while saving time and staying in control. Open Source? Absolutely. SaaS and White Label? You bet! | 30% OFF (automatic) |
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
-| 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
+| 🔥 | [Snowball.club](https://snowball.club/?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
+| 🚀 | [SocialAuditor](https://socialauditor.io/?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | Up to 80% OFF on all plans |
 
 
 [⬆️ Go to Top](#table-of-contents)
