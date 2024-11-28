@@ -938,6 +938,8 @@ Total deals: 610
 | 💡 | [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) | Communicate at home with the smart lights you already have, with Signals for HomeKit! | Signals Plus and Signals Automate (Mac only) In-App Purchases **over 40%** off! |
 | 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
+| 🤝 | [Evergreen Support](https://www.evergreensupport.co/black-friday-2024) | Customer Support by real humans for online businesses | 50% off first month |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
