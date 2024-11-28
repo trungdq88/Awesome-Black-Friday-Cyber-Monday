@@ -938,6 +938,6 @@ Total deals: 610
 | 💡 | [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) | Communicate at home with the smart lights you already have, with Signals for HomeKit! | Signals Plus and Signals Automate (Mac only) In-App Purchases **over 40%** off! |
 | 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
-
+| 🎮 | [BlueStacks](https://www.bluestacks.com/products/deals.html) | The fastest and lightest app player to play Android games on PC | Black Friday Deal, upto 50% off on In-app purchases in select games |
 
 [⬆️ Go to Top](#table-of-contents)
