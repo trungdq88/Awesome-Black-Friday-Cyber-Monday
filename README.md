@@ -157,6 +157,8 @@ Total deals: 610
 | ⭐ | [Harbor](https://getharbor.xyz/) | A ready-to-use Chrome Tabs management Extension with Kanban View for enhanced experience. Powered by AI-driven tab grouping, automatic data backup, and seamless Notion sync. | **20% OFF** with discount code **HAPPYBF2024** |
 | 📊 | [Polling.com](https://polling.com) | Understand your audience better with a powerful and feature-rich survey software. | **50% OFF** on annual plans with code **BF50OFF** |
 |  ⭐ | [OVH VPS](https://us.ovh.com/us/order/vps/) | Virtual Private Server Instance (VPS): 1 vCore, 2 GB RAM, 20 GB SSD SATA, public bandwidth 100Mbps | -77% the first 12 months (New customer, 10 max) |
+|  📨 | [AhaSend](https://ahasend.com/) | Send up to 5 million transactional emails with up to 60% ($1500) off. |  Purchased credits are usable for the next 12 months. Register using [this link](https://dash.ahasend.com/user/register?destination=/credits) and purchase the credits with code BLACKFRIDAY2024 |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -234,7 +236,7 @@ Total deals: 610
 | 🎙️ | [Chibi AI]([https://chibi.ai/l/](https://chibi.ai/l/black-friday-2024)) | The right tool for the write job | 33% off, automatically applied |
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2024BF30** for a **30% discount** on all plans |
 | ✍️ | [Chibi AI](https://chibi.ai/l/black-friday-2024) | The right tool for the write job | 33% off, automatically applied |
-| 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
+| 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months |
 | 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
 
 [⬆️ Go to Top](#table-of-contents)
