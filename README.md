@@ -32,7 +32,7 @@ Total deals: 610
 	- [💬 AI Chat UI (20)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (43)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (27)](#-other-ai-tools)
-- [🌅 Design Tools (35)](#-design-tools)
+- [🌅 Design Tools (36)](#-design-tools)
 - [⌨️ Code Libraries (3)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
@@ -47,7 +47,7 @@ Total deals: 610
 - [🚀 Startup SaaS/Tools (22)](#-startup-saastools)
 - [🌏 Social Media Tools (17)](#-social-media-tools)
 - [💸 Finance Tools (19)](#-finance-tools)
-- [🎛 Utility Tools (25)](#-utility-tools)
+- [🎛 Utility Tools (27)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (43)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (3)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -313,6 +313,7 @@ Total deals: 610
 | 🤑 | [ImageFramer](https://imageframer.net) | Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac | 50% off until Dec 2nd|
 | 🎬 | [FireCut](https://firecut.ai/) | Adobe Premiere Pro plugin that lets you automatically add AI transcribed captions with animations & emojis, remove silences from raw footage, detect chapters in your video, remove repetition (multiple takes of the script), edit multi-track videos like podcasts, and much more... | **50% OFF** (automatic) |
 | 🎨 | [Flux AI Image Generator](https://flux1.ai/) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** OFF with code **BF5** |
+| 🔲 | [QR Factory 3](https://www.tunabellysoftware.com/qrfactory) | Create professional, high-quality QR codes with batch generation and web/print-ready export options. | 50% off Lifetime Access (automatically applied) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -650,6 +651,8 @@ Total deals: 610
 | 😇 | [DynamicLakePro](https://www.dynamiclake.com) | Smartly transforms your Mac's unused notch into a hub for instant media controls, quick messaging replies, effortless file sharing, and more | 35% OFF with code **PBUBUTA** |
 | ✒️ | [Gorby - Text Analyzer](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvements, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. |
 | ⚡️ | [Usage](https://usage.pro) | System Activity Monitor for Mac and iPhone | 40% off |
+| 💻 | [TG Pro](https://www.tunabellysoftware.com/tgpro) | Complete Mac temperature and fan monitoring with tools to cool it down, control fan speeds, and monitor hardware performance. Supports Intel & Apple Silicon M1-M4 Macs. | 75% off (automatically applied) |
+| 🗂️ | [Folder Tidy](https://www.tunabellysoftware.com/foldertidy) | Organize and clean up your files into tidy folders automatically. Featured by Apple on the Mac App Store. | 75% off (automatically applied) |
 
 
 [⬆️ Go to Top](#table-of-contents)
