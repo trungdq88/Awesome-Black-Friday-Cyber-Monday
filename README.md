@@ -324,6 +324,7 @@ Total deals: 610
 |  💰 | [LivewireDemos](https://livewiredemos.com) | Reusable Component Library for Laravel Livewire. | 40% OFF with code **BLACKFRIDAY** |
 | 🚀 | [TailGrids](https://tailgrids.com) | 600+ High-Quality Tailwind CSS UI Components Library. Effortlessly copy, paste, and start building—available for HTML, React, Vue, and Figma!| **40% OFF** with code **BLFCM2024** |
 | ⭐ | [Ayro UI](https://ayroui.com/) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast - Landing Pages, Templates, or Websites by Copy-Pasting Blocks.| **40% OFF** with code **BLFCM2024** |
+| 🔌 | [Terminalwire](https://terminalwire.com/black-friday?utm_source=gh-trungdq88) | Build command-line interfaces for web apps. Ship terminal applications 10× faster using your favorite web framework. | **25% OFF Pro License** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -591,6 +592,7 @@ Total deals: 610
 | 👑 | [Mixpost](https://mixpost.app/?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Boost your social media with Mixpost — a self-hosted platform to create, schedule, and manage content with ease, all while saving time and staying in control. Open Source? Absolutely. SaaS and White Label? You bet! | 30% OFF (automatic) |
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
 | 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
+| ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -938,6 +940,8 @@ Total deals: 610
 | 💡 | [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) | Communicate at home with the smart lights you already have, with Signals for HomeKit! | Signals Plus and Signals Automate (Mac only) In-App Purchases **over 40%** off! |
 | 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
+|  📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=gh-trungdq88) | Read unsensational news and learn something | **25% OFF** annual subscription with coupon code **BF24**.  |
+|  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
 
 
 [⬆️ Go to Top](#table-of-contents)
