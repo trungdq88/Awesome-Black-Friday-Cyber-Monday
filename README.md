@@ -828,6 +828,7 @@ Total deals: 610
 |  💰 | [Modern Full Stack Next.js Course](https://nextjscourse.dev/) | Build and Deploy Production-Ready Next.js apps including SaaS apps, Auth systems etc. includes interactive demos, exercises and quizzes to keep learning fun | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 |  💰 | [Become a Successful Engineering Leader](https://www.developertoleader.com/) | Learn how to lead a team successfully even if you've never managed or led anyone before. Includes 50+ lessons, 20+ Templates and in-depth real world scenarios for you to lead with confidence | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 |  📖 | [Ultimate Cursor AI Course (Instructa.ai)](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with code **BLACKCURSOR25** |
+|  💻 | [GreatFrontEnd](https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=tonybf) | The complete front end interview prep platform by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions. | 30% OFF with code **BF30** |
 
 [⬆️ Go to Top](#table-of-contents)
 
