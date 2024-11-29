@@ -545,6 +545,7 @@ Total deals: 610
 | 🏄 | [Surfer](https://surferseo.com/black-friday/?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | SEO platform that helps you create the best-performing content and maximize organic traffic. | 30% more credits (all plans, for life), 30% OFF annual plans (for life), up to 40% off on AI packages. |
 |  ⭐ | [SubmitSites](https://buy.stripe.com/14keV3aobc5Gh2M9AE) | Attract early adopters, increase traffic and build backlinks from high DA sites when we manually submit your startup to 100+ directories FAST. | Discount Code & Terms - 20% off with **BF20OFF** |
 | 🔥 | [Tenwrite](https://tenwrite.com/?utm_source=github&utm_medium=deals&utm_campaign=bf24) | Publish Google Docs to WordPress & Blogger in seconds! Generate posts with Programmatic SEO and auto-publish from Google Drive using Automation. | 20% OFF on all plans. |
+| 📝 | [Create Pages](https://createpages.com/?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf24) | No-code programmatic SEO tool to create accurate, data-driven content at scale and 10x your traffic, leads, and sales. | 50% off Pro and Business plans. |
 
 
 
