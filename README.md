@@ -185,7 +185,7 @@ Total deals: 610
 | 🟣 | [RecurseChat](https://recurse.chat/) | Personal, Local and Private AI chat. | 50% off lifetime |
 | 🤖 | [SharpAPI](https://sharpapi.com) | Leverage AI API for seamless workflow automation across E-Commerce, Marketing, HR Tech, and more. | **50% OFF** Black Friday & Cyber Week Sale. Valid from **Nov 26 to Dec 2**. Use code **BF2024** (valid for 12 months). |
 | 💬 | [YourGPT](https://play.google.com/store/apps/details?id=io.yourgptapp) | Mobile app to use LLMs with your API key | 50% OFF Lifetime Premium Plan |
-
+| 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price | 20% OFF All subscription plans. Use code **BLACKFRIDAY20** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -269,6 +269,7 @@ Total deals: 610
 | ✒️ | [Magic Resume AI]([https://careercraftai.com/#pricing](https://magic-resume.ai/pricing)) | MagicResumeAI creates a professional resume or cover letter, tailored for specific job | **-5$** on all plans. Use discount code: **BFRIDAY2024** |
 | 🌠 | [AI Face Swap - AISaver](https://aisaver.io/) | AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day |
 | 🖍️ | [Pigment Sketch](https://pigmentsketch.com) | Pigment Sketch is an AI-powered coloring page generator designed for Coloring Book Publishers, Teachers, and Parents. It simplifies the creation of customized, high-quality coloring pages, making it effortless to produce engaging and creative content.| 20% OFF with code **BLACKFRIDAY20** |
+| 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for childrens, including illustrations and audio. | **50% OFF** all plans! |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -313,6 +314,7 @@ Total deals: 610
 | 🤑 | [ImageFramer](https://imageframer.net) | Add photo-realistic frames and mats to your art, and add designer borders or overlays to photos on your Mac | 50% off until Dec 2nd|
 | 🎬 | [FireCut](https://firecut.ai/) | Adobe Premiere Pro plugin that lets you automatically add AI transcribed captions with animations & emojis, remove silences from raw footage, detect chapters in your video, remove repetition (multiple takes of the script), edit multi-track videos like podcasts, and much more... | **50% OFF** (automatic) |
 | 🎨 | [Flux AI Image Generator](https://flux1.ai/) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** OFF with code **BF5** |
+| 📸 | [WarpCam](https://apps.apple.com/us/app/warpcam-wallpaper-maker/id6686408324) | Background generator Camera - Turn boring photos into stunning backgrounds | **100%** OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -355,7 +357,8 @@ Total deals: 610
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
-| 🖥️ | [Beaconly]([https://www.apptorium.com/fivenotes](https://apps.apple.com/us/app/beaconly/id1520138793?mt=8&utm_source=website&utm_campaign=beaconly_launch)) | Manage Jira, Asana, Trello, Crypto, AWS and more with 500+ extensions from your macOs menu. | 33% OFF |
+| 🖥️ | [Beaconly](https://apps.apple.com/us/app/beaconly/id1520138793?mt=8&utm_source=website&utm_campaign=beaconly_launch) | Manage Jira, Asana, Trello, Crypto, AWS and more with 500+ extensions from your macOs menu. | 33% OFF |
+| 🗓 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -384,6 +387,8 @@ Total deals: 610
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Dec 2|
 | 🌅 | [ScreenSage](https://screensage.macaify.com/) | Auto-zoom screen recorder that makes every event count. Professional Screen Recording & Tutorial Creation Tool for macOS. | Lifetime 50% OFF with code **BFS2024** |
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new & returning users |
+| 💰 | [Pycopaste](https://pycopaste.foxfortmobile.com) | Clipboard manager app for iOS and Mac OS | 40% off lifetime purchase |
+| 🖥️ | [Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) | Spotlight style universal clipboard | Lifetime 30% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -398,6 +403,7 @@ Total deals: 610
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 | 🕓 | [Minizones](https://minizones.app) | Quickly glance at different timezones, right from your menubar. | **50% OFF** till Dec 3 (automatically applied) |
 | 🕓 | [Daily Time Tracking](https://dailytimetracking.com?utm_source=awesome) | Time tracking for Mac without toggling timers. | **30% OFF** (automatically applied) |
+| 🕓 | [Timekeeper](https://apps.apple.com/us/app/timekeeper-time-calculator/id6450931725) | Time tracker synced across all your devices | **50% OFF** (automatically applied) |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -447,6 +453,8 @@ Total deals: 610
 | ✨ | [Liquid Player](https://apps.apple.com/app/apple-store/id1448868559) | Liquid Player is a simple and user-friendly video player that supports all video formats, online playback, and subtitle translation. It is the best tool for watching videos and learning languages. | Lifetime 50% OFF (automatic, ends Dec 1) |
 | 🎨 | [Litur](https://apps.apple.com/us/app/litur/id1487096693?ls=1) | Litur is a color picker and library app designed to be the perfect designer's color toolkit. | Lifetime 33% OFF (automatic) |
 | ✅ | [Memento](https://apps.apple.com/app/apple-store/id1200227397?pt=972586&ct=awesome-black-friday-github&mt=8) | Memento is a minimalist reminders app that hooks into Apple's reminders. | $5.99 -> $0.99 Lifetime Nov 25 - Dec 2 |
+| 📌 | [Pinning](https://apps.apple.com/app/id6472634746) | A beautiful countdown app that can sync calendar events and reminders. | Lifetime 30% OFF ($29.99 → $20.99) Nov 28 – Dec 3 |
+| 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **60% OFF** on Lifetime Premium! |
 | 🗒️ | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase through Dec 2. |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -619,6 +627,7 @@ Total deals: 610
 | 🤑 | [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) | Get your Bills paid on time and your Budgets under Control, with Bills to Budget! | **Over 55% off** Bills to Budget Plus Lifetime and Family Plus Lifetime, Nov 29 - Dec 3 |
 | 🗒️ | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever |
 | 📊 | [Tradojo](https://www.tradojo.com) | Automated trading journal & analytics for crypto traders | 50% OFF all plans + limited lifetime deal. Applied automatically. |
+| 🖤 | [MesoSim / MesoLive](https://blog.deltaray.io/black-friday-2024) | Advanced Options Backtesting and Live Trading service | **20% OFF** for new annual subscriptions. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -829,6 +838,7 @@ Total deals: 610
 |  💰 | [Modern Full Stack Next.js Course](https://nextjscourse.dev/) | Build and Deploy Production-Ready Next.js apps including SaaS apps, Auth systems etc. includes interactive demos, exercises and quizzes to keep learning fun | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 |  💰 | [Become a Successful Engineering Leader](https://www.developertoleader.com/) | Learn how to lead a team successfully even if you've never managed or led anyone before. Includes 50+ lessons, 20+ Templates and in-depth real world scenarios for you to lead with confidence | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 |  📖 | [Ultimate Cursor AI Course (Instructa.ai)](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with code **BLACKCURSOR25** |
+|  💻 | [GreatFrontEnd](https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=tonybf) | The complete front end interview prep platform by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions. | 30% OFF with code **BF30** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -939,6 +949,8 @@ Total deals: 610
 | 💡 | [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) | Communicate at home with the smart lights you already have, with Signals for HomeKit! | Signals Plus and Signals Automate (Mac only) In-App Purchases **over 40%** off! |
 | 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
-
+| 🤝 | [Evergreen Support](https://www.evergreensupport.co/black-friday-2024) | Customer Support by real humans for online businesses | 50% off first month |
+| 🎮 | [BlueStacks](https://www.bluestacks.com/products/deals.html) | The fastest and lightest app player to play Android games on PC | Black Friday Deal, upto 50% off on In-app purchases in select games |
+| 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **60% OFF** on Lifetime plan! |
 
 [⬆️ Go to Top](#table-of-contents)
