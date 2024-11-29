@@ -460,6 +460,7 @@ Total deals: 610
 | 📌 | [Pinning](https://apps.apple.com/app/id6472634746) | A beautiful countdown app that can sync calendar events and reminders. | Lifetime 30% OFF ($29.99 → $20.99) Nov 28 – Dec 3 |
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **60% OFF** on Lifetime Premium! |
 | 🗒️ | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase through Dec 2. |
+| 💵 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770)) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | Annual Subscription 50% OFF with code **BLACK50** Nov 28 - Jan 5 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -764,6 +765,8 @@ Total deals: 610
 | 💻 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** |
 | 🤑 | [Swift Gems](https://books.nilcoalescing.com/swift-gems) | 100+ tips to take your Swift code to the next level. | 30% OFF with code **BLACKFRIDAY24** |
 | 📚 | [Integrating SwiftUI into UIKit Apps](https://books.nilcoalescing.com/integrating-swiftui) | A detailed guide on gradually adopting SwiftUI in UIKit projects. | 30% OFF with code **BLACKFRIDAY24** |
+| 🍎 | [Uplift iOS Interview](https://ishtiakahmed.lemonsqueezy.com/buy/6a4db36d-59b9-4fc7-b2cc-9e57a482a771) | A Comprehensive Guide to Master Your iOS Interview. | 25% OFF using code **BLACK25** Nov 28 - Jan 05 |
+| 🍏 | [Ace iOS Coding Interview](https://ishtiakahmed.lemonsqueezy.com/buy/9116d101-ef55-4244-a61d-e63e0c38ad4d) | Conquer iOS Coding Interviews with Confidence and Expertise. | 25% OFF using code **BLACK25** Nov 28 - Jan 05 |
 
 [⬆️ Go to Top](#table-of-contents)
 
