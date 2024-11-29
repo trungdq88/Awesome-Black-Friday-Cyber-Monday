@@ -468,6 +468,7 @@ Total deals: 648
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **60% OFF** on Lifetime Premium! |
 | 🗒️ | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase through Dec 2. |
 | 💵 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770)) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | Annual Subscription 50% OFF with code **BLACK50** Nov 28 - Jan 5 |
+| ⭐ | [YPlayer](https://apps.apple.com/cn/app/yplayer-live-translate-player/id1542569291?l=en-GB) | on-device transcribe and translate video into subtitles | **20% OFF** on Lifetime Premium, until Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
