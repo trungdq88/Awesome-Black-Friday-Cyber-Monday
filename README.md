@@ -188,6 +188,7 @@ Total deals: 610
 | 🤖 | [SharpAPI](https://sharpapi.com) | Leverage AI API for seamless workflow automation across E-Commerce, Marketing, HR Tech, and more. | **50% OFF** Black Friday & Cyber Week Sale. Valid from **Nov 26 to Dec 2**. Use code **BF2024** (valid for 12 months). |
 | 💬 | [YourGPT](https://play.google.com/store/apps/details?id=io.yourgptapp) | Mobile app to use LLMs with your API key | 50% OFF Lifetime Premium Plan |
 | 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price | 20% OFF All subscription plans. Use code **BLACKFRIDAY20** |
+| 💬 | [InclusivitEasy](https://inclusiviteasy.com) | AI driven inclusive language checker | 50% OFF with coupon code **SAVFRD** |
 
 [⬆️ Go to Top](#table-of-contents)
 
