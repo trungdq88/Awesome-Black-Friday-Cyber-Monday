@@ -946,7 +946,7 @@ Total deals: 610
 | 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
 | 🤝 | [Evergreen Support](https://www.evergreensupport.co/black-friday-2024) | Customer Support by real humans for online businesses | 50% off first month |
-
+| 🎮 | [BlueStacks](https://www.bluestacks.com/products/deals.html) | The fastest and lightest app player to play Android games on PC | Black Friday Deal, upto 50% off on In-app purchases in select games |
 
 
 [⬆️ Go to Top](#table-of-contents)
