@@ -269,6 +269,7 @@ Total deals: 610
 | ✒️ | [Magic Resume AI]([https://careercraftai.com/#pricing](https://magic-resume.ai/pricing)) | MagicResumeAI creates a professional resume or cover letter, tailored for specific job | **-5$** on all plans. Use discount code: **BFRIDAY2024** |
 | 🌠 | [AI Face Swap - AISaver](https://aisaver.io/) | AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day |
 | 🖍️ | [Pigment Sketch](https://pigmentsketch.com) | Pigment Sketch is an AI-powered coloring page generator designed for Coloring Book Publishers, Teachers, and Parents. It simplifies the creation of customized, high-quality coloring pages, making it effortless to produce engaging and creative content.| 20% OFF with code **BLACKFRIDAY20** |
+| 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for childrens, including illustrations and audio. | **50% OFF** all plans! |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -453,6 +454,7 @@ Total deals: 610
 | 🎨 | [Litur](https://apps.apple.com/us/app/litur/id1487096693?ls=1) | Litur is a color picker and library app designed to be the perfect designer's color toolkit. | Lifetime 33% OFF (automatic) |
 | ✅ | [Memento](https://apps.apple.com/app/apple-store/id1200227397?pt=972586&ct=awesome-black-friday-github&mt=8) | Memento is a minimalist reminders app that hooks into Apple's reminders. | $5.99 -> $0.99 Lifetime Nov 25 - Dec 2 |
 | 📌 | [Pinning](https://apps.apple.com/app/id6472634746) | A beautiful countdown app that can sync calendar events and reminders. | Lifetime 30% OFF ($29.99 → $20.99) Nov 28 – Dec 3 |
+| 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **60% OFF** on Lifetime Premium! |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -947,6 +949,6 @@ Total deals: 610
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
 | 🤝 | [Evergreen Support](https://www.evergreensupport.co/black-friday-2024) | Customer Support by real humans for online businesses | 50% off first month |
 | 🎮 | [BlueStacks](https://www.bluestacks.com/products/deals.html) | The fastest and lightest app player to play Android games on PC | Black Friday Deal, upto 50% off on In-app purchases in select games |
-
+| 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **60% OFF** on Lifetime plan! |
 
 [⬆️ Go to Top](#table-of-contents)
