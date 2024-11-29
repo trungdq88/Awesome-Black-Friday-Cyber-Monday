@@ -29,7 +29,7 @@ Total deals: 648
 	- [💻 Developer macOS Apps (31)](#-developer-macos-apps)
 	- [💻 Tools & Services (51)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (22)](#-ai-chat-ui)
+	- [💬 AI Chat UI (23)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (44)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (29)](#-other-ai-tools)
 - [🌅 Design Tools (37)](#-design-tools)
@@ -192,6 +192,7 @@ Total deals: 648
 | 💬 | [YourGPT](https://play.google.com/store/apps/details?id=io.yourgptapp) | Mobile app to use LLMs with your API key | 50% OFF Lifetime Premium Plan |
 | 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price | 20% OFF All subscription plans. Use code **BLACKFRIDAY20** |
 | 💬 | [InclusivitEasy](https://inclusiviteasy.com) | AI driven inclusive language checker | 50% OFF with coupon code **SAVFRD** |
+| 🧠 | [RabbitHolesAI](https://rabbitholes.ai) | Chat with AI models on an Infinite Canvas. Create branched chats, never lose context | 30% OFF with coupon code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
