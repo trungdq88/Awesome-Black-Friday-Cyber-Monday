@@ -47,7 +47,7 @@ Total deals: 648
 - [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (20)](#-finance-tools)
-- [🎛 Utility Tools (27)](#-utility-tools)
+- [🎛 Utility Tools (28)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (44)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (3)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -681,7 +681,9 @@ Total deals: 648
 | ⚡️ | [Usage](https://usage.pro) | System Activity Monitor for Mac and iPhone | 40% off |
 | 💻 | [TG Pro](https://www.tunabellysoftware.com/tgpro) | Complete Mac temperature and fan monitoring with tools to cool it down, control fan speeds, and monitor hardware performance. Supports Intel & Apple Silicon M1-M4 Macs. | 75% off (automatically applied) |
 | 🗂️ | [Folder Tidy](https://www.tunabellysoftware.com/foldertidy) | Organize and clean up your files into tidy folders automatically. Featured by Apple on the Mac App Store. | 75% off (automatically applied) |
-
+| 👮 | [Little Snitch](https://obdev.at/products/littlesnitch/index.html) | The Little Snitch Network Monitor shows you where your Mac connects to on the Internet. You decide what you want to allow or deny. | 30% off (automatically applied) |
+| 🕵️ | [Micro Snitch](https://obdev.at/products/microsnitch/index.html) | Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. | 30% off (automatically applied) |
+| 🔍 | [LaunchBar](https://obdev.at/products/launchbar/index.html) | LaunchBar is a smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your Music Library, to search engines and more, just by entering short abbreviations of the searched item’s name. | 30% off (automatically applied) |
 
 [⬆️ Go to Top](#table-of-contents)
 
