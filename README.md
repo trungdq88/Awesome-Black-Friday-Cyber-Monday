@@ -720,6 +720,7 @@ Total deals: 610
 |  🚀 | [DaasBoilerplate](https://buy.stripe.com/aEU6qyfXd5pmfN6eUW) | DaaSBoilerplate is a production ready DaaS boilerplate with everything that you need to start making money with your data as a service product. | Discount Code & Terms - 20% off with **20OFF** |
 | 🚀 | [StartupBolt](https://www.startupbolt.com/) | StartupBolt is a Next.js Rapid Launch Kit that eliminates roadblocks like payment integration, auth, SEO, and more. Just unzip, install, and build. | **60% OFF** with code **BLACKFRIDAY** |
 | 🚀 |  [Nuxt SaaS Kit](https://nuxtsaaskit.com/) | Nuxt SaaS Kit is a Nuxt boilerplate designed for developers eager to build SaaS products efficiently. It provides all the important building blocks, allowing you to concentrate on your business. | **$30 OFF** (Get it for just $69) with code **IZNDE5NQ** |
+| 🌯 |  [WrapFast](https://wrapfa.st/) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** ($99) during Black Friday weekend |
 
 [⬆️ Go to Top](#table-of-contents)
 
