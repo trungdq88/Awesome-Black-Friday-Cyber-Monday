@@ -29,7 +29,7 @@ Total deals: 648
 	- [💻 Developer macOS Apps (31)](#-developer-macos-apps)
 	- [💻 Tools & Services (51)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (23)](#-ai-chat-ui)
+	- [💬 AI Chat UI (22)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (44)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (29)](#-other-ai-tools)
 - [🌅 Design Tools (37)](#-design-tools)
@@ -162,7 +162,6 @@ Total deals: 648
 |  🚀 | [Ray](https://myray.app) | Ray is a desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers. | **50% OFF!** (Friday, November 29 Lifetime Licenses) |
 |  🤖 | [DW Agent AI](https://dwagentai.com/) | Transform data operations with autonomous AI agents. Natural conversations, intelligent automation, and proactive insights - all while you stay in control. | 50% off Annual Plans |
 |  ⭐️ | [Star Order](https://starorder.app) | Help you manage GitHub starred repositories, add tags, mark as favorites, and quickly find your collected third-party libraries. | 25% off on App Store. |
-|  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans  **BlackFriday30** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -193,7 +192,6 @@ Total deals: 648
 | 💬 | [YourGPT](https://play.google.com/store/apps/details?id=io.yourgptapp) | Mobile app to use LLMs with your API key | 50% OFF Lifetime Premium Plan |
 | 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price | 20% OFF All subscription plans. Use code **BLACKFRIDAY20** |
 | 💬 | [InclusivitEasy](https://inclusiviteasy.com) | AI driven inclusive language checker | 50% OFF with coupon code **SAVFRD** |
-| 🧠 | [RabbitHolesAI](https://rabbitholes.ai) | Chat with AI models on an Infinite Canvas. Create branched chats, never lose context | 30% OFF with coupon code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -282,7 +280,6 @@ Total deals: 648
 | 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for childrens, including illustrations and audio. | **50% OFF** all plans! |
 | 🤵 | [AI Headshot Generator](https://aiheadshotgenerator.com) | AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.| 20% OFF with promo code **BF2024** |
 | 🤵 | [DigiCord AI](https://digicord.site) | The Most Advanced AI-Powered Chatbot on Discord | 50% OFF with promo code **BF24** |
-| 🚀 | [GoEnhance AI](https://www.goenhance.ai) | AI Visual Creation Platform offering AI Video To Animation, AI Image Generation, AI Video Generation, Face Swap Technology, and AI Dance Generation for comprehensive visual content creation.  | 30% OFF Yearly |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -622,7 +619,7 @@ Total deals: 648
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
 | 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
-
+| ▶️ | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download, search, analyze and export any type of YouTube comments. | 50% off everything with code BF2024 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -949,7 +946,7 @@ Total deals: 648
 | ⭐ | [Paralino](https://paralino.com) | End-to-end encrypted family safety and location sharing app. Protect yourself and your family - no tracking, no profiling, no ads. | 60% OFF on Annual plan<br> 20% OFF on Monthly plan |
 | 🏠 | [Learn Remote + Async](https://learn-remote-async.onbrn.com/index.html) | Learn and implement remote and asynchronous processes to effectively increase happiness and productivity of your engineering team. | 50% OFF with code **FRIDAY24** |
 | 📔 | [3 years of Mini Stories](https://ministories.net/3-years-of-ministories-book/) | 36 short stories to read quickly, and think slowly. | 50% OFF with code **FRIDAY24** |
-| 🇹🇭 | [NomadKit Bangkok](https://nomadkit.co) | A comprehensive Bangkok  City Guide made for digital nomads | 40% OFF with code **BLACKFRIDAY2024**|
+| 🇹🇭 | [NomadKit Bangkok](https://nomadkit.co) | A comprehensive Bangkok  City Guide made for digital nomads | 40% OFF with code **BLACKFRIDAY2024**
 | ⭐ | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
 | 🤑 | [Personal Knowledge Management and Knowledge Work Starters, Courses and Library](https://developassion.gumroad.com) | A set of products focused on Knowledge Management and Knowledge Work. Learn everything about PKM, Obsidian, and modern Knowledge Work | 25% off with coupon code **bf2024** (valid from 11/14 - 12/01) |
 | ⭐ | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
@@ -986,7 +983,5 @@ Total deals: 648
 | 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **60% OFF** on Lifetime plan! |
 |  📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=gh-trungdq88) | Read unsensational news and learn something | **25% OFF** annual subscription with coupon code **BF24**.  |
 |  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
-| ✔︎ | [Get It Right](https://getitright.design) | Enhance your SaaS application or website through an in-depth UX Audit and Insights | **50% discount**, now only **$100** (was **$200**) — just include "Black Friday" in your request comments to take advantage of this exclusive deal! |
-| 🗑️gitst | [GEME](https://www.geme.bio/product/geme?discount-code=BlackFriday2024&utm_source=gh-trungdq88) | Garbage Collection Made Simple, Meet GEME Composter | **200 OFF** with coupon code **BlackFriday2024**.  |
 
 [⬆️ Go to Top](#table-of-contents)
