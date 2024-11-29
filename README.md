@@ -481,6 +481,7 @@ Total deals: 648
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| ✅ | [Glitter AI](https://glitter.io) | Turn any process into a step-by-step guide. AI-powered tool that watches your screen and listens to your voice, then generates a written, shareable guide. Perfect for training, documentation, and process management. | 50% OFF on any plan with code **BLACKFRIDAY2024** until Nov 30th 5pm PT |
 |  ⭐ | [Task Analytics for Todoist](https://task-analytics.com) | Analyze your productivity patterns, trends, and records with Task Analytics for Todoist! | 80% OFF for the lifetime license |
 |  ⭐ | [One Tab Group](https://onetab.group) | Your all-in-one browser tab/tab group manager | Lifetime 40% off with code **BLACKFRIDAY40**  |
 |  🧼 | [InboxPurge](https://www.inboxpurge.com?ref=awesomebf) | Clean up your Gmail in minutes | 30% OFF the PRO plan with code **BF2024**  |
