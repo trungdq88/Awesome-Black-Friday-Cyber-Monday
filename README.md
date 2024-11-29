@@ -535,6 +535,7 @@ Total deals: 648
 | 🎥 | [Vidlo](https://vidlo.video) | Collect Video Testimonials and UGC Videos Easily | 30% OFF for 3 months with code  **BlackFriday2024** |
 | 🚀 | [WP Full Picture](https://wpfullpicture.com/) | Analytics and Privacy toolkit for WordPress. Easily install Google Analytics, Google Ads, Meta Pixel or any other tracking tool and use it according to privacy laws. | 50% OFF Lifetime plans |
 | 🚀 | [lowkey viral](https://lowkeyviral.com/) | Generate viral Reels & TikToks in the trending grid format with AI | 50% OFF (from 0.22$ per video) |
+| 📊 | [Usermaven](https://usermaven.com) | Simple analytics for marketers and SaaS founders. | 30% OFF on first year annually |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -622,6 +623,7 @@ Total deals: 648
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
 | 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
+| 🎯 | [ContentStudio](https://contentstudio.io/black-friday) | The easiest way to manage and grow your social channels | Up to 40% OFF on annual plans |
 
 
 [⬆️ Go to Top](#table-of-contents)
