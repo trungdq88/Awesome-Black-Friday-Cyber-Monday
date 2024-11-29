@@ -653,7 +653,7 @@ Total deals: 610
 |  📂 | [FileMinutes](https://www.fileminutes.com) | Work Smarter with Files on MacOS | 50% OFF with code **BF2024** |
 | 💰 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) |
 | 🛫 | [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=awesome-bf&mt=8) | Currency calculator | 50% off - USD 5.99 -> 2.99 until Dec 3th |
-| 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | 25% off (automatic) |
+| 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | 40% off (automatic) |
 | 🗜️ | [Kompressor - Image Converter](https://apps.apple.com/us/app/kompressor-image-converter/id6468196574?mt=12&pt=123127751&ct=awesome-bf) | A beautifully designed and fun-to-use image converter for macOS with support for over 50 different formats. | Lifetime 50% OFF |
 | ± | [DiffAlert](https://diffalert.io?ref=awesomebf) | Automate HTTP request monitoring. Be notified instantly when changes in API responses or web data occur. | 50% off with code **BF2024** |
 |  🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video and audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) |
