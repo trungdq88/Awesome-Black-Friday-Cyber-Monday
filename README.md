@@ -584,8 +584,7 @@ Total deals: 610
 | 💡| [ProductLogz](https://productlogz.com) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications. | **10% OFF** on the LTD Plans with code *BF2024SALE* . Nov 24 - Dec 6 |
 | 🚀 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | Platform with tools for collecting and sharing information about people and their work. | **30% OFF** first payment (month/year) *BF2024_CODE* . Nov 17 - Dec 2 |
 | 🤖 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | **50% OFF** once off *BLACKFRIDAY50* . Nov 17 - Dec 30 |
-
-
+| 💰 | [XPenses](https://xpenses.co) | A Simple App to manage your business expenses and invoices | Lifetime deal for $179 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -798,6 +797,7 @@ Total deals: 610
 | ♦️ | [Boost Your Git DX](https://adamchainz.gumroad.com/l/bygdx) | Make your Git development experience super smooth. | 50% off from $39 to $19.50. No code needed. |
 | 🧙 | [Wizard Zines](https://wizardzines.com/) | 50% off PDF and 30% off print zines on many tech topics | 50% off PDF zines with code **WIZARDPDF** and 30% off print zines with code **WIZARDPRINT**. Only valid on Fri Nov 29. |
 | ⚓️ | [How To Build a Serverless App Platform On Kubernetes](https://pmbanugo.gumroad.com/l/serverless-app-platform) | Learn to build your own PaaS (like Coolify/Kamal) and improve your DevOps skills  | 80% off with code **BFRIDAY24**. Valid from Nov 25 to Dec 2. |
+| 📚 | [Simplifying Spring Security](https://yogsma.gumroad.com/l/VgSdH) | Learn how to use Spring Security with examples | 50% OFF for Black Friday and Cyber Monday |
 
 [⬆️ Go to Top](#table-of-contents)
 
