@@ -622,6 +622,8 @@ Total deals: 648
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
 | 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
+| 🦅 | [Hypefury](https://hypefury.com/black-friday-2024?utm_source=gh-trungdq88) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.| 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade|
+| ⚫️ | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024?utm_source=gh-trungdq88) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
