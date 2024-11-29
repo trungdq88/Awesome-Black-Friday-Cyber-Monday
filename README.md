@@ -985,5 +985,6 @@ Total deals: 648
 | 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **60% OFF** on Lifetime plan! |
 |  📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=gh-trungdq88) | Read unsensational news and learn something | **25% OFF** annual subscription with coupon code **BF24**.  |
 |  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
+| ✔︎ | [Get It Right](https://getitright.design) | Enhance your SaaS application or website through an in-depth UX Audit and Insights | **50% discount**, now only **$100** (was **$200**) — just include "Black Friday" in your request comments to take advantage of this exclusive deal! |
 
 [⬆️ Go to Top](#table-of-contents)
