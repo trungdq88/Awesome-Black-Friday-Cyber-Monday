@@ -404,6 +404,7 @@ Total deals: 648
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new & returning users |
 | 💰 | [Pycopaste](https://pycopaste.foxfortmobile.com) | Clipboard manager app for iOS and Mac OS | 40% off lifetime purchase |
 | 🖥️ | [Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) | Spotlight style universal clipboard | Lifetime 30% OFF |
+| 🔍 | [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024) | File search tool that helps you organize files and finds these if you did not | **30% OFF** with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -989,5 +990,7 @@ Total deals: 648
 |  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
 | ✔︎ | [Get It Right](https://getitright.design) | Enhance your SaaS application or website through an in-depth UX Audit and Insights | **50% discount**, now only **$100** (was **$200**) — just include "Black Friday" in your request comments to take advantage of this exclusive deal! |
 | 🗑️gitst | [GEME](https://www.geme.bio/product/geme?discount-code=BlackFriday2024&utm_source=gh-trungdq88) | Garbage Collection Made Simple, Meet GEME Composter | **200 OFF** with coupon code **BlackFriday2024**.  |
+| 🌎 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2024) | Photo geotagging for Mac. Add GPS locations to JPEG, RAW, Apple Photos | **30% OFF** with code **BLACKFRIDAY2024** |
+| 📷 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) | Curate your Apple Photos library. Organize, rate, and compare your photos | **30% OFF** with code **BLACKFRIDAY2024** |
 
 [⬆️ Go to Top](#table-of-contents)
