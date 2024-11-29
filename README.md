@@ -989,5 +989,7 @@ Total deals: 648
 |  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
 | ✔︎ | [Get It Right](https://getitright.design) | Enhance your SaaS application or website through an in-depth UX Audit and Insights | **50% discount**, now only **$100** (was **$200**) — just include "Black Friday" in your request comments to take advantage of this exclusive deal! |
 | 🗑️gitst | [GEME](https://www.geme.bio/product/geme?discount-code=BlackFriday2024&utm_source=gh-trungdq88) | Garbage Collection Made Simple, Meet GEME Composter | **200 OFF** with coupon code **BlackFriday2024**.  |
+| 🔍 | [HoudahSpot / HoudahGeo / Photos Workbench / Tembo ](https://www.houdah.com/store/?coupon=BLACKFRIDAY2024) | File search tools. Photo geotagging. Photos library management | **30% OFF** with code **BLACKFRIDAY2024** |
+
 
 [⬆️ Go to Top](#table-of-contents)
