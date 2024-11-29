@@ -871,6 +871,7 @@ Total deals: 648
 |  📖 | [Ultimate Cursor AI Course (Instructa.ai)](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with code **BLACKCURSOR25** |
 |  💻 | [GreatFrontEnd](https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=tonybf) | The complete front end interview prep platform by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions. | 30% OFF with code **BF30** |
 | ⚔️  | [CSSBattle's Learn CSS](https://cssbattle.dev/learn)  | The first-ever gamified CSS course targeted towards beginners, intermediates, and even experts. Each course consists of multiple levels which you play and learn - just like a game! | Upto **67% OFF** during Black Friday & Cyber Monday |
+|  🚀 | [newline.co (Formerly fullstack.io)](https://newline.co/) | Learn in-demand, web development and AI skills (React, TypeScript, Next.js, shadcn/ui, Langchain, and more!) from industry veterans. | newline Pro yearly subscription (5 MONTHS FREE) with code **BLACKFRIDAY_PRO5**, 20% OFF on all courses and books with code **BLACKFRIDAY_GIFT20** |
 
 [⬆️ Go to Top](#table-of-contents)
 
