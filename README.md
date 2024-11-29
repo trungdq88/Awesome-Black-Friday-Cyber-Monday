@@ -194,6 +194,7 @@ Total deals: 648
 | 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price | 20% OFF All subscription plans. Use code **BLACKFRIDAY20** |
 | 💬 | [InclusivitEasy](https://inclusiviteasy.com) | AI driven inclusive language checker | 50% OFF with coupon code **SAVFRD** |
 | 🧠 | [RabbitHolesAI](https://rabbitholes.ai) | Chat with AI models on an Infinite Canvas. Create branched chats, never lose context | 30% OFF with coupon code **BLACKFRIDAY** |
+| 🤖 | [QuestWiz](https://questwiz.com) | AI-powered customer support chatbot that learns from your business data to provide 24/7 multilingual support. Features GPT-4o integration and secure data handling. | 50% OFF yearly plans with code **BF2024Plus** or **BF2024Pro** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -246,6 +247,7 @@ Total deals: 648
 | 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
 | ✍️ | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | 50% OFF |
 | 🎙️ | [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?l=en-GB&mt=12) | macOS app, on-device live caption and translation from streaming media (Youtube, Zoom, micrsoft team etc.) | **20% OFF** (46.99$ -> 37.49$) on Lifetime Premium, until Dec 3 |
+| 📄 | [AskDocs](https://askdocs.com) | Smart AI assistant that helps you extract insights from documents - supports PDF, Word, Excel, and images with multilingual capabilities and secure document handling. | 53% OFF yearly plans with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
