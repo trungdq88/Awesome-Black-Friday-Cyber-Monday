@@ -161,6 +161,7 @@ Total deals: 648
 | 🚀 | [Pagerly](https://pagerly.io/) | Manage Oncalls, Tickets , Rotations and Incidents over Slack/Teams/Discord | 20% off Starter Planw with code **BF2024** |
 |  🚀 | [Ray](https://myray.app) | Ray is a desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers. | **50% OFF!** (Friday, November 29 Lifetime Licenses) |
 |  🤖 | [DW Agent AI](https://dwagentai.com/) | Transform data operations with autonomous AI agents. Natural conversations, intelligent automation, and proactive insights - all while you stay in control. | 50% off Annual Plans |
+|  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans **BlackFriday30** |
 
 [⬆️ Go to Top](#table-of-contents)
 
