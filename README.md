@@ -29,7 +29,7 @@ Total deals: 648
 	- [💻 Developer macOS Apps (31)](#-developer-macos-apps)
 	- [💻 Tools & Services (51)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (22)](#-ai-chat-ui)
+	- [💬 AI Chat UI (23)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (44)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (29)](#-other-ai-tools)
 - [🌅 Design Tools (37)](#-design-tools)
@@ -47,7 +47,7 @@ Total deals: 648
 - [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (20)](#-finance-tools)
-- [🎛 Utility Tools (27)](#-utility-tools)
+- [🎛 Utility Tools (28)](#-utility-tools)
 - [💅 Boilerplates, Starter-Kit, Templates (44)](#-boilerplates-starter-kit-templates)
 - [🧩 Themes, Plugins (3)](#-themes-plugins)
 - [📚 Books ](#-books)
@@ -161,6 +161,7 @@ Total deals: 648
 | 🚀 | [Pagerly](https://pagerly.io/) | Manage Oncalls, Tickets , Rotations and Incidents over Slack/Teams/Discord | 20% off Starter Planw with code **BF2024** |
 |  🚀 | [Ray](https://myray.app) | Ray is a desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers. | **50% OFF!** (Friday, November 29 Lifetime Licenses) |
 |  🤖 | [DW Agent AI](https://dwagentai.com/) | Transform data operations with autonomous AI agents. Natural conversations, intelligent automation, and proactive insights - all while you stay in control. | 50% off Annual Plans |
+|  ⭐️ | [Star Order](https://starorder.app) | Help you manage GitHub starred repositories, add tags, mark as favorites, and quickly find your collected third-party libraries. | 25% off on App Store. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -191,6 +192,7 @@ Total deals: 648
 | 💬 | [YourGPT](https://play.google.com/store/apps/details?id=io.yourgptapp) | Mobile app to use LLMs with your API key | 50% OFF Lifetime Premium Plan |
 | 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price | 20% OFF All subscription plans. Use code **BLACKFRIDAY20** |
 | 💬 | [InclusivitEasy](https://inclusiviteasy.com) | AI driven inclusive language checker | 50% OFF with coupon code **SAVFRD** |
+| 🧠 | [RabbitHolesAI](https://rabbitholes.ai) | Chat with AI models on an Infinite Canvas. Create branched chats, never lose context | 30% OFF with coupon code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -242,6 +244,7 @@ Total deals: 648
 | 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
 | 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
 | ✍️ | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | 50% OFF |
+| 🎙️ | [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?l=en-GB&mt=12) | macOS app, on-device live caption and translation from streaming media (Youtube, Zoom, micrsoft team etc.) | **20% OFF** (46.99$ -> 37.49$) on Lifetime Premium, until Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -277,6 +280,8 @@ Total deals: 648
 | 🖍️ | [Pigment Sketch](https://pigmentsketch.com) | Pigment Sketch is an AI-powered coloring page generator designed for Coloring Book Publishers, Teachers, and Parents. It simplifies the creation of customized, high-quality coloring pages, making it effortless to produce engaging and creative content.| 20% OFF with code **BLACKFRIDAY20** |
 | 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for childrens, including illustrations and audio. | **50% OFF** all plans! |
 | 🤵 | [AI Headshot Generator](https://aiheadshotgenerator.com) | AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.| 20% OFF with promo code **BF2024** |
+| 🤵 | [DigiCord AI](https://digicord.site) | The Most Advanced AI-Powered Chatbot on Discord | 50% OFF with promo code **BF24** |
+| 🚀 | [GoEnhance AI](https://www.goenhance.ai) | AI Visual Creation Platform offering AI Video To Animation, AI Image Generation, AI Video Generation, Face Swap Technology, and AI Dance Generation for comprehensive visual content creation.  | 30% OFF Yearly |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -466,6 +471,8 @@ Total deals: 648
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **60% OFF** on Lifetime Premium! |
 | 🗒️ | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase through Dec 2. |
 | 💵 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770)) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | Annual Subscription 50% OFF with code **BLACK50** Nov 28 - Jan 5 |
+| ⭐ | [YPlayer](https://apps.apple.com/cn/app/yplayer-live-translate-player/id1542569291?l=en-GB) | on-device transcribe and translate video into subtitles | **20% OFF** on Lifetime Premium, until Dec 3 |
+| 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | Lifetime • 50% OFF • $19.99 -> $9.99 • Nov 26 - Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -487,6 +494,7 @@ Total deals: 648
 |  💼 | [hirevire.com](https:/hirevire.com?ref=tonydinh) | Automated screening software lets you collect video, audio and file responses from candidates. | 40% off on yearly subscriptions with code **BlackFriday2410Off** |
 | 🧹 | [Mail Sweeper](https://www.mailsweeper.co/?ref=awesomegh) | Save time and money on gmail with your personal gmail janitor. | 50% OFF forever with code **BLACKFRIDAY50**  |
 | 🦘 | [Get Packy](https://getpacky.app) | Create simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF  |
+| 🌸 | [VideoToBe.com](https://videotobe.com/tools/transcribe) | Convert Audio & Video to Text • No Monthly Fees • Pay Per Use | 20% Coupon Code VIBE20 |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -675,7 +683,9 @@ Total deals: 648
 | ⚡️ | [Usage](https://usage.pro) | System Activity Monitor for Mac and iPhone | 40% off |
 | 💻 | [TG Pro](https://www.tunabellysoftware.com/tgpro) | Complete Mac temperature and fan monitoring with tools to cool it down, control fan speeds, and monitor hardware performance. Supports Intel & Apple Silicon M1-M4 Macs. | 75% off (automatically applied) |
 | 🗂️ | [Folder Tidy](https://www.tunabellysoftware.com/foldertidy) | Organize and clean up your files into tidy folders automatically. Featured by Apple on the Mac App Store. | 75% off (automatically applied) |
-
+| 👮 | [Little Snitch](https://obdev.at/products/littlesnitch/index.html) | The Little Snitch Network Monitor shows you where your Mac connects to on the Internet. You decide what you want to allow or deny. | 30% off (automatically applied) |
+| 🕵️ | [Micro Snitch](https://obdev.at/products/microsnitch/index.html) | Micro Snitch is an ultra-light menu bar application that operates inconspicuously in the background. It monitors and reports any microphone and camera activity to help you figure out if someone’s spying on you. | 30% off (automatically applied) |
+| 🔍 | [LaunchBar](https://obdev.at/products/launchbar/index.html) | LaunchBar is a smart and powerful productivity utility that provides lightning fast access to applications, documents, contacts and bookmarks, to your Music Library, to search engines and more, just by entering short abbreviations of the searched item’s name. | 30% off (automatically applied) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -728,6 +738,7 @@ Total deals: 648
 | 🚀 | [StartupBolt](https://www.startupbolt.com/) | StartupBolt is a Next.js Rapid Launch Kit that eliminates roadblocks like payment integration, auth, SEO, and more. Just unzip, install, and build. | **60% OFF** with code **BLACKFRIDAY** |
 | 🚀 |  [Nuxt SaaS Kit](https://nuxtsaaskit.com/) | Nuxt SaaS Kit is a Nuxt boilerplate designed for developers eager to build SaaS products efficiently. It provides all the important building blocks, allowing you to concentrate on your business. | **$30 OFF** (Get it for just $69) with code **IZNDE5NQ** |
 | 🌯 |  [WrapFast](https://wrapfa.st/) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** ($99) during Black Friday weekend |
+| 🚀 |  [ShipThatApp](https://www.shipthat.app/?utm_source=github&utm_medium=list&utm_campaign=BlackFriday2024) | 🚀 ShipThat.App – Build & Launch iOS Apps Faster! Get boilerplate code, submission tools, and AI-powered features to simplify app development. Perfect for indie devs and MVP creators. | 🚀 Starts at **$68** (boilerplate) or **$2249** (done-for-you), 💥 **35% OFF with BLACKFRIDAY24**🔥 LIMITED 1-click DEALS: 🏆 **75% OFF** (1 only!) 🥈 **50% OFF** (10 only!) 🥉 **40% OFF** (10 only!) |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -919,6 +930,7 @@ Total deals: 648
 | 🍼 | [Wake Wise - Baby Sleep Tracker App](https://apps.apple.com/gb/app/id6736522449) | Track your baby's sleep and get suggested bedtimes. | 50% Off Lifetime Subscription - Nov 21 2024 - Dec 4 2024 |
 | 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
 | 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | 33% OFF Annual Plan |
+| 😌 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | Lifetime • 50% OFF • $19.99 -> $9.99 • Nov 26 - Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -973,6 +985,7 @@ Total deals: 648
 | 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **60% OFF** on Lifetime plan! |
 |  📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=gh-trungdq88) | Read unsensational news and learn something | **25% OFF** annual subscription with coupon code **BF24**.  |
 |  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
+| ✔︎ | [Get It Right](https://getitright.design) | Enhance your SaaS application or website through an in-depth UX Audit and Insights | **50% discount**, now only **$100** (was **$200**) — just include "Black Friday" in your request comments to take advantage of this exclusive deal! |
 | 🗑️gitst | [GEME](https://www.geme.bio/product/geme?discount-code=BlackFriday2024&utm_source=gh-trungdq88) | Garbage Collection Made Simple, Meet GEME Composter | **200 OFF** with coupon code **BlackFriday2024**.  |
 
 [⬆️ Go to Top](#table-of-contents)
