@@ -101,7 +101,7 @@ Total deals: 610
 | 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF |
 | 🕺 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime |
 | 🧑🏻‍💻 | [Picasso: App Store Screenshots](https://apps.apple.com/app/apple-store/id6472062986?pt=972586&ct=awesome-black-friday-github&mt=8) | Create and upload your App Store screenshots directly to App Store Connect. | 50% OFF Picasso Pro Lifetime (view offer in app) - Nov 29 - Dec 2 |
-
+| 💻 | [alto.computer](https://apps.apple.com/us/app/alto-computer/id6480425094?mt=12) | Tools for Apple Notes: publish them online or export locally | 30% OFF FRIDAY2024 - Nov 29 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
 
