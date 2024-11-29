@@ -455,6 +455,7 @@ Total deals: 610
 | ✅ | [Memento](https://apps.apple.com/app/apple-store/id1200227397?pt=972586&ct=awesome-black-friday-github&mt=8) | Memento is a minimalist reminders app that hooks into Apple's reminders. | $5.99 -> $0.99 Lifetime Nov 25 - Dec 2 |
 | 📌 | [Pinning](https://apps.apple.com/app/id6472634746) | A beautiful countdown app that can sync calendar events and reminders. | Lifetime 30% OFF ($29.99 → $20.99) Nov 28 – Dec 3 |
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **60% OFF** on Lifetime Premium! |
+| 🗒️ | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase through Dec 2. |
 
 [⬆️ Go to Top](#table-of-contents)
 
