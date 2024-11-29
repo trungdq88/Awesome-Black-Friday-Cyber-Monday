@@ -487,6 +487,7 @@ Total deals: 648
 |  💼 | [hirevire.com](https:/hirevire.com?ref=tonydinh) | Automated screening software lets you collect video, audio and file responses from candidates. | 40% off on yearly subscriptions with code **BlackFriday2410Off** |
 | 🧹 | [Mail Sweeper](https://www.mailsweeper.co/?ref=awesomegh) | Save time and money on gmail with your personal gmail janitor. | 50% OFF forever with code **BLACKFRIDAY50**  |
 | 🦘 | [Get Packy](https://getpacky.app) | Create simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF  |
+| 🌸 | [VideoToBe.com](https://videotobe.com/tools/transcribe) | Convert Audio & Video to Text • No Monthly Fees • Pay Per Use | 20% Coupon Code **VIBE20** |
 
 
 [⬆️ Go to Top](#table-of-contents)
