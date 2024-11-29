@@ -477,6 +477,7 @@ Total deals: 610
 |  📝 | [Tales.so](https://www.tales.so/) | Tales.so is an AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. | Use code **BFCM24** to enjoy 75% off on your billing forever. |
 |  💼 | [hirevire.com](https:/hirevire.com?ref=tonydinh) | Automated screening software lets you collect video, audio and file responses from candidates. | 40% off on yearly subscriptions with code **BlackFriday2410Off** |
 | 🧹 | [Mail Sweeper](https://www.mailsweeper.co/?ref=awesomegh) | Save time and money on gmail with your personal gmail janitor. | 50% OFF forever with code **BLACKFRIDAY50**  |
+| 🦘 | [Get Packy](https://getpacky.app) | Create simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF  |
 
 
 [⬆️ Go to Top](#table-of-contents)
