@@ -242,6 +242,7 @@ Total deals: 648
 | 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
 | 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
 | ✍️ | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | 50% OFF |
+| 🎙️ | [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?l=en-GB&mt=12) | macOS app, on-device live caption and translation from streaming media (Youtube, Zoom, micrsoft team etc.) | **20% OFF** (46.99$ -> 37.49$) on Lifetime Premium, until Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -277,6 +278,7 @@ Total deals: 648
 | 🖍️ | [Pigment Sketch](https://pigmentsketch.com) | Pigment Sketch is an AI-powered coloring page generator designed for Coloring Book Publishers, Teachers, and Parents. It simplifies the creation of customized, high-quality coloring pages, making it effortless to produce engaging and creative content.| 20% OFF with code **BLACKFRIDAY20** |
 | 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for childrens, including illustrations and audio. | **50% OFF** all plans! |
 | 🤵 | [AI Headshot Generator](https://aiheadshotgenerator.com) | AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.| 20% OFF with promo code **BF2024** |
+| 🤵 | [DigiCord AI](https://digicord.site) | The Most Advanced AI-Powered Chatbot on Discord | 50% OFF with promo code **BF24** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -466,6 +468,7 @@ Total deals: 648
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **60% OFF** on Lifetime Premium! |
 | 🗒️ | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase through Dec 2. |
 | 💵 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770)) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | Annual Subscription 50% OFF with code **BLACK50** Nov 28 - Jan 5 |
+| ⭐ | [YPlayer](https://apps.apple.com/cn/app/yplayer-live-translate-player/id1542569291?l=en-GB) | on-device transcribe and translate video into subtitles | **20% OFF** on Lifetime Premium, until Dec 3 |
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | Lifetime • 50% OFF • $19.99 -> $9.99 • Nov 26 - Dec 3 |
 
 [⬆️ Go to Top](#table-of-contents)
