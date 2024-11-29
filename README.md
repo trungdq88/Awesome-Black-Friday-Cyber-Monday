@@ -736,6 +736,7 @@ Total deals: 648
 | 🚀 | [StartupBolt](https://www.startupbolt.com/) | StartupBolt is a Next.js Rapid Launch Kit that eliminates roadblocks like payment integration, auth, SEO, and more. Just unzip, install, and build. | **60% OFF** with code **BLACKFRIDAY** |
 | 🚀 |  [Nuxt SaaS Kit](https://nuxtsaaskit.com/) | Nuxt SaaS Kit is a Nuxt boilerplate designed for developers eager to build SaaS products efficiently. It provides all the important building blocks, allowing you to concentrate on your business. | **$30 OFF** (Get it for just $69) with code **IZNDE5NQ** |
 | 🌯 |  [WrapFast](https://wrapfa.st/) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** ($99) during Black Friday weekend |
+| 🚀 |  [ShipThatApp](https://www.shipthat.app/?utm_source=github&utm_medium=list&utm_campaign=BlackFriday2024) | 🚀 ShipThat.App – Build & Launch iOS Apps Faster! Get boilerplate code, submission tools, and AI-powered features to simplify app development. Perfect for indie devs and MVP creators. | 🚀 Starts at **$68** (boilerplate) or **$2249** (done-for-you), 💥 **35% OFF with BLACKFRIDAY24**🔥 LIMITED 1-click DEALS: 🏆 **75% OFF** (1 only!) 🥈 **50% OFF** (10 only!) 🥉 **40% OFF** (10 only!) |
 
 [⬆️ Go to Top](#table-of-contents)
 
