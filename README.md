@@ -185,7 +185,7 @@ Total deals: 610
 | 🟣 | [RecurseChat](https://recurse.chat/) | Personal, Local and Private AI chat. | 50% off lifetime |
 | 🤖 | [SharpAPI](https://sharpapi.com) | Leverage AI API for seamless workflow automation across E-Commerce, Marketing, HR Tech, and more. | **50% OFF** Black Friday & Cyber Week Sale. Valid from **Nov 26 to Dec 2**. Use code **BF2024** (valid for 12 months). |
 | 💬 | [YourGPT](https://play.google.com/store/apps/details?id=io.yourgptapp) | Mobile app to use LLMs with your API key | 50% OFF Lifetime Premium Plan |
-
+| 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price | 20% OFF All subscription plans. Use code **BLACKFRIDAY20** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -357,6 +357,7 @@ Total deals: 610
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
 | 🖥️ | [Beaconly]([https://www.apptorium.com/fivenotes](https://apps.apple.com/us/app/beaconly/id1520138793?mt=8&utm_source=website&utm_campaign=beaconly_launch)) | Manage Jira, Asana, Trello, Crypto, AWS and more with 500+ extensions from your macOs menu. | 33% OFF |
+| 🗓 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your day with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -385,7 +386,9 @@ Total deals: 610
 | 🤑 | [Trickster](https://www.apparentsoft.com/trickster) | Recently used and modified files at your fingertips | 50% off until Dec 2|
 | 🌅 | [ScreenSage](https://screensage.macaify.com/) | Auto-zoom screen recorder that makes every event count. Professional Screen Recording & Tutorial Creation Tool for macOS. | Lifetime 50% OFF with code **BFS2024** |
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new & returning users |
+| 💰 | [Pycopaste](https://pycopaste.foxfortmobile.com) | Clipboard manager app for iOS and Mac OS | 40% off lifetime purchase |
 | 🖥️ | [Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) | Spotlight style universal clipboard | Lifetime 30% OFF |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -830,6 +833,7 @@ Total deals: 610
 |  💰 | [Modern Full Stack Next.js Course](https://nextjscourse.dev/) | Build and Deploy Production-Ready Next.js apps including SaaS apps, Auth systems etc. includes interactive demos, exercises and quizzes to keep learning fun | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 |  💰 | [Become a Successful Engineering Leader](https://www.developertoleader.com/) | Learn how to lead a team successfully even if you've never managed or led anyone before. Includes 50+ lessons, 20+ Templates and in-depth real world scenarios for you to lead with confidence | 50% OFF all plans  | 50% OFF through December 2 with code **BLACKFRIDAY24** |
 |  📖 | [Ultimate Cursor AI Course (Instructa.ai)](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with code **BLACKCURSOR25** |
+|  💻 | [GreatFrontEnd](https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=tonybf) | The complete front end interview prep platform by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions. | 30% OFF with code **BF30** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -940,6 +944,8 @@ Total deals: 610
 | 💡 | [Signals for HomeKit](https://apps.apple.com/us/app/signals-for-homekit/id1453293391) | Communicate at home with the smart lights you already have, with Signals for HomeKit! | Signals Plus and Signals Automate (Mac only) In-App Purchases **over 40%** off! |
 | 🍪 | [CG Cookie](https://cgcookie.com) | An extensive repository of professionally developed courses for 3D artists using Blender. Beginner to advanced level courses included. | 30% off each membership level |
 | 👩‍💻 | [Blender Market](https://blendermarket.com) | The world's largest marketplace of Blender addons and 3D models | 30% off select items |
+| 🤝 | [Evergreen Support](https://www.evergreensupport.co/black-friday-2024) | Customer Support by real humans for online businesses | 50% off first month |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
