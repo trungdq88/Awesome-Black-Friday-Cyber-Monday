@@ -622,6 +622,8 @@ Total deals: 648
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
 | 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
+| 🟢 | [post bridge](https://post-bridge.com) | Post content to multiple social media platforms at the same time, all-in one place for $9/ month | 25% OFF ALL PLANS (FOR LIFE) CODE: **BLACKFRIDAY** |
+
 
 
 [⬆️ Go to Top](#table-of-contents)
