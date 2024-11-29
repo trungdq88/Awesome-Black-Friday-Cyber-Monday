@@ -163,6 +163,7 @@ Total deals: 648
 |  🤖 | [DW Agent AI](https://dwagentai.com/) | Transform data operations with autonomous AI agents. Natural conversations, intelligent automation, and proactive insights - all while you stay in control. | 50% off Annual Plans |
 |  ⭐️ | [Star Order](https://starorder.app) | Help you manage GitHub starred repositories, add tags, mark as favorites, and quickly find your collected third-party libraries. | 25% off on App Store. |
 |  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans  **BlackFriday30** |
+|  ⭐ | [Servers Guru](https://servers.guru/?aff=1) | Hosting and VPS - We also accept crypto payments | 50% OFF with code **BF_2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
