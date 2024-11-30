@@ -601,6 +601,7 @@ Total deals: 648
 | 🚀 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | Platform with tools for collecting and sharing information about people and their work. | **30% OFF** first payment (month/year) *BF2024_CODE* . Nov 17 - Dec 2 |
 | 🤖 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | **50% OFF** once off *BLACKFRIDAY50* . Nov 17 - Dec 30 |
 | 💰 | [XPenses](https://xpenses.co) | A Simple App to manage your business expenses and invoices | Lifetime deal for $179 |
+| 💰 | [Secret](https://www.joinsecret.com/?r=0c1338b73949) | JoinSecret is a platform offering startups and entrepreneurs exclusive discounts on many software tools, helping them save thousands of $ on essential services. It provides a Premium membership for unlimited access to deals and a supportive community for business growth. | **50% OFF** on yearly and lifetime w/ code SECRETBLACKFRIDAY. Nov 29 - Dec 2nd |
 
 [⬆️ Go to Top](#table-of-contents)
 
