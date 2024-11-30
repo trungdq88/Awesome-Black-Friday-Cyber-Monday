@@ -474,6 +474,7 @@ Total deals: 648
 | 💵 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770)) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | Annual Subscription 50% OFF with code **BLACK50** Nov 28 - Jan 5 |
 | ⭐ | [YPlayer](https://apps.apple.com/cn/app/yplayer-live-translate-player/id1542569291?l=en-GB) | on-device transcribe and translate video into subtitles | **20% OFF** on Lifetime Premium, until Dec 3 |
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | Lifetime • 50% OFF • $19.99 -> $9.99 • Nov 26 - Dec 3 |
+| ✨ | [PostPocket: Save and Read Later](https://apps.apple.com/us/app/postpocket/id667072361) | Save your content from any app without interrupting your scrolling. | Lifetime • 75% OFF • $19.99 -> $4.99 • Nov 29 - Dec 2 |
 
 [⬆️ Go to Top](#table-of-contents)
 
