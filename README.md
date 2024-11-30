@@ -163,6 +163,7 @@ Total deals: 648
 |  🤖 | [DW Agent AI](https://dwagentai.com/) | Transform data operations with autonomous AI agents. Natural conversations, intelligent automation, and proactive insights - all while you stay in control. | 50% off Annual Plans |
 |  ⭐️ | [Star Order](https://starorder.app) | Help you manage GitHub starred repositories, add tags, mark as favorites, and quickly find your collected third-party libraries. | 25% off on App Store. |
 |  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans  **BlackFriday30** |
+|  📨 | [AhaSend](https://ahasend.com/) | Send up to 5 million transactional emails with up to 60% ($1500) off. |  Purchased credits are usable for the next 12 months. Register using [this link](https://dash.ahasend.com/user/register?destination=/credits) and purchase the credits with code BLACKFRIDAY2024 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -242,7 +243,7 @@ Total deals: 648
 | 🎙️ | [Chibi AI]([https://chibi.ai/l/](https://chibi.ai/l/black-friday-2024)) | The right tool for the write job | 33% off, automatically applied |
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2024BF30** for a **30% discount** on all plans |
 | ✍️ | [Chibi AI](https://chibi.ai/l/black-friday-2024) | The right tool for the write job | 33% off, automatically applied |
-| 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
+| 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months |
 | 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
 | ✍️ | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | 50% OFF |
 | 🎙️ | [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?l=en-GB&mt=12) | macOS app, on-device live caption and translation from streaming media (Youtube, Zoom, micrsoft team etc.) | **20% OFF** (46.99$ -> 37.49$) on Lifetime Premium, until Dec 3 |
