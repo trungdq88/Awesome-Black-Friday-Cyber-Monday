@@ -951,6 +951,7 @@ Total deals: 648
 | 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
 | 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | 33% OFF Annual Plan |
 | 😌 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | Lifetime • 50% OFF • $19.99 -> $9.99 • Nov 26 - Dec 3 |
+| 🏆 | [Keepthescore.com](https://keepthescore.com) | Online scoreboards, leaderboards and progress trackers | 40% OFF all plans if you enter code **BLACKFRIDAY** during checkout |
 
 [⬆️ Go to Top](#table-of-contents)
 
