@@ -285,7 +285,7 @@ Total deals: 648
 | 🤵 | [AI Headshot Generator](https://aiheadshotgenerator.com) | AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.| 20% OFF with promo code **BF2024** |
 | 🤵 | [DigiCord AI](https://digicord.site) | The Most Advanced AI-Powered Chatbot on Discord | 50% OFF with promo code **BF24** |
 | 🚀 | [GoEnhance AI](https://www.goenhance.ai) | AI Visual Creation Platform offering AI Video To Animation, AI Image Generation, AI Video Generation, Face Swap Technology, and AI Dance Generation for comprehensive visual content creation.  | 30% OFF Yearly |
-
+| ⭐ | [PostNitro AI](https://www.postnitro.ai) | AI-Powered Carousel Generator for Instagram, LinkedIn & More | 50% OFF Yearly with promo code `BF50OFFANNUAL` |
 [⬆️ Go to Top](#table-of-contents)
 
 
