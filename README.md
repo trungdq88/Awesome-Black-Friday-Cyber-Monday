@@ -499,7 +499,7 @@ Total deals: 648
 | 🧹 | [Mail Sweeper](https://www.mailsweeper.co/?ref=awesomegh) | Save time and money on gmail with your personal gmail janitor. | 50% OFF forever with code **BLACKFRIDAY50**  |
 | 🦘 | [Get Packy](https://getpacky.app) | Create simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF  |
 | 🌸 | [VideoToBe.com](https://videotobe.com/tools/transcribe) | Convert Audio & Video to Text • No Monthly Fees • Pay Per Use | 20% Coupon Code VIBE20 |
-
+| ✅ | [Glitter AI](https://glitter.io) | Turn any process into a step-by-step guide. AI-powered tool that watches your screen and listens to your voice, then generates a written, shareable guide. Perfect for training, documentation, and process management. | 50% OFF on any plan with code **BLACKFRIDAY2024** until Nov 30th 5pm PT |
 
 [⬆️ Go to Top](#table-of-contents)
 
