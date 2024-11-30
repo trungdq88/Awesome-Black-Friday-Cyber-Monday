@@ -163,6 +163,8 @@ Total deals: 648
 |  🤖 | [DW Agent AI](https://dwagentai.com/) | Transform data operations with autonomous AI agents. Natural conversations, intelligent automation, and proactive insights - all while you stay in control. | 50% off Annual Plans |
 |  ⭐️ | [Star Order](https://starorder.app) | Help you manage GitHub starred repositories, add tags, mark as favorites, and quickly find your collected third-party libraries. | 25% off on App Store. |
 |  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans  **BlackFriday30** |
+|  📨 | [AhaSend](https://ahasend.com/) | Send up to 5 million transactional emails with up to 60% ($1500) off. |  Purchased credits are usable for the next 12 months. Register using [this link](https://dash.ahasend.com/user/register?destination=/credits) and purchase the credits with code BLACKFRIDAY2024 |
+|  ⭐ | [Servers Guru](https://servers.guru/?aff=1) | Hosting and VPS - We also accept crypto payments | 50% OFF with code **BF_2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -242,7 +244,7 @@ Total deals: 648
 | 🎙️ | [Chibi AI]([https://chibi.ai/l/](https://chibi.ai/l/black-friday-2024)) | The right tool for the write job | 33% off, automatically applied |
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2024BF30** for a **30% discount** on all plans |
 | ✍️ | [Chibi AI](https://chibi.ai/l/black-friday-2024) | The right tool for the write job | 33% off, automatically applied |
-| 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months | 
+| 📧 | [Delegate](https://meetdelegate.com?utm_source=awesomebf&utm_medium=github) | AI Email Assistant that triages your inbox | Use promo code **BLACK50** for a **50% discount** for 6 months |
 | 🤖 | [GetSite](https://www.getsite.ai?ref=awesomebf) | Create a website in minutes by answering a few questions | Use promo code **BLACKFRIDAY40** at checkout for a **40%** discount for the first month on any subscription |
 | ✍️ | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | 50% OFF |
 | 🎙️ | [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?l=en-GB&mt=12) | macOS app, on-device live caption and translation from streaming media (Youtube, Zoom, micrsoft team etc.) | **20% OFF** (46.99$ -> 37.49$) on Lifetime Premium, until Dec 3 |
@@ -283,7 +285,7 @@ Total deals: 648
 | 🤵 | [AI Headshot Generator](https://aiheadshotgenerator.com) | AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.| 20% OFF with promo code **BF2024** |
 | 🤵 | [DigiCord AI](https://digicord.site) | The Most Advanced AI-Powered Chatbot on Discord | 50% OFF with promo code **BF24** |
 | 🚀 | [GoEnhance AI](https://www.goenhance.ai) | AI Visual Creation Platform offering AI Video To Animation, AI Image Generation, AI Video Generation, Face Swap Technology, and AI Dance Generation for comprehensive visual content creation.  | 30% OFF Yearly |
-
+| ⭐ | [PostNitro AI](https://www.postnitro.ai) | AI-Powered Carousel Generator for Instagram, LinkedIn & More | 50% OFF Yearly with promo code `BF50OFFANNUAL` |
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -404,6 +406,7 @@ Total deals: 648
 | 💰 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything across your Mac and iOS devices. | 30% off first year on all devices for new & returning users |
 | 💰 | [Pycopaste](https://pycopaste.foxfortmobile.com) | Clipboard manager app for iOS and Mac OS | 40% off lifetime purchase |
 | 🖥️ | [Clipbox](https://apps.apple.com/us/app/clipboard-clipbox/id1573943451) | Spotlight style universal clipboard | Lifetime 30% OFF |
+| 🔍 | [HoudahSpot](https://www.houdah.com/houdahSpot/buy.html?coupon=BLACKFRIDAY2024) | File search tool that helps you organize files and finds these if you did not | **30% OFF** with code **BLACKFRIDAY2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -496,7 +499,7 @@ Total deals: 648
 | 🧹 | [Mail Sweeper](https://www.mailsweeper.co/?ref=awesomegh) | Save time and money on gmail with your personal gmail janitor. | 50% OFF forever with code **BLACKFRIDAY50**  |
 | 🦘 | [Get Packy](https://getpacky.app) | Create simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF  |
 | 🌸 | [VideoToBe.com](https://videotobe.com/tools/transcribe) | Convert Audio & Video to Text • No Monthly Fees • Pay Per Use | 20% Coupon Code VIBE20 |
-
+| ✅ | [Glitter AI](https://glitter.io) | Turn any process into a step-by-step guide. AI-powered tool that watches your screen and listens to your voice, then generates a written, shareable guide. Perfect for training, documentation, and process management. | 50% OFF on any plan with code **BLACKFRIDAY2024** until Nov 30th 5pm PT |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -535,6 +538,7 @@ Total deals: 648
 | 🎥 | [Vidlo](https://vidlo.video) | Collect Video Testimonials and UGC Videos Easily | 30% OFF for 3 months with code  **BlackFriday2024** |
 | 🚀 | [WP Full Picture](https://wpfullpicture.com/) | Analytics and Privacy toolkit for WordPress. Easily install Google Analytics, Google Ads, Meta Pixel or any other tracking tool and use it according to privacy laws. | 50% OFF Lifetime plans |
 | 🚀 | [lowkey viral](https://lowkeyviral.com/) | Generate viral Reels & TikToks in the trending grid format with AI | 50% OFF (from 0.22$ per video) |
+| 📊 | [Usermaven](https://usermaven.com) | Simple analytics for marketers and SaaS founders. | 30% OFF on first year annually |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -622,9 +626,12 @@ Total deals: 648
 | 📊 | [Tokchart](https://tokchart.com/black-friday?utm_source=github&utm_medium=Awesome-Black-Friday-Cyber-Monday&utm_campaign=BLACKFRIDAY2024) | Professional TikTok Analytics: Find trending sounds, emerging artists, best times to post, and make data-driven content decisions | Up to 90% OFF on first payment (automatic) |
 | 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
+| ▶️ | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download, search, analyze and export any type of YouTube comments. | 50% off everything with code BF2024 |
+| 🚀 | [SocialAuditor](https://socialauditor.io/?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | Up to 80% OFF on all plans |
+| 🦅 | [Hypefury](https://hypefury.com/black-friday-2024?utm_source=gh-trungdq88) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.| 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade|
+| ⚫️ | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024?utm_source=gh-trungdq88) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** |
+| 🎯 | [ContentStudio](https://contentstudio.io/black-friday) | The easiest way to manage and grow your social channels | Up to 40% OFF on annual plans |
 | 🟢 | [post bridge](https://post-bridge.com) | Post content to multiple social media platforms at the same time, all-in one place for $9/ month | 25% OFF ALL PLANS (FOR LIFE) CODE: **BLACKFRIDAY** |
-
-
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -873,6 +880,7 @@ Total deals: 648
 |  📖 | [Ultimate Cursor AI Course (Instructa.ai)](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with code **BLACKCURSOR25** |
 |  💻 | [GreatFrontEnd](https://www.greatfrontend.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm&gnrs=tonybf) | The complete front end interview prep platform by ex-FAANG engineers. 300+ practice questions across coding, UI, system design with detailed solutions. | 30% OFF with code **BF30** |
 | ⚔️  | [CSSBattle's Learn CSS](https://cssbattle.dev/learn)  | The first-ever gamified CSS course targeted towards beginners, intermediates, and even experts. Each course consists of multiple levels which you play and learn - just like a game! | Upto **67% OFF** during Black Friday & Cyber Monday |
+|  🚀 | [newline.co (Formerly fullstack.io)](https://newline.co/) | Learn in-demand, web development and AI skills (React, TypeScript, Next.js, shadcn/ui, Langchain, and more!) from industry veterans. | newline Pro yearly subscription (5 MONTHS FREE) with code **BLACKFRIDAY_PRO5**, 20% OFF on all courses and books with code **BLACKFRIDAY_GIFT20** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -991,5 +999,8 @@ Total deals: 648
 |  🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=gh-trungdq88) | Organize, track, & treasure your stuff | **25% OFF** annual subscription with coupon code **BF24**.  |
 | ✔︎ | [Get It Right](https://getitright.design) | Enhance your SaaS application or website through an in-depth UX Audit and Insights | **50% discount**, now only **$100** (was **$200**) — just include "Black Friday" in your request comments to take advantage of this exclusive deal! |
 | 🗑️gitst | [GEME](https://www.geme.bio/product/geme?discount-code=BlackFriday2024&utm_source=gh-trungdq88) | Garbage Collection Made Simple, Meet GEME Composter | **200 OFF** with coupon code **BlackFriday2024**.  |
+| 🌎 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2024) | Photo geotagging for Mac. Add GPS locations to JPEG, RAW, Apple Photos | **30% OFF** with code **BLACKFRIDAY2024** |
+| 📷 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) | Curate your Apple Photos library. Organize, rate, and compare your photos | **30% OFF** with code **BLACKFRIDAY2024** |
+| 🚀 | [seofa.st](https://seofa.st) | Best way to kick start SEO on your parked or new domains | **$30 OFF** with coupon code **BLACKFRIDAY**.  |
 
 [⬆️ Go to Top](#table-of-contents)
