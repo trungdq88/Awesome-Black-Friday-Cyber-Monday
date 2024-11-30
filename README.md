@@ -627,6 +627,8 @@ Total deals: 648
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
 | ▶️ | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download, search, analyze and export any type of YouTube comments. | 50% off everything with code BF2024 |
 | 🚀 | [SocialAuditor](https://socialauditor.io/?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | Up to 80% OFF on all plans |
+| 🦅 | [Hypefury](https://hypefury.com/black-friday-2024?utm_source=gh-trungdq88) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.| 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade|
+| ⚫️ | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024?utm_source=gh-trungdq88) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
