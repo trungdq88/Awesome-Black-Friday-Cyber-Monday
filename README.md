@@ -165,6 +165,7 @@ Total deals: 648
 |  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans  **BlackFriday30** |
 |  📨 | [AhaSend](https://ahasend.com/) | Send up to 5 million transactional emails with up to 60% ($1500) off. |  Purchased credits are usable for the next 12 months. Register using [this link](https://dash.ahasend.com/user/register?destination=/credits) and purchase the credits with code BLACKFRIDAY2024 |
 |  ⭐ | [Servers Guru](https://servers.guru/?aff=1) | Hosting and VPS - We also accept crypto payments | 50% OFF with code **BF_2024** |
+|  🚀 | [Hydrozen.io](https://hydrozen.io) | Uptime monitoring & Statuspages | 50% OFF with code **BFCM2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -607,6 +608,7 @@ Total deals: 648
 | 🤖 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | **50% OFF** once off *BLACKFRIDAY50* . Nov 17 - Dec 30 |
 | 💰 | [XPenses](https://xpenses.co) | A Simple App to manage your business expenses and invoices | Lifetime deal for $179 |
 | 💰 | [Secret](https://www.joinsecret.com/?r=0c1338b73949) | JoinSecret is a platform offering startups and entrepreneurs exclusive discounts on many software tools, helping them save thousands of $ on essential services. It provides a Premium membership for unlimited access to deals and a supportive community for business growth. | **50% OFF** on yearly and lifetime w/ code SECRETBLACKFRIDAY. Nov 29 - Dec 2nd |
+|  🚀 | [Hydrozen.io](https://hydrozen.io) | Uptime monitoring & Statuspages | 50% OFF with code **BFCM2024** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -756,6 +758,7 @@ Total deals: 648
 | 🌯 |  [WrapFast](https://wrapfa.st/) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** ($99) during Black Friday weekend |
 | 🚀 |  [ShipThatApp](https://www.shipthat.app/?utm_source=github&utm_medium=list&utm_campaign=BlackFriday2024) | 🚀 ShipThat.App – Build & Launch iOS Apps Faster! Get boilerplate code, submission tools, and AI-powered features to simplify app development. Perfect for indie devs and MVP creators. | 🚀 Starts at **$68** (boilerplate) or **$2249** (done-for-you), 💥 **35% OFF with BLACKFRIDAY24**🔥 LIMITED 1-click DEALS: 🏆 **75% OFF** (1 only!) 🥈 **50% OFF** (10 only!) 🥉 **40% OFF** (10 only!) |
 | 🙏 |  [APIcrud](https://apicrud.gumroad.com/l/Vercel-OG-Design-and-Source-Codes-Premium) | More than 30 Premium Next.js Open Graph (OG) Design and Images To Beautify Your Social Media Previews Website Links| 🤑 $10 OFF with 10CRUDOFF |
+|  ⭐ | [A2Plugins.comm](https://a2plugins.com) | Premium Javascript plugins - Simple Lightbox Gallery & Whatsapp Chat Widget | Get 50% OFF with code **BFCM2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -767,6 +770,7 @@ Total deals: 648
 |  🐿️ | [Chipmunk Theme](https://chipmunktheme.com) | Launch Your Directory Website Today with Our User-Friendly WordPress Theme 🚀 | 40% OFF with code **BLACKFRIDAY24** |
 |  😺 | [Gato GraphQL](https://gatographql.com) | Powerful and flexible GraphQL server for WordPress: Access Control, HTTP Caching, Persisted Queries, Custom Endpoints, and more | 50% OFF, including LTD! Use code **BF2024** (Until Nov 29th) |
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?trungdq88) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
+|  ⭐ | [A2Plugins.comm](https://a2plugins.com) | Premium Javascript plugins - Simple Lightbox Gallery & Whatsapp Chat Widget | Get 50% OFF with code **BFCM2024** |
 
 
 [⬆️ Go to Top](#table-of-contents)
