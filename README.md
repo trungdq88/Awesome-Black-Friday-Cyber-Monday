@@ -331,6 +331,7 @@ Total deals: 648
 | 🎨 | [Flux AI Image Generator](https://flux1.ai/) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** OFF with code **BF5** |
 | 📸 | [WarpCam](https://apps.apple.com/us/app/warpcam-wallpaper-maker/id6686408324) | Background generator Camera - Turn boring photos into stunning backgrounds | **100%** OFF |
 | 🔲 | [QR Factory 3](https://www.tunabellysoftware.com/qrfactory) | Create professional, high-quality QR codes with batch generation and web/print-ready export options. | 50% off Lifetime Access (automatically applied) |
+| 🎨  | [A1D AI](https://a1d.ai) | Create stunning whiteboard and hand-drawn animation videos in one click with A1D.ai! Many more AI design tools included. | 50% OFF with code **BLACKFRIDAY** |     
 
 [⬆️ Go to Top](#table-of-contents)
 
