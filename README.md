@@ -538,6 +538,7 @@ Total deals: 648
 | 🎥 | [Vidlo](https://vidlo.video) | Collect Video Testimonials and UGC Videos Easily | 30% OFF for 3 months with code  **BlackFriday2024** |
 | 🚀 | [WP Full Picture](https://wpfullpicture.com/) | Analytics and Privacy toolkit for WordPress. Easily install Google Analytics, Google Ads, Meta Pixel or any other tracking tool and use it according to privacy laws. | 50% OFF Lifetime plans |
 | 🚀 | [lowkey viral](https://lowkeyviral.com/) | Generate viral Reels & TikToks in the trending grid format with AI | 50% OFF (from 0.22$ per video) |
+| 📊 | [Usermaven](https://usermaven.com) | Simple analytics for marketers and SaaS founders. | 30% OFF on first year annually |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -629,6 +630,7 @@ Total deals: 648
 | 🚀 | [SocialAuditor](https://socialauditor.io/?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | Up to 80% OFF on all plans |
 | 🦅 | [Hypefury](https://hypefury.com/black-friday-2024?utm_source=gh-trungdq88) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.| 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade|
 | ⚫️ | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024?utm_source=gh-trungdq88) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** |
+| 🎯 | [ContentStudio](https://contentstudio.io/black-friday) | The easiest way to manage and grow your social channels | Up to 40% OFF on annual plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
