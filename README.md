@@ -740,6 +740,8 @@ Total deals: 648
 | 🚀 |  [Nuxt SaaS Kit](https://nuxtsaaskit.com/) | Nuxt SaaS Kit is a Nuxt boilerplate designed for developers eager to build SaaS products efficiently. It provides all the important building blocks, allowing you to concentrate on your business. | **$30 OFF** (Get it for just $69) with code **IZNDE5NQ** |
 | 🌯 |  [WrapFast](https://wrapfa.st/) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** ($99) during Black Friday weekend |
 | 🚀 |  [ShipThatApp](https://www.shipthat.app/?utm_source=github&utm_medium=list&utm_campaign=BlackFriday2024) | 🚀 ShipThat.App – Build & Launch iOS Apps Faster! Get boilerplate code, submission tools, and AI-powered features to simplify app development. Perfect for indie devs and MVP creators. | 🚀 Starts at **$68** (boilerplate) or **$2249** (done-for-you), 💥 **35% OFF with BLACKFRIDAY24**🔥 LIMITED 1-click DEALS: 🏆 **75% OFF** (1 only!) 🥈 **50% OFF** (10 only!) 🥉 **40% OFF** (10 only!) |
+| 🙏 |  [APIcrud](https://apicrud.gumroad.com/l/Vercel-OG-Design-and-Source-Codes-Premium) | More than 30 Premium Next.js Open Graph (OG) Design and Images To Beautify Your Social Media Previews Website Links| 🤑 $10 OFF with 10CRUDOFF |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
