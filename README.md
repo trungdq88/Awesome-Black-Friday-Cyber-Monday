@@ -625,6 +625,7 @@ Total deals: 648
 | 🔥 | [Snowball.club](https://snowball.club?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=gh-trungdq88) | Create & share visual links | 50% off for a year with coupon code BF24 |
 | ▶️ | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download, search, analyze and export any type of YouTube comments. | 50% off everything with code BF2024 |
+| 🚀 | [SocialAuditor](https://socialauditor.io/?ref=awesomebfgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | Up to 80% OFF on all plans |
 
 [⬆️ Go to Top](#table-of-contents)
 
