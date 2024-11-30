@@ -995,5 +995,6 @@ Total deals: 648
 | 🗑️gitst | [GEME](https://www.geme.bio/product/geme?discount-code=BlackFriday2024&utm_source=gh-trungdq88) | Garbage Collection Made Simple, Meet GEME Composter | **200 OFF** with coupon code **BlackFriday2024**.  |
 | 🌎 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BLACKFRIDAY2024) | Photo geotagging for Mac. Add GPS locations to JPEG, RAW, Apple Photos | **30% OFF** with code **BLACKFRIDAY2024** |
 | 📷 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BLACKFRIDAY2024) | Curate your Apple Photos library. Organize, rate, and compare your photos | **30% OFF** with code **BLACKFRIDAY2024** |
+| 🚀 | [seofa.st](https://seofa.st) | Best way to kick start SEO on your parked or new domains | **$30 OFF** with coupon code **BLACKFRIDAY**.  |
 
 [⬆️ Go to Top](#table-of-contents)
