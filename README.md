@@ -197,6 +197,7 @@ Total deals: 648
 | 💬 | [InclusivitEasy](https://inclusiviteasy.com) | AI driven inclusive language checker | 50% OFF with coupon code **SAVFRD** |
 | 🧠 | [RabbitHolesAI](https://rabbitholes.ai) | Chat with AI models on an Infinite Canvas. Create branched chats, never lose context | 30% OFF with coupon code **BLACKFRIDAY** |
 | 🤖 | [QuestWiz](https://questwiz.com) | AI-powered customer support chatbot that learns from your business data to provide 24/7 multilingual support. Features GPT-4o integration and secure data handling. | 50% OFF yearly plans with code **BF2024Plus** or **BF2024Pro** |
+| 🔮 | [ChatLabs](https://chatlabs.pro) | Access to 40+ AI models including ChatGPT, Claude, Gemini for a simple flat subscription. Support for agents, vision, web search, artifacts, no api keys required. | Cyber Monday Deal: All plans are just **$4.99 for the first month** |
 
 [⬆️ Go to Top](#table-of-contents)
 
