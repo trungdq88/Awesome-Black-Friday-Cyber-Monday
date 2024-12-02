@@ -103,6 +103,9 @@ Total deals: 648
 | 🕺 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime |
 | 🧑🏻‍💻 | [Picasso: App Store Screenshots](https://apps.apple.com/app/apple-store/id6472062986?pt=972586&ct=awesome-black-friday-github&mt=8) | Create and upload your App Store screenshots directly to App Store Connect. | 50% OFF Picasso Pro Lifetime (view offer in app) - Nov 29 - Dec 2 |
 | 💻 | [alto.computer](https://apps.apple.com/us/app/alto-computer/id6480425094?mt=12) | Tools for Apple Notes: publish them online or export locally | 30% OFF FRIDAY2024 - Nov 29 - Dec 2 |
+| 💻 | [BuouAI（付费）](https://ai.buouui.com) | Next.js。集成了登录、支付（stripe/paypal）、动态组件、Cloudflare R2，Prisma+supabase/mysql、Dashboard、AI(CharGPT、Runpod、Replicate)、Canvas/Notepad、Resend/SMTP |20% OFF |
+| 💻 |[BuouUI（付费）](https://buouui.com) | TailWind CSS UI Animations library + Section + Landingpage + template |80% OFF |
+| 💻 | [BuouNext（付费）](https://next.buouui.com) | Next.js。集成了登录、支付（stripe/paypal）、动态组件、Cloudflare R2，Prisma+supabase/mysql、Dashboard、Canvas/Notepad、Resend/SMTP |20% OFF |
 
 [⬆️ Go to Top](#table-of-contents)
 
