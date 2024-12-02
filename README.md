@@ -758,6 +758,7 @@ Total deals: 648
 | 🌯 |  [WrapFast](https://wrapfa.st/) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** ($99) during Black Friday weekend |
 | 🚀 |  [ShipThatApp](https://www.shipthat.app/?utm_source=github&utm_medium=list&utm_campaign=BlackFriday2024) | 🚀 ShipThat.App – Build & Launch iOS Apps Faster! Get boilerplate code, submission tools, and AI-powered features to simplify app development. Perfect for indie devs and MVP creators. | 🚀 Starts at **$68** (boilerplate) or **$2249** (done-for-you), 💥 **35% OFF with BLACKFRIDAY24**🔥 LIMITED 1-click DEALS: 🏆 **75% OFF** (1 only!) 🥈 **50% OFF** (10 only!) 🥉 **40% OFF** (10 only!) |
 | 🙏 |  [APIcrud](https://apicrud.gumroad.com/l/Vercel-OG-Design-and-Source-Codes-Premium) | More than 30 Premium Next.js Open Graph (OG) Design and Images To Beautify Your Social Media Previews Website Links| 🤑 $10 OFF with 10CRUDOFF |
+|  🚀 | [DirectoryEasy](https://www.directoryEasy.com) | a Next.js directory boilerplate designed primarily for developers and businesses looking to launch their directories faster. | 100$ OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
