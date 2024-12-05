@@ -58,6 +58,7 @@ Total deals: 648
 		- [Misc Programming Books (8)](#misc-programming-books)
 	- [📘 Startup & Career Books (4)](#-startup--career-books)
 	- [📕 Marketing Books (4)](#-marketing-books)
+        - [🔒 Information Security Books (1)](#-information-security-books)
 - [📹 Courses ](#-courses)
 	- [💻 Programming Courses (23)](#-programming-courses)
 	- [🔒 Information Security Courses (7)](#-information-security-courses)
@@ -858,6 +859,13 @@ Total deals: 648
 |  🔥 | [Landing Page Hot Tips Ebook](https://onepagelove.com/100) | 100+ snackable and actionable tips in Ebook, Notion, Audio and more.| 60% off with code **BF2024**|
 |  ⭐ | [Transform Small Your Business with Proven SEO Strategies](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover the essential SEO techniques that will boost your online visibility and drive more customers to your business. | $200 OFF with code **BlackFriday2024** |
 
+### 🔒 Information Security Books
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  ⭐ | [Node.js Secure Coding](https://www.nodejs-security.com/) | Master Node.js Security with 3 books about Node.js Secure Coding including Path Traversal, Code Injection and Command Injection | 65% OFF with code **GYMDI2MW** |
+**BlackFriday2024** |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 📹 Courses
@@ -906,6 +914,10 @@ Total deals: 648
 | 💻 | [EXPLIoT Academy](https://academy.expliot.io/) | Get upto **50%** OFF on all courses offered by EXPLIoT Academy and level up your device security game this Black Friday | Get upto **50% OFF** on our courses and bundles |
 | ✨ | [Practical DevSecOps](https://www.practical-devsecops.com/pricing/) | Practical DevSecOps ​(a Hysn Technologies Inc company) offers vendor-neutral, practical, and hands-on DevSecOps training and certification programs for IT Professionals | Get **15%** OFF at checkout |
 | 🌐 | [DNS for Developers](https://nslookup.io/dns-course/) | Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all. | Get **66%** OFF at checkout |
+| 🥯 | [Bun Security Essentials](https://www.bunsecurity.dev/) | Bun Security Essentials: Hardening JavaScript Applications by Implementing Secure Coding and Mitigating Supply Chain Security Threats | GET **70%** OFF at checkout |
+
+. | Get **66%** OFF at checkout |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
