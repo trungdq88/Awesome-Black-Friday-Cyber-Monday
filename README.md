@@ -250,6 +250,7 @@ Total deals: 648
 | ✍️ | [MagickPen](https://magickpen.com/) | An AI-powered writing tool, unleashes the full potential of GPT, generating articles, papers, reports, stories, ads, and jokes with ease. | 50% OFF |
 | 🎙️ | [BeMyEars](https://apps.apple.com/cn/app/be-my-ears-live-caption/id1577662679?l=en-GB&mt=12) | macOS app, on-device live caption and translation from streaming media (Youtube, Zoom, micrsoft team etc.) | **20% OFF** (46.99$ -> 37.49$) on Lifetime Premium, until Dec 3 |
 | 📄 | [AskDocs](https://askdocs.com) | Smart AI assistant that helps you extract insights from documents - supports PDF, Word, Excel, and images with multilingual capabilities and secure document handling. | 53% OFF yearly plans with code **BF2024** |
+| 🔄 | [FillBot](https://fillbot.pro) | AI-powered Chrome extension for automatic form filling on any website. Save time by automating repetitive data entry tasks. | **67% OFF** Black Friday Deal: $39 per year (regularly $120). No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -333,7 +334,7 @@ Total deals: 648
 | 🎨 | [Flux AI Image Generator](https://flux1.ai/) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** OFF with code **BF5** |
 | 📸 | [WarpCam](https://apps.apple.com/us/app/warpcam-wallpaper-maker/id6686408324) | Background generator Camera - Turn boring photos into stunning backgrounds | **100%** OFF |
 | 🔲 | [QR Factory 3](https://www.tunabellysoftware.com/qrfactory) | Create professional, high-quality QR codes with batch generation and web/print-ready export options. | 50% off Lifetime Access (automatically applied) |
-| 🎨  | [A1D AI](https://a1d.ai) | Create stunning whiteboard and hand-drawn animation videos in one click with A1D.ai! Many more AI design tools included. | 50% OFF with code **BLACKFRIDAY** |     
+| 🎨  | [A1D AI](https://a1d.ai) | Create stunning whiteboard and hand-drawn animation videos in one click with A1D.ai! Many more AI design tools included. | 50% OFF with code **BLACKFRIDAY** |
 | 🤯 | [HookAds](https://hookads.ai) | Hand Picked Creatives that makes your Ads go Viral | 70$ off on lifetime deal with code **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
