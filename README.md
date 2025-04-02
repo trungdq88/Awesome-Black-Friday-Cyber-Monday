@@ -288,6 +288,7 @@ Total deals: 648
 | 🤵 | [DigiCord AI](https://digicord.site) | The Most Advanced AI-Powered Chatbot on Discord | 50% OFF with promo code **BF24** |
 | 🚀 | [GoEnhance AI](https://www.goenhance.ai) | AI Visual Creation Platform offering AI Video To Animation, AI Image Generation, AI Video Generation, Face Swap Technology, and AI Dance Generation for comprehensive visual content creation.  | 30% OFF Yearly |
 | ⭐ | [PostNitro AI](https://www.postnitro.ai) | AI-Powered Carousel Generator for Instagram, LinkedIn & More | 50% OFF Yearly with promo code `BF50OFFANNUAL` |
+| 🐦 | [face shape AI](https://detectorfaceshape.com) | Get personalized style advice and discover what is my face shape with our advanced AI face shape detector and analyzer. Experience the most accurate face shape detection online.| free |
 [⬆️ Go to Top](#table-of-contents)
 
 
