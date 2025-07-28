@@ -219,6 +219,8 @@ Total deals: 648
 |  ⭐ | [WhisperUI](https://whisperui.com?ref=awesomebf) | Affordable Speech to Text service powered by OpenAI Whisper API. | 60% OFF |
 | ⭐  | [UniScribe](https://www.uniscribe.co?utm_source=awesomebf) | UniScribe lets you upload audio and video files or paste YouTube URLs, quickly turning them into text with AI. It also creates summaries, mind maps, and key questions, and lets you export the text in different formats. | 40% OFF on annual plans. No code required. |
 |  🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
+|  🤖 | AI Free Forever | Free AI tools and resources platform offering unlimited access to various AI models and services without subscription fees. Perfect for students, developers, and anyone exploring AI capabilities. | 100% FREE - No codes needed! |
+
 |  ⭐ | [Inbox Zero](https://www.getinboxzero.com/) | Spend 50% less time on email. AI email assitant and bulk unsubscriber. | 20% OFF with code **FRIDAY2024** |
 |  ⭐ | [Semantic Pen](https://www.semanticpen.com/?utm_source=awesomebf) | Fact Check AI writer | 40% OFF all annual plans with code **SPBF40** |
 | ⭐ | [Writecream](https://www.writecream.com/unlimited-plan/) | Create blog articles, marketing content & sales emails in seconds, at a fraction of the cost. | 20% OFF - Use the coupon code: **BF20** to receive the discount |
