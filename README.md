@@ -640,6 +640,7 @@ Total deals: 648
 | ⚫️ | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024?utm_source=gh-trungdq88) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** |
 | 🎯 | [ContentStudio](https://contentstudio.io/black-friday) | The easiest way to manage and grow your social channels | Up to 40% OFF on annual plans |
 | 🟢 | [post bridge](https://post-bridge.com) | Post content to multiple social media platforms at the same time, all-in one place for $9/ month | 25% OFF ALL PLANS (FOR LIFE) CODE: **BLACKFRIDAY** |
+| 🚀  | [KeywordToPin](https://keywordtopin.com/?ref=GIT&utm_source=gitbf&utm_medium=gitbf&utm_id=gitcbf) | KeywordToPin is the best Pinterest keyword tool that gives you access to accurate keyword data for millions of Pinterest keywords. Pinterest keywords search volume and competition analysis tool. Make informed marketing decision with the best Pinterest keyword research tool | Get 35% **OFF** when you use code **BLACKFRIDAY** on any plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
