@@ -609,6 +609,7 @@ Total deals: 648
 | 💰 | [Secret](https://www.joinsecret.com/?r=0c1338b73949) | JoinSecret is a platform offering startups and entrepreneurs exclusive discounts on many software tools, helping them save thousands of $ on essential services. It provides a Premium membership for unlimited access to deals and a supportive community for business growth. | **50% OFF** on yearly and lifetime w/ code SECRETBLACKFRIDAY. Nov 29 - Dec 2nd |
 | 🔍 | [One Word Domains](https://owd.li/tony-bfcm-repo) | One Word Domains is a database of 1,381,826 available & brandable one-word domain names for your next startup idea. | **$50 OFF** lifetime deal w/ code BFCM50OFF. Nov 29 - Dec 2nd |
 | ✨ | [DomainsGPT](https://domainsg.pt/tony-bfcm-repo) | DomainsGPT is an AI-powered domain name generator for you to generate brandable & memorable domain names for your next startup idea. | **50% OFF** lifetime deal w/ code BFCM2024. Nov 29 - Dec 2nd |
+| ⭐ |[UptimeObserver](https://uptimeobserver.com) | Monitor your website uptime and performance with real-time alerts and detailed analytics. Get instant notifications when your site goes down. | **30% OFF** first year with code BFCM2025. Nov 17 - Dec 2nd |
 
 [⬆️ Go to Top](#table-of-contents)
 
