@@ -165,6 +165,7 @@ Total deals: 648
 |  🚀 | [Requestly](https://requestly.com/) |  Powerful request/response modification capabilities Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% off Annual Plans  **BlackFriday30** |
 |  📨 | [AhaSend](https://ahasend.com/) | Send up to 5 million transactional emails with up to 60% ($1500) off. |  Purchased credits are usable for the next 12 months. Register using [this link](https://dash.ahasend.com/user/register?destination=/credits) and purchase the credits with code BLACKFRIDAY2024 |
 |  ⭐ | [Servers Guru](https://servers.guru/?aff=1) | Hosting and VPS - We also accept crypto payments | 50% OFF with code **BF_2024** |
+| 🚀  | [ElevateSells](https://elevatesells.com) | ElevateSells is an AI-powered sales agent that finds leads, writes personalized cold emails, and follows up automatically to book more meetings. | **50% OFF with code BF2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
