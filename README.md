@@ -544,6 +544,7 @@ Total deals: 648
 | 🚀 | [WP Full Picture](https://wpfullpicture.com/) | Analytics and Privacy toolkit for WordPress. Easily install Google Analytics, Google Ads, Meta Pixel or any other tracking tool and use it according to privacy laws. | 50% OFF Lifetime plans |
 | 🚀 | [lowkey viral](https://lowkeyviral.com/) | Generate viral Reels & TikToks in the trending grid format with AI | 50% OFF (from 0.22$ per video) |
 | 📊 | [Usermaven](https://usermaven.com) | Simple analytics for marketers and SaaS founders. | 30% OFF on first year annually |
+|  ⭐ | [NameKnow.com](https://nameknow.com) | Curated Domain Name Marketplace| 20% off with code **BLACKFRIDAY314**
 
 [⬆️ Go to Top](#table-of-contents)
 
