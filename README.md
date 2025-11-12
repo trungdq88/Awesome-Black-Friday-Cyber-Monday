@@ -67,6 +67,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🐛 | [Sentry](https://sentry.io) |Find, automatically root cause, and fix software issues before users notice.  | Get $500 in Sentry credit with code **awesome-friday** |
 |  🗂️ | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 50% OFF with code **BLACKFRIDAY2025** |
 |  🔍 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | 30% OFF with code **BLACKFRIDAY2025** |
+|  ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
