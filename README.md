@@ -169,7 +169,7 @@ Total deals: 194
 | 🖌️ | [IllustraAI](https://illustraai.com) | Create custom vector illustrations for your websites, apps, marketing materials, etc. | **30% OFF** on all plan with code **BLACKFRIDAY2024** |
 | 💰  | [Place Card Template](https://placecard.us) | A fast, easy and free printable place card maker,Design beautiful place cards in minutes with our free, user-friendly maker. Choose from 100+ customizable place cards templates, including options for meal choices. Perfect for weddings, holidays, and special events. Compatible with Microsoft Word for easy editing and printing. | 30% off (automatic) |
 | ✳︎ | [Inspotype](https://inspotype.com) | Build brands in a blink. For product makers, designers, productivized designers and design agencies. | 20% OFF on LIFETIME **BLACKFRIDAY2024** |
-| 🚀 | [Sheetany](https://sheetany.com) | A website builder that helps you quickly create websites directly from Google Sheets, without any design or development skills, for blogs, directories, job boards, and more. | 30% OFF on all plans with code **BFCM2024** |
+| 🚀 | [Sheetany](https://sheetany.com) | A website builder that helps you quickly create websites directly from your Google Sheets without design or development skills, for Blogs, Directories, Job boards, E-commerce sites, and more. | 30% OFF on all plans with code **BFCM2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -252,7 +252,7 @@ Total deals: 194
 |  🧼 | [InboxPurge](https://www.inboxpurge.com?ref=awesomebf) | Clean up your Gmail in minutes | 30% OFF the PRO plan with code **BF2024**  |
 |  💰 | [Spotify Cover Maker ](https://sharegiftlist.com?ref=awesomebf) | Create Custom Spotify Playlist Covers and Song Lyrics Posters | 30% off (automatic) |
 |  💼 | [hiretool.io](https:/hiretool.io?ref=awesomebf) | Cut out unqualified candidates before the interview— save your time and focus on the right talent | 50% off on monthly and yearly subscriptions (automatic) |
-| 📚 | [Ebookany](https://ebookany.com) | Easily convert any online content (blogs, links, RSS feeds, Google Docs, Notion pages) into a convenient ebook format (EPUB or PDF). | 30% OFF on all plans with code **BFCM2024** |
+| 📚 | [Ebookany](https://ebookany.com) | Easily convert any online content (blogs, links, RSS feeds, Google Docs, Notion pages) into a convenient ebook format (EPUB or PDF). | 30% OFF on all plans with code **BFCM2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
