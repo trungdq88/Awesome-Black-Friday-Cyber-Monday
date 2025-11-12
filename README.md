@@ -249,6 +249,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🟪 | [PostFlow](https://postflow.app?ref=tonybf)          | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **50% OFF** for 1st year, for monthly plan use **BF50MONTHLY** for annual plans use code **BF50YEARLY**          |
 | 🔄 | [PostSyncer](https://postsyncer.com) | AI-powered social media automation tool that helps you manage and sync your posts across multiple platforms. | 20% OFF for 12 months with code **TONYDEAL** |
+| 🤖 | [ReplyZen](https://replyzen.ai/?utm_source=tonybf)          | Boost conversions, save hours daily, and keep your comment sections clean with AI agents that instantly reply, recommend products, and filter spam on autopilot. Works on Facebook and Instagram (TikTok coming soon). | **20% OFF** for 1st year using the code **BF2025**          |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
