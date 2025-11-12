@@ -116,6 +116,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
 | 📊 | [GenPPT](https://genppt.com/?utm_source=tonybf) | AI-powered presentation generation tool. Create pitch decks and presentations using templates and AI. Turn ideas into polished slides quickly. | 20% OFF with code **BF25** |
 | 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
+| 🤝 | [MindPal](https://mindpal.space) | Turn your domain expertise into sharable AI agents & multi-agent workflows with no code. Trusted by 50k+ experts to productize knowledge for teams, clients, and audience. | 60% OFF first year with code **BLACKFRIDAY25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
