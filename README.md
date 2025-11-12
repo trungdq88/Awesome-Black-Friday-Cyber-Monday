@@ -219,6 +219,14 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 [⬆️ Go to Top](#table-of-contents)
 
+## 💪 Health and Fitness
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 😴 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
+
+[⬆️ Go to Top](#table-of-contents)
+
 ## 🎯 Miscellaneous
 
 |  | Name | Description | Discount Code & Terms |
