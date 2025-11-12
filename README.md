@@ -63,7 +63,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |
 |  🪣 | [BucketMate](https://bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ### 💻 Tools & Services
 
@@ -72,7 +72,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🤖 AI Tools
 
@@ -80,8 +80,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
-
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 
 ### 📖 AI Productivity & Learning Tools
@@ -91,7 +90,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=tonybf) | Quickly understand complex research papers with AI-powered explanations. | 45% OFF Lifetime ($49) |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
@@ -99,7 +98,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🧠 | [CrawlChat](https://crawlchat.app/?utm_source=tonybf) | Power up your tech documentation with Ask AI that can answer your users and community queries instantly on your website, Discord server, Slack channel, MCP, or API! | 50% OFF all plans for first 6 months **BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 
 ## 🌅 Design Tools
@@ -108,7 +107,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 
 ## ⌨️ Code Libraries
@@ -117,7 +116,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔥 Productivity
 ### 🖥️ Productivity Desktop Apps
@@ -130,7 +129,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 #### Window, Screen, Clipboard, Utilities
 
@@ -139,7 +138,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⭐ | [Wins](https://wins.cool?utm_source=tonybf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime Plan **BLACKFRIDAY2025** |
 | 💥 | [DockX](https://DockX.app) | Magic app that allows you to display any content in the Dock and Menu bar. | App Store **25% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 #### Time, Distraction, Focus
 
@@ -148,7 +147,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 #### Miscellaneous Productivity Apps
 
@@ -156,7 +155,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ### 📱 Productivity Mobile Apps
 
@@ -164,7 +163,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ### 🛠️ Productivity Tools & Services
 
@@ -173,7 +172,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
 | 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🌈 Marketing Tools
 
@@ -182,14 +181,14 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
 | 📌 | [BlogToPin](https://blogtopin.com?utm_source=tonybf) | The best Pinterest Marketing Tool to grow your business on Pinterest. Automatically create Pins for your website (blog posts, eCommerce items, landing pages, etc), analyse your growth and make data-driven changes using Breakdowns. | 35% OFF annual plans for 1 year with code **BF2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 
 ## 🚀 Startup SaaS/Tools
@@ -198,7 +197,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📊 | [Chartbrew](https://chartbrew.com/?utm_source=tonybf) | Track KPIs and improve decision-making with real-time dashboards and reports from all your data sources. Automate your reporting with scheduled snapshots, fully customizable reports, API access, AI assistant to help with gathering insigths, and more! | 20% OFF with code **BFCB2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
 
@@ -206,7 +205,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 💸 Finance Tools
 
@@ -214,7 +213,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🎛 Utility Tools
 
@@ -222,7 +221,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 💪 Health and Fitness
 
@@ -230,7 +229,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 😴 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
 
 ## 🎯 Miscellaneous
 
@@ -240,4 +239,4 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 
-[⬆️ Go to Top](#table-of-contents)
+⬆️ | [Go to Top](#table-of-contents)
