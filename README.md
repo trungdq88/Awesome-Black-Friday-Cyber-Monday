@@ -125,7 +125,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📊 | [GenPPT](https://genppt.com/?utm_source=tonybf) | AI-powered presentation generation tool. Create pitch decks and presentations using templates and AI. Turn ideas into polished slides quickly. | 20% OFF with code **BF25** |
 | 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
 | 💝 | [LoveTunesAI](https://lovetunesai.com/?utm_source=tonybf) | Easily create personalized songs for any special occasion or just for fun. Get studio-quality music, designed just for your loved ones! | 20% OFF **BF20OFF** |
-
+| 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=tonybf) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
