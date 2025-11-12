@@ -101,6 +101,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🤖 | [(New Row Template) CrawlChat](https://crawlchat.app/?utm_source=tonybf) | Power you tech documentation with Ask AI on web, Discord, Slack, MCP, API and more. Make your users and community find the help from your docs instantly | 50% OFF all plans for first 6 months **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
