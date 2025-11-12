@@ -2,7 +2,9 @@
 
 ## What's new in 2025?
 - ⭐ **High quality curated deals only**: All deals in this repo are carefully review by me (Tony Dinh) with help from my brother (Hieu Dinh). We only pick the most legit and high quality apps, no half-finished, vibe-coded, or AI slops.
-- ⭐ **Only software. No courses, books, boilerplates, etc.** This year, we will only collect software and apps, this is solely just to save our time in reviewing the deals and focusing more on what we love: cool software products.
+- ⭐ **Only software, apps, or SaaS. No courses, books, boilerplates, etc.** This is to save our time in reviewing the deals and focusing more on what we love: cool software products.
+- ⭐ **I’ll pick the best 10 indie products** and feature them in [my personal newsletter](https://news.tonydinh.com/) with 15,000+
+ subscribers!
 
 Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/1618).
 
@@ -65,6 +67,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🐛 | [Sentry](https://sentry.io) |Find, automatically root cause, and fix software issues before users notice.  | Get $500 in Sentry credit with code **awesome-friday** |
 |  🗂️ | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 50% OFF with code **BLACKFRIDAY2025** |
 |  🌟 | [StarOrder](https://starorder.app) | GitHub Star collection and management tool. | 20% OFF in AppStore |
+|  🔍 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | 30% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -112,6 +115,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase (no code) |
+| 🧩 | [SuperDev Pro](https://superdevpro.com/?utm_source=bf) | One extension, 19 tools. Inspect CSS, edit text, change fonts, pick colors, extract images, test responsive designs, and more—built for designers & developers on Chrome and Firefox.| $120 OFF **$29 Lifetime Access** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -134,6 +138,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
+| 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -187,6 +192,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
 | 📌 | [BlogToPin](https://blogtopin.com?utm_source=tonybf) | The best Pinterest Marketing Tool to grow your business on Pinterest. Automatically create Pins for your website (blog posts, eCommerce items, landing pages, etc), analyse your growth and make data-driven changes using Breakdowns. | 35% OFF annual plans for 1 year with code **BF2025** |
 | 💬 | [Ethos Reply](https://ethosreply.com) | Unlike automated engagement tools, Ethos Reply uses real people to represent your brand on Reddit and X. Our team actively monitors discussions 24/7 and writes genuine, on-brand responses that build trust, visibility, and long-term loyalty. | 25% OFF monthly plan for 1 year with code **BF2025** |
+| 📧 | [Maillayer](https://maillayer.com?utm_source=tonybf) | Mailchimp alternative, self-hosted and truly yours. | $180 OFF for lifetime. Get for $69 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
