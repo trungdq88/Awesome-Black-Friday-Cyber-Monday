@@ -1,6 +1,8 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2025 🤑
 
-A curated list of deals on Black Friday 2025.
+## What's new in 2025?
+- ⭐ **High quality curated deals only**: All deals in this repo are carefully review by me (Tony) with help from my brother (Hieu Dinh). We only pick the most high quality apps, no half-finish vibe-coded, no slops.
+- ⭐ **Only software. No courses, books, boilerplates, etc.** This year, we will only collect software and apps, this is solely just to save our time in reviewing the deals and focusing more on what we love: cool software products.
 
 Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/1618).
 
