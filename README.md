@@ -101,6 +101,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 [⬆️ Go to Top](#table-of-contents)
 
 ### ✨ Other AI tools
