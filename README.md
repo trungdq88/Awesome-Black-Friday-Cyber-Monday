@@ -230,6 +230,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🔍 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
