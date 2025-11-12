@@ -282,6 +282,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
 | 🔍 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
 | 📧 | [Ninbox](https://ninbox.io) | A simple way to move newsletters out of your personal inbox to a clean, organized space made just for them. | **BF2025** for 20% off |
+| ▶️ | [Download Youtube Transcripts](https://downloadyoutubetranscripts.com) | The fastest way to download hundreds of youtube transcripts in bulk from  channels and playlists | **BLACKFRIDAY2025** for 33% off |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
