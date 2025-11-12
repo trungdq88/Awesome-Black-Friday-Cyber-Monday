@@ -83,7 +83,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -92,7 +92,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### 💬 AI Chat UI
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
+| 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -100,14 +100,14 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 [⬆️ Go to Top](#table-of-contents)
 
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🧠 | [CrawlChat](https://crawlchat.app/?utm_source=tonybf) | Power up your tech documentation with Ask AI that can answer your users and community queries instantly on your website, Discord server, Slack channel, MCP, or API! | 50% OFF all plans for first 6 months **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
@@ -118,7 +118,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 [⬆️ Go to Top](#table-of-contents)
 
@@ -127,7 +127,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -139,7 +139,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -155,7 +155,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -163,14 +164,14 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 [⬆️ Go to Top](#table-of-contents)
 
 ### 📱 Productivity Mobile Apps
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🧠 | [Quick Capture - Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps  | 40% OFF Lifetime Plan |
 [⬆️ Go to Top](#table-of-contents)
 
@@ -178,7 +179,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌈 Marketing Tools
@@ -186,14 +187,14 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🧠 | [NameKnow.com](https://nameknow.com?utm_source=awesome-black-friday-github) | Curated Domain Name Marketplace | 20% OFF **BLACKFRIDAY314** |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -203,21 +204,21 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💸 Finance Tools
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -225,7 +226,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -243,7 +244,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -256,7 +257,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -264,7 +265,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -273,7 +274,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -282,7 +283,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -290,7 +291,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -299,7 +300,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -309,7 +310,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -319,7 +320,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -328,7 +329,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -337,7 +338,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -347,7 +348,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -357,7 +358,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 💡 | [YourFirstAiApp.com](https://yourfirstaiapp.com/?utm_source=gh-trungdq88) | For non-developers who want to build their own apps with AI. Learn a fast and highly effective workflow, create 4 real apps (Chrome ext, Telegram bot, 2 web apps) and by the end you'll feel confident to build anything you want. | 50% OFF with code **BLACKFRIDAY25** |
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 
