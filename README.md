@@ -126,6 +126,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
 | 💝 | [LoveTunesAI](https://lovetunesai.com/?utm_source=tonybf) | Easily create personalized songs for any special occasion or just for fun. Get studio-quality music, designed just for your loved ones! | 20% OFF **BF20OFF** |
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=tonybf) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
+| 🎬 | [TranslateMom](https://translatemom.com/?utm_source=tonybf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural-sounding voices and realistic and accurate translations. | **70% OFF** Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, 30-day storage, and watermark-free exports. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
