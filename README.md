@@ -70,6 +70,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🌐 | [LocalCan](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX (Mac / Windows) | 10 x **BF40** 40% OFF and 100 x **BF20** 20% OFF |
 |  🛠️ | [SelfDevKit](https://selfdevkit.com) | 50+ essential developer tools in one desktop app. Built with Rust, works offline, privacy-focused. | 50% OFF with code **BLACKFRIDAY2025** |
 |  ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
+|  🥤 | [Cozy Watch](https://cozywatch.com) |     Focus without missing GitHub updates     | $4 off with  **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
