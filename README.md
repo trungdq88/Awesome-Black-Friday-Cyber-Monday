@@ -65,7 +65,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 		- [🎢 Career Courses](#-career-courses)
 		- [📈 Marketing Courses](#-marketing-courses)
 	- [💪 Health and Fitness](#-health-and-fitness)
-	- [👨‍🎨 Miscellaneous](#-miscellaneous)
+	- [🎯 Miscellaneous](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -351,11 +351,10 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 [⬆️ Go to Top](#table-of-contents)
 
 
-## 👨‍🎨 Miscellaneous
+## 🎯 Miscellaneous
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 💡 | [YourFirstAiApp.com](https://yourfirstaiapp.com/?utm_source=gh-trungdq88) | For non-developers who want to build their own apps with AI. Learn a fast and highly effective workflow, create 4 real apps (Chrome ext, Telegram bot, 2 web apps) and by the end you'll feel confident to build anything you want. | 50% OFF with code **BLACKFRIDAY25** |
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 
