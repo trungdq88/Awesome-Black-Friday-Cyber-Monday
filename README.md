@@ -73,6 +73,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
+| 📄 | [Peedief](https://peedief.com/?utm_source=tonybf) | Peedief lets you generate high-quality PDFs automatically from your HTML templates. It's built for developers and workflow creators who use tools like Make or Zapier. Peedief handles browser rendering, scaling, and reliability so you can create invoices, reports, and documents with ease. | 30% OFF for first 3 months on any plan **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
