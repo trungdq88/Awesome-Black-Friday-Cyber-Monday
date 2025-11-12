@@ -196,7 +196,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📊 | [Chartbrew](https://chartbrew.com/?utm_source=tonybf) | Track KPIs and improve decision-making with real-time dashboards and reports from all your data sources. Automate your reporting with scheduled snapshots, fully customizable reports, API access, AI assistant to help with gathering insigths, and more! | 20% OFF with code **BFCB2025** |
-
+| 💬 | [FeedbackHub] (https://www.feedbackhub.dev?utm_source=tonybf) | Stop Building Features Nobody Wants, Collect feedback → Build what users want → Grow revenue | Life Time Deal at Just $99 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
