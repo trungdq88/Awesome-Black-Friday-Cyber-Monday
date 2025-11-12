@@ -135,9 +135,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 | 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
+| 📸 | [Shotomatic](https://shotomatic.com?utm_source=tonybf) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
