@@ -200,6 +200,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📊 | [Chartbrew](https://chartbrew.com/?utm_source=tonybf) | Track KPIs and improve decision-making with real-time dashboards and reports from all your data sources. Automate your reporting with scheduled snapshots, fully customizable reports, API access, AI assistant to help with gathering insigths, and more! | 20% OFF with code **BFCB2025** |
+| 📊 | [ZodQR](https://zodqr.com/?utm_source=tonybf) | Create, share and track unlimited dynamic QR codes (URL, vCard, link-in-bio, file, PDF, MP3,...) for free. Unlock Pro features for teams: advanced analytics, team work in workspace, campaign, bulk generate, API and integration for $29/month or $290/year. | 30% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
