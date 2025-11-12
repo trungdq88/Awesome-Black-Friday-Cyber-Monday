@@ -271,7 +271,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⭐ | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
 | 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
 | 🔍 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
-
+| 📧 | [Ninbox](https://ninbox.io) | A simple way to move newsletters out of your personal inbox to a clean, organized space made just for them. | **BF2025** for 20% off |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
