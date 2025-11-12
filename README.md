@@ -92,6 +92,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=tonybf) | Quickly understand complex research papers with AI-powered explanations. | 45% OFF Lifetime ($49) |
 | ⚡ | [PDF Pals](https://pdfpals.com/?utm_source=tonybf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
+| 🐘 | [Elephas](https://elephas.app/pricing?utm_source=tonybf) | Your AI Powered Knowledge Assistant - Unlimited documents and integrations (including Apple Notes) | 20% OFF on all Lifetime Plans with code **BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -108,8 +109,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
-| 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase (no code) |
-
 ⬆️ | [Go to Top](#table-of-contents)
 
 
