@@ -270,6 +270,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 💸 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
