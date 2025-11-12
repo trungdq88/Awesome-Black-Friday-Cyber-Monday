@@ -224,7 +224,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-| 💡 | [YourFirstAiApp.com](https://yourfirstaiapp.com/?utm_source=gh-trungdq88) | For non-developers who want to build their own apps with AI. Learn a fast and highly effective workflow, create 4 real apps (Chrome ext, Telegram bot, 2 web apps) and by the end you'll feel confident to build anything you want. | 50% OFF with code **BLACKFRIDAY25** |
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 
 [⬆️ Go to Top](#table-of-contents)
