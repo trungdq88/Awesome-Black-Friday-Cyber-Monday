@@ -200,7 +200,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-| ⭐ | [KeywordToPin](https://keywordtopin.com/?ref=GIT&utm_source=gitbf&utm_medium=gitbf&utm_id=gitcbf) | KeywordToPin is the best Pinterest keyword tool that gives you access to accurate keyword volume for millions of Pinterest keywords, competition analysis & much more. Make informed marketing decision with the best Pinterest keyword research tool | Get 35% OFF when you use code BLACKFRIDAY on any plan |
+| ⭐ | [KeywordToPin](https://keywordtopin.com/?ref=GIT&utm_source=gitbf&utm_medium=gitbf&utm_id=gitcbf) | KeywordToPin is the best Pinterest keyword tool that gives you access to accurate keyword volume for millions of Pinterest keywords, competition analysis & much more. Make informed Pinterest marketing decision with the best Pinterest keyword research tool | Get 35% OFF when you use code BLACKFRIDAY on any plan |
 
 [⬆️ Go to Top](#table-of-contents)
 
