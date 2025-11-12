@@ -108,6 +108,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🧩 | [SuperDev Pro](https://superdevpro.com/?utm_source=bf) | One extension, 19 tools. Inspect CSS, edit text, change fonts, pick colors, extract images, test responsive designs, and more—built for designers & developers on Chrome and Firefox.| $120 OFF **$29 Lifetime Access** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -180,6 +181,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
 | 📌 | [BlogToPin](https://blogtopin.com?utm_source=tonybf) | The best Pinterest Marketing Tool to grow your business on Pinterest. Automatically create Pins for your website (blog posts, eCommerce items, landing pages, etc), analyse your growth and make data-driven changes using Breakdowns. | 35% OFF annual plans for 1 year with code **BF2025** |
+| 📧 | [Maillayer](https://maillayer.com?utm_source=tonybf) | Mailchimp alternative, self-hosted and truly yours. | $180 OFF for lifetime. Get for $69 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
