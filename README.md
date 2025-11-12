@@ -250,6 +250,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🔄 | [How to Convert](https://howtoconvert.co) | Local file converter app for Mac, Windows & Linux. Do 3,969 video, image, audio, document and email file conversions and compressions with a desktop app. | 30% OFF with code **BLACKFRIDAY** |
 | ⭐ | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
+| 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
