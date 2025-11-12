@@ -171,6 +171,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
+| 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
 
 [⬆️ Go to Top](#table-of-contents)
 
