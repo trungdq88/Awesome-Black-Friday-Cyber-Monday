@@ -123,7 +123,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📊 | [GenPPT](https://genppt.com/?utm_source=tonybf) | AI-powered presentation generation tool. Create pitch decks and presentations using templates and AI. Turn ideas into polished slides quickly. | 20% OFF with code **BF25** |
 | 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
 | 💝 | [LoveTunesAI](https://lovetunesai.com/?utm_source=tonybf) | Easily create personalized songs for any special occasion or just for fun. Get studio-quality music, designed just for your loved ones! | 20% OFF **BF20OFF** |
-
+| 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=tonybf) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -259,6 +259,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔄 | [PostSyncer](https://postsyncer.com) | AI-powered social media automation tool that helps you manage and sync your posts across multiple platforms. | 20% OFF for 12 months with code **TONYDEAL** |
 | 🔄 | [TypeSmart](https://typesm.art/?utm_source=tonybf) | Automatically share your X posts on LinkedIn and BlueSky. Also set custom repurposing rules for AI. | 42% OFF with code **BLACKFRIDAY** |
 | 🚀 | [SortPin.com](https://sortpin.com/?utm_source=tonybf) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
