@@ -203,6 +203,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💬 | [Conversation Catcher](https://apps.apple.com/redeem/?ctx=offercodes&id=6746731733&code=BLACKFRIDAY2025) | Capture In-person conversations. On-device AI transcription, summaries, Q&A.  More Info[ConversationCatcher.com](https://wwww.conversationcatcher.com) | Use the link to get **50% off** first year. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
