@@ -166,6 +166,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🧠 | [Quick Capture - Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps  | 40% OFF Lifetime Plan |
+| 📝 | [Quick Capture for Obsidian](https://quickcaptureobsidian.app) | Send anything to any document in Obsidian 10x faster 💨  | 40% OFF Lifetime Plan |
 [⬆️ Go to Top](#table-of-contents)
 
 ### 🛠️ Productivity Tools & Services
