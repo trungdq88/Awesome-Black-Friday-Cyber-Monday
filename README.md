@@ -219,7 +219,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| ☎️ | [ProspectEcho](https://prospectecho.com/?utm_source=tonybf) | Generate lead lists from businesses spending and advertising on Facebook Ads. Scrapes the Meta Ad Library, so you don't have to. | 50% OFF for Early Waitlist Users |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
