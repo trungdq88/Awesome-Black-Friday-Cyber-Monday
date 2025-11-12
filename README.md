@@ -219,6 +219,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans)
 | 📅 | [Mixpost](https://mixpost.app?utm_source=tonybf) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | 20% OFF — automatically applied |
 | 🚀 | [Affonso](https://affonso.io?utm_source=tonybf) | Grow Your SaaS with an Affiliate Program. All you need to launch and manage your affiliate program, with the tools that help you find affiliates who drive revenue. | 10% OFF with code **BLACKFRIDAY25** |
+| 🤑 | [Veshort](https://veshort.com/?utm_source=tdinhgithub) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
