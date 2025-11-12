@@ -103,6 +103,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⚡ | [PDF Pals](https://pdfpals.com/?utm_source=tonybf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
 | 🐘 | [Elephas](https://elephas.app/pricing?utm_source=tonybf) | Your AI Powered Knowledge Assistant - Unlimited documents and integrations (including Apple Notes) | 20% OFF on all Lifetime Plans with code **BFCM25** |
 | 👨🏻‍🏫 | [MagicSlides](https://magicslides.app/?utm_source=tonybf) | Instantly create PPT using AI. Native, fast and respect your privacy. | 25% OFF with code **BFCM25** |
+| 🧠 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
