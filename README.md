@@ -2,7 +2,9 @@
 
 ## What's new in 2025?
 - ⭐ **High quality curated deals only**: All deals in this repo are carefully review by me (Tony Dinh) with help from my brother (Hieu Dinh). We only pick the most legit and high quality apps, no half-finished, vibe-coded, or AI slops.
-- ⭐ **Only software. No courses, books, boilerplates, etc.** This year, we will only collect software and apps, this is solely just to save our time in reviewing the deals and focusing more on what we love: cool software products.
+- ⭐ **Only software, apps, or SaaS. No courses, books, boilerplates, etc.** This is to save our time in reviewing the deals and focusing more on what we love: cool software products.
+- ⭐ **I’ll pick the best 10 indie products** and feature them in [my personal newsletter](https://news.tonydinh.com/) with 15,000+
+ subscribers!
 
 Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/1618).
 
@@ -64,6 +66,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🪣 | [BucketMate](https://bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 |  🐛 | [Sentry](https://sentry.io) |Find, automatically root cause, and fix software issues before users notice.  | Get $500 in Sentry credit with code **awesome-friday** |
 |  🗂️ | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 50% OFF with code **BLACKFRIDAY2025** |
+|  🔍 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | 30% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -83,6 +86,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
+| 🤖 | [SimpleChat](https://simplechat.app/?utm_source=tonybf) | Chat with advanced AI models, Generate and Edit Images - all in a single simple chat interface | 40% OFF Lifetime **BF2025** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -99,6 +103,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [CrawlChat](https://crawlchat.app/?utm_source=tonybf) | Power up your tech documentation with Ask AI that can answer your users and community queries instantly on your website, Discord server, Slack channel, MCP, or API! | 50% OFF all plans for first 6 months **BLACKFRIDAY2025** |
+| ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -108,6 +113,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase (no code) |
+| 🧩 | [SuperDev Pro](https://superdevpro.com/?utm_source=bf) | One extension, 19 tools. Inspect CSS, edit text, change fonts, pick colors, extract images, test responsive designs, and more—built for designers & developers on Chrome and Firefox.| $120 OFF **$29 Lifetime Access** |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -128,6 +136,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
 | 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
+| 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 | 📸 | [Shotomatic](https://shotomatic.com?utm_source=tonybf) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -138,6 +147,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | ⭐ | [Wins](https://wins.cool?utm_source=tonybf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime Plan **BLACKFRIDAY2025** |
 | 💥 | [DockX](https://DockX.app) | Magic app that allows you to display any content in the Dock and Menu bar. | App Store **25% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
+| ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -180,6 +190,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
 | 📌 | [BlogToPin](https://blogtopin.com?utm_source=tonybf) | The best Pinterest Marketing Tool to grow your business on Pinterest. Automatically create Pins for your website (blog posts, eCommerce items, landing pages, etc), analyse your growth and make data-driven changes using Breakdowns. | 35% OFF annual plans for 1 year with code **BF2025** |
+| 💬 | [Ethos Reply](https://ethosreply.com) | Unlike automated engagement tools, Ethos Reply uses real people to represent your brand on Reddit and X. Our team actively monitors discussions 24/7 and writes genuine, on-brand responses that build trust, visibility, and long-term loyalty. | 25% OFF monthly plan for 1 year with code **BF2025** |
+| 📧 | [Maillayer](https://maillayer.com?utm_source=tonybf) | Mailchimp alternative, self-hosted and truly yours. | $180 OFF for lifetime. Get for $69 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -196,6 +208,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📊 | [Chartbrew](https://chartbrew.com/?utm_source=tonybf) | Track KPIs and improve decision-making with real-time dashboards and reports from all your data sources. Automate your reporting with scheduled snapshots, fully customizable reports, API access, AI assistant to help with gathering insigths, and more! | 20% OFF with code **BFCB2025** |
+| 🛒 | [OneCart](https://www.getonecart.com/?utm_source=tonybf) | Multi-channel ecommerce management SaaS: Sync inventory in real-time, process orders centrally, manage listings, and gain analytics across Shopee, Lazada, Amazon, TikTok Shop, Decathlon, Shopify, WooCommerce, and more. | 20% OFF Trader & Business Plans with code **BLACKFRIDAY2025**|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -219,7 +232,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🔄 | [How to Convert](https://howtoconvert.co) | Local file converter app for Mac, Windows & Linux. Do 3,969 video, image, audio, document and email file conversions and compressions with a desktop app. | 30% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -237,5 +250,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
+| 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
