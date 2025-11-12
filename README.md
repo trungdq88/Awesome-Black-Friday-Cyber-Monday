@@ -61,7 +61,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |
-
+|  🪣 | [BucketMate](https://bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 [⬆️ Go to Top](#table-of-contents)
 
 ### 💻 Tools & Services
