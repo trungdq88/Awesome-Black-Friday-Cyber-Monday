@@ -135,7 +135,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [LaunchFast](https://www.launchfa.st/) | Save countless hours with comprehensive SaaS starter kits in Next.js, SvelteKit and Astro, covering SEO, authentication, payments, documentation, analytics and more. |**BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
