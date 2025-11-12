@@ -229,7 +229,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🔄 | [How to Convert](https://howtoconvert.co) | Local file converter app for Mac, Windows & Linux. Do 3,969 video, image, audio, document and email file conversions and compressions with a desktop app. | 30% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
