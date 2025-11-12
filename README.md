@@ -310,6 +310,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🧠 | [Crack the Claude Code]([https://m.academy/courses/learn-claude-code/?utm_source=tonybf) | Get completely up to speed on Claude Code, the most powerful agentic coding tool currently on the market. 40+ atomic video lessons to quickly learn Claude Code from M.academy, the leader in simplified tech ed | $100 OFF now through Cyber Monday **NO PROMO NEEDED** |
 
 
 [⬆️ Go to Top](#table-of-contents)
