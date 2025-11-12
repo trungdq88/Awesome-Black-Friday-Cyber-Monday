@@ -129,7 +129,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 💬 | [Feedbackka](https://feedbackka.com) | The easiest way to collect, triage and action user feedback. Embed a beautiful widget with one line of code. Features: screenshot capture, mobile-responsive design, feedback dashboard with filtering/search, status management, CSV export, email notifications, workflow automation and integrations into Slack, Linear and other productivity tools. Your users submit feedback without creating accounts. | 60% OFF **BLACKFRIDAY2025** (Annual Plan) |
+| 💬 | [feedbakka](https://feedbakka.com) | The easiest way to collect, triage and action user feedback. Embed a beautiful widget with one line of code. Features: screenshot capture, mobile-responsive design, feedback dashboard with filtering/search, status management, CSV export, email notifications, workflow automation and integrations into Slack, Linear and other productivity tools. Your users submit feedback without creating accounts. | 60% OFF **BLACKFRIDAY2025** (Annual Plan) |
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
