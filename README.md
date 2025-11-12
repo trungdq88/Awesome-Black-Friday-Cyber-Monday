@@ -251,7 +251,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🟪 | [PostFlow](https://postflow.app?ref=tonybf)          | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **50% OFF** for 1st year, for monthly plan use **BF50MONTHLY** for annual plans use code **BF50YEARLY**          |
 | 🔄 | [PostSyncer](https://postsyncer.com) | AI-powered social media automation tool that helps you manage and sync your posts across multiple platforms. | 20% OFF for 12 months with code **TONYDEAL** |
-
+| 🔄 | [TypeSmart](https://typesm.art/?utm_source=tonybf) | Automatically share your X posts on LinkedIn and BlueSky. Also set custom repurposing rules for AI. | 42% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
