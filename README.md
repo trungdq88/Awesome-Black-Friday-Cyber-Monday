@@ -199,7 +199,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -286,6 +286,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 😴 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
+| 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
