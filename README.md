@@ -215,6 +215,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🟪 | [PostFlow](https://postflow.app?ref=tonybf)          | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **50% OFF** for 1st year with code **50BF**          |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
