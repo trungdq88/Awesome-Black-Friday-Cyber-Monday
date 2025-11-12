@@ -235,6 +235,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ⏩ | [ShipAhead](https://shipahe.ad) | Build your AI SaaS in days not months | **40% OFF** with code **BF2025** |
+| 🔥 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 
 
 [⬆️ Go to Top](#table-of-contents)
