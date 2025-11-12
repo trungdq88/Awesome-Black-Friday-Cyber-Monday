@@ -15,54 +15,57 @@ Don't forget to:
 
 Hi there! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on Twitter: https://x.com/tdinh_me
 
-| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF Premium Plan | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [CompressX](https://compressx.app) (macOS app) <br/> 🔥 30% OFF |
+| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF Premium Plan | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Compresto](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
 | --- | ------ | ------|
-| <a href="https://www.typingmind.com?utm_source=tonybf"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://compressx.app"><img src="https://i.ibb.co/7yjtyZw/com.jpg"></a> |
-| Your Personal AI Workspace.<br/>BLACKFRIDAY2025<br/><br/>Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY2025 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BF25<br/><br/>CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality |
+| <a href="https://www.typingmind.com?utm_source=tonybf"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="[https://compresto.app](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday)"><img src="https://image.social/get?url=compresto.app"></a> |
+| Your Personal AI Workspace.<br/>BLACKFRIDAY2025<br/><br/>Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY2025 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BFCM25<br/><br/>Compresto is a powerful video, image & PDF compression for macOS |
 
 
 ## Table of Contents
 
-- [👨‍💻 Developer Tools ](#-developer-tools)
-	- [💻 Developer macOS Apps (31)](#-developer-macos-apps)
-	- [💻 Tools & Services (51)](#-tools--services)
-- [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (23)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (44)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (29)](#-other-ai-tools)
-- [🌅 Design Tools (37)](#-design-tools)
-- [⌨️ Code Libraries (4)](#️-code-libraries)
-- [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (22)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (23)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (7)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (26)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (14)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (31)](#-marketing-tools)
-- [🔍 SEO Tools (23)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
-- [🌏 Social Media Tools (18)](#-social-media-tools)
-- [💸 Finance Tools (20)](#-finance-tools)
-- [🎛 Utility Tools (28)](#-utility-tools)
-- [💅 Boilerplates, Starter-Kit, Templates (44)](#-boilerplates-starter-kit-templates)
-- [🧩 Themes, Plugins (3)](#-themes-plugins)
-- [📚 Books ](#-books)
-	- [📗 Programming Books ](#-programming-books)
-		- [Web Dev & Design (11)](#web-dev--design)
-		- [Apps Development (Mobile/Desktop) (7)](#apps-development-mobiledesktop)
-		- [Backend Dev / Data Science (4)](#backend-dev--data-science)
-		- [Misc Programming Books (8)](#misc-programming-books)
-	- [📘 Startup & Career Books (4)](#-startup--career-books)
-	- [📕 Marketing Books (4)](#-marketing-books)
-- [📹 Courses ](#-courses)
-	- [💻 Programming Courses (23)](#-programming-courses)
-	- [🔒 Information Security Courses (7)](#-information-security-courses)
-	- [🎢 Career Courses (10)](#-career-courses)
-	- [📈 Marketing Courses (4)](#-marketing-courses)
-- [💪 Health and Fitness (10)](#-health-and-fitness)
-- [👨‍🎨 Miscellaneous (46)](#-miscellaneous)
+- [💵 Awesome Black Friday / Cyber Monday Deals - 2025 🤑](#-awesome-black-friday--cyber-monday-deals---2025-)
+	- [Sponsored Deals](#sponsored-deals)
+	- [Table of Contents](#table-of-contents)
+	- [👨‍💻 Developer Tools](#-developer-tools)
+		- [💻 Developer macOS Apps](#-developer-macos-apps)
+		- [💻 Tools \& Services](#-tools--services)
+	- [🤖 AI Tools](#-ai-tools)
+		- [💬 AI Chat UI](#-ai-chat-ui)
+		- [📖 AI Productivity \& Learning Tools](#-ai-productivity--learning-tools)
+		- [✨ Other AI tools](#-other-ai-tools)
+	- [🌅 Design Tools](#-design-tools)
+	- [⌨️ Code Libraries](#️-code-libraries)
+	- [🔥 Productivity](#-productivity)
+		- [🖥️ Productivity Desktop Apps](#️-productivity-desktop-apps)
+			- [Tasks, Organize, Planning](#tasks-organize-planning)
+			- [Window, Screen, Clipboard, Utilities](#window-screen-clipboard-utilities)
+			- [Time, Distraction, Focus](#time-distraction-focus)
+			- [Miscellaneous Productivity Apps](#miscellaneous-productivity-apps)
+		- [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
+		- [🛠️ Productivity Tools \& Services](#️-productivity-tools--services)
+	- [🌈 Marketing Tools](#-marketing-tools)
+	- [🔍 SEO Tools](#-seo-tools)
+	- [🚀 Startup SaaS/Tools](#-startup-saastools)
+	- [🌏 Social Media Tools](#-social-media-tools)
+	- [💸 Finance Tools](#-finance-tools)
+	- [🎛 Utility Tools](#-utility-tools)
+	- [💅 Boilerplates, Starter-Kit, Templates](#-boilerplates-starter-kit-templates)
+	- [🧩 Themes, Plugins](#-themes-plugins)
+	- [📚 Books](#-books)
+		- [📗 Programming Books](#-programming-books)
+			- [Web Dev \& Design](#web-dev--design)
+			- [Apps Development (Mobile/Desktop)](#apps-development-mobiledesktop)
+			- [Backend Dev / Data Science](#backend-dev--data-science)
+			- [Misc Programming Books](#misc-programming-books)
+		- [📘 Startup \& Career Books](#-startup--career-books)
+		- [📕 Marketing Books](#-marketing-books)
+	- [📹 Courses](#-courses)
+		- [💻 Programming Courses](#-programming-courses)
+		- [🔒 Information Security Courses](#-information-security-courses)
+		- [🎢 Career Courses](#-career-courses)
+		- [📈 Marketing Courses](#-marketing-courses)
+	- [💪 Health and Fitness](#-health-and-fitness)
+	- [👨‍🎨 Miscellaneous](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -71,6 +74,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
+|  ⭐ | [Compresto](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM25** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -137,7 +141,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| ⭐ | [Wins](https://wins.cool?utm_source=tonybf) | TMac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime Plan **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -161,6 +165,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🧠 | [Quick Capture - Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps  | 40% OFF Lifetime Plan |
 [⬆️ Go to Top](#table-of-contents)
 
 ### 🛠️ Productivity Tools & Services
@@ -345,6 +350,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 💡 | [YourFirstAiApp.com](https://yourfirstaiapp.com/?utm_source=gh-trungdq88) | For non-developers who want to build their own apps with AI. Learn a fast and highly effective workflow, create 4 real apps (Chrome ext, Telegram bot, 2 web apps) and by the end you'll feel confident to build anything you want. | 50% OFF with code **BLACKFRIDAY25** |
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 
 [⬆️ Go to Top](#table-of-contents)
