@@ -164,6 +164,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 | 📸 | [Shotomatic](https://shotomatic.com?utm_source=tonybf) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 | 🔖 | [Anybox](https://anybox.app) | Bookmarking app on macOS and iOS. | **30% OFF** on App Store |
+| 📥 | [Email Me](https://emailmeapp.net) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** on App Store |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
