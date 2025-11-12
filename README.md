@@ -64,6 +64,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🪣 | [BucketMate](https://bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 |  🐛 | [Sentry](https://sentry.io) |Find, automatically root cause, and fix software issues before users notice.  | Get $500 in Sentry credit with code **awesome-friday** |
 |  🗂️ | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 50% OFF with code **BLACKFRIDAY2025** |
+|  🌟 | [StarOrder](https://starorder.app) | GitHub Star collection and management tool. | 20% OFF in AppStore |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -93,6 +94,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=tonybf) | Quickly understand complex research papers with AI-powered explanations. | 45% OFF Lifetime ($49) |
 | ⚡ | [PDF Pals](https://pdfpals.com/?utm_source=tonybf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
+| 📒 | [NewWord](https://newword.app) | AI powered vocabulary notebook. Supports the vast majority of languages and can expand your personal dictionary with AI. | 20% OFF in AppStore |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -174,6 +176,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
 | 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
+| 🪐 | [OrbitRing](https://orbitring.app) | macOS quick Launcher like game weapon wheel. Supports quick launching apps, open websites, files, and folders. | 20% OFF in AppStore. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
