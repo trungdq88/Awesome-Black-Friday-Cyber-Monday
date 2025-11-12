@@ -84,6 +84,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔻 | [IsDown.app](https://isdown.app) | The status page aggregator that monitors all your critical dependencies in one place (AWS, GitHub, OpenAI, Stripe, +4,500 services). Never miss an outage again. Create your own Public or Private Status Page. | 25% OFF on Starter and Pro plans **BF2025** |
 | 🐛 | [Telebugs](https://telebugs.com/?utm_source=tonybf) | Self-hosted Sentry alternative for error tracking | 20% OFF with code **BF2025** |
 | ⌛ | [Crontap](https://crontap.com/) | Schedule recurring API calls to any service. | **40% off** with discount code **BF2025** |
+| 📊 | [Vemetric](https://vemetric.com/) | Simple, yet actionable
+Web & Product Analytics | **30% off** with discount code **BF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
