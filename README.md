@@ -76,6 +76,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
+| 🔍 | [Scrappa](https://scrappa.co) | Powerful web scraping API for developers. Extract structured data from Google Search, Google Maps, YouTube, reviews, and more. Already 33% cheaper than competitors, with more scrapers coming soon. | 40% OFF with code **BLACKFRIDAY40** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
