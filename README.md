@@ -202,7 +202,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🎥 | [Kliptory](https://kliptory.com/) |Discover Viral YouTube Videos & Track Your Competitors |**$39 instead of ~$699~ FOR BLACKFRIDAY* |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
