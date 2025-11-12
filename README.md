@@ -82,6 +82,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔻 | [IsDown.app](https://isdown.app) | The status page aggregator that monitors all your critical dependencies in one place (AWS, GitHub, OpenAI, Stripe, +4,500 services). Never miss an outage again. Create your own Public or Private Status Page. | 25% OFF on Starter and Pro plans **BF2025** |
 | 🐛 | [Telebugs](https://telebugs.com/?utm_source=tonybf) | Self-hosted Sentry alternative for error tracking | 20% OFF with code **BF2025** |
 | ⌛ | [Crontap](https://crontap.com/) | Schedule recurring API calls to any service. | **40% off** with discount code **BF2025** |
+| 🔖 | [Certificates.dev](https://certificates.dev/)  | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to **60% OFF** all mid & senior certifications + **Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase.** Offer ends Nov 18. |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
