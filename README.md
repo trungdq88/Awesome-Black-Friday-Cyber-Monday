@@ -282,6 +282,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
 | 🔍 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
 | 📧 | [Ninbox](https://ninbox.io) | A simple way to move newsletters out of your personal inbox to a clean, organized space made just for them. | **BF2025** for 20% off |
+| 🕷️ | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries easily. No monthly commitments. | **BLACKFRIDAY2025** for 50% off on Black Friday only |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
