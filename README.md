@@ -79,6 +79,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
+| 🎛 | [TheChat+](https://thechat.plus/?utm_source=tonybf) |GPT-5, Grok 4, Gemini 2.5 and Image Generation. | 20% OFF Forever **BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
