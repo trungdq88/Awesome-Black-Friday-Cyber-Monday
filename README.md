@@ -238,6 +238,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔍 | [AI SEO Tracker](https://aiseotracker.com/?utm_source=tonybf) | AI SEO tracking and analysis tool for LLM SEO. Track rankings, analyze competitors, and optimize content for AI search engines. Helps businesses appear in AI search results and citations. | 20% OFF with code **BF25** |
 | 🔗 | [LinkDR](https://linkdr.com/?utm_source=tonybf) | Backlink and authority-building SaaS platform. Automated link building through warm connection building and cold email marketing. Marketplace for buying quality backlinks and building domain authority. | 20% OFF with code **BF25** |
 | 🚀 | [GSCTool.com](https://www.gsctool.com/?utm_source=tonybf) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** |
+| 🔎 | [EasySEO.online](https://www.easyseo.online/lifetime?utm_source=tonydinh) | SEO audit tool that provides personalized actions to grow traffic, with a focus on AI SEO optimization and clear ROI. | 40% OFF Lifetime Deal with code **AWESOMETONY40** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
