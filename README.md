@@ -228,6 +228,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🚀 | [Affonso](https://affonso.io?utm_source=tonybf) | Grow Your SaaS with an Affiliate Program. All you need to launch and manage your affiliate program, with the tools that help you find affiliates who drive revenue. | 10% OFF with code **BLACKFRIDAY25** |
 | 💰 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** |
 
+| 💬 | [Comment Rocket](https://commentrocket.com) | AI Powered LinkedIN Comments that convert comments into sales. Get high paying business customers for your product without any sales pitch by Comment Rocket Chrome Extension. | 50% off the yearly plan (60,000 AI LinkedIn Comments). Coupon Code: **BF50** |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
