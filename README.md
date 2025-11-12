@@ -51,7 +51,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 	- [💸 Finance Tools](#-finance-tools)
 	- [🎛 Utility Tools](#-utility-tools)
 	- [💪 Health and Fitness](#-health-and-fitness)
-	- [👨‍🎨 Miscellaneous](#-miscellaneous)
+	- [🎯 Miscellaneous](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -217,7 +217,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 [⬆️ Go to Top](#table-of-contents)
 
-## 👨‍🎨 Miscellaneous
+## 🎯 Miscellaneous
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
