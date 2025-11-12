@@ -64,6 +64,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🪣 | [BucketMate](https://bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 |  🐛 | [Sentry](https://sentry.io) |Find, automatically root cause, and fix software issues before users notice.  | Get $500 in Sentry credit with code **awesome-friday** |
 |  🗂️ | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 50% OFF with code **BLACKFRIDAY2025** |
+|  🔍 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | 30% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -131,6 +132,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
+| 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
