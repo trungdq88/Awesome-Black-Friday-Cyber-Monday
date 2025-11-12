@@ -185,7 +185,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🔎 | [EasySEO.online](https://www.easyseo.online/lifetime?utm_source=tonydinh) | SEO audit tool that provides personalized actions to grow traffic, with a focus on AI SEO optimization and clear ROI. | 40% OFF Lifetime Deal with code **AWESOMETONY40** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
