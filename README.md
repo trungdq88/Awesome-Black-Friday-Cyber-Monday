@@ -214,6 +214,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🔄 | [TypeSmart](https://typesm.art/?utm_source=tonybf) | Automatically share your X posts on LinkedIn and BlueSky. Also set custom repurposing rules for AI. | 42% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
