@@ -67,6 +67,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🐛 | [Sentry](https://sentry.io) |Find, automatically root cause, and fix software issues before users notice.  | Get $500 in Sentry credit with code **awesome-friday** |
 |  🗂️ | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 50% OFF with code **BLACKFRIDAY2025** |
 |  🔍 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | 30% OFF with code **BLACKFRIDAY2025** |
+|  🛠️ | [SelfDevKit](https://selfdevkit.com) | 50+ essential developer tools in one desktop app. Built with Rust, works offline, privacy-focused. | 50% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -76,6 +77,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
+| ☁️ | [Scale to Zero AWS](https://scaletozeroaws.com) | Complete AWS serverless kit with frontend and backend. Learn to build cost-effective serverless applications that scale to zero. | 50% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
