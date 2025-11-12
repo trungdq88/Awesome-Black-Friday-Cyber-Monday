@@ -127,6 +127,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -135,6 +136,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ⭐ | [Wins](https://wins.cool?utm_source=tonybf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime Plan **BLACKFRIDAY2025** |
+| 💥 | [DockX](https://DockX.app) | Magic app that allows you to display any content in the Dock and Menu bar. | App Store **25% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 
 [⬆️ Go to Top](#table-of-contents)
 
