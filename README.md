@@ -96,7 +96,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=tonybf) | Quickly understand complex research papers with AI-powered explanations. | 45% OFF Lifetime ($49) |
 | ⚡ | [PDF Pals](https://pdfpals.com/?utm_source=tonybf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
-| ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts with SuperRephrase™ Mode. Multiple writing profiles for every platform. | 40% OFF with code **BLACKFRIDAY2025** |
+| ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts. | 40% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
