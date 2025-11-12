@@ -174,8 +174,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-| 🧠 | [NameKnow.com](https://nameknow.com?utm_source=awesome-black-friday-github) | Curated Domain Name Marketplace | 20% OFF **BLACKFRIDAY314** |
 
 [⬆️ Go to Top](#table-of-contents)
 
