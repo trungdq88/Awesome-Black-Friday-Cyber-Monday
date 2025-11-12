@@ -99,6 +99,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🤖 | [SimpleChat](https://simplechat.app/?utm_source=tonybf) | Chat with advanced AI models, Generate and Edit Images - all in a single simple chat interface | 40% OFF Lifetime **BF2025** |
 | 😘 | [MagicBuddy](https://magicbuddy.ai/?utm_source=tonybf) | Best AI Chatbot on Telegram | 25% OFF **BF25** |
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025**
+| 💎 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25**
 
 ⬆️ | [Go to Top](#table-of-contents)
 
