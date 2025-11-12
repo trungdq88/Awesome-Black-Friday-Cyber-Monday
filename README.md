@@ -204,6 +204,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📌 | [BlogToPin](https://blogtopin.com?utm_source=tonybf) | The best Pinterest Marketing Tool to grow your business on Pinterest. Automatically create Pins for your website (blog posts, eCommerce items, landing pages, etc), analyse your growth and make data-driven changes using Breakdowns. | 35% OFF annual plans for 1 year with code **BF2025** |
 | 💬 | [Ethos Reply](https://ethosreply.com) | Unlike automated engagement tools, Ethos Reply uses real people to represent your brand on Reddit and X. Our team actively monitors discussions 24/7 and writes genuine, on-brand responses that build trust, visibility, and long-term loyalty. | 25% OFF monthly plan for 1 year with code **BF2025** |
 | 📧 | [Maillayer](https://maillayer.com?utm_source=tonybf) | Mailchimp alternative, self-hosted and truly yours. | $180 OFF for lifetime. Get for $69 |
+| 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -225,6 +226,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📊 | [Chartbrew](https://chartbrew.com/?utm_source=tonybf) | Track KPIs and improve decision-making with real-time dashboards and reports from all your data sources. Automate your reporting with scheduled snapshots, fully customizable reports, API access, AI assistant to help with gathering insigths, and more! | 20% OFF with code **BFCB2025** |
 | 🛒 | [OneCart](https://www.getonecart.com/?utm_source=tonybf) | Multi-channel ecommerce management SaaS: Sync inventory in real-time, process orders centrally, manage listings, and gain analytics across Shopee, Lazada, Amazon, TikTok Shop, Decathlon, Shopify, WooCommerce, and more. | 20% OFF Trader & Business Plans with code **BLACKFRIDAY2025**|
 | 📊 | [ZodQR](https://zodqr.com/?utm_source=tonybf) | Create, share and track unlimited dynamic QR codes (URL, vCard, link-in-bio, file, PDF, MP3,...) for free. Unlock Pro features for teams: advanced analytics, team work in workspace, campaign, bulk generate, API and integration for $29/month or $290/year. | 30% OFF with code **BLACKFRIDAY2025** |
+| 🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY25**
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
