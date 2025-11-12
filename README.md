@@ -218,7 +218,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📧 | [Maillayer](https://maillayer.com?utm_source=tonybf) | Mailchimp alternative, self-hosted and truly yours. | $180 OFF for lifetime. Get for $69 |
 | 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans)
 | 📅 | [Mixpost](https://mixpost.app?utm_source=tonybf) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | 20% OFF — automatically applied |
-
+| 🚀 | [Affonso](https://affonso.io?utm_source=tonybf) | Grow Your SaaS with an Affiliate Program. All you need to launch and manage your affiliate program, with the tools that help you find affiliates who drive revenue. | 10% OFF with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
