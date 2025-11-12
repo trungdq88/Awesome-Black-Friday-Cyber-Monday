@@ -244,8 +244,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-| -- | ---| ------ | ------ |
 | 🧠 | [(Lexington Themes Full Access](https://www.lexingtonthemes.com) | Premium multipage Astro and Tailwind CSS themes. For freelancers, developers, businesses, and personal use. Beautifully crafted with Astro and Tailwind CSS — Simple & easy to customise. | 40% OFF Full Access **LEX40** |
 
 
