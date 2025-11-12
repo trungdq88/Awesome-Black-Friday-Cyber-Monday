@@ -169,7 +169,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
+| 🔖  | [Bookmark Manager](https://devapt.com/bookmark-manager?utm_source=ghbf) | Spotlight search for your bookmarks. Press Ctrl+Shift+K anywhere to instantly find any bookmark—even with typos.        | 30% OFF with code **30BF2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
