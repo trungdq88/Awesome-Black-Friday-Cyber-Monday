@@ -79,8 +79,11 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
+| 🔻 | [IsDown.app](https://isdown.app) | The status page aggregator that monitors all your critical dependencies in one place (AWS, GitHub, OpenAI, Stripe, +4,500 services). Never miss an outage again. Create your own Public or Private Status Page. | 25% OFF on Starter and Pro plans **BF2025** |
 | 🐛 | [Telebugs](https://telebugs.com/?utm_source=tonybf) | Self-hosted Sentry alternative for error tracking | 20% OFF with code **BF2025** |
-| ⭐ |[UptimeObserver](https://uptimeobserver.com) | Monitor your website uptime and performance with real-time alerts and detailed analytics. Get instant notifications when your site goes down. | **30% OFF** first year with code BFCM2025. Nov 17 - Dec 2nd |
+| ⌛ | [Crontap](https://crontap.com/) | Schedule recurring API calls to any service. | **40% off** with discount code **BF2025** |
+| ⭐ | [UptimeObserver](https://uptimeobserver.com) | Monitor your website uptime and performance with real-time alerts and detailed analytics. Get instant notifications when your site goes down. | **30% OFF** first year with code BFCM2025. Nov 17 - Dec 2nd |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -106,6 +109,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⚡ | [PDF Pals](https://pdfpals.com/?utm_source=tonybf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
 | 🐘 | [Elephas](https://elephas.app/pricing?utm_source=tonybf) | Your AI Powered Knowledge Assistant - Unlimited documents and integrations (including Apple Notes) | 20% OFF on all Lifetime Plans with code **BFCM25** |
 | 👨🏻‍🏫 | [MagicSlides](https://magicslides.app/?utm_source=tonybf) | Instantly create PPT using AI. Native, fast and respect your privacy. | 25% OFF with code **BFCM25** |
+| 🗺️ | [Heuristica](https://www.heuristi.ca/?utm_source=tonybf) | All-in-One Learning Platform using Concept Maps, Flashcards, AI Chats, YouTube summaries, and more | **30% OFF Forever** with code **BFCM25** |
+| ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts. | 40% OFF with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -115,6 +120,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [CrawlChat](https://crawlchat.app/?utm_source=tonybf) | Power up your tech documentation with Ask AI that can answer your users and community queries instantly on your website, Discord server, Slack channel, MCP, or API! | 50% OFF all plans for first 6 months **BLACKFRIDAY2025** |
 | ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
 | 📊 | [GenPPT](https://genppt.com/?utm_source=tonybf) | AI-powered presentation generation tool. Create pitch decks and presentations using templates and AI. Turn ideas into polished slides quickly. | 20% OFF with code **BF25** |
+| 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -151,6 +157,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 | 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
 | 📸 | [Shotomatic](https://shotomatic.com?utm_source=tonybf) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
+| 🔖 | [Anybox](https://anybox.app) | Bookmarking app on macOS and iOS. | **30% OFF** on App Store |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -161,6 +169,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⭐ | [Wins](https://wins.cool?utm_source=tonybf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime Plan **BLACKFRIDAY2025** |
 | 💥 | [DockX](https://DockX.app) | Magic app that allows you to display any content in the Dock and Menu bar. | App Store **25% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 | ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BF25** |
+| 📁 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick look folders and archive files on macOS. | **30% OFF** with discount code **BF2025** at checkout |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -177,6 +187,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
+| 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -205,12 +217,16 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📌 | [BlogToPin](https://blogtopin.com?utm_source=tonybf) | The best Pinterest Marketing Tool to grow your business on Pinterest. Automatically create Pins for your website (blog posts, eCommerce items, landing pages, etc), analyse your growth and make data-driven changes using Breakdowns. | 35% OFF annual plans for 1 year with code **BF2025** |
 | 💬 | [Ethos Reply](https://ethosreply.com) | Unlike automated engagement tools, Ethos Reply uses real people to represent your brand on Reddit and X. Our team actively monitors discussions 24/7 and writes genuine, on-brand responses that build trust, visibility, and long-term loyalty. | 25% OFF monthly plan for 1 year with code **BF2025** |
 | 📧 | [Maillayer](https://maillayer.com?utm_source=tonybf) | Mailchimp alternative, self-hosted and truly yours. | $180 OFF for lifetime. Get for $69 |
+| 🚀 | [Redreach](https://redreach.ai) | Reddit Marketing Tool: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product, send automated DMs and get more sales. | 30% OFF with code **BF25** (on all subscription plans)
+| 📅 | [Mixpost](https://mixpost.app?utm_source=tonybf) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | 20% OFF — automatically applied |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🔍 | [SEOPro AI](https://seoproai.co/) | Grow organic traffic on autopilot. Get ranked in ChatGPT, Gemini and Google. Publish blog posts, get backlinks, and index on search engines automatically. | 30% OFF on All plans for **Lifetime** with code **BLACKFRIDAY2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🔍 | [AI SEO Tracker](https://aiseotracker.com/?utm_source=tonybf) | AI SEO tracking and analysis tool for LLM SEO. Track rankings, analyze competitors, and optimize content for AI search engines. Helps businesses appear in AI search results and citations. | 20% OFF with code **BF25** |
 | 🔗 | [LinkDR](https://linkdr.com/?utm_source=tonybf) | Backlink and authority-building SaaS platform. Automated link building through warm connection building and cold email marketing. Marketplace for buying quality backlinks and building domain authority. | 20% OFF with code **BF25** |
@@ -225,6 +241,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📊 | [Chartbrew](https://chartbrew.com/?utm_source=tonybf) | Track KPIs and improve decision-making with real-time dashboards and reports from all your data sources. Automate your reporting with scheduled snapshots, fully customizable reports, API access, AI assistant to help with gathering insigths, and more! | 20% OFF with code **BFCB2025** |
 | 🛒 | [OneCart](https://www.getonecart.com/?utm_source=tonybf) | Multi-channel ecommerce management SaaS: Sync inventory in real-time, process orders centrally, manage listings, and gain analytics across Shopee, Lazada, Amazon, TikTok Shop, Decathlon, Shopify, WooCommerce, and more. | 20% OFF Trader & Business Plans with code **BLACKFRIDAY2025**|
 | 📊 | [ZodQR](https://zodqr.com/?utm_source=tonybf) | Create, share and track unlimited dynamic QR codes (URL, vCard, link-in-bio, file, PDF, MP3,...) for free. Unlock Pro features for teams: advanced analytics, team work in workspace, campaign, bulk generate, API and integration for $29/month or $290/year. | 30% OFF with code **BLACKFRIDAY2025** |
+| 🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY25**
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -233,6 +251,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🟪 | [PostFlow](https://postflow.app?ref=tonybf)          | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **50% OFF** for 1st year, for monthly plan use **BF50MONTHLY** for annual plans use code **BF50YEARLY**          |
+| 🔄 | [PostSyncer](https://postsyncer.com) | AI-powered social media automation tool that helps you manage and sync your posts across multiple platforms. | 20% OFF for 12 months with code **TONYDEAL** |
+| 🔄 | [TypeSmart](https://typesm.art/?utm_source=tonybf) | Automatically share your X posts on LinkedIn and BlueSky. Also set custom repurposing rules for AI. | 42% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -250,6 +270,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🔄 | [How to Convert](https://howtoconvert.co) | Local file converter app for Mac, Windows & Linux. Do 3,969 video, image, audio, document and email file conversions and compressions with a desktop app. | 30% OFF with code **BLACKFRIDAY** |
 | ⭐ | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
+| 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
+| 🔍 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
+| 📧 | [Ninbox](https://ninbox.io) | A simple way to move newsletters out of your personal inbox to a clean, organized space made just for them. | **BF2025** for 20% off |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
