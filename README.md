@@ -80,6 +80,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
+| ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -88,6 +89,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=tonybf) | Quickly understand complex research papers with AI-powered explanations. | 45% OFF Lifetime ($49) |
+| ⚡ | [PDF Pals](https://pdfpals.com/?utm_source=tonybf) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 51% OFF with code **BFCM25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
