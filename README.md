@@ -156,7 +156,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
