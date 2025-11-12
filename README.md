@@ -150,6 +150,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ### 📱 Productivity Mobile Apps
@@ -157,7 +158,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-| 🧠 | [Quick Capture - Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps  | 40% OFF Lifetime Plan |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ### 🛠️ Productivity Tools & Services
@@ -165,6 +166,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌈 Marketing Tools
@@ -174,6 +176,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🧠 | [NameKnow.com](https://nameknow.com?utm_source=awesome-black-friday-github) | Curated Domain Name Marketplace | 20% OFF **BLACKFRIDAY314** |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
@@ -197,6 +200,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💸 Finance Tools
@@ -214,130 +218,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
-
-
-## 💅 Boilerplates, Starter-Kit, Templates
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| ⏩ | [ShipAhead](https://shipahe.ad) | Build your AI SaaS in days not months | **40% OFF** with code **BF2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-## 🧩 Themes, Plugins
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-## 📚 Books
-
-### 📗 Programming Books
-
-#### Web Dev & Design
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-[⬆️ Go to Top](#table-of-contents)
-
-#### Apps Development (Mobile/Desktop)
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-[⬆️ Go to Top](#table-of-contents)
-
-
-#### Backend Dev / Data Science
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-[⬆️ Go to Top](#table-of-contents)
-
-
-#### Misc Programming Books
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-[⬆️ Go to Top](#table-of-contents)
-
-### 📘 Startup & Career Books
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-### 📕 Marketing Books
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-[⬆️ Go to Top](#table-of-contents)
-
-## 📹 Courses
-
-### 💻 Programming Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-
-### 🔒 Information Security Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-### 🎢 Career Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-### 📈 Marketing Courses
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
-
-## 💪 Health and Fitness
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-
-[⬆️ Go to Top](#table-of-contents)
-
 
 ## 👨‍🎨 Miscellaneous
 
