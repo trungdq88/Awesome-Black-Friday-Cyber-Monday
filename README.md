@@ -130,7 +130,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
-| 🧠 | [feedbakka](https://feedbakka.com) | The easiest way to collect, triage and action user feedback. Embed a beautiful widget with one line of code. Features: screenshot capture, mobile-responsive design, feedback dashboard with filtering/search, status management, CSV export, email notifications, workflow automation and integrations into Slack, Linear and other productivity tools. Your users submit feedback without creating accounts. | 60% OFF **BLACKFRIDAY2025** (Annual Plan) |
+
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -169,6 +169,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🧠 | [feedbakka](https://feedbakka.com) | The easiest way to collect, triage and action user feedback. Embed a beautiful widget with one line of code. Features: screenshot capture, mobile-responsive design, feedback dashboard with filtering/search, status management, CSV export, email notifications, workflow automation and integrations into Slack, Linear and other productivity tools. Your users submit feedback without creating accounts. | 60% OFF **BLACKFRIDAY2025** (Annual Plan) |
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌈 Marketing Tools
