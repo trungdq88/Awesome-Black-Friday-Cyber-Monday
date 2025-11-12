@@ -161,6 +161,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [(New Row Template) TypingMind](https://www.typingmind.com/?utm_source=tonybf) | The best chat frontend for LLMs: ChatGPT, Claude, Gemini. Use with your API key, no subscription. Multi-model chat, threads, MCPs, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🧠 | [Quick Capture - Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps  | 40% OFF Lifetime Plan |
 [⬆️ Go to Top](#table-of-contents)
 
 ### 🛠️ Productivity Tools & Services
