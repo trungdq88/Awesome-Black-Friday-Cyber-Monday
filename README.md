@@ -86,7 +86,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🪄 | [Wandpen](https://wandpen.com/?utm_source=tonybf) | Distraction-free Grammarly alternative for Chrome with BYOK plan. | $10 OFF Lifetime Plan ($19) **BLACKFRIDAY2025** |
 | 📚 | [SpatialRead](https://spatialread.com/?utm_source=tonybf) | Quickly understand complex research papers with AI-powered explanations. | 45% OFF Lifetime ($49) |
 
@@ -95,7 +94,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🧠 | [CrawlChat](https://crawlchat.app/?utm_source=tonybf) | Power up your tech documentation with Ask AI that can answer your users and community queries instantly on your website, Discord server, Slack channel, MCP, or API! | 50% OFF all plans for first 6 months **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -105,7 +103,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -144,7 +141,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -235,7 +231,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 
