@@ -1,7 +1,7 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2025 🤑
 
 ## What's new in 2025?
-- ⭐ **High quality curated deals only**: All deals in this repo are carefully review by me (Tony Dinh) with help from my brother (Hieu Dinh). We only pick the most legit and high quality apps, no half-finished, vibe-coded, or AI slops.
+- ⭐ **High quality curated deals only**: All deals in this repo are carefully review by me (Tony) with help from my brother (Hieu Dinh). We only pick the most high quality apps, no half-finish vibe-coded, no slops.
 - ⭐ **Only software. No courses, books, boilerplates, etc.** This year, we will only collect software and apps, this is solely just to save our time in reviewing the deals and focusing more on what we love: cool software products.
 
 Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/1618).
@@ -106,6 +106,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+| 🖥️ | [Screen Canvas for Apple TV](https://apps.apple.com/app/id1234567890) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | 50% OFF lifetime purchase | 2025-12-01 |
+
 [⬆️ Go to Top](#table-of-contents)
 
 
@@ -126,6 +128,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🗂️ | [Meeting Menu](https://meetingmenu.app) | Manage, organize, and execute perfect meetings effortlessly from your Mac menu bar. | **50% OFF** - One time purchase!|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -150,7 +153,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
 [⬆️ Go to Top](#table-of-contents)
 
 ### 📱 Productivity Mobile Apps
@@ -158,7 +160,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
+| 🧠 | [Quick Capture - Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps  | 40% OFF Lifetime Plan |
 [⬆️ Go to Top](#table-of-contents)
 
 ### 🛠️ Productivity Tools & Services
@@ -166,7 +168,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🌈 Marketing Tools
@@ -176,7 +177,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 | 🧠 | [NameKnow.com](https://nameknow.com?utm_source=awesome-black-friday-github) | Curated Domain Name Marketplace | 20% OFF **BLACKFRIDAY314** |
-
 [⬆️ Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
@@ -200,7 +200,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
 [⬆️ Go to Top](#table-of-contents)
 
 ## 💸 Finance Tools
@@ -218,6 +217,132 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
 [⬆️ Go to Top](#table-of-contents)
+
+
+## 💅 Boilerplates, Starter-Kit, Templates
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| ⏩ | [ShipAhead](https://shipahe.ad) | Build your AI SaaS in days not months | **40% OFF** with code **BF2025** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 🧩 Themes, Plugins
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 📚 Books
+
+### 📗 Programming Books
+
+#### Web Dev & Design
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+[⬆️ Go to Top](#table-of-contents)
+
+#### Apps Development (Mobile/Desktop)
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+[⬆️ Go to Top](#table-of-contents)
+
+
+#### Backend Dev / Data Science
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+[⬆️ Go to Top](#table-of-contents)
+
+
+#### Misc Programming Books
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+[⬆️ Go to Top](#table-of-contents)
+
+### 📘 Startup & Career Books
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+### 📕 Marketing Books
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+[⬆️ Go to Top](#table-of-contents)
+
+## 📹 Courses
+
+### 💻 Programming Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+
+### 🔒 Information Security Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+### 🎢 Career Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+### 📈 Marketing Courses
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
+
+## 💪 Health and Fitness
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 😴 | [Sleep Sounds + White Noise for Apple TV](https://apps.apple.com/app/id1234567890) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
+| 🟣 | [Mood Lights](https://apps.apple.com/app/id9876543210) | Make your TV a mood lamp — transform your space with the Mood Lights Apple TV app, offering endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% OFF lifetime purchase | 2025-12-01 |
+
+
+[⬆️ Go to Top](#table-of-contents)
+
 
 ## 👨‍🎨 Miscellaneous
 
