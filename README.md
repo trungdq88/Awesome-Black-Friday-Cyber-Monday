@@ -112,6 +112,7 @@ Total deals: 290
 | 📧 | [DMARCwise](https://dmarcwise.io/?ref=awesomebf) | Simple DMARC monitoring and analysis tool to protect your domain from email spoofing. | 30% OFF on all annual plans with code **BF2024** |
 | 📧 | [Shootmail](https://shootmail.app) | Notion-like email builder with pre-built beautiful email templates. Send mails using the SDK with your favourite ESP like Resend, Sendgrid, AWS SES, Zoho, Postmark| **50% OFF** on lifetime access with code **50POFF** |
 | 🛠️ | [Composio](https://composio.dev) | Integration platform for AI Agents & LLM Apps - connect over 200+ tools. | **75% OFF** for three months with code **BF2024** |
+| ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -328,6 +329,7 @@ Total deals: 290
 |  ⭐️ | [Krumzi](https://krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 |  👨‍💻 | [OpenAlternative](https://openalternative.co) | A collection of the best Open Source Alternatives to everyday SaaS products. | 30% OFF of all advertising options with code **BLACKFRIDAY24** |
 |  🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch, Get Exposure and First Sales. | 20% OFF Pro Launches with the code **BLACKFRIDAY2024**. *Limited to 20 first products.* 👨‍🚀
+|  ✍️ | [Semantic Pen](https://www.semanticpen.com/) | AI-powered content writer that helps you create high-quality, SEO-optimized content for blogs, marketing, and more. | 20% OFF with code **20BF2025** |
 
 
 [⬆️ Go to Top](#table-of-contents)
