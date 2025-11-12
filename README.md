@@ -126,7 +126,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase (no code) |
 | 🧩 | [SuperDev Pro](https://superdevpro.com/?utm_source=bf) | One extension, 19 tools. Inspect CSS, edit text, change fonts, pick colors, extract images, test responsive designs, and more—built for designers & developers on Chrome and Firefox.| $120 OFF **$29 Lifetime Access** |
-| 💬 | [Mockly](https://www.getmockly.com/?utm_source=bf) | Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription | 
+| 💬 | [Mockly](https://www.getmockly.com/?utm_source=bf) | Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription |
+| 📱 | [Sleek](https://sleek.design/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2025&utm_content=awesome-bfcm-list) | Generate mobile app mockups in minutes using AI. Export to Figma, React, or HTML. | 30% OFF **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
