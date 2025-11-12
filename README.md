@@ -194,6 +194,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🔍 | [SEOPro AI](https://seoproai.co/) | Grow organic traffic on autopilot. Get ranked in ChatGPT, Gemini and Google. Publish blog posts, get backlinks, and index on search engines automatically. | 30% OFF on All plans for **Lifetime** with code **BLACKFRIDAY2025** |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
