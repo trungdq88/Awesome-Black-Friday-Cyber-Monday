@@ -74,6 +74,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🥤 | [Cozy Watch](https://cozywatch.com) |     Focus without missing GitHub updates     | $4 off with  **BLACKFRIDAY** |
 |  ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | **30% OFF any plan** for new customers only (no coupon code needed) | 2025-12-07 |
+| 🔑 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -107,6 +108,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎯 | [Geekflare Connect](https://geekflare.com/ai/connect/?utm_source=tonybf) | BYOK AI workspace for business to chat with 40+ models, share projects, prompts and chats to collaborate. | 50% OFF for 12 months with **BF25GF** |
 | 🥇 | [120 AI Chat](https://120.dev/120-ai-chat?utm_source=tonybf) | The *ONLY* native AI Chat app that lets you chat and compare 500+ models in parallel at buttery smooth performance (120fps) on Mac and Windows. | 40% OFF with code **BLKFRI25** |
 | 💎 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25**
+| 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -130,7 +132,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [LocalClip](https://localclip.app/) | Turn long videos into viral clips, offline on your machine. | **60% OFF Lifetime License** with code **BLACKFRIDAY25** |
 | 🚀 | [Git Digest](https://gitdigest.ai/?utm_source=tonybf) | Ship faster with automated code reports. Get daily summaries of your GitHub repos via email or Slack, automatically categorized and analyzed for impact. | 40% OFF with code **BLACKFRIDAY2025** |
 | 📝 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
-
+|  | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -219,6 +221,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
 | 🌧️ | [Rainaissance](https://rainaissance.app/) | A beautiful rain simulation on your Mac with wonderful splashes and relaxing rain sounds. It works in fullscreen, on all your monitors, and is highly customizable. Runs on your GPU using metal shaders. macOS only. | **39% OFF** one time purchase - auto applied at checkout |
+| ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -336,6 +339,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🏞️ | [Simple Photo Gallery](https://simple.photo/) | Create Beautiful Photo Galleries in Minutes | 50% OFF with code *BF2025* |
 | 🗂️ | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | **NOTIONBACKUPS25** 25% off all annual plans |
 | 🕷️ | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries easily. No monthly commitments. | **BLACKFRIDAY2025** for 50% off on Black Friday only |
+| 🗜️ | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025**, Nov 20 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
