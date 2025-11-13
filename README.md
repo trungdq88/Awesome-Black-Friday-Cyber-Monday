@@ -73,6 +73,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [Promptlight](https://promptlight.app?utm_source=tonybf) | Spotlight-like launcher for your Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 |  🥤 | [Cozy Watch](https://cozywatch.com) |     Focus without missing GitHub updates     | $4 off with  **BLACKFRIDAY** |
 |  ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
+| 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | **30% OFF any plan** for new customers only (no coupon code needed) | 2025-12-07 |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ### 💻 Tools & Services
