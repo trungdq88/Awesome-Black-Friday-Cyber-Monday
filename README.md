@@ -1,6 +1,6 @@
 # 💵 Awesome Black Friday / Cyber Monday Deals - 2025 🤑
 
-## What's new in 2025?
+## What's new in 2025 aaa?
 - ⭐ **High quality curated deals only**: All deals in this repo are carefully review by me (Tony Dinh) with help from my brother (Hieu Dinh). We only pick the most legit and high quality apps, no half-finished, vibe-coded, or AI slops.
 - ⭐ **Only software, apps, or SaaS. No courses, books, boilerplates, etc.** This is to save our time in reviewing the deals and focusing more on what we love: cool software products.
 - ⭐ **I’ll pick the best 10 indie products** and feature them in [my personal newsletter](https://news.tonydinh.com/) with 15,000+
