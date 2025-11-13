@@ -359,6 +359,7 @@ Total deals: 166
 | 😴 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** |
 | 💪 | [GetJacked](https://getjacked.app/download?utm_source=tonybf) | GetJacked is a science based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
+| 📏 | [GrowthKit](https://apps.apple.com/us/app/track-height-weight-growthkit/id6740914430) | Track height, weight, and BMI for your whole family. Beautiful charts, growth velocity tracking, and progress monitoring. Privacy-first with data stored on your device. | **60% OFF** Lifetime Pro Plan - Discount automatically applied in app |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
