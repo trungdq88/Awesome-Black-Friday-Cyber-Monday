@@ -141,6 +141,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💬 | [Mockly](https://www.getmockly.com/?utm_source=bf) | Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription | 
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** |
 | 📱 | [Sleek](https://sleek.design/?promo=BLACKFRIDAY2025&utm_source=github&utm_medium=referral&utm_campaign=black-friday-2025&utm_content=awesome-bfcm-list) | Generate mobile app mockups in minutes using AI. Export to Figma, React, or HTML. | 30% OFF **BLACKFRIDAY2025** |
+| ⓢ  | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF (automatically applied)|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
