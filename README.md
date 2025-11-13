@@ -71,7 +71,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🛠️ | [SelfDevKit](https://selfdevkit.com) | 50+ essential developer tools in one desktop app. Built with Rust, works offline, privacy-focused. | 50% OFF with code **BLACKFRIDAY2025** |
 |  ☁️ | [DNSDeck](https://apps.apple.com/us/app/dnsdeck-manage-dns-zones/id6753925998?utm_source=BF-2025) | A powerful macOS DNS zone management client for CloudFlare and AWS Route 53. | ****50% OFF**** ($4.99) one-time purchase via the App Store |
 | 📸 | [Promptlight](https://promptlight.app?utm_source=tonybf) | Spotlight-like launcher for your Prompts. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
-
+| 🔑 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -98,7 +98,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  |
 | 🤖 | [SimpleChat](https://simplechat.app/?utm_source=tonybf) | Chat with advanced AI models, Generate and Edit Images - all in a single simple chat interface | 40% OFF Lifetime **BF2025** |
 | 😘 | [MagicBuddy](https://magicbuddy.ai/?utm_source=tonybf) | Best AI Chatbot on Telegram | 25% OFF **BF25** |
-| 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025**
+| 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -114,6 +114,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗺️ | [Heuristica](https://www.heuristi.ca/?utm_source=tonybf) | All-in-One Learning Platform using Concept Maps, Flashcards, AI Chats, YouTube summaries, and more | **30% OFF Forever** with code **BFCM25** |
 | ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts. | 40% OFF with code **BLACKFRIDAY2025** |
 | 🤑 | [UseArticle](https://usearticle.com/?utm_source=tonybf) | Turn Any Product URL Into Profitable Affiliate Website | 70% OFF with code **BLACKFRIDAY** |
+|  | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -185,6 +186,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
+| ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -282,6 +284,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
 | 🔍 | [FileMinutes](https://www.fileminutes.com) | A Better Way to Find Files on Your Mac | 50% OFF with code **BF2025** |
 | 📧 | [Ninbox](https://ninbox.io) | A simple way to move newsletters out of your personal inbox to a clean, organized space made just for them. | **BF2025** for 20% off |
+| 🗜️ | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025**, Nov 20 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
