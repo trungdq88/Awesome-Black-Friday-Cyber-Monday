@@ -123,6 +123,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌙 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2025) | Learn Go with AI mentor support. Designed for experienced developers. | 50% OFF with code **BLACKFRIDAY** |
 | 🤝 | [MindPal](https://mindpal.space/black-friday-cyber-monday-2025) | Turn your domain expertise into sharable AI agents & multi-agent workflows with no code. Trusted by 50k+ experts to productize knowledge for teams, clients, and audience. | 60% OFF first year with code **BLACKFRIDAY25** |
 | 🧠 | [HyperWhisper](https://hyperwhisper.com/?utm_source=tonybf) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF Lifetime **BLACKFRIDAY2025** |
+| 🎬 | [LocalClip](https://localclip.app/) | Turn long videos into viral clips, offline on your machine. | **60% OFF Lifetime License** with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
