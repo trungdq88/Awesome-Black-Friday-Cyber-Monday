@@ -127,6 +127,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [LocalClip](https://localclip.app/) | Turn long videos into viral clips, offline on your machine. | **60% OFF Lifetime License** with code **BLACKFRIDAY25** |
 | 🚀 | [Git Digest](https://gitdigest.ai/?utm_source=tonybf) | Ship faster with automated code reports. Get daily summaries of your GitHub repos via email or Slack, automatically categorized and analyzed for impact. | 40% OFF with code **BLACKFRIDAY2025** |
 | 📝 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
+| 🧠 | [AI Security - Professional Course](https://www.practical-devsecops.com/certified-ai-security-professional) | AI Security - Professional Course, hands-on training with LLM Top 10, MITRE Atlas Framework, AI attack and defend techniques, and more | 15% off ($150 USD), auto-applied at checkout<br>(Enroll Now and Study Later)<br>Deal ends: 7th December 2025 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
