@@ -96,7 +96,7 @@ Total deals: 180
 | 🔥 | [UnwrapEmail](https://unwrap.email/?ref=tonybf) | Blazing fast enterprise grade email validation API with real-time validation, bulk processing, SMTP & DNS verification & many more! | **25% off forever** with discount code **BFCM2025** |
 | ✉️ | [FormBold](https://formbold.com/pricing) | Form backend for websites — send submissions to Email, Slack, Notion, Sheets, and more. Easy Jamstack integrations. | **40% OFF** Yearly Plans — code `BLFCM2025` |
 | ⚡ | [Static.run](https://static.run/pricing) | Fast static hosting with instant SSL, deploys, and built-in analytics — optimised for frontend apps. | **30% OFF** Yearly Plans — code `BLFCM2025` |
-| 🖼️ | [img.pro](https://img.pro) | Image optimization API. Upload any format (HEIC, AVIF, WebP), get responsive variants automatically. Zero bandwidth fees. Global delivery. | **50% OFF** first year with code **BFCM25** |
+| 🌄 | [img.pro](https://img.pro) | Image optimization API. Upload any format and size, get multiple optimized variants automatically. Zero bandwidth fees. Global delivery. | First year **50% OFF** first year with code `BFCM25` |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
