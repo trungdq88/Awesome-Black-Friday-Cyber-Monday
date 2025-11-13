@@ -117,7 +117,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🤑 | [UseArticle](https://usearticle.com/?utm_source=tonybf) | Turn Any Product URL Into Profitable Affiliate Website | 70% OFF with code **BLACKFRIDAY** |
 | 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
-| 🌙 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2025) | Learn Go with AI mentor support. Designed for experienced developers. | 50% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -313,5 +312,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
+| 🎓 | [Vue School](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Comprehensive video courses for Vue, Nuxt, TypeScript, Pinia, and modern frontend practices, trusted by the Vue.js community. | 60% OFF a Yearly or Lifetime plan. Plus get 7 BONUS resources (worth $2,040) absolutely free |
+| 🎓 | [Certificates.dev](https://certificates.dev/?friend=VUEPDF) | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to 60% OFF all mid & senior certifications + Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase. |
 
 ⬆️ | [Go to Top](#table-of-contents)
