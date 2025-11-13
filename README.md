@@ -187,6 +187,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [Shotomatic](https://shotomatic.com?utm_source=tonybf) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
 | 🔖 | [Anybox](https://anybox.app) | Bookmarking app on macOS and iOS. | **30% OFF** on App Store |
 | 🌐 | [Pola Browser](https://polabrowser.com/?utm_source=trungdq88-black-friday-2025) | macOS browser for maximum productivity: persistent tab folders, project profiles, research mode with visual trees, AI tools, ad-blocking, and Keychain integration. Free basics + All Access for advanced features. | **3 months FREE** on All Access with code **3MONTHF6S**, then Lifetime License at $19.99 |
+| 📥 | [Email Me](https://emailmeapp.net) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** on App Store |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
