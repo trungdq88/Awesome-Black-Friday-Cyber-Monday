@@ -37,7 +37,6 @@ Total deals: 166
 	- [📖 AI Productivity & Learning Tools (17)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (14)](#-other-ai-tools)
 - [🌅 Design Tools (12)](#-design-tools)
-- [⌨️ Code Libraries (1)](#️-code-libraries)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (13)](#tasks-organize-planning)
@@ -175,15 +174,6 @@ Total deals: 166
 | 🖥️ | [Screen Canvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | **50% OFF** lifetime purchase | 2025-12-01 |
 | 🎥 | [Cap](https://cap.so?utm_source=bf) | Beautiful, shareable screen recordings. Cap is the open source alternative to Loom. | 50% OFF Cap Pro (Yearly) **BLACKFRIDAY** |
 | 🏞️ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF2025** |
-
-⬆️ | [Go to Top](#table-of-contents)
-
-
-## ⌨️ Code Libraries
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
