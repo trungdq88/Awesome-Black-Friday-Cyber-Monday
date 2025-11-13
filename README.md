@@ -199,6 +199,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 50% OFF 
 | 🔎 | [Fenn](https://usefenn.com/?utm_source=black-friday-2025) | AI File Search Agent for MacOS | **50% OFF** with code **BLACKFRIDAY** |
 | ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans  **SUPERFRIDAY2025** |
+| 📊 | [WhatPulse](https://whatpulse.org/?ref=abfcm) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
+| 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
