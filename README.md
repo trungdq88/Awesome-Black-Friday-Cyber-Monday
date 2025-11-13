@@ -216,6 +216,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
+| 🌧️ | [Rainaissance](https://rainaissance.app/) | A beautiful rain simulation on your Mac with wonderful splashes and relaxing rain sounds. It works in fullscreen, on all your monitors, and is highly customizable. Runs on your GPU using metal shaders. macOS only. | **39% OFF** one time purchase - auto applied at checkout |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
