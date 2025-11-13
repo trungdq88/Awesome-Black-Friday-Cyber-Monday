@@ -319,6 +319,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📧 | [Ninbox](https://ninbox.io) | A simple way to move newsletters out of your personal inbox to a clean, organized space made just for them. | **BF2025** for 20% off |
 | 🏞️ | [Simple Photo Gallery](https://simple.photo/) | Create Beautiful Photo Galleries in Minutes | 50% OFF with code *BF2025* |
 | 🗂️ | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | **NOTIONBACKUPS25** 25% off all annual plans |
+| 🕷️ | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries easily. No monthly commitments. | **BLACKFRIDAY2025** for 50% off on Black Friday only |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
