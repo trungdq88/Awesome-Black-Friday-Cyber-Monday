@@ -84,7 +84,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔻 | [IsDown.app](https://isdown.app) | The status page aggregator that monitors all your critical dependencies in one place (AWS, GitHub, OpenAI, Stripe, +4,500 services). Never miss an outage again. Create your own Public or Private Status Page. | 25% OFF on Starter and Pro plans **BF2025** |
 | 🐛 | [Telebugs](https://telebugs.com/?utm_source=tonybf) | Self-hosted Sentry alternative for error tracking | 20% OFF with code **BF2025** |
 | ⌛ | [Crontap](https://crontap.com/) | Schedule recurring API calls to any service. | **40% off** with discount code **BF2025** |
-
+| ⭐ | [UptimeObserver](https://uptimeobserver.com) | Monitor your website uptime and performance with real-time alerts and detailed analytics. Get instant notifications when your site goes down. | **30% OFF** first year with code BFCM2025. Nov 17 - Dec 2nd |
+| 💬 | [Despeech](https://despeech.com/?utm_source=tonybf) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -114,6 +115,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗺️ | [Heuristica](https://www.heuristi.ca/?utm_source=tonybf) | All-in-One Learning Platform using Concept Maps, Flashcards, AI Chats, YouTube summaries, and more | **30% OFF Forever** with code **BFCM25** |
 | ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts. | 40% OFF with code **BLACKFRIDAY2025** |
 | 🤑 | [UseArticle](https://usearticle.com/?utm_source=tonybf) | Turn Any Product URL Into Profitable Affiliate Website | 70% OFF with code **BLACKFRIDAY** |
+| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -126,6 +129,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
 | 💝 | [LoveTunesAI](https://lovetunesai.com/?utm_source=tonybf) | Easily create personalized songs for any special occasion or just for fun. Get studio-quality music, designed just for your loved ones! | 20% OFF **BF20OFF** |
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=tonybf) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
+| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code **BLACKFRIDAY** |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -140,6 +145,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💬 | [Mockly](https://www.getmockly.com/?utm_source=bf) | Create realistic one-on-one and group chat mockups (and videos) for WhatsApp, Messenger, Instagram, iMessage, Telegram, Slack, and more. Ideal for marketing, social media, creators, and filmmakers. | 20% off on weekly subscription, 50% off on lifetime subscription | 
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** |
 | 📱 | [Sleek](https://sleek.design/?promo=BLACKFRIDAY2025&utm_source=github&utm_medium=referral&utm_campaign=black-friday-2025&utm_content=awesome-bfcm-list) | Generate mobile app mockups in minutes using AI. Export to Figma, React, or HTML. | 30% OFF **BLACKFRIDAY2025** |
+| ⓢ  | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF (automatically applied)|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -228,6 +234,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📅 | [Mixpost](https://mixpost.app?utm_source=tonybf) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | 20% OFF — automatically applied |
 | 🚀 | [Affonso](https://affonso.io?utm_source=tonybf) | Grow Your SaaS with an Affiliate Program. All you need to launch and manage your affiliate program, with the tools that help you find affiliates who drive revenue. | 10% OFF with code **BLACKFRIDAY25** |
 | 💰 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** |
+| ⭐ | [Verbatik AI](https://verbatik.com?utm_source=tonybf) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects, auto captions and AI conversations — instantly and without limits. | 50% OFF any subscription with discount code **BFCM2025** |
+| 📈 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | `viralblackfriday30`: 30% off the first 3 months on monthly plans. Redeem until Dec 7, 2025. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -251,7 +259,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛒 | [OneCart](https://www.getonecart.com/?utm_source=tonybf) | Multi-channel ecommerce management SaaS: Sync inventory in real-time, process orders centrally, manage listings, and gain analytics across Shopee, Lazada, Amazon, TikTok Shop, Decathlon, Shopify, WooCommerce, and more. | 20% OFF Trader & Business Plans with code **BLACKFRIDAY2025**|
 | 📊 | [ZodQR](https://zodqr.com/?utm_source=tonybf) | Create, share and track unlimited dynamic QR codes (URL, vCard, link-in-bio, file, PDF, MP3,...) for free. Unlock Pro features for teams: advanced analytics, team work in workspace, campaign, bulk generate, API and integration for $29/month or $290/year. | 30% OFF with code **BLACKFRIDAY2025** |
 | 🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY25**
-
+| 📊 | [Desk365](https://www.desk365.io/) | Desk365 is an AI-powered helpdesk software for teams of all sizes. With advanced features like AI-agent, approval-management, and Microsoft 365 integration, the Desk365 platform empowers agents to enhance productivity, automate workflows, and deliver exceptional customer experiences.| 10% OFF on all plans for new users with code  **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -263,6 +271,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔄 | [PostSyncer](https://postsyncer.com) | AI-powered social media automation tool that helps you manage and sync your posts across multiple platforms. | 20% OFF for 12 months with code **TONYDEAL** |
 | 🔄 | [TypeSmart](https://typesm.art/?utm_source=tonybf) | Automatically share your X posts on LinkedIn and BlueSky. Also set custom repurposing rules for AI. | 42% OFF with code **BLACKFRIDAY** |
 | 🚀 | [SortPin.com](https://sortpin.com/?utm_source=tonybf) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** |
+| 🤖 | [ReplyZen](https://replyzen.ai/?utm_source=tonybf) | Boost conversions, save hours daily, and keep your comment sections clean with AI agents that instantly reply, recommend products, and filter spam on autopilot. Works on Facebook and Instagram (TikTok coming soon). | **20% OFF** for 1st year using the code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
