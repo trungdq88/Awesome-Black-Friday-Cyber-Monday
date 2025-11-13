@@ -227,7 +227,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📅 | [Mixpost](https://mixpost.app?utm_source=tonybf) | The leading open-source social media management platform and a true alternative to Buffer. Schedule, publish, and analyze posts across multiple platforms — all without monthly fees or usage limits. Enjoy full control, privacy, and flexibility with self-hosted freedom. | 20% OFF — automatically applied |
 | 🚀 | [Affonso](https://affonso.io?utm_source=tonybf) | Grow Your SaaS with an Affiliate Program. All you need to launch and manage your affiliate program, with the tools that help you find affiliates who drive revenue. | 10% OFF with code **BLACKFRIDAY25** |
 | 💰 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** |
-| 💰 | [ProofyBubble](https://proofybubble.com/) | Turn casual website visitors into customers with real-time pop-up notifications showing social proof like sales, sign-ups, user actions and more to build trust and credibility. | **50% OFF** with code **BLACKFRIDAY25** |
+| 💰 | [ProofyBubble](https://proofybubble.com/?ref=tonybf) | Turn casual website visitors into customers with real-time pop-up notifications showing social proof like sales, sign-ups, user actions and more to build trust and credibility. | **50% OFF** with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
