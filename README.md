@@ -103,6 +103,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025**
 | 🎯 | [Geekflare Connect](https://geekflare.com/ai/connect/?utm_source=tonybf) | BYOK AI workspace for business to chat with 40+ models, share projects, prompts and chats to collaborate. | 50% OFF for 12 months with **BF25GF** |
 | 🥇 | [120 AI Chat](https://120.dev/120-ai-chat?utm_source=tonybf) | The *ONLY* native AI Chat app that lets you chat and compare 500+ models in parallel at buttery smooth performance (120fps) on Mac and Windows. | 40% OFF with code **BLKFRI25** |
+| 💎 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25**
 
 ⬆️ | [Go to Top](#table-of-contents)
 
