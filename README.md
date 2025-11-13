@@ -120,6 +120,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 🌙 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2025) | Learn Go with AI mentor support. Designed for experienced developers. | 50% OFF with code **BLACKFRIDAY** |
+| 🤝 | [MindPal](https://mindpal.space/black-friday-cyber-monday-2025) | Turn your domain expertise into sharable AI agents & multi-agent workflows with no code. Trusted by 50k+ experts to productize knowledge for teams, clients, and audience. | 60% OFF first year with code **BLACKFRIDAY25** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
