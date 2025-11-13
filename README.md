@@ -369,5 +369,6 @@ Total deals: 166
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
+| 🔍 | [ChromeStoreStats](https://chromestorestats.com\?utm_source=tonybf) | Explore and analyze over 134,000 Chrome extensions, discover insights, and unlock 8+ advanced filters with Pro. | Pro **50% OFF** with discount code **BLACK-FRIDAY-2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
