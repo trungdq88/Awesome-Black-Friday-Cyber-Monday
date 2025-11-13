@@ -186,7 +186,7 @@ Total deals: 180
 | 🎥 | [Cap](https://cap.so?utm_source=bf) | Beautiful, shareable screen recordings. Cap is the open source alternative to Loom. | 50% OFF Cap Pro (Yearly) **BLACKFRIDAY** |
 | 🏞️ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF2025** |
 | 〰️ | [Ruri Lines](https://ruri.design/lines?referrer=Awesome-Black-Friday-Cyber-Monday) | Transform any image into a stunning wave-line effect in seconds. Create eye-catching vector line distortion effects to add depth and texture to your designs. | Use code **BF2025** at checkout to get 15% off |
-| 🎥 | [ScreeSage Pro](https://screensage.pro) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |
+| 🎥 | [ScreenSage Pro](https://screensage.pro?ref=trung) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -229,7 +229,7 @@ Total deals: 180
 | 🎹 | [Assignee](https://assignee.app) | A lightning-fast app switcher for macOS. No frills, just pure speed. | **30% OFF** with code **BFCM25** at checkout |
 | ☁️ | [Dropshare](https://dropshare.app) | Upload screen shots, recordings, and any other files to a storage provider of your choice. macOS only. | **US$10 OFF** with code **blackfriday2025** at checkout on Nov 28th |
 | 🪟 | [ShiftPlus](https://shiftplus.app) | A native macOS app that lets you effortlessly create, switch between, and manage browser profiles with workflows, shortcuts and automation tailored for multi-project users. | **30% OFF** with code **G5ODQWMQ** at checkout|
-| 📋 | [CleanClip](https://cleanclip.cc?ref=fndxmacappspro) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
+| 📋 | [CleanClip](https://cleanclip.cc?ref=trung) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
 
 ⬆️ | [Go to Top](#table-of-contents)
 
