@@ -286,6 +286,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛟 | [HelpKit](https://www.helpkit.so) | Notion to Help Center & Doc Site. Turn your Notion pages into a professional knowledge base. Comes with an embeddable widget, full-text search, AI chatbot, analytics, article reactions and more! | 30% OFF on all plans with code **BLACKFRIDAY25**
 | 📊 | [Desk365](https://www.desk365.io/) | Desk365 is an AI-powered helpdesk software for teams of all sizes. With advanced features like AI-agent, approval-management, and Microsoft 365 integration, the Desk365 platform empowers agents to enhance productivity, automate workflows, and deliver exceptional customer experiences.| 10% OFF on all plans for new users with code  **BF2025** |
 | ☀️ | [Sunboard](https://www.sunboardhq.com/?utm_source=tonybf) | Reduce churn with simple onboarding for SaaS. Build product tours, create interactive checklists, and send in-app messages to guide your users to success | 30% OFF with code **BLACKFRIDAY25**
+| 📚 | [Guidejar](https://www.guidejar.com?utm_source=tonybf) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | 25% OFF with code **BFCM25**
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
