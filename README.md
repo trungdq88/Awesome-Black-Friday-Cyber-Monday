@@ -27,33 +27,32 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-- [💵 Awesome Black Friday / Cyber Monday Deals - 2025 🤑](#-awesome-black-friday--cyber-monday-deals---2025-)
-	- [Table of Contents](#table-of-contents)
-	- [👨‍💻 Developer Tools](#-developer-tools)
-		- [💻 Developer macOS Apps](#-developer-macos-apps)
-		- [💻 Tools \& Services](#-tools--services)
-	- [🤖 AI Tools](#-ai-tools)
-		- [💬 AI Chat UI](#-ai-chat-ui)
-		- [📖 AI Productivity \& Learning Tools](#-ai-productivity--learning-tools)
-		- [✨ Other AI tools](#-other-ai-tools)
-	- [🌅 Design Tools](#-design-tools)
-	- [⌨️ Code Libraries](#️-code-libraries)
-	- [🔥 Productivity](#-productivity)
-		- [🖥️ Productivity Desktop Apps](#️-productivity-desktop-apps)
-			- [Tasks, Organize, Planning](#tasks-organize-planning)
-			- [Window, Screen, Clipboard, Utilities](#window-screen-clipboard-utilities)
-			- [Time, Distraction, Focus](#time-distraction-focus)
-			- [Miscellaneous Productivity Apps](#miscellaneous-productivity-apps)
-		- [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
-		- [🛠️ Productivity Tools \& Services](#️-productivity-tools--services)
-	- [🌈 Marketing Tools](#-marketing-tools)
-	- [🔍 SEO Tools](#-seo-tools)
-	- [🚀 Startup SaaS/Tools](#-startup-saastools)
-	- [🌏 Social Media Tools](#-social-media-tools)
-	- [💸 Finance Tools](#-finance-tools)
-	- [🎛 Utility Tools](#-utility-tools)
-	- [💪 Health and Fitness](#-health-and-fitness)
-	- [🎯 Miscellaneous](#-miscellaneous)
+Total deals: 166
+
+- [👨‍💻 Developer Tools ](#‍-developer-tools)
+	- [💻 Developer macOS Apps (15)](#-developer-macos-apps)
+	- [💻 Tools & Services (10)](#-tools--services)
+- [🤖 AI Tools ](#-ai-tools)
+	- [💬 AI Chat UI (10)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (17)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (14)](#-other-ai-tools)
+- [🌅 Design Tools (12)](#-design-tools)
+- [🔥 Productivity ](#-productivity)
+	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
+		- [Tasks, Organize, Planning (13)](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities (8)](#window-screen-clipboard-utilities)
+		- [Time, Distraction, Focus (3)](#time-distraction-focus)
+		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps (2)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (3)](#️-productivity-tools--services)
+- [🌈 Marketing Tools (15)](#-marketing-tools)
+- [🔍 SEO Tools (6)](#-seo-tools)
+- [🚀 Startup SaaS/Tools (8)](#-startup-saastools)
+- [🌏 Social Media Tools (7)](#-social-media-tools)
+- [💸 Finance Tools (5)](#-finance-tools)
+- [🎛 Utility Tools (9)](#-utility-tools)
+- [💪 Health and Fitness (3)](#-health-and-fitness)
+- [🎯 Miscellaneous (3)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
@@ -91,6 +90,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💬 | [Despeech](https://despeech.com/?utm_source=tonybf) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied |
 | 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
 | 💬 | [UserJot](https://userjot.com/?utm_source=tonybf) | Beautiful feedback boards, roadmaps & changelogs. The modern, affordable alternative to Canny and UserVoice. Collect feedback, prioritize features, and keep users engaged. | 30% OFF all plans with code **BF2025** |
+| 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet actionable Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. | **30% off** with discount code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -150,6 +150,10 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎨 | [Caricature Maker](https://caricaturemaker.net/) | Turn Your Photos into Hilarious Caricature in Seconds | **20% OFF** with discount code **BF2025** |
 | 🎬 | [TranslateMom](https://translatemom.com/?utm_source=tonybf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural-sounding voices and realistic and accurate translations. | **70% OFF** Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, 30-day storage, and watermark-free exports. |
 | ✈️ | [* Let's Trip AI *](https://letstrip.ai/) | AI Trip planner with ability to track hotel and flight prices and send drop notifications. | Yearly plan: **** $10/y **** instead of $50/y. Offer ends Dec 2nd. |
+| 🧠 | [Ticketdesk AI](https://ticketdesk.ai/?utm_source=tonybf) | AI for customer support - Create your @ticketdesk.ai inbox to forward customer support tickets to AI agents. The AI agent will set tags, assign categories, respond to tickets and route to human support if needed! | 50% OFF on annual plans **BLACKFRIDAY** |
+| ✨ | [Easy-Peasy.AI](https://easy-peasy.ai/) | One platform for all your AI needs. Chat with advanced AI, generate images and videos, build custom chatbots, and create content across 40+ languages. | **40% OFF** with discount code **BF2025** |
+| 📚 | [UnlimitedTales](https://unlimitedtales.com/) | AI Storybook generator for kids. Create a unique storybook for your child in just 5 minutes. Perfect for special gifts or bonding moments. | **35% off on Black Friday 5-story bundle** for limited time. |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -173,15 +177,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ⬆️ | [Go to Top](#table-of-contents)
 
-
-## ⌨️ Code Libraries
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
-
-⬆️ | [Go to Top](#table-of-contents)
-
 ## 🔥 Productivity
 ### 🖥️ Productivity Desktop Apps
 
@@ -199,6 +194,10 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 50% OFF 
 | 🔎 | [Fenn](https://usefenn.com/?utm_source=black-friday-2025) | AI File Search Agent for MacOS | **50% OFF** with code **BLACKFRIDAY** |
 | ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans  **SUPERFRIDAY2025** |
+| 📅 | [DaySchedule](https://dayschedule.com?utm_source=tonybf) | Appointment scheduling software for 1:1, Group and round-robin bookings. | **50% OFF** on annual plan with code **BLACKFRIDAY** |
+| 📊 | [WhatPulse](https://whatpulse.org/?ref=abfcm) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
+| 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
+| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -242,6 +241,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 📚 | TTS Reader [iOS](https://apps.apple.com/us/app/id6746346171) [Android](https://play.google.com/store/apps/details?id=voice.reader.ai) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
 | ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -275,7 +275,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💰 | [ProofyBubble](https://proofybubble.com/?ref=tonybf) | Turn casual website visitors into customers with real-time pop-up notifications showing social proof like sales, sign-ups, user actions and more to build trust and credibility. | **50% OFF** with code **BLACKFRIDAY25** |
 | 📄 | [Paperform & Papersign](https://paperform.co/black-friday?utm_source=tonybf) | Create forms that convert, sell, sign and more with Paperform, the AI form builder and eSignature platform | 50% OFF for 12 months of select plans with the code **PFBF25** |
 | 🪜 | [Stepper](https://stepper.io?utm_source=tonybf#black-friday) | AI native workflow automation platform for small businesses who want to automate more for less. Unlimited workflow runs on Stepper Pro, | 50% off Stepper Pro for 12 months with the code **PFBF25** |
-| 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on MONTHLY plans only. Redeem until Dec 7, 2025. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -304,6 +303,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📊 | [Desk365](https://www.desk365.io/) | Desk365 is an AI-powered helpdesk software for teams of all sizes. With advanced features like AI-agent, approval-management, and Microsoft 365 integration, the Desk365 platform empowers agents to enhance productivity, automate workflows, and deliver exceptional customer experiences.| 10% OFF on all plans for new users with code  **BF2025** |
 | ☀️ | [Sunboard](https://www.sunboardhq.com/?utm_source=tonybf) | Reduce churn with simple onboarding for SaaS. Build product tours, create interactive checklists, and send in-app messages to guide your users to success | 30% OFF with code **BLACKFRIDAY25**
 | 📚 | [Guidejar](https://www.guidejar.com?utm_source=tonybf) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | 25% OFF with code **BFCM25**
+| 📱 | [NotionApps](https://www.notionapps.com/?utm_source=tonybf) | Build apps & portals from Notion databases with row-level and property-level data sharing, no coding required | 30% OFF on all plans, use code **BLACKFRIDAY25**
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -329,6 +329,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🍰 | [Cakedesk](https://cakedesk.app/?utm_source=tonybf) | Easy invoicing for freelancers and small businesses. One-time payment. For Windows and macOS. | 40% off with code **TONYFRIDAY25** |
 | 💰 | [Vexly](https://vexly.app) | Track all your subscriptions in one place. Get reminded 7 days before renewals, set budgets, and avoid surprise charges. No bank connections required - privacy-first design. | 50% OFF Lifetime |
 | 🏦 | [MTDsorted](https://www.mtdsorted.co.uk?ref=tonybf-abfcm) | Simple UK accounting software for freelancers and small businesses. Create invoices, track expenses, store receipts, and submit VAT returns to HMRC with ease. | **50% OFF** Start & Plus plans for 6 months with code **BLACKFRIDAY2025** |
+| 💸 | [duodollar](https://www.duodollar.com?utm_source=tonybf) | Master your money with zero-based budgeting, rule-based auto-categorization, manual or Plaid-synced accounts & transactions, spending trends, and net-worth tracking | 50% OFF 3 months with code **TONYFRIDAY50** |
 | 💸 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 
 
