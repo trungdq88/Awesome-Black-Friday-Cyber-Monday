@@ -150,6 +150,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎨 | [Caricature Maker](https://caricaturemaker.net/) | Turn Your Photos into Hilarious Caricature in Seconds | **20% OFF** with discount code **BF2025** |
 | 🎬 | [TranslateMom](https://translatemom.com/?utm_source=tonybf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural-sounding voices and realistic and accurate translations. | **70% OFF** Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, 30-day storage, and watermark-free exports. |
 | ✈️ | [* Let's Trip AI *](https://letstrip.ai/) | AI Trip planner with ability to track hotel and flight prices and send drop notifications. | Yearly plan: **** $10/y **** instead of $50/y. Offer ends Dec 2nd. |
+| 📚 | [UnlimitedTales](https://unlimitedtales.com/) | AI Storybook generator for kids. Create a unique storybook for your child in just 5 minutes. Perfect for special gifts or bonding moments. | **35% off on Black Friday 5-story bundle** for limited time. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
