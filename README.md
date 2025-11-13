@@ -310,6 +310,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📊 | [Desk365](https://www.desk365.io/) | Desk365 is an AI-powered helpdesk software for teams of all sizes. With advanced features like AI-agent, approval-management, and Microsoft 365 integration, the Desk365 platform empowers agents to enhance productivity, automate workflows, and deliver exceptional customer experiences.| 10% OFF on all plans for new users with code  **BF2025** |
 | ☀️ | [Sunboard](https://www.sunboardhq.com/?utm_source=tonybf) | Reduce churn with simple onboarding for SaaS. Build product tours, create interactive checklists, and send in-app messages to guide your users to success | 30% OFF with code **BLACKFRIDAY25**
 | 📚 | [Guidejar](https://www.guidejar.com?utm_source=tonybf) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | 25% OFF with code **BFCM25**
+| 📱 | [NotionApps](https://www.notionapps.com/?utm_source=tonybf) | Build apps & portals from Notion databases with row-level and property-level data sharing, no coding required | 30% OFF on all plans, use code **BLACKFRIDAY25**
 
 
 ⬆️ | [Go to Top](#table-of-contents)
