@@ -75,7 +75,6 @@ Total deals: 166
 |  ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | **30% OFF any plan** for new customers only (no coupon code needed) | 2025-12-07 |
 | 🔑 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2|
-| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -208,6 +207,7 @@ Total deals: 166
 | 📅 | [DaySchedule](https://dayschedule.com?utm_source=tonybf) | Appointment scheduling software for 1:1, Group and round-robin bookings. | **50% OFF** on annual plan with code **BLACKFRIDAY** |
 | 📊 | [WhatPulse](https://whatpulse.org/?ref=abfcm) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
 | 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
+| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
