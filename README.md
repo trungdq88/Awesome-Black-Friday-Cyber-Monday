@@ -269,7 +269,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2025** |
+| 🍰 | [Cakedesk](https://cakedesk.app/?utm_source=tonybf) | Easy invoicing for freelancers and small businesses. One-time payment. For Windows and macOS. | 40% off with code **TONYFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
