@@ -91,6 +91,7 @@ Total deals: 166
 | 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
 | 💬 | [UserJot](https://userjot.com/?utm_source=tonybf) | Beautiful feedback boards, roadmaps & changelogs. The modern, affordable alternative to Canny and UserVoice. Collect feedback, prioritize features, and keep users engaged. | 30% OFF all plans with code **BF2025** |
 | 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet actionable Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. | **30% off** with discount code **BF2025** |
+| 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — sales data, ownership intelligence, alerts, and portfolio tools. | **50% off** with discount code **BFCM25** |
 | 🔥 | [UnwrapEmail](https://unwrap.email/?ref=tonybf) | Blazing fast enterprise grade email validation API with real-time validation, bulk processing, SMTP & DNS verification & many more! | **25% off forever** with discount code **BFCM2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -175,6 +176,7 @@ Total deals: 166
 | 🖥️ | [Screen Canvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | **50% OFF** lifetime purchase | 2025-12-01 |
 | 🎥 | [Cap](https://cap.so?utm_source=bf) | Beautiful, shareable screen recordings. Cap is the open source alternative to Loom. | 50% OFF Cap Pro (Yearly) **BLACKFRIDAY** |
 | 🏞️ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF2025** |
+| 〰️ | [Ruri Lines](https://ruri.design/lines?referrer=Awesome-Black-Friday-Cyber-Monday) | Transform any image into a stunning wave-line effect in seconds. Create eye-catching vector line distortion effects to add depth and texture to your designs. | Use code **BF2025** at checkout to get 15% off |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -194,7 +196,7 @@ Total deals: 166
 | 📥 | [Email Me](https://emailmeapp.net) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** on App Store |
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 50% OFF 
 | 🔎 | [Fenn](https://usefenn.com/?utm_source=black-friday-2025) | AI File Search Agent for MacOS | **50% OFF** with code **BLACKFRIDAY** |
-| ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans  **SUPERFRIDAY2025** |
+| ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans with code **SUPERFRIDAY2025** |
 | 📅 | [DaySchedule](https://dayschedule.com?utm_source=tonybf) | Appointment scheduling software for 1:1, Group and round-robin bookings. | **50% OFF** on annual plan with code **BLACKFRIDAY** |
 | 📊 | [WhatPulse](https://whatpulse.org/?ref=abfcm) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
 | 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
@@ -214,6 +216,7 @@ Total deals: 166
 | ✨ | [TextSniper](https://textsniper.app) | Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 75% OFF with code **BFCM25** |
 | ⌨️ | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - Stay in flow and reduce wrist strain with keyboard-only Mac control. | **50% OFF** (auto-applied) |
 | 🎹 | [Assignee](https://assignee.app) | A lightning-fast app switcher for macOS. No frills, just pure speed. | **30% OFF** with code **BFCM25** at checkout |
+| ☁️ | [Dropshare](https://dropshare.app) | Upload screen shots, recordings, and any other files to a storage provider of your choice. macOS only. | **US$10 OFF** with code **blackfriday2025** at checkout on Nov 28th |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -243,6 +246,7 @@ Total deals: 166
 | -- | ---| ------ | ------ |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 📚 | TTS Reader [iOS](https://apps.apple.com/us/app/id6746346171) [Android](https://play.google.com/store/apps/details?id=voice.reader.ai) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
+| ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -275,6 +279,8 @@ Total deals: 166
 | 💰 | [ProofyBubble](https://proofybubble.com/?ref=tonybf) | Turn casual website visitors into customers with real-time pop-up notifications showing social proof like sales, sign-ups, user actions and more to build trust and credibility. | **50% OFF** with code **BLACKFRIDAY25** |
 | 📄 | [Paperform & Papersign](https://paperform.co/black-friday?utm_source=tonybf) | Create forms that convert, sell, sign and more with Paperform, the AI form builder and eSignature platform | 50% OFF for 12 months of select plans with the code **PFBF25** |
 | 🪜 | [Stepper](https://stepper.io?utm_source=tonybf#black-friday) | AI native workflow automation platform for small businesses who want to automate more for less. Unlimited workflow runs on Stepper Pro, | 50% off Stepper Pro for 12 months with the code **PFBF25** |
+| 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on MONTHLY plans only. Redeem until Dec 7, 2025. |
+| ✉️ | [Lettermint](https://lettermint.co) | Lettermint is your EU partner for transactional emails that arrive, built in Europe for businesses that value reliability and privacy. | Get 30% off all Lettermint plans for the next 6 months with code `BF2025` |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -368,5 +374,6 @@ Total deals: 166
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
+| 🎙️  | [Podigy Podcast Player](https://apps.apple.com/us/app/podcast-player-podigy/id6473860416) | Best in class podcast player for iPhone, iPad and Mac. Trim silence, boost voices, CarPlay support and more.                                                                                                                              | 30% off on annual plan via the App Store. |
 
 ⬆️ | [Go to Top](#table-of-contents)
