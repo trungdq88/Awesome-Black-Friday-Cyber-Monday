@@ -75,6 +75,7 @@ Total deals: 180
 | 🔑 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2|
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** |
 | ☁️ | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - For Developers, DevOps & Cloud Operations, Mac & Windows | **50% OFF** Lifetime License with code **LAUNCH50** |
+| 💸 | [Compot – SwiftUI Components](https://www.compotui.com/?utm_source=mrsbf) | Develop iOS apps faster with AI coding assistant and 100+ predesigned SwiftUI components. Explore SwiftUI and discover resources and tools for iOS app developers. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6471916279&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -117,7 +118,6 @@ Total deals: 180
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025** |
 | 🧠 | [Aymo AI](http://aymo.ai/pricing) | Multi-model AI workspace (GPT / Claude / Gemini + routing) for teams and product workflows. | **20% OFF** Premium Yearly — code `BLFCM2025` |
 
-
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -142,7 +142,6 @@ Total deals: 180
 | 📝 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
 |  | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2 |
 | ⚙️ | [Meku.dev](https://meku.dev/pricing) | AI web app and site builder — turn prompts into production-ready React projects and starter apps. | **30% OFF** Yearly + Free FormBold Starter — code `BLFCM2025` |
-
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -257,6 +256,7 @@ Total deals: 180
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 📚 | TTS Reader [iOS](https://apps.apple.com/us/app/id6746346171) [Android](https://play.google.com/store/apps/details?id=voice.reader.ai) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
 | ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
+| 💸 | [PromptKit – AI Prompt Generator](https://www.promptkit.app/?utm_source=mrsbf) | Generate, organize, and use prompts with top AI models while building your personal prompt library. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -348,7 +348,8 @@ Total deals: 180
 | 🏦 | [MTDsorted](https://www.mtdsorted.co.uk?ref=tonybf-abfcm) | Simple UK accounting software for freelancers and small businesses. Create invoices, track expenses, store receipts, and submit VAT returns to HMRC with ease. | **50% OFF** Start & Plus plans for 6 months with code **BLACKFRIDAY2025** |
 | 💸 | [duodollar](https://www.duodollar.com?utm_source=tonybf) | Master your money with zero-based budgeting, rule-based auto-categorization, manual or Plaid-synced accounts & transactions, spending trends, and net-worth tracking | 50% OFF 3 months with code **TONYFRIDAY50** |
 | 💸 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
-
+| 💸 | [Sumio – Net Worth Tracker](https://www.sumio.app) | Calculate and track the value of your net worth and investments. Get AI-generated insights and summaries to grow your wealth. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=1560198579&code=BF2025) |
+| 💸 | [Foreign Currency Converter](https://apps.apple.com/us/app/foreign-currency-converter/id6751902789) | Effortless currency converter and money conversion calculator. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6751902789&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -365,6 +366,8 @@ Total deals: 180
 | 🗂️ | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | **NOTIONBACKUPS25** 25% off all annual plans |
 | 🕷️ | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries easily. No monthly commitments. | **BLACKFRIDAY2025** for 50% off on Black Friday only |
 | 🗜️ | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025**, Nov 20 - Dec 2 |
+| 💸 | [UnitKit – Unit Converter](https://apps.apple.com/us/app/conversion-calculator-unitkit/id6748941419) | Convert any unit with ease. UnitKit is your simple, flexible unit converter and conversion calculator. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6748941419&code=BF2025) |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -386,5 +389,10 @@ Total deals: 180
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
 | 🎙️  | [Podigy Podcast Player](https://apps.apple.com/us/app/podcast-player-podigy/id6473860416) | Best in class podcast player for iPhone, iPad and Mac. Trim silence, boost voices, CarPlay support and more.                                                                                                                              | 30% off on annual plan via the App Store. |
+| 💸 | [Heart2Heart – Couples Questions](https://www.couplequestions.com) | Conversation starters to help you get to know each other better and fall in love.  | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6501986735&code=BF2025) |
+| 💸 | [Kindest – Relationship Tracker](https://www.kindest.app) | Keep strong relationships with your friends and family. Kindest helps you start and keep track of healthy and fun habits to nurture connections with your loved ones. |  [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6453754317&code=BF2025) |
+| 💸 | [Imaginarium](https://apps.apple.com/us/app/ai-art-imaginarium/id6739706784) | Create stunning images, art, and photos with the state-of-the-art Flux Pro AI model. Unlock your visions and unleash your creativity. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6739706784&code=BF2025) |
+| 💸 | [DirectionKit – GPS Compass](https://apps.apple.com/us/app/directionkit-compass/id6752239993) | Tap the map, set a point, and get GPS direction, bearing, and distance. Search for coordinates, save favorites, find places nearby, share locations, and sync via iCloud. | [**50% OFF**  with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6752239993&code=BF2025) |
+| 💸 | [ChezAI – Home Remodel](https://apps.apple.com/us/app/interior-design-ai-chezai/id6740142224) | Home Design & Remodel: ChezAI is your AI home designer and planner. Visualize, design, remodel, and transform your space like a pro with cutting-edge AI. | [**50% OFF** with code **BF2025**](https://apps.apple.com/redeem?ctx=offercodes&id=6740142224&code=BF2025) |
 
 ⬆️ | [Go to Top](#table-of-contents)
