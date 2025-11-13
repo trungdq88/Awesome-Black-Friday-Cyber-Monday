@@ -115,6 +115,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗺️ | [Heuristica](https://www.heuristi.ca/?utm_source=tonybf) | All-in-One Learning Platform using Concept Maps, Flashcards, AI Chats, YouTube summaries, and more | **30% OFF Forever** with code **BFCM25** |
 | ✍️ | [Rephrase AI](https://www.rephraseai.com/) | Find the perfect words, every time. Transform rough drafts into writing that connects and converts. | 40% OFF with code **BLACKFRIDAY2025** |
 | 🤑 | [UseArticle](https://usearticle.com/?utm_source=tonybf) | Turn Any Product URL Into Profitable Affiliate Website | 70% OFF with code **BLACKFRIDAY** |
+| 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -127,6 +129,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
 | 💝 | [LoveTunesAI](https://lovetunesai.com/?utm_source=tonybf) | Easily create personalized songs for any special occasion or just for fun. Get studio-quality music, designed just for your loved ones! | 20% OFF **BF20OFF** |
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=tonybf) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
+| 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code **BLACKFRIDAY** |
+| 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
