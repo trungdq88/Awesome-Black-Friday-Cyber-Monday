@@ -154,6 +154,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖥️ | [ScreenSnap Pro](https://screensnap.pro/?utm_source=bf) | Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly.| 50% OFF Lifetime and Subscription **EZNZQWNW** |
 | 📱 | [Sleek](https://sleek.design/?promo=BLACKFRIDAY2025&utm_source=github&utm_medium=referral&utm_campaign=black-friday-2025&utm_content=awesome-bfcm-list) | Generate mobile app mockups in minutes using AI. Export to Figma, React, or HTML. | 30% OFF **BLACKFRIDAY2025** |
 | ⓢ  | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF (automatically applied)|
+| 🎨 | [Pinpasta](https://pinpasta.hehe.studio/?utm_source=bf) | Chrome extension + Figma plug-in to download Pinterest images and boards. Perfect for creating stunning moodboards for your clients! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -228,6 +229,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
 | 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
+| 🤙 | [CSVtoSheets](https://csvtosheets.com/?utm_source=bf) | A tiny macOS app: Double-Click Any CSV Opens in Google Sheets! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
 
 ⬆️ | [Go to Top](#table-of-contents)
 
