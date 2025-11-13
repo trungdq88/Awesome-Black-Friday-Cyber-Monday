@@ -117,6 +117,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🤑 | [UseArticle](https://usearticle.com/?utm_source=tonybf) | Turn Any Product URL Into Profitable Affiliate Website | 70% OFF with code **BLACKFRIDAY** |
 | 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 🌙 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2025) | Learn Go with AI mentor support. Designed for experienced developers. | 50% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
