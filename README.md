@@ -195,6 +195,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📥 | [Email Me](https://emailmeapp.net) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** on App Store |
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 50% OFF 
 | 🔎 | [Fenn](https://usefenn.com/?utm_source=black-friday-2025) | AI File Search Agent for MacOS | **50% OFF** with code **BLACKFRIDAY** |
+| ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans  **SUPERFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
