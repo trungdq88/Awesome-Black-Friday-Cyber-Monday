@@ -312,6 +312,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🍰 | [Cakedesk](https://cakedesk.app/?utm_source=tonybf) | Easy invoicing for freelancers and small businesses. One-time payment. For Windows and macOS. | 40% off with code **TONYFRIDAY25** |
 | 💰 | [Vexly](https://vexly.app) | Track all your subscriptions in one place. Get reminded 7 days before renewals, set budgets, and avoid surprise charges. No bank connections required - privacy-first design. | 50% OFF Lifetime |
 | 🏦 | [MTDsorted](https://www.mtdsorted.co.uk?ref=tonybf-abfcm) | Simple UK accounting software for freelancers and small businesses. Create invoices, track expenses, store receipts, and submit VAT returns to HMRC with ease. | **50% OFF** Start & Plus plans for 6 months with code **BLACKFRIDAY2025** |
+| 💸 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
