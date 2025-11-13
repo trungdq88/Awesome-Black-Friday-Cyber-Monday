@@ -257,7 +257,7 @@ Total deals: 181
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 📚 | TTS Reader [iOS](https://apps.apple.com/us/app/id6746346171) [Android](https://play.google.com/store/apps/details?id=voice.reader.ai) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
 | ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
-| 📱 | [Mango - Twilio Calls, Texts, RCS](https://itsok.xyz/bf-deal-tn) | Separate work and personal life with multiple phone lines powered by Twilio. Full-featured iOS app with calls, texts, MMS, RCS messaging, and voicemail support. | **67% OFF** for one year between 24 Nov and 1 Dec (no code needed) |
+| 📱 | [Mango - Twilio Calls, Texts, RCS](https://apps.apple.com/us/app/mango-twilio-calls-sms-rcs/id6504444689) | Separate work and personal life with multiple phone lines powered by Twilio. Full-featured iOS app with calls, texts, MMS, RCS messaging, and voicemail support. | **67% OFF** for one year between 24 Nov and 1 Dec (no code needed) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
