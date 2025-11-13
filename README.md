@@ -89,6 +89,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⭐ | [UptimeObserver](https://uptimeobserver.com) | Monitor your website uptime and performance with real-time alerts and detailed analytics. Get instant notifications when your site goes down. | **30% OFF** first year with code BFCM2025. Nov 17 - Dec 2nd |
 | 💬 | [Despeech](https://despeech.com/?utm_source=tonybf) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied |
 | 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
+| 💬 | [UserJot](https://userjot.com/?utm_source=tonybf) | Beautiful feedback boards, roadmaps & changelogs. The modern, affordable alternative to Canny and UserVoice. Collect feedback, prioritize features, and keep users engaged. | 30% OFF all plans with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
