@@ -75,6 +75,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  ⚡ | [HTTP Toolkit](https://httptoolkit.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Open-source HTTP debugger & client, with instant one-click setup for Docker, Android, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** |
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | **30% OFF any plan** for new customers only (no coupon code needed) | 2025-12-07 |
 | 🔑 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2|
+| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -272,7 +273,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💰 | [ProofyBubble](https://proofybubble.com/?ref=tonybf) | Turn casual website visitors into customers with real-time pop-up notifications showing social proof like sales, sign-ups, user actions and more to build trust and credibility. | **50% OFF** with code **BLACKFRIDAY25** |
 | 📄 | [Paperform & Papersign](https://paperform.co/black-friday?utm_source=tonybf) | Create forms that convert, sell, sign and more with Paperform, the AI form builder and eSignature platform | 50% OFF for 12 months of select plans with the code **PFBF25** |
 | 🪜 | [Stepper](https://stepper.io?utm_source=tonybf#black-friday) | AI native workflow automation platform for small businesses who want to automate more for less. Unlimited workflow runs on Stepper Pro, | 50% off Stepper Pro for 12 months with the code **PFBF25** |
-| 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on MONTHLY plans only. Redeem until Dec 7, 2025. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
