@@ -100,6 +100,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🤖 | [SimpleChat](https://simplechat.app/?utm_source=tonybf) | Chat with advanced AI models, Generate and Edit Images - all in a single simple chat interface | 40% OFF Lifetime **BF2025** |
 | 😘 | [MagicBuddy](https://magicbuddy.ai/?utm_source=tonybf) | Best AI Chatbot on Telegram | 25% OFF **BF25** |
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025**
+| 🎯 | [Geekflare Connect](https://geekflare.com/ai/connect/?utm_source=tonybf) | BYOK AI workspace for business to chat with 40+ models, share projects, prompts and chats to collaborate. | 50% OFF for 12 months with **BF25GF** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -117,6 +118,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🤑 | [UseArticle](https://usearticle.com/?utm_source=tonybf) | Turn Any Product URL Into Profitable Affiliate Website | 70% OFF with code **BLACKFRIDAY** |
 | 📐 | [Mathy - Math Answer Scanner](https://apps.apple.com/app/apple-store/id6746950449) | Your pocket math tutor that solves and explains equations instantly from text or a photo with AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
 | 🧪 | [Chemy - AI Chemistry Answers](https://apps.apple.com/app/apple-store/id6747715456) | Your pocket chemistry tutor that solves and explains chemistry problems instantly from text or a photo wutg AI. | **50% OFF** yearly plan with code **BLACKFRIDAY** |
+| 🌙 | [Go In One Evening](https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2025) | Learn Go with AI mentor support. Designed for experienced developers. | 50% OFF with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -235,7 +237,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💰 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** |
 | ⭐ | [Verbatik AI](https://verbatik.com?utm_source=tonybf) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects, auto captions and AI conversations — instantly and without limits. | 50% OFF any subscription with discount code **BFCM2025** |
 | 📈 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | `viralblackfriday30`: 30% off the first 3 months on monthly plans. Redeem until Dec 7, 2025. |
-| 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on monthly plans. Redeem until Dec 7, 2025. |
+| 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on MONTHLY plans only. Redeem until Dec 7, 2025. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -273,6 +275,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔄 | [TypeSmart](https://typesm.art/?utm_source=tonybf) | Automatically share your X posts on LinkedIn and BlueSky. Also set custom repurposing rules for AI. | 42% OFF with code **BLACKFRIDAY** |
 | 🚀 | [SortPin.com](https://sortpin.com/?utm_source=tonybf) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** |
 | 🤖 | [ReplyZen](https://replyzen.ai/?utm_source=tonybf) | Boost conversions, save hours daily, and keep your comment sections clean with AI agents that instantly reply, recommend products, and filter spam on autopilot. Works on Facebook and Instagram (TikTok coming soon). | **20% OFF** for 1st year using the code **BF2025** |
+| 📷 | [LiveReacting](https://www.livereacting.com/24-7-live-stream-channel?ref=tonybf) | Cloud-based streaming studio that allows to create 24/7 and pre-recorded Live streams within a few clicks and run them on reliable server infrastructure. | **50% OFF** for 1st year with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
