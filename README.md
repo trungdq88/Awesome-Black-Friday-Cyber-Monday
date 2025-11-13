@@ -26,33 +26,32 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ## Table of Contents
-
-Total deals: 166
+Total deals: 180
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (15)](#-developer-macos-apps)
-	- [💻 Tools & Services (10)](#-tools--services)
+	- [💻 Tools & Services (14)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (10)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (17)](#-ai-productivity--learning-tools)
+	- [💬 AI Chat UI (11)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (18)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (14)](#-other-ai-tools)
-- [🌅 Design Tools (12)](#-design-tools)
+- [🌅 Design Tools (13)](#-design-tools)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (13)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (8)](#window-screen-clipboard-utilities)
+		- [Tasks, Organize, Planning (14)](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities (10)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (3)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (2)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (3)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (3)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (15)](#-marketing-tools)
+- [🌈 Marketing Tools (17)](#-marketing-tools)
 - [🔍 SEO Tools (6)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (8)](#-startup-saastools)
-- [🌏 Social Media Tools (7)](#-social-media-tools)
+- [🌏 Social Media Tools (8)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
 - [🎛 Utility Tools (9)](#-utility-tools)
 - [💪 Health and Fitness (3)](#-health-and-fitness)
-- [🎯 Miscellaneous (3)](#-miscellaneous)
+- [🎯 Miscellaneous (4)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
