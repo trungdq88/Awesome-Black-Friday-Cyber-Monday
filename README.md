@@ -149,6 +149,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
 | 🎨 | [Caricature Maker](https://caricaturemaker.net/) | Turn Your Photos into Hilarious Caricature in Seconds | **20% OFF** with discount code **BF2025** |
 | 🎬 | [TranslateMom](https://translatemom.com/?utm_source=tonybf) | Instantly caption, translate, or dub HD videos in 100+ languages with natural-sounding voices and realistic and accurate translations. | **70% OFF** Annual Pro Plan ($159 vs $528) with code **BLACK** — 2,000 min/mo, 29-language dubbing, 30-day storage, and watermark-free exports. |
+| ✈️ | [* Let's Trip AI *](https://letstrip.ai/) | AI Trip planner with ability to track hotel and flight prices and send drop notifications. | Yearly plan: **** $10/y **** instead of $50/y. Offer ends Dec 2nd. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
