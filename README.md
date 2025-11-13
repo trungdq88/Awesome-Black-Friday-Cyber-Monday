@@ -26,7 +26,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ## Table of Contents
-Total deals: 180
+Total deals: 181
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (15)](#-developer-macos-apps)
@@ -50,7 +50,7 @@ Total deals: 180
 - [🌏 Social Media Tools (8)](#-social-media-tools)
 - [💸 Finance Tools (5)](#-finance-tools)
 - [🎛 Utility Tools (9)](#-utility-tools)
-- [💪 Health and Fitness (3)](#-health-and-fitness)
+- [💪 Health and Fitness (4)](#-health-and-fitness)
 - [🎯 Miscellaneous (4)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
@@ -375,6 +375,8 @@ Total deals: 180
 | 😴 | [Dark Sleep for Apple TV](https://www.darksleep.app) | The #1 free sleep and relaxation app for Apple TV. Dolby Atmos soundscapes, calming videos, meditations, sunrise alarms, and more — all in one app. | 30% OFF lifetime purchase (in-app) | 2025-12-01 |
 | 🥗 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. | **30% OFF** yearly plan with code **BLACKFRIDAY** |
 | 💪 | [GetJacked](https://getjacked.app/download?utm_source=tonybf) | GetJacked is a science based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
+| 💉 | [Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901) | Effortlessly track glucose levels & manage insulin therapy. Features charts, heat maps, Apple Health integration, CSV/PDF exports, and personalized insights. | 50% OFF lifetime premium plan (in-app) with code **BLACKFRIDAY2025**, Nov 15 - Dec 2 |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
