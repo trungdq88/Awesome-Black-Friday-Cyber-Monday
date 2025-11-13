@@ -247,6 +247,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💰 | [TapRefer](https://TapRefer.com) | The biggest & latest affiliate programs directory | **80% OFF** with code **BFCM25** |
 | ⭐ | [Verbatik AI](https://verbatik.com?utm_source=tonybf) | Unlimited text-to-speech and voice cloning across 150+ languages. Generate voiceovers, custom voices, music, videos, sound effects, auto captions and AI conversations — instantly and without limits. | 50% OFF any subscription with discount code **BFCM2025** |
 | 📈 | [viral.app](https://viral.app) | UGC analytics platform to track TikTok, Instagram, and YouTube performance for brands and agencies. | `viralblackfriday30`: 30% off the first 3 months on monthly plans. Redeem until Dec 7, 2025. |
+| 🤑 | [Veshort](https://veshort.com/?utm_source=tdinhgithub) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-trungdq88) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
