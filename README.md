@@ -214,6 +214,7 @@ Total deals: 166
 | ⌨️ | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - Stay in flow and reduce wrist strain with keyboard-only Mac control. | **50% OFF** (auto-applied) |
 | 🎹 | [Assignee](https://assignee.app) | A lightning-fast app switcher for macOS. No frills, just pure speed. | **30% OFF** with code **BFCM25** at checkout |
 | ☁️ | [Dropshare](https://dropshare.app) | Upload screen shots, recordings, and any other files to a storage provider of your choice. macOS only. | **US$10 OFF** with code **blackfriday2025** at checkout on Nov 28th |
+| 🪟 | [ShiftPlus](https://shiftplus.app) | A native macOS app that lets you effortlessly create, switch between, and manage browser profiles with workflows, shortcuts and automation tailored for multi-project users. | **30% OFF** with code **G5ODQWMQ** at checkout|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
