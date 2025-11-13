@@ -304,6 +304,7 @@ Total deals: 180
 | 🔗 | [LinkDR](https://linkdr.com/?utm_source=tonybf) | Backlink and authority-building SaaS platform. Automated link building through warm connection building and cold email marketing. Marketplace for buying quality backlinks and building domain authority. | 20% OFF with code **BF25** |
 | 🚀 | [GSCTool.com](https://www.gsctool.com/?utm_source=tonybf) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** |
 | 📊 | [Promptwatch](https://promptwatch.com) | Promptwatch tracks your visibility in AI search like ChatGPT, captures real prompts and volumes, helps you create content, monitors social citations, and keeps your brand top-of-mind. | **50% OFF** with code **BF50**
+| 📈 | [Plerdy](https://www.plerdy.com/) | Plerdy is an all-in-one website analysis tool designed for Conversion Rate Optimization (CRO) & SEO. It allows businesses to track, analyze, and convert visitors into buyers with AI assistance. Features include UX analytics, e-commerce insights, AI-powered reports, heatmap capabilities, and A/B Testing. | **50% OFF on annual plans** with code **plerdyBF2025**
 
 ⬆️ | [Go to Top](#table-of-contents)
 
