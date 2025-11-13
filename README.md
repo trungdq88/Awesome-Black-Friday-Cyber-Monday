@@ -304,6 +304,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🍰 | [Cakedesk](https://cakedesk.app/?utm_source=tonybf) | Easy invoicing for freelancers and small businesses. One-time payment. For Windows and macOS. | 40% off with code **TONYFRIDAY25** |
 | 💰 | [Vexly](https://vexly.app) | Track all your subscriptions in one place. Get reminded 7 days before renewals, set budgets, and avoid surprise charges. No bank connections required - privacy-first design. | 50% OFF Lifetime |
+| 💸 | [duodollar](https://www.duodollar.com?utm_source=tonybf) | Master your money with zero-based budgeting, rule-based auto-categorization, manual or Plaid-synced accounts & transactions, spending trends, and net-worth trackin | 50% OFF 3 months |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
