@@ -93,6 +93,9 @@ Total deals: 166
 | 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet actionable Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. | **30% off** with discount code **BF2025** |
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — sales data, ownership intelligence, alerts, and portfolio tools. | **50% off** with discount code **BFCM25** |
 | 🔥 | [UnwrapEmail](https://unwrap.email/?ref=tonybf) | Blazing fast enterprise grade email validation API with real-time validation, bulk processing, SMTP & DNS verification & many more! | **25% off forever** with discount code **BFCM2025** |
+| ✉️ | [FormBold](https://formbold.com/pricing) | Form backend for websites — send submissions to Email, Slack, Notion, Sheets, and more. Easy Jamstack integrations. | **40% OFF** Yearly Plans — code `BLFCM2025` |
+| ⚡ | [Static.run](https://static.run/pricing) | Fast static hosting with instant SSL, deploys, and built-in analytics — optimised for frontend apps. | **30% OFF** Yearly Plans — code `BLFCM2025` |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -111,6 +114,8 @@ Total deals: 166
 | 🥇 | [120 AI Chat](https://120.dev/120-ai-chat?utm_source=tonybf) | The *ONLY* native AI Chat app that lets you chat and compare 500+ models in parallel at buttery smooth performance (120fps) on Mac and Windows. | 40% OFF with code **BLKFRI25** |
 | 💎 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25**
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025** |
+| 🧠 | [Aymo AI](http://aymo.ai/pricing) | Multi-model AI workspace (GPT / Claude / Gemini + routing) for teams and product workflows. | **20% OFF** Premium Yearly — code `BLFCM2025` |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -135,6 +140,9 @@ Total deals: 166
 | 🚀 | [Git Digest](https://gitdigest.ai/?utm_source=tonybf) | Ship faster with automated code reports. Get daily summaries of your GitHub repos via email or Slack, automatically categorized and analyzed for impact. | 40% OFF with code **BLACKFRIDAY2025** |
 | 📝 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
 |  | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2 |
+| ⚙️ | [Meku.dev](https://meku.dev/pricing) | AI web app and site builder — turn prompts into production-ready React projects and starter apps. | **30% OFF** Yearly + Free FormBold Starter — code `BLFCM2025` |
+
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
