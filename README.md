@@ -133,6 +133,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎥 | [inReels.ai](https://www.inreels.ai/?utm_source=tonybf) | Create videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF Yearly Plans** with code **BLACKFRIDAY2025** |
 | 💈 | [Cuts AI - Hairstyle Try On Men](https://apps.apple.com/app/apple-store/id6753205043) | The easiest way to try instant men’s haircuts and colors with a quick selfie. | **50% OFF** first week with code **BLACKFRIDAY** |
 | 🏡 | [Gardenly - AI Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. | **50% OFF** first week with code **BLACKFRIDAY** |
+| ✈️ | [* Let's Trip AI *](https://letstrip.ai/) | AI Trip planner with ability to track hotel and flight prices and send drop notifications. | Yearly plan: **** $10/y **** instead of $50/y. Offer ends Dec 2nd. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
