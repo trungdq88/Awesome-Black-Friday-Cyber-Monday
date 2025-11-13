@@ -156,6 +156,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📱 | [Sleek](https://sleek.design/?promo=BLACKFRIDAY2025&utm_source=github&utm_medium=referral&utm_campaign=black-friday-2025&utm_content=awesome-bfcm-list) | Generate mobile app mockups in minutes using AI. Export to Figma, React, or HTML. | 30% OFF **BLACKFRIDAY2025** |
 | ⓢ  | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS | 50% OFF (automatically applied)|
 | 🎨 | [Pinpasta](https://pinpasta.hehe.studio/?utm_source=bf) | Chrome extension + Figma plug-in to download Pinterest images and boards. Perfect for creating stunning moodboards for your clients! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
+| 🖥️ | [Screen Canvas](https://www.screencanvas.app/) | Design digital signage & message boards with custom text, images, & audio right on your Apple TV. | **50% OFF** lifetime purchase | 2025-12-01 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
