@@ -199,6 +199,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 50% OFF 
 | 🔎 | [Fenn](https://usefenn.com/?utm_source=black-friday-2025) | AI File Search Agent for MacOS | **50% OFF** with code **BLACKFRIDAY** |
 | ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans  **SUPERFRIDAY2025** |
+| 📅 | [DaySchedule](https://dayschedule.com?utm_source=tonybf) | Appointment scheduling software for 1:1, Group and round-robin bookings. | **50% OFF** on annual plan with code **BLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
