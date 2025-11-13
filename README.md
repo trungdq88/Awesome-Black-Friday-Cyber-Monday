@@ -186,6 +186,7 @@ Total deals: 180
 | 🎥 | [Cap](https://cap.so?utm_source=bf) | Beautiful, shareable screen recordings. Cap is the open source alternative to Loom. | 50% OFF Cap Pro (Yearly) **BLACKFRIDAY** |
 | 🏞️ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF2025** |
 | 〰️ | [Ruri Lines](https://ruri.design/lines?referrer=Awesome-Black-Friday-Cyber-Monday) | Transform any image into a stunning wave-line effect in seconds. Create eye-catching vector line distortion effects to add depth and texture to your designs. | Use code **BF2025** at checkout to get 15% off |
+| 🖌️ | [illustration.app](https://illustration.app) | Create consistent illustrations in seconds. | 30% OFF first month with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
