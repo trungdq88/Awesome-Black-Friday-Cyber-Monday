@@ -366,6 +366,7 @@ Total deals: 180
 | 🗂️ | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | **NOTIONBACKUPS25** 25% off all annual plans |
 | 🕷️ | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries easily. No monthly commitments. | **BLACKFRIDAY2025** for 50% off on Black Friday only |
 | 🗜️ | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025**, Nov 20 - Dec 2 |
+| 🙈 | [Safe Screen Share](https://safescreenshare.com) | Blur out personal info while sharing your screen or taking a screenshot. | 60% OFF Lifetime with code `BF25` |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
