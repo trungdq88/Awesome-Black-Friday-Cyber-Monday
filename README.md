@@ -337,6 +337,9 @@ Total deals: 180
 | 📷 | [LiveReacting](https://www.livereacting.com/24-7-live-stream-channel?ref=tonybf) | Cloud-based streaming studio that allows to create 24/7 and pre-recorded Live streams within a few clicks and run them on reliable server infrastructure. | **50% OFF** for 1st year with code **BF2025** |
 | 📷 | [Countdown Timer App](https://www.countdown-timer.app/?ref=tonybf) |  Create and publish beautiful countdowns to your Facebook business page or website. | **50% OFF** for 1st year with code **BF2025** |
 | 📥 | [Bluesky Inbox](https://www.blueskyinbox.com/) | Real-time Bluesky keyword and author tracking from the comfort and privacy of your browser. | **30% OFF** with code **BF2025** |
+| 🔖 | [TweetsMash](https://www.tweetsmash.com/)￼ | Import, search, organize, and export all your Twitter/X bookmarks with AI. Notion/Sheets sync with API access, List Digest, and powerful filters. | 30% OFF with code **TONYDEALS2025** |
+| 🗂️|  | [LinkedMash](https://www.linkedmash.com/)￼ | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
