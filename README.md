@@ -117,7 +117,7 @@ Total deals: 180
 | 💎 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25**
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025** |
 | 🧠 | [Aymo AI](http://aymo.ai/pricing) | Multi-model AI workspace (GPT / Claude / Gemini + routing) for teams and product workflows. | **20% OFF** Premium Yearly — code `BLFCM2025` |
-
+| 🧠 | [Haye AI](http://haye.ai/) | Chat with any apps, text, screenshots,files on your macOS. A private macOS AI assistant that lets you experience top-tier models like GPT-5, Claude Sonnet 4.5, DeepSeek R1, and Gemini 2.5 Pro in a single app. | 20 x **BF40** 40% OFF, 100 x **BF20** 20% OFF |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
