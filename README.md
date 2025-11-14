@@ -90,14 +90,18 @@ Total deals: 180
 | ⭐ | [UptimeObserver](https://uptimeobserver.com) | Monitor your website uptime and performance with real-time alerts and detailed analytics. Get instant notifications when your site goes down. | **30% OFF** first year with code BFCM2025. Nov 17 - Dec 2nd |
 | 💬 | [Despeech](https://despeech.com/?utm_source=tonybf) | Transcribe audio without building your own pipeline. | **50% more hours** automatically applied |
 | 🚀 | [DevWorkspace Pro](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF with code **BLACKFRIDAY40OFF** | 2025-12-10 |
-| 💬 | [UserJot](https://userjot.com/?utm_source=tonybf) | Beautiful feedback boards, roadmaps & changelogs. The modern, affordable alternative to Canny and UserVoice. Collect feedback, prioritize features, and keep users engaged. | 30% OFF all plans with code **BF2025** |
+| 💬 | [UserJot](https://userjot.com/?utm_source=tonybf) | Beautiful feedback boards, roadmaps & changelogs. The modern, affordable alternative to Canny and UserVoice. Collect feedback, prioritize features, and keep users engaged. | 30% OFF all plans with code 
+| ⚡ | [AdminMart](https://adminmart.com/) | Explore the Best Angular, Tailwind, React, Vuejs, Next.Js, Nuxt, Bootstrap Admin Dashboard Templates. | SiteWide Sale Up to **50% OFF** - **BFCM50** |
+
+**BF2025** |
 | 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet actionable Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. | **30% off** with discount code **BF2025** |
 | 🌐 | [DomainDetails Pro](https://domaindetails.com) | Advanced domain research & monitoring — sales data, ownership intelligence, alerts, and portfolio tools. | **50% off** with discount code **BFCM25** |
 | 🔥 | [UnwrapEmail](https://unwrap.email/?ref=tonybf) | Blazing fast enterprise grade email validation API with real-time validation, bulk processing, SMTP & DNS verification & many more! | **25% off forever** with discount code **BFCM2025** |
 | ✉️ | [FormBold](https://formbold.com/pricing) | Form backend for websites — send submissions to Email, Slack, Notion, Sheets, and more. Easy Jamstack integrations. | **40% OFF** Yearly Plans — code `BLFCM2025` |
 | ⚡ | [Static.run](https://static.run/pricing) | Fast static hosting with instant SSL, deploys, and built-in analytics — optimised for frontend apps. | **30% OFF** Yearly Plans — code `BLFCM2025` |
 | 🌄 | [img.pro](https://img.pro) | Image optimization API. Upload any format and size, get multiple optimized variants automatically. Zero bandwidth fees. Global delivery. | First year **50% OFF** with code `BFCM25` |
-
+| ⚡ | [WrapPixel](https://www.wrappixel.com/) | Best Angular, React, Tailwind, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | Up to **50% OFF** on all templates - `BFCM50` |
+| 🔥 | [WrapPixel - All Access Pass](https://www.wrappixel.com/all-access-pass/) | Collection of Best Angular, Tailwind, React, Vuejs, Next Js, Nuxt, Bootstrap Admin Dashboard Templates. | 25 Templates in 1 Big Bundle Up to **95% OFF** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
