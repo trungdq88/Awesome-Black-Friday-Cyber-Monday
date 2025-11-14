@@ -26,7 +26,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ## Table of Contents
-Total deals: 180
+Total deals: 181
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (15)](#-developer-macos-apps)
@@ -44,7 +44,7 @@ Total deals: 180
 		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (3)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (3)](#️-productivity-tools--services)
-- [🌈 Marketing Tools (17)](#-marketing-tools)
+- [🌈 Marketing Tools (18)](#-marketing-tools)
 - [🔍 SEO Tools (6)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (8)](#-startup-saastools)
 - [🌏 Social Media Tools (8)](#-social-media-tools)
@@ -292,6 +292,7 @@ Total deals: 180
 | 🪜 | [Stepper](https://stepper.io?utm_source=tonybf#black-friday) | AI native workflow automation platform for small businesses who want to automate more for less. Unlimited workflow runs on Stepper Pro, | 50% off Stepper Pro for 12 months with the code **PFBF25** |
 | 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on MONTHLY plans only. Redeem until Dec 7, 2025. |
 | ✉️ | [Lettermint](https://lettermint.co) | Lettermint is your EU partner for transactional emails that arrive, built in Europe for businesses that value reliability and privacy. | Get 30% off all Lettermint plans for the next 6 months with code `BF2025` |
+| 🧠 | [AskCory](http://marketing.askcory.ai/) | Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code `BF25` |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
