@@ -292,6 +292,8 @@ Total deals: 180
 | 🪜 | [Stepper](https://stepper.io?utm_source=tonybf#black-friday) | AI native workflow automation platform for small businesses who want to automate more for less. Unlimited workflow runs on Stepper Pro, | 50% off Stepper Pro for 12 months with the code **PFBF25** |
 | 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on MONTHLY plans only. Redeem until Dec 7, 2025. |
 | ✉️ | [Lettermint](https://lettermint.co) | Lettermint is your EU partner for transactional emails that arrive, built in Europe for businesses that value reliability and privacy. | Get 30% off all Lettermint plans for the next 6 months with code `BF2025` |
+| ✉️ | [Rising Trends](https://risingtrends.co) | The 1# trends spotting tool built for indie entrepreneurs. Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | Get 40% off using code `BF2025`. Redeem until Dec 7, 2025. |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
