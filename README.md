@@ -97,6 +97,7 @@ Total deals: 180
 | ✉️ | [FormBold](https://formbold.com/pricing) | Form backend for websites — send submissions to Email, Slack, Notion, Sheets, and more. Easy Jamstack integrations. | **40% OFF** Yearly Plans — code `BLFCM2025` |
 | ⚡ | [Static.run](https://static.run/pricing) | Fast static hosting with instant SSL, deploys, and built-in analytics — optimised for frontend apps. | **30% OFF** Yearly Plans — code `BLFCM2025` |
 | 🌄 | [img.pro](https://img.pro) | Image optimization API. Upload any format and size, get multiple optimized variants automatically. Zero bandwidth fees. Global delivery. | First year **50% OFF** with code `BFCM25` |
+| 🔥 | [Pagerly](https://pagerly.io/?ref=tonybf) | Oncalls, Rotations, Incidents,  Tasks on Slack/Teams with Ease ! | **20% off forever** with discount code **BF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -292,6 +293,8 @@ Total deals: 180
 | 🪜 | [Stepper](https://stepper.io?utm_source=tonybf#black-friday) | AI native workflow automation platform for small businesses who want to automate more for less. Unlimited workflow runs on Stepper Pro, | 50% off Stepper Pro for 12 months with the code **PFBF25** |
 | 💰 | [superly.app](https://superly.app) | The #1 AI Intelligent Canvas that scrapes TikToks, Instagram Reels, YouTube Videos, Meta Ads - and AI analyzes & reproduces viral content for you using your own data. | `SUPERFRIDAY20`: 20% off on MONTHLY plans only. Redeem until Dec 7, 2025. |
 | ✉️ | [Lettermint](https://lettermint.co) | Lettermint is your EU partner for transactional emails that arrive, built in Europe for businesses that value reliability and privacy. | Get 30% off all Lettermint plans for the next 6 months with code `BF2025` |
+| 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
