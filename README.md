@@ -228,6 +228,7 @@ Total deals: 180
 | 🎹 | [Assignee](https://assignee.app) | A lightning-fast app switcher for macOS. No frills, just pure speed. | **30% OFF** with code **BFCM25** at checkout |
 | ☁️ | [Dropshare](https://dropshare.app) | Upload screen shots, recordings, and any other files to a storage provider of your choice. macOS only. | **US$10 OFF** with code **blackfriday2025** at checkout on Nov 28th |
 | 🪟 | [ShiftPlus](https://shiftplus.app) | A native macOS app that lets you effortlessly create, switch between, and manage browser profiles with workflows, shortcuts and automation tailored for multi-project users. | **30% OFF** with code **G5ODQWMQ** at checkout|
+| 🪐 | [OrbitRing](https://orbitring.app) | macOS quick launcher like GTA weapon wheel. Supports open apps / websites / files / folder. | App Store **20% OFF** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
