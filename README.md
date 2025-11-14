@@ -26,14 +26,14 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ## Table of Contents
-Total deals: 180
+Total deals: 181
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (15)](#-developer-macos-apps)
 	- [💻 Tools & Services (14)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (11)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (18)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (19)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (14)](#-other-ai-tools)
 - [🌅 Design Tools (13)](#-design-tools)
 - [🔥 Productivity ](#-productivity)
@@ -144,6 +144,7 @@ Total deals: 180
 |  | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2 |
 | ⚙️ | [Meku.dev](https://meku.dev/pricing) | AI web app and site builder — turn prompts into production-ready React projects and starter apps. | **30% OFF** Yearly + Free FormBold Starter — code `BLFCM2025` |
 | 📆 | [Lumical - Scan to Calendar](https://apps.apple.com/us/app/lumical-scan-to-calendar/id6753274309) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | **67% OFF Lifetime License** with code **BLACKFRIDAY25** |
+| 🗣️ | [HoldSpeak](https://holdspeak.com/?utm_source=tonybf) | Type 3x faster with AI powered voice to text. Fast and accurate dictation in every application with on-device models | 25% OFF with code **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
