@@ -388,6 +388,7 @@ Total deals: 181
 | 🕷️ | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API. Scrape social media + ad libraries easily. No monthly commitments. | **BLACKFRIDAY2025** for 50% off on Black Friday only |
 | 🗜️ | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025**, Nov 20 - Dec 2 |
 | 📱 | [PortDroid](https://www.portdroid.net/black-friday-2025) | Android Port Scanner & Networking Swiss Army Knife. Fast scans, host discovery, DNS tools, Wake-on-LAN, and more. | ~50% OFF with code **CYBER_2025**, Nov 11 – Dec 4 |
+| 🙈 | [Safe Screen Share](https://safescreenshare.com) | Blur out personal info while sharing your screen or taking a screenshot. | 60% OFF Lifetime with code `BF25` |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
