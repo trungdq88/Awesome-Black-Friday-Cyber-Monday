@@ -310,6 +310,7 @@ Total deals: 181
 | 📊 | [Promptwatch](https://promptwatch.com) | Promptwatch tracks your visibility in AI search like ChatGPT, captures real prompts and volumes, helps you create content, monitors social citations, and keeps your brand top-of-mind. | **50% OFF** with code **BF50**
 | 🤖 | [ShowUpInAI](https://showupinai.com) | Get Cited in ChatGPT and more! We push every new or changed page to Bing, helping AI assistants cite your site. | **25% OFF** with code **BLACKFRIDAY25** |
 | 🐶 | [BacklinkDog](https://backlinkdog.com)| Stop losing SEO juice from removed or changed backlinks. We monitor your backlinks and alert you when they change.| **50% OFF** with code **BLACKFRIDAY50** |
+| 📈 | [Plerdy](https://www.plerdy.com/) | Plerdy is an all-in-one website analysis tool designed for Conversion Rate Optimization (CRO) & SEO. It allows businesses to track, analyze, and convert visitors into buyers with AI assistance. Features include UX analytics, e-commerce insights, AI-powered reports, heatmap capabilities, and A/B Testing. | **50% OFF on annual plans** with code **plerdyBF2025**
 
 ⬆️ | [Go to Top](#table-of-contents)
 
