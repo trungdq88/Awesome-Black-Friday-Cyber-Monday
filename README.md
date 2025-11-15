@@ -74,6 +74,7 @@ Total deals: 180
 | 🧑‍💻 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | **30% OFF any plan** for new customers only (no coupon code needed) | 2025-12-07 |
 | 🔑 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2|
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** |
+| ☁️ | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - For Developers, DevOps & Cloud Operations, Mac & Windows | **50% OFF** Lifetime License with code **LAUNCH50** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -95,6 +96,7 @@ Total deals: 180
 | 🔥 | [UnwrapEmail](https://unwrap.email/?ref=tonybf) | Blazing fast enterprise grade email validation API with real-time validation, bulk processing, SMTP & DNS verification & many more! | **25% off forever** with discount code **BFCM2025** |
 | ✉️ | [FormBold](https://formbold.com/pricing) | Form backend for websites — send submissions to Email, Slack, Notion, Sheets, and more. Easy Jamstack integrations. | **40% OFF** Yearly Plans — code `BLFCM2025` |
 | ⚡ | [Static.run](https://static.run/pricing) | Fast static hosting with instant SSL, deploys, and built-in analytics — optimised for frontend apps. | **30% OFF** Yearly Plans — code `BLFCM2025` |
+| 🌄 | [img.pro](https://img.pro) | Image optimization API. Upload any format and size, get multiple optimized variants automatically. Zero bandwidth fees. Global delivery. | First year **50% OFF** with code `BFCM25` |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -115,7 +117,7 @@ Total deals: 180
 | 💎 | [Fluent](https://fluentmac.app) | A superior BYOK context‑aware AI assistant for every app and browser tab. Stop app-switching or manual copy-pasting – start keeping your focus on things to be done, not tools. Use 450+ models or local AI. Customizable actions with shortcuts. Lifetime purchase. | 25% OFF **BLACKFRIDAY25**
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025** |
 | 🧠 | [Aymo AI](http://aymo.ai/pricing) | Multi-model AI workspace (GPT / Claude / Gemini + routing) for teams and product workflows. | **20% OFF** Premium Yearly — code `BLFCM2025` |
-
+| 🧠 | [Haye AI](http://haye.ai/) | Chat with any apps, text, screenshots,files on your macOS. A private macOS AI assistant that lets you experience top-tier models like GPT-5, Claude Sonnet 4.5, DeepSeek R1, and Gemini 2.5 Pro in a single app. | 20 x **BF40** 40% OFF, 100 x **BF20** 20% OFF |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -141,7 +143,7 @@ Total deals: 180
 | 📝 | [Sumy AI](https://www.sumyai.com/) |  Study smarter with the Feynman method — create smart notes, quizzes & flashcards to learn faster and remember longer.. | 50% OFF with code **BLACKFRIDAY2025** |
 |  | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2 |
 | ⚙️ | [Meku.dev](https://meku.dev/pricing) | AI web app and site builder — turn prompts into production-ready React projects and starter apps. | **30% OFF** Yearly + Free FormBold Starter — code `BLFCM2025` |
-
+| 📆 | [Lumical - Scan to Calendar](https://apps.apple.com/us/app/lumical-scan-to-calendar/id6753274309) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | **67% OFF Lifetime License** with code **BLACKFRIDAY25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -303,6 +305,7 @@ Total deals: 180
 | 🔗 | [LinkDR](https://linkdr.com/?utm_source=tonybf) | Backlink and authority-building SaaS platform. Automated link building through warm connection building and cold email marketing. Marketplace for buying quality backlinks and building domain authority. | 20% OFF with code **BF25** |
 | 🚀 | [GSCTool.com](https://www.gsctool.com/?utm_source=tonybf) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** |
 | 📊 | [Promptwatch](https://promptwatch.com) | Promptwatch tracks your visibility in AI search like ChatGPT, captures real prompts and volumes, helps you create content, monitors social citations, and keeps your brand top-of-mind. | **50% OFF** with code **BF50**
+| 🤖 | [ShowUpInAI](https://showupinai.com) | Get Cited in ChatGPT and more! We push every new or changed page to Bing, helping AI assistants cite your site. | **25% OFF** with code **BLACKFRIDAY25** |
 | 🐶 | [BacklinkDog](https://backlinkdog.com)| Stop losing SEO juice from removed or changed backlinks. We monitor your backlinks and alert you when they change.| **50% OFF** with code **BLACKFRIDAY50** |
 
 ⬆️ | [Go to Top](#table-of-contents)
