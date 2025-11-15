@@ -98,6 +98,7 @@ Total deals: 181
 | ⚡ | [Static.run](https://static.run/pricing) | Fast static hosting with instant SSL, deploys, and built-in analytics — optimised for frontend apps. | **30% OFF** Yearly Plans — code `BLFCM2025` |
 | 🌄 | [img.pro](https://img.pro) | Image optimization API. Upload any format and size, get multiple optimized variants automatically. Zero bandwidth fees. Global delivery. | First year **50% OFF** with code `BFCM25` |
 | 🛠️ | [Aba Search and Replace](https://www.abareplace.com/) | A multi-purpose tool for fast, safe text updates across multiple files and data conversions. Built for developers, testers, and analysts. | **30% discount** with code `Sale2025` |
+| 🔥 | [Snov.io](https://snov.io/) | Email finder and verifier tool that helps discover professional email addresses for your prospects using domains, company names, LinkedIn, or custom search filters. | **50% off annual plan** with discount code **BLACKFRIDAY** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
