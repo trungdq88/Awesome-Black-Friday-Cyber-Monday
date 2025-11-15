@@ -167,6 +167,7 @@ Total deals: 181
 | 🧠 | [Ticketdesk AI](https://ticketdesk.ai/?utm_source=tonybf) | AI for customer support - Create your @ticketdesk.ai inbox to forward customer support tickets to AI agents. The AI agent will set tags, assign categories, respond to tickets and route to human support if needed! | 50% OFF on annual plans **BLACKFRIDAY** |
 | ✨ | [Easy-Peasy.AI](https://easy-peasy.ai/) | One platform for all your AI needs. Chat with advanced AI, generate images and videos, build custom chatbots, and create content across 40+ languages. | **40% OFF** with discount code **BF2025** |
 | 📚 | [UnlimitedTales](https://unlimitedtales.com/) | AI Storybook generator for kids. Create a unique storybook for your child in just 5 minutes. Perfect for special gifts or bonding moments. | **35% off on Black Friday 5-story bundle** for limited time. |
+| 📖 | [Novel Translator](https://noveltranslator.com/) | Translate Chinese, Japanese, Korean novels. Optimized for fiction, Chinese Web Covels, Xianxia, Korean novels. Auto Glossary Generation and Character image generation along with fixed upfront pricing for your novel | **30% off** Pro and above plans with code **BLACKFRIDAY** Until Dec 1st. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
