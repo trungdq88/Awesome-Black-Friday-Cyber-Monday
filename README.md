@@ -145,6 +145,7 @@ Total deals: 181
 | ⚙️ | [Meku.dev](https://meku.dev/pricing) | AI web app and site builder — turn prompts into production-ready React projects and starter apps. | **30% OFF** Yearly + Free FormBold Starter — code `BLFCM2025` |
 | 📆 | [Lumical - Scan to Calendar](https://apps.apple.com/us/app/lumical-scan-to-calendar/id6753274309) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | **67% OFF Lifetime License** with code **BLACKFRIDAY25** |
 | 📱 | [FluxBuilder.com](https://fluxbuilder.com/blackfriday2025) | AI-Powered App Builder Turn Your Website Into an App in Minutes. | **50% OFF** All Plans — code `BF2025` |
+| 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
