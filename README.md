@@ -33,7 +33,7 @@ Total deals: 181
 	- [💻 Tools & Services (14)](#-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (11)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (18)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (19)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (14)](#-other-ai-tools)
 - [🌅 Design Tools (13)](#-design-tools)
 - [🔥 Productivity ](#-productivity)
@@ -149,6 +149,7 @@ Total deals: 181
 | 📆 | [Lumical - Scan to Calendar](https://apps.apple.com/us/app/lumical-scan-to-calendar/id6753274309) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | **67% OFF Lifetime License** with code **BLACKFRIDAY25** |
 | 📱 | [FluxBuilder.com](https://fluxbuilder.com/blackfriday2025) | AI-Powered App Builder Turn Your Website Into an App in Minutes. | **50% OFF** All Plans — code `BF2025` |
 | 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
+| 🗣️ | [HoldSpeak](https://holdspeak.com/?utm_source=tonybf) | Type 3x faster with AI powered voice to text. Fast and accurate dictation in every application with on-device models | 25% OFF with code **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
