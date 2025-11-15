@@ -279,6 +279,7 @@ Total deals: 223
 | ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
 | 📱 | [Mango - Twilio Calls, Texts, RCS](https://apps.apple.com/us/app/mango-twilio-calls-sms-rcs/id6504444689) | Separate work and personal life with multiple phone lines powered by Twilio. Full-featured iOS app with calls, texts, MMS, RCS messaging, and voicemail support. | **67% OFF** for one year between 24 Nov and 1 Dec (no code needed) |
 | 🕕 | [TimeWave - Timer Chains](https://apps.apple.com/app/id1524345488) | Create timer-chains for all your sequential tasks with a modern black & white design. | **50% OFF** Lifetime Family Purchase between Nov 28 and Dec 3. |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=tonybf&promocode=TONYBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **TONYBF50** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -416,6 +417,7 @@ Total deals: 223
 | 💪 | [GetJacked](https://getjacked.app/download?utm_source=tonybf) | GetJacked is a science based hypertrophy coach on your iPhone. No more guesswork, just results. Train smarter with GetJacked. | 75% OFF Lifetime Premium Plan Discount automatically applied in App |
 | 🏃‍♂️‍➡️ | [Kabal](https://getkabal.com/) | Kabal is an agentic health and fitness app. A personal and proactive nutritionist, fitness coach, trainer that you can talk to any time | 6 months free with code "BLACKFRIDAY" |
 | 💉 | [Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901) | Effortlessly track glucose levels & manage insulin therapy. Features charts, heat maps, Apple Health integration, CSV/PDF exports, and personalized insights. | 50% OFF lifetime premium plan (in-app) with code **BLACKFRIDAY2025**, Nov 15 - Dec 2 |
+|💸|[Steps](https://apps.apple.com/us/app/steps-step-counter-workouts/id6746096378)| Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving. | 33% OFF lifetime  plan with code **BLACKFRIDAY** or using https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY, Nov 25 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
