@@ -99,6 +99,7 @@ Total deals: 181
 | 🌄 | [img.pro](https://img.pro) | Image optimization API. Upload any format and size, get multiple optimized variants automatically. Zero bandwidth fees. Global delivery. | First year **50% OFF** with code `BFCM25` |
 | 🛠️ | [Aba Search and Replace](https://www.abareplace.com/) | A multi-purpose tool for fast, safe text updates across multiple files and data conversions. Built for developers, testers, and analysts. | **30% discount** with code `Sale2025` |
 | 🔥 | [Snov.io](https://snov.io/) | Email finder and verifier tool that helps discover professional email addresses for your prospects using domains, company names, LinkedIn, or custom search filters. | **50% off annual plan** with discount code **BLACKFRIDAY** |
+| 🔥 | [Pagerly](https://pagerly.io/?ref=tonybf) | Oncalls, Rotations, Incidents,  Tasks on Slack/Teams with Ease ! | **20% off forever** with discount code **BF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -315,6 +316,7 @@ Total deals: 181
 | 💰 | [Evendeals](https://evendeals.com) | Get **30%** more sales from emerging countries with purchasing power parity discounts.  | Get 60% off Lifetime with code `BF25` |
 | ✉️ | [Rising Trends](https://risingtrends.co) | The 1# trends spotting tool built for indie entrepreneurs. Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | Get 40% off using code `BF2025`. Redeem until Dec 7, 2025. |
 | 🤑 | [ParityKit](https://www.paritykit.com?ref=tonybf) | Boost your sales automatically by offering location-based discounts that boost conversions and grow your global revenue. | Get 50% off all plans with code `BLACKFRIDAY25` |
+| 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
