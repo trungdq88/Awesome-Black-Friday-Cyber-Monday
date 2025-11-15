@@ -174,7 +174,7 @@ Total deals: 223
 | ✨ | [Easy-Peasy.AI](https://easy-peasy.ai/) | One platform for all your AI needs. Chat with advanced AI, generate images and videos, build custom chatbots, and create content across 40+ languages. | **40% OFF** with discount code **BF2025** |
 | 📚 | [UnlimitedTales](https://unlimitedtales.com/) | AI Storybook generator for kids. Create a unique storybook for your child in just 5 minutes. Perfect for special gifts or bonding moments. | **35% off on Black Friday 5-story bundle** for limited time. |
 | 📖 | [Novel Translator](https://noveltranslator.com/) | Translate Chinese, Japanese, Korean novels. Optimized for fiction, Chinese Web Covels, Xianxia, Korean novels. Auto Glossary Generation and Character image generation along with fixed upfront pricing for your novel | **30% off** Pro and above plans with code **BLACKFRIDAY** Until Dec 1st. |
-
+| 🎹 | [MusicSmith](https://musicsmith.ai/?utm_source=tonybf) | Create studio-quality music in seconds with AI and without subscriptions. Add custom lyrics & names, control every musical detail. Per-second pricing, no subscription. | Save **up to 59%** on credit packs (code auto-applied). |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -384,6 +384,7 @@ Total deals: 223
 | 💸 | [duodollar](https://www.duodollar.com?utm_source=tonybf) | Master your money with zero-based budgeting, rule-based auto-categorization, manual or Plaid-synced accounts & transactions, spending trends, and net-worth tracking | 50% OFF 3 months with code **TONYFRIDAY50** |
 | 💸 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 | 💸 | [BudgetSheet](https://www.budgetsheet.com?utm_source=tonybf) | Live Bank Transactions + Google Sheets. The Easiest Way To Import Bank Transactions Into Google Sheets. | 25% off recurring FOR LIFE with code **BFCM2025** |
+| 💹 | [Notion Finance Tracker](https://www.notionfinancetracker.com/utm_source=tonybf) | API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | 50% off with code **BF2025**. | 
 
 
 ⬆️ | [Go to Top](#table-of-contents)
