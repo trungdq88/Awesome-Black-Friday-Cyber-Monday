@@ -252,6 +252,7 @@ Total deals: 181
 | 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
 | 🌧️ | [Rainaissance](https://rainaissance.app/) | A beautiful rain simulation on your Mac with wonderful splashes and relaxing rain sounds. It works in fullscreen, on all your monitors, and is highly customizable. Runs on your GPU using metal shaders. macOS only. | **39% OFF** one time purchase - auto applied at checkout |
 | ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
+| ⏲️ | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -395,6 +396,7 @@ Total deals: 181
 | 🗜️ | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025**, Nov 20 - Dec 2 |
 | 📱 | [PortDroid](https://www.portdroid.net/black-friday-2025) | Android Port Scanner & Networking Swiss Army Knife. Fast scans, host discovery, DNS tools, Wake-on-LAN, and more. | ~50% OFF with code **CYBER_2025**, Nov 11 – Dec 4 |
 | 🙈 | [Safe Screen Share](https://safescreenshare.com) | Blur out personal info while sharing your screen or taking a screenshot. | 60% OFF Lifetime with code `BF25` |
+| 🛜 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
