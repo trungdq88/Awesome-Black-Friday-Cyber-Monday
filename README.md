@@ -201,6 +201,8 @@ Total deals: 223
 | 🎥 | [ScreenSage Pro](https://screensage.pro?ref=trung) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |
 | 📄 | [Pagy](https://pagy.co) | Simple and free drag-and-drop website builder. Pagy is the fastest way to go from idea to live website. | **30% OFF** forever on yearly subscriptions with code **BF2025** |
 | 🧑‍🎨 | [Instagen](https://www.instagen.app/) | Instantly Create High-Quality Images & Videos. | Use code **BLACKFRIDAY2025** at checkout to get 25% off |
+| 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** |
+| ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -372,6 +374,8 @@ Total deals: 223
 | 🔖 | [TweetsMash](https://www.tweetsmash.com?ref=tonybf)￼ | Import, search, organize, and export all your Twitter/X bookmarks with AI. Notion/Sheets sync with API access, List Digest, and powerful filters. | 30% OFF with code **TONYDEALS2025** |
 | 💼 | [LinkedMash](https://www.linkedmash.com?ref=tonybf)￼ | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
+| 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
