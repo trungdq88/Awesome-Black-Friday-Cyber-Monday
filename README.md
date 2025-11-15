@@ -144,6 +144,7 @@ Total deals: 180
 |  | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2 |
 | ⚙️ | [Meku.dev](https://meku.dev/pricing) | AI web app and site builder — turn prompts into production-ready React projects and starter apps. | **30% OFF** Yearly + Free FormBold Starter — code `BLFCM2025` |
 | 📆 | [Lumical - Scan to Calendar](https://apps.apple.com/us/app/lumical-scan-to-calendar/id6753274309) | Never type meetings manually, scan them into ready-to-save calendar events in seconds. | **67% OFF Lifetime License** with code **BLACKFRIDAY25** |
+| 📱 | [FluxBuilder.com](https://fluxbuilder.com/blackfriday2025) | AI-Powered App Builder Turn Your Website Into an App in Minutes. | **50% OFF** All Plans — code `BF2025` |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
