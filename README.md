@@ -279,6 +279,7 @@ Total deals: 223
 | ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
 | 📱 | [Mango - Twilio Calls, Texts, RCS](https://apps.apple.com/us/app/mango-twilio-calls-sms-rcs/id6504444689) | Separate work and personal life with multiple phone lines powered by Twilio. Full-featured iOS app with calls, texts, MMS, RCS messaging, and voicemail support. | **67% OFF** for one year between 24 Nov and 1 Dec (no code needed) |
 | 🕕 | [TimeWave - Timer Chains](https://apps.apple.com/app/id1524345488) | Create timer-chains for all your sequential tasks with a modern black & white design. | **50% OFF** Lifetime Family Purchase between Nov 28 and Dec 3. |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=tonybf&promocode=TONYBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **TONYBF50** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
