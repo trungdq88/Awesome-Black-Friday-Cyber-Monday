@@ -427,5 +427,6 @@ Total deals: 223
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
 | 🎙️  | [Podigy Podcast Player](https://apps.apple.com/us/app/podcast-player-podigy/id6473860416) | Best in class podcast player for iPhone, iPad and Mac. Trim silence, boost voices, CarPlay support and more.                                                                                                                              | 30% off on annual plan via the App Store. |
+| 🤖 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | Grow your LinkedIn without living on it. Train AI on your writing, automate personalized DMs/comments, schedule posts, track contacts. Built for busy professionals. | **60% OFF** annual plan with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
