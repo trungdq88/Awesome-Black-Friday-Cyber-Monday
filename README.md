@@ -101,6 +101,7 @@ Total deals: 223
 | 🛠️ | [Aba Search and Replace](https://www.abareplace.com/) | A multi-purpose tool for fast, safe text updates across multiple files and data conversions. Built for developers, testers, and analysts. | **30% discount** with code `Sale2025` |
 | 🔥 | [Snov.io](https://snov.io/) | Email finder and verifier tool that helps discover professional email addresses for your prospects using domains, company names, LinkedIn, or custom search filters. | **50% off annual plan** with discount code **BLACKFRIDAY** |
 | 🔥 | [Pagerly](https://pagerly.io/?ref=tonybf) | Oncalls, Rotations, Incidents,  Tasks on Slack/Teams with Ease ! | **20% off forever** with discount code **BF2025** |
+| 🚀 | [QuickDeploy](https://quickdeploy.dev/?ref=tonybf) | Deploy your web app to a VPS with one command! | **20% OFF** with discount code **BF25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
