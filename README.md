@@ -343,7 +343,7 @@ Total deals: 181
 | 📚 | [Guidejar](https://www.guidejar.com?utm_source=tonybf) | Guidejar helps teams document how things work through AI-powered interactive walkthroughs that keep everyone aligned and up to speed. | 25% OFF with code **BFCM25**
 | 📱 | [NotionApps](https://www.notionapps.com/?utm_source=tonybf) | Build apps & portals from Notion databases with row-level and property-level data sharing, no coding required | 30% OFF on all plans, use code **BLACKFRIDAY25**
 | ☀️ | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. | 70% OFF Coupon Auto-Applied
-
+| ✍️ | [BoloSign](https://boloforms.com/) | The eSignature Platform for Small Businesses Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| 50% OFF with code **`50BOLOBFCM`** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
