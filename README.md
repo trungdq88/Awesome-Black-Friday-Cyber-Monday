@@ -152,6 +152,7 @@ Total deals: 223
 | 📱 | [FluxBuilder.com](https://fluxbuilder.com/blackfriday2025) | AI-Powered App Builder Turn Your Website Into an App in Minutes. | **50% OFF** All Plans — code `BF2025` |
 | 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
 | 🗣️ | [HoldSpeak](https://holdspeak.com/?utm_source=tonybf) | Type 3x faster with AI powered voice to text. Fast and accurate dictation in every application with on-device models | 25% OFF with code **BLACKFRIDAY2025** |
+| 📚 | [NewWord](https://newword.app) | AI powered vocabulary builder. Supports the vast majority of languages. AI words examples and extensions.| **20% OFF** in AppStore |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
