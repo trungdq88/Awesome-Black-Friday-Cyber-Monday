@@ -190,6 +190,7 @@ Total deals: 181
 | 〰️ | [Ruri Lines](https://ruri.design/lines?referrer=Awesome-Black-Friday-Cyber-Monday) | Transform any image into a stunning wave-line effect in seconds. Create eye-catching vector line distortion effects to add depth and texture to your designs. | Use code **BF2025** at checkout to get 15% off |
 | 🖌️ | [illustration.app](https://illustration.app) | Create consistent illustrations in seconds. | 30% OFF first month with code **BLACKFRIDAY2025** |
 | 🎥 | [ScreenSage Pro](https://screensage.pro?ref=trung) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |
+| 📄 | [Pagy](https://pagy.co) | Simple and free drag-and-drop website builder. Pagy is the fastest way to go from idea to live website. | **30% OFF** forever on yearly subscriptions with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
