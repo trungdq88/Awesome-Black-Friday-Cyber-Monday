@@ -305,6 +305,7 @@ Total deals: 180
 | 🔗 | [LinkDR](https://linkdr.com/?utm_source=tonybf) | Backlink and authority-building SaaS platform. Automated link building through warm connection building and cold email marketing. Marketplace for buying quality backlinks and building domain authority. | 20% OFF with code **BF25** |
 | 🚀 | [GSCTool.com](https://www.gsctool.com/?utm_source=tonybf) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2025** |
 | 📊 | [Promptwatch](https://promptwatch.com) | Promptwatch tracks your visibility in AI search like ChatGPT, captures real prompts and volumes, helps you create content, monitors social citations, and keeps your brand top-of-mind. | **50% OFF** with code **BF50**
+| 🤖 | [ShowUpInAI](https://showupinai.com) | Get Cited in ChatGPT and more! We push every new or changed page to Bing, helping AI assistants cite your site. | **25% OFF** with code **BLACKFRIDAY25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
