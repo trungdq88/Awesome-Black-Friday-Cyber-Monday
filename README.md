@@ -119,6 +119,7 @@ Total deals: 181
 | 🐇 | [RabbitHoles AI](https://rabbitholes.ai/?utm_source=tonybf) | Chat With AI models on an Infinite Canvas | 51% OFF **BLACKFRIDAY2025** |
 | 🧠 | [Aymo AI](http://aymo.ai/pricing) | Multi-model AI workspace (GPT / Claude / Gemini + routing) for teams and product workflows. | **20% OFF** Premium Yearly — code `BLFCM2025` |
 | 🧠 | [Haye AI](http://haye.ai/) | Chat with any apps, text, screenshots,files on your macOS. A private macOS AI assistant that lets you experience top-tier models like GPT-5, Claude Sonnet 4.5, DeepSeek R1, and Gemini 2.5 Pro in a single app. | 20 x **BF40** 40% OFF, 100 x **BF20** 20% OFF |
+| 🧠 | [Loomr](https://loomr.co/) | Loomr lets you build a standalone AI Agent in minutes, ready to handle inquiries, engage your audience, answer questions, and qualify leads with a simple link. | **BLACKFRIDAY2025** 50% OFF |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -194,6 +195,8 @@ Total deals: 181
 | 🖌️ | [illustration.app](https://illustration.app) | Create consistent illustrations in seconds. | 30% OFF first month with code **BLACKFRIDAY2025** |
 | 🎥 | [ScreenSage Pro](https://screensage.pro?ref=trung) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025** |
 | 📄 | [Pagy](https://pagy.co) | Simple and free drag-and-drop website builder. Pagy is the fastest way to go from idea to live website. | **30% OFF** forever on yearly subscriptions with code **BF2025** |
+| 🧑‍🎨 | [Instagen](https://www.instagen.app/) | Instantly Create High-Quality Images & Videos. | Use code **BLACKFRIDAY2025** at checkout to get 25% off |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
