@@ -309,6 +309,7 @@ Total deals: 181
 | ✉️ | [Lettermint](https://lettermint.co) | Lettermint is your EU partner for transactional emails that arrive, built in Europe for businesses that value reliability and privacy. | Get 30% off all Lettermint plans for the next 6 months with code `BF2025` |
 | 🧠 | [Mindreader](https://themindreader.ai) | Mindreader helps sales professionals see client signals competitors can't - and close up to 50% more deals. Powered by world-leading Face Reading and personality AI trusted by 3500+ salespeople, it helps founders, consultants and business developers avoid losing deals over a single wrong word. It reduces anxiety and guesswork by instantly revealing each client's decision style. | 70% OFF any plan with code **TDBLACKFRIDAY2025** before 1 Dec 2025 |
 | 💰 | [Evendeals](https://evendeals.com) | Get **30%** more sales from emerging countries with purchasing power parity discounts.  | Get 60% off Lifetime with code `BF25` |
+| ✉️ | [Rising Trends](https://risingtrends.co) | The 1# trends spotting tool built for indie entrepreneurs. Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | Get 40% off using code `BF2025`. Redeem until Dec 7, 2025. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
