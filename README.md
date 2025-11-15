@@ -268,6 +268,7 @@ Total deals: 180
 | 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
 | 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
 | 🤙 | [CSVtoSheets](https://csvtosheets.com/?utm_source=bf) | A tiny macOS app: Double-Click Any CSV Opens in Google Sheets! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
+| ✍️ | [BoloForms](https://boloforms.com/?utm_source=bf) | The eSignature Platform for Small Businesses - Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever. | Code: **BFCMXBOLO25** 25% OFF LifeTime.
 
 ⬆️ | [Go to Top](#table-of-contents)
 
