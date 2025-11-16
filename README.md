@@ -260,6 +260,7 @@ Total deals: 223
 | 🌧️ | [Rainaissance](https://rainaissance.app/) | A beautiful rain simulation on your Mac with wonderful splashes and relaxing rain sounds. It works in fullscreen, on all your monitors, and is highly customizable. Runs on your GPU using metal shaders. macOS only. | **39% OFF** one time purchase - auto applied at checkout |
 | ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
 | ⏲️ | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
+| 👀 | [Pausitive](https://pausitive.app?utm_source=tonybf) | Smart Break Timer App, for your posture and eyes. Maintain your health by making smart breaks Win&Mac | **30% OFF** all Licenses (OTP) with code **Black30** till CyberMonday, on Checkout |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
