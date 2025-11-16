@@ -323,6 +323,7 @@ Total deals: 223
 | ✉️ | [Rising Trends](https://risingtrends.co) | The 1# trends spotting tool built for indie entrepreneurs. Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | Get 40% off using code `BF2025`. Redeem until Dec 7, 2025. |
 | 🤑 | [ParityKit](https://www.paritykit.com?ref=tonybf) | Boost your sales automatically by offering location-based discounts that boost conversions and grow your global revenue. | Get 50% off all plans with code `BLACKFRIDAY25` |
 | 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
+| 📷 | [Evelize](https://evelize.com?utm_source=tonybf) | Video teleprompter. Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level.| Get **53% off Premium Lifetime deal** for <s>$149</s> $69, no promocode required, redeem until 6 Dec, 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
