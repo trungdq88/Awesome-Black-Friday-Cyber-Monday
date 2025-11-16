@@ -43,7 +43,7 @@ Total deals: 238
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (13)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (24)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (16)](#-other-ai-tools)
+	- [✨ Other AI tools (17)](#-other-ai-tools)
 - [🌅 Design Tools (21)](#-design-tools)
 - [🌈 Marketing Tools (23)](#-marketing-tools)
 - [🔍 SEO Tools (9)](#-seo-tools)
