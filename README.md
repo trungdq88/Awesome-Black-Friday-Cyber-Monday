@@ -32,11 +32,6 @@ Total deals: 238
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (16)](#-developer-macos-apps)
 	- [💻 Tools & Services (21)](#-tools--services)
-- [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (13)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (24)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (16)](#-other-ai-tools)
-- [🌅 Design Tools (21)](#-design-tools)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (14)](#tasks-organize-planning)
@@ -45,6 +40,11 @@ Total deals: 238
 		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (6)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (4)](#️-productivity-tools--services)
+- [🤖 AI Tools ](#-ai-tools)
+	- [💬 AI Chat UI (13)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (24)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (16)](#-other-ai-tools)
+- [🌅 Design Tools (21)](#-design-tools)
 - [🌈 Marketing Tools (23)](#-marketing-tools)
 - [🔍 SEO Tools (9)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (10)](#-startup-saastools)
@@ -107,6 +107,97 @@ Total deals: 238
 
 
 ⬆️ | [Go to Top](#table-of-contents)
+
+## 🔥 Productivity
+### 🖥️ Productivity Desktop Apps
+
+#### Tasks, Organize, Planning
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
+| 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
+| 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
+| 📸 | [Shotomatic](https://shotomatic.com?utm_source=tonybf) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
+| 🔖 | [Anybox](https://anybox.app) | Bookmarking app on macOS and iOS. | **30% OFF** on App Store |
+| 🌐 | [Pola Browser](https://polabrowser.com/?utm_source=trungdq88-black-friday-2025) | macOS browser for maximum productivity: persistent tab folders, project profiles, research mode with visual trees, AI tools, ad-blocking, and Keychain integration. Free basics + All Access for advanced features. | **3 months FREE** on All Access with code **3MONTHF6S**, then Lifetime License at $19.99 |
+| 📥 | [Email Me](https://emailmeapp.net) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** on App Store |
+| 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 50% OFF 
+| 🔎 | [Fenn](https://usefenn.com/?utm_source=black-friday-2025) | AI File Search Agent for MacOS | **50% OFF** with code **BLACKFRIDAY** |
+| ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans with code **SUPERFRIDAY2025** |
+| 📅 | [DaySchedule](https://dayschedule.com?utm_source=tonybf) | Appointment scheduling software for 1:1, Group and round-robin bookings. | **50% OFF** on annual plan with code **BLACKFRIDAY** |
+| 📊 | [WhatPulse](https://whatpulse.org/?ref=abfcm) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
+| 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
+| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+#### Window, Screen, Clipboard, Utilities
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| ⭐ | [Wins](https://wins.cool?utm_source=tonybf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime Plan **BLACKFRIDAY2025** |
+| 💥 | [DockX](https://DockX.app) | Magic app that allows you to display any content in the Dock and Menu bar. | App Store **25% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
+| ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BF25** |
+| 📁 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick look folders and archive files on macOS. | **30% OFF** with discount code **BF2025** at checkout |
+| 🐭 | [Lasso](https://thelasso.app) | Grid-based, intuitive and fast Window Manager. Pay once, use forever | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** |
+| ✨ | [TextSniper](https://textsniper.app) | Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 75% OFF with code **BFCM25** |
+| ⌨️ | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - Stay in flow and reduce wrist strain with keyboard-only Mac control. | **50% OFF** (auto-applied) |
+| 🎹 | [Assignee](https://assignee.app) | A lightning-fast app switcher for macOS. No frills, just pure speed. | **30% OFF** with code **BFCM25** at checkout |
+| ☁️ | [Dropshare](https://dropshare.app) | Upload screen shots, recordings, and any other files to a storage provider of your choice. macOS only. | **US$10 OFF** with code **blackfriday2025** at checkout on Nov 28th |
+| 🪟 | [ShiftPlus](https://shiftplus.app) | A native macOS app that lets you effortlessly create, switch between, and manage browser profiles with workflows, shortcuts and automation tailored for multi-project users. | **30% OFF** with code **G5ODQWMQ** at checkout|
+| 📋 | [CleanClip](https://cleanclip.cc?ref=trung) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
+| 🪐 | [OrbitRing](https://orbitring.app) | macOS quick launcher like GTA weapon wheel. Supports open apps / websites / files / folder. | App Store **20% OFF** |
+| 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 50% OFF with code **BLACKFRIDAY25**|
+
+
+⬆️ | [Go to Top](#table-of-contents)
+
+#### Time, Distraction, Focus
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
+| 🌧️ | [Rainaissance](https://rainaissance.app/) | A beautiful rain simulation on your Mac with wonderful splashes and relaxing rain sounds. It works in fullscreen, on all your monitors, and is highly customizable. Runs on your GPU using metal shaders. macOS only. | **39% OFF** one time purchase - auto applied at checkout |
+| ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
+| ⏲️ | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+#### Miscellaneous Productivity Apps
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
+| 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
+
+
+⬆️ | [Go to Top](#table-of-contents)
+
+### 📱 Productivity Mobile Apps
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 📚 | TTS Reader [iOS](https://apps.apple.com/us/app/id6746346171) [Android](https://play.google.com/store/apps/details?id=voice.reader.ai) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
+| ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
+| 📱 | [Mango - Twilio Calls, Texts, RCS](https://apps.apple.com/us/app/mango-twilio-calls-sms-rcs/id6504444689) | Separate work and personal life with multiple phone lines powered by Twilio. Full-featured iOS app with calls, texts, MMS, RCS messaging, and voicemail support. | **67% OFF** for one year between 24 Nov and 1 Dec (no code needed) |
+| 🕕 | [TimeWave - Timer Chains](https://apps.apple.com/app/id1524345488) | Create timer-chains for all your sequential tasks with a modern black & white design. | **50% OFF** Lifetime Family Purchase between Nov 28 and Dec 3. |
+| ⭐ | [Luckynote](https://www.luckynote.io/?ref=tonybf&promocode=TONYBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **TONYBF50** |
+
+⬆️ | [Go to Top](#table-of-contents)
+
+### 🛠️ Productivity Tools & Services
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
+| 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
+| 🤙 | [CSVtoSheets](https://csvtosheets.com/?utm_source=bf) | A tiny macOS app: Double-Click Any CSV Opens in Google Sheets! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
+| ✍️ | [BoloForms](https://boloforms.com/?utm_source=bf) | The eSignature Platform for Small Businesses - Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever. | Code: **BFCMXBOLO25** 25% OFF LifeTime.
+
+⬆️ | [Go to Top](#table-of-contents)
+
 
 ## 🤖 AI Tools
 
@@ -213,95 +304,6 @@ Total deals: 238
 
 ⬆️ | [Go to Top](#table-of-contents)
 
-## 🔥 Productivity
-### 🖥️ Productivity Desktop Apps
-
-#### Tasks, Organize, Planning
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
-| 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
-| 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
-| 📸 | [Shotomatic](https://shotomatic.com?utm_source=tonybf) | Easily archive eBooks, dashboards, and long-page documents through automated screenshots. | **40% OFF** Lifetime Version with code **BF2025** | 2025-12-01 |
-| 🔖 | [Anybox](https://anybox.app) | Bookmarking app on macOS and iOS. | **30% OFF** on App Store |
-| 🌐 | [Pola Browser](https://polabrowser.com/?utm_source=trungdq88-black-friday-2025) | macOS browser for maximum productivity: persistent tab folders, project profiles, research mode with visual trees, AI tools, ad-blocking, and Keychain integration. Free basics + All Access for advanced features. | **3 months FREE** on All Access with code **3MONTHF6S**, then Lifetime License at $19.99 |
-| 📥 | [Email Me](https://emailmeapp.net) | The fatest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. | **50% OFF** on App Store |
-| 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 50% OFF 
-| 🔎 | [Fenn](https://usefenn.com/?utm_source=black-friday-2025) | AI File Search Agent for MacOS | **50% OFF** with code **BLACKFRIDAY** |
-| ✅ | [Superlist](https://app.superlist.com) | The all-in-one task app that helps busy people organize work, home, and everything in between. | **50% OFF** your first year on all annual plans with code **SUPERFRIDAY2025** |
-| 📅 | [DaySchedule](https://dayschedule.com?utm_source=tonybf) | Appointment scheduling software for 1:1, Group and round-robin bookings. | **50% OFF** on annual plan with code **BLACKFRIDAY** |
-| 📊 | [WhatPulse](https://whatpulse.org/?ref=abfcm) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
-| 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
-| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
-
-⬆️ | [Go to Top](#table-of-contents)
-
-#### Window, Screen, Clipboard, Utilities
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| ⭐ | [Wins](https://wins.cool?utm_source=tonybf) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime Plan **BLACKFRIDAY2025** |
-| 💥 | [DockX](https://DockX.app) | Magic app that allows you to display any content in the Dock and Menu bar. | App Store **25% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
-| ⭐ | [Radar](https://getradar.co) | Track important metrics from your menubar with analytics & threshold alerts. Available for macOS, Windows, Linux, Android & iOS. | 30% OFF with code **BF25** |
-| 📁 | [Folder Preview Pro](https://anybox.ltd/folder-preview-pro) | Quick look folders and archive files on macOS. | **30% OFF** with discount code **BF2025** at checkout |
-| 🐭 | [Lasso](https://thelasso.app) | Grid-based, intuitive and fast Window Manager. Pay once, use forever | **50% OFF** on Single and Personal licence types with code **BLACKFRIDAY25** |
-| ✨ | [TextSniper](https://textsniper.app) | Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 75% OFF with code **BFCM25** |
-| ⌨️ | [KeyboardStack](https://keyboardstack.com) | Control your Mac entirely from the keyboard - Stay in flow and reduce wrist strain with keyboard-only Mac control. | **50% OFF** (auto-applied) |
-| 🎹 | [Assignee](https://assignee.app) | A lightning-fast app switcher for macOS. No frills, just pure speed. | **30% OFF** with code **BFCM25** at checkout |
-| ☁️ | [Dropshare](https://dropshare.app) | Upload screen shots, recordings, and any other files to a storage provider of your choice. macOS only. | **US$10 OFF** with code **blackfriday2025** at checkout on Nov 28th |
-| 🪟 | [ShiftPlus](https://shiftplus.app) | A native macOS app that lets you effortlessly create, switch between, and manage browser profiles with workflows, shortcuts and automation tailored for multi-project users. | **30% OFF** with code **G5ODQWMQ** at checkout|
-| 📋 | [CleanClip](https://cleanclip.cc?ref=trung) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
-| 🪐 | [OrbitRing](https://orbitring.app) | macOS quick launcher like GTA weapon wheel. Supports open apps / websites / files / folder. | App Store **20% OFF** |
-| 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 50% OFF with code **BLACKFRIDAY25**|
-
-
-⬆️ | [Go to Top](#table-of-contents)
-
-#### Time, Distraction, Focus
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🕑 | [Chronoid](https://www.chronoid.app/?utm_source=tonybf) | AI-powered time tracking with website blocking and productivity insights. Automatically categorize activities, block distractions, stay focused, all private on Mac. | 50% OFF Lifetime Version **BLACKFRIDAY** |
-| 🌧️ | [Rainaissance](https://rainaissance.app/) | A beautiful rain simulation on your Mac with wonderful splashes and relaxing rain sounds. It works in fullscreen, on all your monitors, and is highly customizable. Runs on your GPU using metal shaders. macOS only. | **39% OFF** one time purchase - auto applied at checkout |
-| ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
-| ⏲️ | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
-
-⬆️ | [Go to Top](#table-of-contents)
-
-#### Miscellaneous Productivity Apps
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
-| 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
-
-
-⬆️ | [Go to Top](#table-of-contents)
-
-### 📱 Productivity Mobile Apps
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
-| 📚 | TTS Reader [iOS](https://apps.apple.com/us/app/id6746346171) [Android](https://play.google.com/store/apps/details?id=voice.reader.ai) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
-| ⏳ | [Pretty Progress - Countdown](https://prettyprogress.app/download) | Beautiful countdown widgets on your Home Screen & Lock Screen (iOS & Android). | **50% OFF** Lifetime plan between 24 Nov and 3 Dec |
-| 📱 | [Mango - Twilio Calls, Texts, RCS](https://apps.apple.com/us/app/mango-twilio-calls-sms-rcs/id6504444689) | Separate work and personal life with multiple phone lines powered by Twilio. Full-featured iOS app with calls, texts, MMS, RCS messaging, and voicemail support. | **67% OFF** for one year between 24 Nov and 1 Dec (no code needed) |
-| 🕕 | [TimeWave - Timer Chains](https://apps.apple.com/app/id1524345488) | Create timer-chains for all your sequential tasks with a modern black & white design. | **50% OFF** Lifetime Family Purchase between Nov 28 and Dec 3. |
-| ⭐ | [Luckynote](https://www.luckynote.io/?ref=tonybf&promocode=TONYBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **TONYBF50** |
-
-⬆️ | [Go to Top](#table-of-contents)
-
-### 🛠️ Productivity Tools & Services
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-| 📋  | [Copy Text Easily](https://devapt.com/copy-text-easily?utm_source=ghbf) | Copy any text with one click—no selection needed. Searchable clipboard history saves 50+ hours/year. 30K+ active users. | 30% OFF with code **30BF2025** |
-| 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
-| 🤙 | [CSVtoSheets](https://csvtosheets.com/?utm_source=bf) | A tiny macOS app: Double-Click Any CSV Opens in Google Sheets! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
-| ✍️ | [BoloForms](https://boloforms.com/?utm_source=bf) | The eSignature Platform for Small Businesses - Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever. | Code: **BFCMXBOLO25** 25% OFF LifeTime.
-
-⬆️ | [Go to Top](#table-of-contents)
 
 ## 🌈 Marketing Tools
 
