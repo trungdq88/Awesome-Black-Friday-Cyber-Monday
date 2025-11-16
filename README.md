@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 238
+Total deals: 239
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (16)](#-developer-macos-apps)
@@ -39,7 +39,7 @@ Total deals: 238
 		- [Time, Distraction, Focus (4)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (6)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (4)](#️-productivity-tools--services)
+	- [🛠️ Productivity Tools & Services (5)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (13)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (24)](#-ai-productivity--learning-tools)
@@ -195,6 +195,7 @@ Total deals: 238
 | 🗄️ | [Motherboard](https://trymotherboard.com/?utm_source=tonyghbf) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) |
 | 🤙 | [CSVtoSheets](https://csvtosheets.com/?utm_source=bf) | A tiny macOS app: Double-Click Any CSV Opens in Google Sheets! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
 | ✍️ | [BoloForms](https://boloforms.com/?utm_source=bf) | The eSignature Platform for Small Businesses - Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever. | Code: **BFCMXBOLO25** 25% OFF LifeTime.
+| 🛠️ | [UtilBolt](https://www.utilbolt.com/black-friday) | Black Friday Super Bundle: 115+ productivity & developer tools. One-time payment. Lifetime access to 4 tools + 1 year UnifyMe + free ChromePilot quarterly plan. | 82% OFF at $129 (was $705)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
