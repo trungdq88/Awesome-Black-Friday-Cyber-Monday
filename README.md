@@ -253,6 +253,7 @@ Total deals: 223
 | 🪟 | [ShiftPlus](https://shiftplus.app) | A native macOS app that lets you effortlessly create, switch between, and manage browser profiles with workflows, shortcuts and automation tailored for multi-project users. | **30% OFF** with code **G5ODQWMQ** at checkout|
 | 📋 | [CleanClip](https://cleanclip.cc?ref=trung) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
 | 🪐 | [OrbitRing](https://orbitring.app) | macOS quick launcher like GTA weapon wheel. Supports open apps / websites / files / folder. | App Store **20% OFF** |
+| 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 50% OFF with code **BLACKFRIDAY25**|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
