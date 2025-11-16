@@ -204,6 +204,7 @@ Total deals: 223
 | 🧑‍🎨 | [Instagen](https://www.instagen.app/) | Instantly Create High-Quality Images & Videos. | Use code **BLACKFRIDAY2025** at checkout to get 25% off |
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** |
+| 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | **Life time Deal $9** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -323,7 +324,7 @@ Total deals: 223
 | ✉️ | [Rising Trends](https://risingtrends.co) | The 1# trends spotting tool built for indie entrepreneurs. Never miss a trending niche again! (Get access to 12,000 trending markets as well trending apps, mega trends and niche reports) | Get 40% off using code `BF2025`. Redeem until Dec 7, 2025. |
 | 🤑 | [ParityKit](https://www.paritykit.com?ref=tonybf) | Boost your sales automatically by offering location-based discounts that boost conversions and grow your global revenue. | Get 50% off all plans with code `BLACKFRIDAY25` |
 | 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
-
+| 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | **Life time Deal $9** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔍 SEO Tools
@@ -356,6 +357,7 @@ Total deals: 223
 | 📱 | [NotionApps](https://www.notionapps.com/?utm_source=tonybf) | Build apps & portals from Notion databases with row-level and property-level data sharing, no coding required | 30% OFF on all plans, use code **BLACKFRIDAY25**
 | ☀️ | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. | 70% OFF Coupon Auto-Applied
 | ✍️ | [BoloSign](https://boloforms.com/) | The eSignature Platform for Small Businesses Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| 50% OFF with code **`50BOLOBFCM`** |
+| 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | **Life time Deal $9** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -376,7 +378,7 @@ Total deals: 223
 | 💼 | [LinkedMash](https://www.linkedmash.com?ref=tonybf)￼ | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** |
-
+| 🖼️ | [SnapShots](https://www.getsnapshots.app/image-editor) | Turn your boring screenshots into stunning visuals. Create beautiful mockups, Open Graph images, and social banners effortlessly with zero design skills. | **Life time Deal $9** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
