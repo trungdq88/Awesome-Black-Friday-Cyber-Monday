@@ -155,6 +155,7 @@ Total deals: 223
 | 🎙️ | [VoicePen](https://apps.apple.com/app/id6462815872) | Speech to text AI note taker. For meetings, lectures, voice memos, files, youtube, podcasts, and web links. Native on all  Apple devices: iPhone, iPad, Mac, Watch. | **30% OFF** with code **BLACKFRIDAY25** *plus free week trial* |
 | 🗣️ | [HoldSpeak](https://holdspeak.com/?utm_source=tonybf) | Type 3x faster with AI powered voice to text. Fast and accurate dictation in every application with on-device models | 25% OFF with code **BLACKFRIDAY2025** |
 | 🚀 | [Side Space](https://sidespace.app/?utm_source=tonybf) | The World First AI Assistant for your Tabs | 40% OFF with code **BF40** |
+| 📚 | [NewWord](https://newword.app) | AI powered vocabulary builder. Supports the vast majority of languages. AI words examples and extensions.| **20% OFF** in AppStore |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
