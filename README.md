@@ -311,6 +311,7 @@ Total deals: 239
 | 🎥 | [Stargazer](https://gostargazer.com/) | Easily create custom, themed video intros and outros for projects like presentations, videos, and invitations. | **20% OFF** with code **BLACKFRIDAY20** |
 | 🖼️ | [Digital Photo Frame Slideshows](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful slideshows. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required |
 | 🖼️ | [Frame0](https://frame0.app/) | A sleek Balsamiq-alternative AI supported low-fi wireframing tool for modern apps | **30% OFF** with code **BFCM2025** |
+| 🔡 | [FontVisual](https://fontvisual.com/) | The font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | **40% OFF** the first year with code **BFCM2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
