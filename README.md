@@ -26,7 +26,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ## Table of Contents
-Total deals: 257
+Total deals: 258
 
 - [👨‍💻 Developer Tools (40)](#‍-developer-tools)
 	- [💻 Developer macOS Apps (18)](#-developer-macos-apps)
@@ -36,7 +36,7 @@ Total deals: 257
 		- [Tasks, Organize, Planning (15)](#tasks-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (13)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (4)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
+		- [Miscellaneous Productivity Apps (3)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (6)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (5)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
