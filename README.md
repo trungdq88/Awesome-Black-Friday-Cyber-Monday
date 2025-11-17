@@ -252,6 +252,7 @@ Total deals: 239
 | 🚀 | [Side Space](https://sidespace.app/?utm_source=tonybf) | The World First AI Assistant for your Tabs | 40% OFF with code **BF40** |
 | 📚 | [NewWord](https://newword.app) | AI powered vocabulary builder. Supports the vast majority of languages. AI words examples and extensions.| **20% OFF** in AppStore |
 | 🎧 | [Podwise](https://podwise.ai/?utm_source=tonybf) | Listen faster, understand deeper — AI summaries, transcripts, mind maps for any podcast. | **40% OFF Forever** with code **BF2025**
+| 🎤 | [Speakmac](https://speakmac.app/?utm_source=tonybf) | Offline speech-to-text for macOS. Press a hotkey to dictate into any app with instant, punctuation-perfect text and no subscription. | Black Friday pricing: Personal now **$14** (was $19) and Pro now **$22** (was $29) one-time with code **SPEAK25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
