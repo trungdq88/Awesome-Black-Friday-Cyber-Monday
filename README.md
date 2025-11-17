@@ -36,12 +36,12 @@ Total deals: 258
 		- [Tasks, Organize, Planning (15)](#tasks-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (13)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (4)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (3)](#miscellaneous-productivity-apps)
+		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (6)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (5)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (15)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (26)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (27)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (18)](#-other-ai-tools)
 - [🌅 Design Tools (24)](#-design-tools)
 - [🌈 Marketing Tools (24)](#-marketing-tools)
@@ -176,7 +176,6 @@ Total deals: 258
 | -- | ---| ------ | ------ |
 | 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
 | 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
-| 🤖 | [PromptlyAI](https://apps.apple.com/us/app/promptlyai-your-ai-shortcut/id6751836264?mt=12) | Instant AI in any macOS context. Select text anywhere and transform it with AI commands. Your AI shortcut for writing, editing, and content transformation directly in any app. | Special offer with code **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -261,6 +260,7 @@ Total deals: 258
 | 🎧 | [Podwise](https://podwise.ai/?utm_source=tonybf) | Listen faster, understand deeper — AI summaries, transcripts, mind maps for any podcast. | **40% OFF Forever** with code **BF2025**
 | 🎤 | [Speakmac](https://speakmac.app/?utm_source=tonybf) | Offline speech-to-text for macOS. Press a hotkey to dictate into any app with instant, punctuation-perfect text and no subscription. | Black Friday pricing: Personal now **$14** (was $19) and Pro now **$22** (was $29) one-time with code **SPEAK25** |
 | 💥 | [TypeBoost](https://www.typeboost.ai/?utm_source=trungdq88-black-friday-2025) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | 60% OFF all plans for 6 months with code **BF2025** |
+| 🤖 | [PromptlyAI](https://apps.apple.com/us/app/promptlyai-your-ai-shortcut/id6751836264?mt=12) | Instant AI in any macOS context. Select text anywhere and transform it with AI commands. Your AI shortcut for writing, editing, and content transformation directly in any app. | Special offer with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
