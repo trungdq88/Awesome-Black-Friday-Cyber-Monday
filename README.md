@@ -343,6 +343,7 @@ Total deals: 256
 | 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
 | 📷 | [Evelize](https://evelize.com?utm_source=tonybf) | Video teleprompter. Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level.| Get **53% off Premium Lifetime deal** for <s>$149</s> $69, no promocode required, redeem until 6 Dec, 2025 |
 | ☎️ | [Ring Tonic](https://ringtonic.app/?utm_source=tonybf) | Ring Tonic makes call tracking refreshingly simple — just like a good Gin & Tonic. Every call tracked. Every word transcribed. Every task automated with AI: sentiment and keyword spotting, lead qualification, deal estimation, and more. Plus white-label reports, API & webhooks, team management, unlimited workspaces, unlimited tracking numbers, and unlimited campaigns.| **30-35% off forever**, no discount code required, available until 2 Dec, 2025 |
+| 🛡️​ | [DMARCTrust](https://www.dmarctrust.com)|Does your email reach your customers’ inboxes? We will help understand and finetune your DMARC policies! | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
