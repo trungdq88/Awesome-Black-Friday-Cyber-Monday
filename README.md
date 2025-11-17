@@ -349,6 +349,7 @@ Total deals: 257
 | 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
 | 📷 | [Evelize](https://evelize.com?utm_source=tonybf) | Video teleprompter. Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level.| Get **53% off Premium Lifetime deal** for <s>$149</s> $69, no promocode required, redeem until 6 Dec, 2025 |
 | ☎️ | [Ring Tonic](https://ringtonic.app/?utm_source=tonybf) | Ring Tonic makes call tracking refreshingly simple — just like a good Gin & Tonic. Every call tracked. Every word transcribed. Every task automated with AI: sentiment and keyword spotting, lead qualification, deal estimation, and more. Plus white-label reports, API & webhooks, team management, unlimited workspaces, unlimited tracking numbers, and unlimited campaigns.| **30-35% off forever**, no discount code required, available until 2 Dec, 2025 |
+| 🔥 | [RightBlogger](https://rightblogger.com?utm_source=tonybf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | 50% OFF annual plans, 40% OFF monthly plans (automatically applied) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
