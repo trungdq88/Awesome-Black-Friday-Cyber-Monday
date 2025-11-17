@@ -378,6 +378,7 @@ Total deals: 239
 | ☀️ | [FullStro](http://fullstro.com/black-friday-deals/) | FullStro is an all-in-one multi-channel business automation platform that helps e-commerce businesses manage inventory, orders, and websites effortlessly. No code needed, fully integrated, and synchronized across sales, payments, and delivery systems. | 70% OFF Coupon Auto-Applied
 | ✍️ | [BoloSign](https://boloforms.com/) | The eSignature Platform for Small Businesses Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| 50% OFF with code **`50BOLOBFCM`** |
 | 🟦 | [FounderStack](https://www.founderstack.pro) | Get instant lifetime access to 5 powerful tools to handle social media, AI support, link building, graphic design, and fake account prevention. | $500 OFF Auto-Applied 
+| 🚀 | [Burp Bounty Pro](https://bountysecurity.ai) | Profiles-Based Authenticated Scanner: web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments—even within logged-in sessions—significantly reducing your audit time while expanding overall coverage.| 40% OFF annual plans — **No Coupon Needed** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
