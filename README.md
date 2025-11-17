@@ -332,6 +332,7 @@ Total deals: 238
 | 🤑 | [ParityKit](https://www.paritykit.com?ref=tonybf) | Boost your sales automatically by offering location-based discounts that boost conversions and grow your global revenue. | Get 50% off all plans with code `BLACKFRIDAY25` |
 | 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
 | 📷 | [Evelize](https://evelize.com?utm_source=tonybf) | Video teleprompter. Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level.| Get **53% off Premium Lifetime deal** for <s>$149</s> $69, no promocode required, redeem until 6 Dec, 2025 |
+| 🤖 | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code **BLACKFRIDAY** (Nov 17 - Dec 7)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -347,6 +348,7 @@ Total deals: 238
 | 🤖 | [ShowUpInAI](https://showupinai.com) | Get Cited in ChatGPT and more! We push every new or changed page to Bing, helping AI assistants cite your site. | **25% OFF** with code **BLACKFRIDAY25** |
 | 🐶 | [BacklinkDog](https://backlinkdog.com)| Stop losing SEO juice from removed or changed backlinks. We monitor your backlinks and alert you when they change.| **50% OFF** with code **BLACKFRIDAY50** |
 | 📈 | [Plerdy](https://www.plerdy.com/) | Plerdy is an all-in-one website analysis tool designed for Conversion Rate Optimization (CRO) & SEO. It allows businesses to track, analyze, and convert visitors into buyers with AI assistance. Features include UX analytics, e-commerce insights, AI-powered reports, heatmap capabilities, and A/B Testing. | **50% OFF on annual plans** with code **plerdyBF2025**
+| 🤖 | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code **BLACKFRIDAY** (Nov 17 - Dec 7)
 
 ⬆️ | [Go to Top](#table-of-contents)
 
