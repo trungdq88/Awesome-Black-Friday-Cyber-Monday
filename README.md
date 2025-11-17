@@ -43,7 +43,7 @@ Total deals: 257
 	- [💬 AI Chat UI (15)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (26)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (18)](#-other-ai-tools)
-- [🌅 Design Tools (24)](#-design-tools)
+- [🌅 Design Tools (28)](#-design-tools)
 - [🌈 Marketing Tools (24)](#-marketing-tools)
 - [🔍 SEO Tools (10)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (12)](#-startup-saastools)
@@ -317,6 +317,10 @@ Total deals: 257
 | 🖼️ | [Digital Photo Frame Slideshows](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful slideshows. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required |
 | 🖼️ | [Frame0](https://frame0.app/) | A sleek Balsamiq-alternative AI supported low-fi wireframing tool for modern apps | **30% OFF** with code **BFCM2025** |
 | 🔡 | [FontVisual](https://fontvisual.com/) | The font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | **40% OFF** the first year with code **BFCM2025** |
+| 🎥 | [SuperMotion](https://supermotion.co/) | The video editor for founders who need beautiful product videos, fast! | **30% OFF** with promo code **BF2025** |
+| 🏞️ | [BrandBird](https://brandbird.app/) | Powerful image, mockup & screenshot editor for SaaS founders | **30% OFF** the first year with code **BF2025** |
+| 🎨 | [MagicPattern](https://magicpattern.design/) | 20+ design tools to generate beautiful patterns, gradients, and background effects. | **30% OFF** the first year with code **BF2025** |
+| 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
