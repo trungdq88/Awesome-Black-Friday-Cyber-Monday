@@ -43,7 +43,7 @@ Total deals: 239
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (13)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (24)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (16)](#-other-ai-tools)
+	- [✨ Other AI tools (17)](#-other-ai-tools)
 - [🌅 Design Tools (21)](#-design-tools)
 - [🌈 Marketing Tools (23)](#-marketing-tools)
 - [🔍 SEO Tools (9)](#-seo-tools)
@@ -276,6 +276,7 @@ Total deals: 239
 | 📖 | [Novel Translator](https://noveltranslator.com/) | Translate Chinese, Japanese, Korean novels. Optimized for fiction, Chinese Web Covels, Xianxia, Korean novels. Auto Glossary Generation and Character image generation along with fixed upfront pricing for your novel | **30% off** Pro and above plans with code **BLACKFRIDAY** Until Dec 1st. |
 | 🐾 | [PetShotPro](https://www.petportraitgenerator.ai) | Turn your pet photos into stunning AI portraits. Upload pictures, pick styles, and get high-quality AI-generated art in minutes. | **50% OFF on all plans** Valid until Dec 31st. |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=tonybf) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** |
+| 🏠 | [Stagify](https://stagify.io) | Virtual Staging within seconds with AI. Furnish, declutter, and transform your real estate photos with just one click. | **30% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
