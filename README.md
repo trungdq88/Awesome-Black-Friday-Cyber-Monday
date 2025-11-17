@@ -310,6 +310,7 @@ Total deals: 239
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** |
 | 🎥 | [Stargazer](https://gostargazer.com/) | Easily create custom, themed video intros and outros for projects like presentations, videos, and invitations. | **20% OFF** with code **BLACKFRIDAY20** |
 | 🖼️ | [Digital Photo Frame Slideshows](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful slideshows. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required |
+| 🖼️ | [Frame0](https://frame0.app/) | A sleek Balsamiq-alternative AI supported low-fi wireframing tool for modern apps | **30% OFF** with code **BFCM2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
