@@ -26,7 +26,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ## Table of Contents
-Total deals: 251
+Total deals: 257
 
 - [👨‍💻 Developer Tools (40)](#‍-developer-tools)
 	- [💻 Developer macOS Apps (18)](#-developer-macos-apps)
