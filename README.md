@@ -443,6 +443,7 @@ Total deals: 239
 | 🏃‍♂️‍➡️ | [Kabal](https://getkabal.com/) | Kabal is an agentic health and fitness app. A personal and proactive nutritionist, fitness coach, trainer that you can talk to any time | 6 months free with code "BLACKFRIDAY" |
 | 💉 | [Diabetes App - Glu Sight](https://apps.apple.com/us/app/diabetes-app-glu-sight/id6479405901) | Effortlessly track glucose levels & manage insulin therapy. Features charts, heat maps, Apple Health integration, CSV/PDF exports, and personalized insights. | 50% OFF lifetime premium plan (in-app) with code **BLACKFRIDAY2025**, Nov 15 - Dec 2 |
 |💸|[Steps](https://apps.apple.com/us/app/steps-step-counter-workouts/id6746096378)| Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving. | 33% OFF lifetime  plan with code **BLACKFRIDAY** or using https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY, Nov 25 - Dec 2 |
+| 🏃‍♂️‍➡️ |[WalkMate](https://apps.apple.com/us/app/walk-mate-weight-loss/id6739468121) | Daily random walking routes in your location. |  50% OFF lifetime plan with code **BLCKFRDY25** or using https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25 , Nov 13 - Dec 31 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
