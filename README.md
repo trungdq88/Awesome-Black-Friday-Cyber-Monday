@@ -408,6 +408,7 @@ Total deals: 239
 | 💸 | [SubManager](https://submanager.app) | Track your subscriptions in one place on all your Apple devices and get notified whenever a subscription is due for renewal. | 75% off SubManager+ IAP ($1.49, available from Nov 28 to Dec 3) |
 | 💸 | [BudgetSheet](https://www.budgetsheet.com?utm_source=tonybf) | Live Bank Transactions + Google Sheets. The Easiest Way To Import Bank Transactions Into Google Sheets. | 25% off recurring FOR LIFE with code **BFCM2025** |
 | 🧾 | [Reckord](https://apps.apple.com/us/app/id6744819252) | Reckord helps users to create professional invoices in seconds, manage income and expenses, and track their business performance. It also supports multiple languages and currencies to make invoicing accessible for users around the world. | **70% OFF** Lifetime plan with code **BLACKFRIDAY** |
+| 💳 | [CardPointers](https://cardpointers.com/thanks/) | CardPointers will save you money and earn you more cash back, points, and miles every day by maximizing credit card spend bonuses, offers, and welcome bonuses. | **50% OFF** Annual and Lifetime plans |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
