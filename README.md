@@ -317,6 +317,8 @@ Total deals: 257
 | 🖼️ | [Digital Photo Frame Slideshows](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful slideshows. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required |
 | 🖼️ | [Frame0](https://frame0.app/) | A sleek Balsamiq-alternative AI supported low-fi wireframing tool for modern apps | **30% OFF** with code **BFCM2025** |
 | 🔡 | [FontVisual](https://fontvisual.com/) | The font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | **40% OFF** the first year with code **BFCM2025** |
+| 📹 | [FilterGrade](https://filtergrade.com) | The visual marketplace for creators. Get discounts up to 60% OFF Video LUTs, Photo Presets, Social Media Templates and more. | **30% OFF ENTIRE CART** with discount code **BFCM2025** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
