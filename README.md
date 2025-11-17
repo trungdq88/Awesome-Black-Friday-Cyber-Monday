@@ -151,6 +151,7 @@ Total deals: 256
 | 📋 | [CleanClip](https://cleanclip.cc?ref=trung) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** | 
 | 🪐 | [OrbitRing](https://orbitring.app) | macOS quick launcher like GTA weapon wheel. Supports open apps / websites / files / folder. | App Store **20% OFF** |
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 50% OFF with code **BLACKFRIDAY25**|
+| ⌨️ | [Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS. | **30% OFF** with code **BF2025** at checkout|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
