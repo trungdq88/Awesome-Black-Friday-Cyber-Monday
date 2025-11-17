@@ -104,6 +104,7 @@ Total deals: 239
 | 🚀 | [QuickDeploy](https://quickdeploy.dev/?ref=tonybf) | Deploy your web app to a VPS with one command! | **20% OFF** with discount code **BF25** |
 | 🎧 | [Audio Video To Text](https://www.audiovideototext.com) | Convert audio and video files to text, PDF, or SRT instantly. Accurate AI transcription built for creators and businesses. | **50% OFF on top plan** Valid until Dec 31st |
 | 🛡️ | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** |
+| 🖥️ | [NightShiftKeeper](https://nightshiftkeeper.com/) | Keeps macOS Night Shift always on. | Buy Once, Use Forever, 20% off with discount code **BLACKFRIDAY** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
