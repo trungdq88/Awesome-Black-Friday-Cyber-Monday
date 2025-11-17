@@ -300,6 +300,7 @@ Total deals: 238
 | 📐 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY25) | macOS app for Effortless Batch Resizing and Editing of Images | **40% OFF** with code **BLACKFRIDAY25** |
 | ✏️ | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY25) | MacOS app that makes redacting text in images easier | **40% OFF** with code **BLACKFRIDAY25** |
 | 🎥 | [Stargazer](https://gostargazer.com/) | Easily create custom, themed video intros and outros for projects like presentations, videos, and invitations. | **20% OFF** with code **BLACKFRIDAY20** |
+| 🔡 | [FontVisual](https://fontvisual.com/) | The font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | **40% OFF** the first year with code **BCFM2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
