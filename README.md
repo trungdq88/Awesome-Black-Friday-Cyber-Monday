@@ -176,6 +176,7 @@ Total deals: 257
 | -- | ---| ------ | ------ |
 | 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
 | 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
+| 🤖 | [PromptlyAI](https://apps.apple.com/us/app/promptlyai-your-ai-shortcut/id6751836264?mt=12) | Instant AI in any macOS context. Select text anywhere and transform it with AI commands. Your AI shortcut for writing, editing, and content transformation directly in any app. | Special offer with code **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
