@@ -260,6 +260,7 @@ Total deals: 257
 | 🎧 | [Podwise](https://podwise.ai/?utm_source=tonybf) | Listen faster, understand deeper — AI summaries, transcripts, mind maps for any podcast. | **40% OFF Forever** with code **BF2025**
 | 🎤 | [Speakmac](https://speakmac.app/?utm_source=tonybf) | Offline speech-to-text for macOS. Press a hotkey to dictate into any app with instant, punctuation-perfect text and no subscription. | Black Friday pricing: Personal now **$14** (was $19) and Pro now **$22** (was $29) one-time with code **SPEAK25** |
 | 💥 | [TypeBoost](https://www.typeboost.ai/?utm_source=trungdq88-black-friday-2025) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | 60% OFF all plans for 6 months with code **BF2025** |
+| 📊 | [Infography](https://infography.in/) | Turn Blogs into Stunning, Shareable Infographics with AI | Black Friday Lifetime Deal **$49** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -317,6 +318,7 @@ Total deals: 257
 | 🖼️ | [Digital Photo Frame Slideshows](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful slideshows. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required |
 | 🖼️ | [Frame0](https://frame0.app/) | A sleek Balsamiq-alternative AI supported low-fi wireframing tool for modern apps | **30% OFF** with code **BFCM2025** |
 | 🔡 | [FontVisual](https://fontvisual.com/) | The font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | **40% OFF** the first year with code **BFCM2025** |
+| 📊 | [Infography](https://infography.in/) | Turn Blogs into Stunning, Shareable Infographics with AI | Black Friday Lifetime Deal **$49** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -349,6 +351,7 @@ Total deals: 257
 | 💰 | [Updately](https://updately.ai/?ref=tonybf) | Updately.ai - Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc ! | **20% off forever** with discount code **BF2025** |
 | 📷 | [Evelize](https://evelize.com?utm_source=tonybf) | Video teleprompter. Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level.| Get **53% off Premium Lifetime deal** for <s>$149</s> $69, no promocode required, redeem until 6 Dec, 2025 |
 | ☎️ | [Ring Tonic](https://ringtonic.app/?utm_source=tonybf) | Ring Tonic makes call tracking refreshingly simple — just like a good Gin & Tonic. Every call tracked. Every word transcribed. Every task automated with AI: sentiment and keyword spotting, lead qualification, deal estimation, and more. Plus white-label reports, API & webhooks, team management, unlimited workspaces, unlimited tracking numbers, and unlimited campaigns.| **30-35% off forever**, no discount code required, available until 2 Dec, 2025 |
+| 📊 | [Infography](https://infography.in/) | Turn Blogs into Stunning, Shareable Infographics with AI | Black Friday Lifetime Deal **$49** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -405,6 +408,7 @@ Total deals: 257
 | 💼 | [LinkedMash](https://www.linkedmash.com?ref=tonybf)￼ | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** |
+| 📊 | [Infography](https://infography.in/) | Turn Blogs into Stunning, Shareable Infographics with AI | Black Friday Lifetime Deal **$49** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
