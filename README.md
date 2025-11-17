@@ -385,6 +385,7 @@ Total deals: 238
 | 💼 | [LinkedMash](https://www.linkedmash.com?ref=tonybf)￼ | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** |
+| 🐦 | [TweetBlink](https://tweetbl.ink) | AI Tweet Generator for Optimized X/Twitter Posts | **50% OFF** with code **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
