@@ -76,6 +76,7 @@ Total deals: 239
 | 🔑 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025**, Nov 20 - Dec 2|
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts in one fast, powerful, private desktop app | **30% OFF** with code **BF2025** |
 | ☁️ | [KloudUtils](https://kloudutils.com/) | Your Toolbox For Daily Work - For Developers, DevOps & Cloud Operations, Mac & Windows | **50% OFF** Lifetime License with code **LAUNCH50** |
+| 📖 | [Dash](https://kapeli.com/dash) | Instant offline access to 200+ API documentation sets, snippets and more! | **50% OFF** the first year with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
