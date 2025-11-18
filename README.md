@@ -491,9 +491,10 @@ Total deals: 258
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
 | 🎙️  | [Podigy Podcast Player](https://apps.apple.com/us/app/podcast-player-podigy/id6473860416) | Best in class podcast player for iPhone, iPad and Mac. Trim silence, boost voices, CarPlay support and more.                                                                                                                              | 30% off on annual plan via the App Store. |
 | 💬 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
-
 | 📸 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BF2025) | Photo & video geotagging. Rediscover your photo memories with precise location data. | **30% OFF** with code **BF2025** |
 | 📸 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BF2025) | Currate your Apple Photos library. Organize, rate, & compare photos. | **30% OFF** with code **BF2025** |
+| 📄 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied), 17 Nov - 1 Dec |
+| 📘 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied), 17 Nov - 1 Dec |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
