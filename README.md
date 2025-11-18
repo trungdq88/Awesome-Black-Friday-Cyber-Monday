@@ -365,6 +365,7 @@ Total deals: 258
 | 📈 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100+ directories in just one click | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 🚀 | [Postiz](https://postiz.com?utm_source=tonybf) | The ultimate Agentic AI social media scheduling tool also open-source! | 82% OFF with code **BF2025** |
+| 🔥 | [RightBlogger](https://rightblogger.com?utm_source=tonybf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | 50% OFF annual plans, 40% OFF monthly plans (automatically applied) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
