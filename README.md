@@ -26,7 +26,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ## Table of Contents
-Total deals: 257
+Total deals: 258
 
 - [👨‍💻 Developer Tools (40)](#‍-developer-tools)
 	- [💻 Developer macOS Apps (18)](#-developer-macos-apps)
@@ -41,7 +41,7 @@ Total deals: 257
 	- [🛠️ Productivity Tools & Services (5)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (15)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (26)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (27)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (18)](#-other-ai-tools)
 - [🌅 Design Tools (28)](#-design-tools)
 - [🌈 Marketing Tools (24)](#-marketing-tools)
@@ -171,6 +171,7 @@ Total deals: 257
 | 🌧️ | [Rainaissance](https://rainaissance.app/) | A beautiful rain simulation on your Mac with wonderful splashes and relaxing rain sounds. It works in fullscreen, on all your monitors, and is highly customizable. Runs on your GPU using metal shaders. macOS only. | **39% OFF** one time purchase - auto applied at checkout |
 | ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
 | ⏲️ | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
+| 🍅 | [Pomotto](https://pomotto.app) | A pomodoro timer to sync focus time and Do Not Disturb. Your Mac finally knows when you're working! | **30% off** in the AppStore (already applied) - Pay Once Own Forever |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -264,6 +265,7 @@ Total deals: 257
 | 🎧 | [Podwise](https://podwise.ai/?utm_source=tonybf) | Listen faster, understand deeper — AI summaries, transcripts, mind maps for any podcast. | **40% OFF Forever** with code **BF2025**
 | 🎤 | [Speakmac](https://speakmac.app/?utm_source=tonybf) | Offline speech-to-text for macOS. Press a hotkey to dictate into any app with instant, punctuation-perfect text and no subscription. | Black Friday pricing: Personal now **$14** (was $19) and Pro now **$22** (was $29) one-time with code **SPEAK25** |
 | 💥 | [TypeBoost](https://www.typeboost.ai/?utm_source=trungdq88-black-friday-2025) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | 60% OFF all plans for 6 months with code **BF2025** |
+| 🤖 | [PromptlyAI](https://apps.apple.com/us/app/promptlyai-your-ai-shortcut/id6751836264?mt=12) | Instant AI in any macOS context. Select text anywhere and transform it with AI commands. Your AI shortcut for writing, editing, and content transformation directly in any app. | Special offer with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -362,7 +364,8 @@ Total deals: 257
 | 🛡️​ | [DMARCTrust](https://www.dmarctrust.com)|Does your email reach your customers’ inboxes? We will help understand and finetune your DMARC policies! | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** |
 | 📈 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100+ directories in just one click | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
-
+| 🚀 | [Postiz](https://postiz.com?utm_source=tonybf) | The ultimate Agentic AI social media scheduling tool also open-source! | 82% OFF with code **BF2025** |
+| 🔥 | [RightBlogger](https://rightblogger.com?utm_source=tonybf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | 50% OFF annual plans, 40% OFF monthly plans (automatically applied) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
