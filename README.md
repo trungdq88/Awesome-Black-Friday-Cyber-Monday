@@ -284,7 +284,7 @@ Total deals: 257
 | 🐾 | [PetShotPro](https://www.petportraitgenerator.ai) | Turn your pet photos into stunning AI portraits. Upload pictures, pick styles, and get high-quality AI-generated art in minutes. | **50% OFF on all plans** Valid until Dec 31st. |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=tonybf) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** |
 | 🏠 | [Stagify](https://stagify.io) | Virtual Staging within seconds with AI. Furnish, declutter, and transform your real estate photos with just one click. | **30% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
-
+| 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -350,6 +350,9 @@ Total deals: 257
 | 📷 | [Evelize](https://evelize.com?utm_source=tonybf) | Video teleprompter. Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level.| Get **53% off Premium Lifetime deal** for <s>$149</s> $69, no promocode required, redeem until 6 Dec, 2025 |
 | ☎️ | [Ring Tonic](https://ringtonic.app/?utm_source=tonybf) | Ring Tonic makes call tracking refreshingly simple — just like a good Gin & Tonic. Every call tracked. Every word transcribed. Every task automated with AI: sentiment and keyword spotting, lead qualification, deal estimation, and more. Plus white-label reports, API & webhooks, team management, unlimited workspaces, unlimited tracking numbers, and unlimited campaigns.| **30-35% off forever**, no discount code required, available until 2 Dec, 2025 |
 | 🛡️​ | [DMARCTrust](https://www.dmarctrust.com)|Does your email reach your customers’ inboxes? We will help understand and finetune your DMARC policies! | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** |
+| 📈 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100+ directories in just one click | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
+| 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -366,6 +369,8 @@ Total deals: 257
 | 🐶 | [BacklinkDog](https://backlinkdog.com)| Stop losing SEO juice from removed or changed backlinks. We monitor your backlinks and alert you when they change.| **50% OFF** with code **BLACKFRIDAY50** |
 | 📈 | [Plerdy](https://www.plerdy.com/) | Plerdy is an all-in-one website analysis tool designed for Conversion Rate Optimization (CRO) & SEO. It allows businesses to track, analyze, and convert visitors into buyers with AI assistance. Features include UX analytics, e-commerce insights, AI-powered reports, heatmap capabilities, and A/B Testing. | **50% OFF on annual plans** with code **plerdyBF2025**
 | 🚀 | [SEO Utils](https://seoutils.app/?utm_source=tonybf) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | (All Plans) 20% OFF with code **BF25**, redeem until 2 Dec, 2025 |
+| 🤖 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
+| 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster, boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -386,6 +391,7 @@ Total deals: 257
 | ✍️ | [BoloSign](https://boloforms.com/) | The eSignature Platform for Small Businesses Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever.| 50% OFF with code **`50BOLOBFCM`** |
 | 🟦 | [FounderStack](https://www.founderstack.pro) | Get instant lifetime access to 5 powerful tools to handle social media, AI support, link building, graphic design, and fake account prevention. | $500 OFF Auto-Applied
 | 🚀 | [Burp Bounty Pro](https://bountysecurity.ai) | Profiles-Based Authenticated Scanner: web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments—even within logged-in sessions—significantly reducing your audit time while expanding overall coverage.| 40% OFF annual plans — **No Coupon Needed** |
+| 🚀 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -406,6 +412,7 @@ Total deals: 257
 | 💼 | [LinkedMash](https://www.linkedmash.com?ref=tonybf)￼ | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** |
+| 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
