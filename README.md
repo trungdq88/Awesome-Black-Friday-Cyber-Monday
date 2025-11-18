@@ -78,6 +78,8 @@ Total deals: 257
 | 📖 | [Dash](https://kapeli.com/dash) | Instant offline access to 200+ API documentation sets, snippets and more! | **50% OFF** the first year with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY) |
 | 🌐 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 👨‍💻 | [Kaleidoscope](https://kaleidoscope.app) | Effortlessly compare and merge any text, images, and folders. Kaleidoscope also compares Git branches, tags, or commits. | Use code [ABFCM25](https://cloud.kaleidoscope.app/store?discount_code=ABFCM25&utm_source=trungdq88&utm_medium=referral&utm_campaign=ABFCM25) for **40% OFF** for the FIRST **2 YEARS** of subscription + 2 extra free months! |
+| 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2025** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
