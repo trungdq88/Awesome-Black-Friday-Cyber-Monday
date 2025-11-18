@@ -44,6 +44,7 @@ Total deals: 258
 	- [📖 AI Productivity & Learning Tools (27)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (18)](#-other-ai-tools)
 - [🌅 Design Tools (28)](#-design-tools)
+- [📖 Education](#-education)
 - [🌈 Marketing Tools (24)](#-marketing-tools)
 - [🔍 SEO Tools (10)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (12)](#-startup-saastools)
@@ -331,6 +332,12 @@ Total deals: 258
 | 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
+
+## 📖 Education
+
+|    | Name      | Description | Discount Code & Terms                                                                             |
+|----|-----------| ------ |---------------------------------------------------------------------------------------------------|
+| 📖 | [Fluent Forever](https://www.fluent-forever.com/s/bf-cm) | A language learning app based on a bestselling book Fluent Forever. Discover the immersive mobile experience designed to rewire your brain into fluently speaking a new language and hack your memory to remembering it forever. | 25% OFF Forever (automatically applied)|
 
 
 ## 🌈 Marketing Tools
