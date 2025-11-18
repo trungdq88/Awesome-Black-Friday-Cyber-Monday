@@ -111,7 +111,7 @@ Total deals: 258
 | 🖥️ | [NightShiftKeeper](https://nightshiftkeeper.com/) | Keeps macOS Night Shift always on. | Buy Once, Use Forever, 20% off with discount code **BLACKFRIDAY** |
 | 🔥 | [TestDino](https://testdino.com/) | Smart Playwright Test Reporting and Analytics | **30% discount** on yearly Team plan with discount code **BFTD2025** |
 | 🎥 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** |
-
+| 🔌 | [Terminalwire](https://terminalwire.com/?utm_source=tonybf) | Ship a TUI or CLI for your SaaS in *hours* | 20% OFF a license with code **BFD25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
