@@ -105,7 +105,7 @@ Total deals: 256
 | 🎧 | [Audio Video To Text](https://www.audiovideototext.com) | Convert audio and video files to text, PDF, or SRT instantly. Accurate AI transcription built for creators and businesses. | **50% OFF on top plan** Valid until Dec 31st |
 | 🛡️ | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | **100% off** for 1st month with discount code **FREESSL** |
 | 🖥️ | [NightShiftKeeper](https://nightshiftkeeper.com/) | Keeps macOS Night Shift always on. | Buy Once, Use Forever, 20% off with discount code **BLACKFRIDAY** |
-| 🎥 | [XGetter](https://xgetter.com/cn#pricing) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** |
+| 🎥 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
