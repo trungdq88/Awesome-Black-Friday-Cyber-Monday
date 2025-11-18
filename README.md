@@ -284,6 +284,7 @@ Total deals: 257
 | 🐾 | [PetShotPro](https://www.petportraitgenerator.ai) | Turn your pet photos into stunning AI portraits. Upload pictures, pick styles, and get high-quality AI-generated art in minutes. | **50% OFF on all plans** Valid until Dec 31st. |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=tonybf) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** |
 | 🏠 | [Stagify](https://stagify.io) | Virtual Staging within seconds with AI. Furnish, declutter, and transform your real estate photos with just one click. | **30% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
+| 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for children — complete with illustrations, narration, and soothing sleep sounds & lullabies. | **50% OFF** all plans! |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -317,6 +318,7 @@ Total deals: 257
 | 🖼️ | [Digital Photo Frame Slideshows](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful slideshows. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required |
 | 🖼️ | [Frame0](https://frame0.app/) | A sleek Balsamiq-alternative AI supported low-fi wireframing tool for modern apps | **30% OFF** with code **BFCM2025** |
 | 🔡 | [FontVisual](https://fontvisual.com/) | The font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | **40% OFF** the first year with code **BFCM2025** |
+| 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -471,6 +473,7 @@ Total deals: 257
 
 | 📸 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BF2025) | Photo & video geotagging. Rediscover your photo memories with precise location data. | **30% OFF** with code **BF2025** |
 | 📸 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BF2025) | Currate your Apple Photos library. Organize, rate, & compare photos. | **30% OFF** with code **BF2025** |
+| 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **80% OFF** on Lifetime plan! |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
