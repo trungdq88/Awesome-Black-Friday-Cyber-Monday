@@ -362,7 +362,7 @@ Total deals: 257
 | 🛡️​ | [DMARCTrust](https://www.dmarctrust.com)|Does your email reach your customers’ inboxes? We will help understand and finetune your DMARC policies! | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** | Get **-60% for 12 months** of our $49 PRO plan using code **BFNOV25** |
 | 📈 | [ListingBott](https://listingbott.com/) | Your ultimate solution to efficiently list your SaaS, tool, product, newsletter, or blog on 100+ directories in just one click | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 💰 | [TinyAdz](https://tinyadz.com/) | Ad network with no fluff, no fraud. Advertisers get real ROI, publishers earn legit revenue | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
-
+| 🚀 | [Postiz](https://postiz.com?utm_source=tonybf) | The ultimate Agentic AI social media scheduling tool also open-source! | 82% OFF with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
