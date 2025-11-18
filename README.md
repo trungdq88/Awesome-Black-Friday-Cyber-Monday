@@ -87,6 +87,7 @@ Total deals: 258
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| ⚔️ | [pwn.guide](https://pwn.guide/) | Learn cybersecurity from 150+ tutorials & certification training for certificates like the CompTIA Security+ SY0-701. Start free or upgrade to monthly, yearly or lifetime plans. | 20% OFF with code **BLKFRI20** |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
 | 🔻 | [IsDown.app](https://isdown.app) | The status page aggregator that monitors all your critical dependencies in one place (AWS, GitHub, OpenAI, Stripe, +4,500 services). Never miss an outage again. Create your own Public or Private Status Page. | 25% OFF on Starter and Pro plans **BF2025** |
@@ -486,6 +487,7 @@ Total deals: 258
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| ⚔️ | [pwn.guide](https://pwn.guide/) | Learn cybersecurity from 150+ tutorials & certification training for certificates like the CompTIA Security+ SY0-701. Start free or upgrade to monthly, yearly or lifetime plans. | 20% OFF with code **BLKFRI20** |
 | 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
 | 📻 | [Macrowave](https://macrowave.co) - Private P2P Radio | Macrowave turns your Mac/iPhone into a private radio station. Share any audio from your Mac with anyone, anywhere. No accounts, no setup, just a link. Perfect for listening to music together or creating your own private live podcast. | One-time ~~$119.99~~ **$79.99**. |
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
