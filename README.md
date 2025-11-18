@@ -406,6 +406,8 @@ Total deals: 258
 | 🚀 | [Burp Bounty Pro](https://bountysecurity.ai) | Profiles-Based Authenticated Scanner: web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments—even within logged-in sessions—significantly reducing your audit time while expanding overall coverage.| 40% OFF annual plans — **No Coupon Needed** |
 | 🚀 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 👥 | [FeedbackPulse](https://feedbackpulse.com?utm_source=tonybf) | Employee feedback tools that take minutes, not months to implement. No consultants needed - just meaningful surveys your team will actually complete. Purpose-built for growing companies with 10-500 employees. | **30% OFF** first year with code **BLACKFRIDAY2025** |
+| 🛠️ | [SharpAPI](https://sharpapi.com/en/pricing?utm_source=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, reliable AI endpoints without extra complexity. | **50% OFF first year** with code **BF2025** (Nov 24–Dec 3) |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
