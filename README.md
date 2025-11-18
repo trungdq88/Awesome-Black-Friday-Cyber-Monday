@@ -288,10 +288,9 @@ Total deals: 257
 | 🐾 | [PetShotPro](https://www.petportraitgenerator.ai) | Turn your pet photos into stunning AI portraits. Upload pictures, pick styles, and get high-quality AI-generated art in minutes. | **50% OFF on all plans** Valid until Dec 31st. |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=tonybf) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2025** |
 | 🏠 | [Stagify](https://stagify.io) | Virtual Staging within seconds with AI. Furnish, declutter, and transform your real estate photos with just one click. | **30% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
-| 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for children — complete with illustrations, narration, and soothing sleep sounds & lullabies. | **50% OFF** all plans! |
 | 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 👀 | [ChampSignal](https://champsignal.com) | Get the insights your competitors don't want you to have. ChampSignal tracks your competitors' websites, social mentions, ads, and SEO, and sends you email alerts only when it matters. | **25% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
-
+| 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for children — complete with illustrations, narration, and soothing sleep sounds & lullabies. | **50% OFF** all plans! |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -324,12 +323,11 @@ Total deals: 257
 | 🖼️ | [Digital Photo Frame Slideshows](https://www.digitalphotoframeapp.com/) | Turn your device into a powerful slideshows. For iOS, iPadOS, macOS and tvOS. | **67% OFF** No promo code required |
 | 🖼️ | [Frame0](https://frame0.app/) | A sleek Balsamiq-alternative AI supported low-fi wireframing tool for modern apps | **30% OFF** with code **BFCM2025** |
 | 🔡 | [FontVisual](https://fontvisual.com/) | The font preview tool for crafters and designers. Easily create font preview pages for your personalized products. | **40% OFF** the first year with code **BFCM2025** |
-| 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
 | 🎥 | [SuperMotion](https://supermotion.co/) | The video editor for founders who need beautiful product videos, fast! | **30% OFF** with promo code **BF2025** |
 | 🏞️ | [BrandBird](https://brandbird.app/) | Powerful image, mockup & screenshot editor for SaaS founders | **30% OFF** the first year with code **BF2025** |
 | 🎨 | [MagicPattern](https://magicpattern.design/) | 20+ design tools to generate beautiful patterns, gradients, and background effects. | **30% OFF** the first year with code **BF2025** |
 | 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
-
+| 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
