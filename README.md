@@ -471,6 +471,7 @@ Total deals: 258
 | 📱 | [PortDroid](https://www.portdroid.net/black-friday-2025) | Android Port Scanner & Networking Swiss Army Knife. Fast scans, host discovery, DNS tools, Wake-on-LAN, and more. | ~50% OFF with code **CYBER_2025**, Nov 11 – Dec 4 |
 | 🙈 | [Safe Screen Share](https://safescreenshare.com) | Blur out personal info while sharing your screen or taking a screenshot. | 60% OFF Lifetime with code `BF25` |
 | 🛜 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
+| 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
