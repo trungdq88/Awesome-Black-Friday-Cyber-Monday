@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 307
+Total deals: 308
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (21)](#-developer-macos-apps)
@@ -50,7 +50,7 @@ Total deals: 307
 - [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
 - [🌏 Social Media Tools (16)](#-social-media-tools)
 - [💸 Finance Tools (9)](#-finance-tools)
-- [🎛 Utility Tools (13)](#-utility-tools)
+- [🎛 Utility Tools (14)](#-utility-tools)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
 - [🎯 Miscellaneous (10)](#-miscellaneous)
 
@@ -470,6 +470,7 @@ Total deals: 307
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 📁 | [File Studio](https://filestudio.app/) | 100% offline file & PDF tools for Mac and Windows. Convert images (HEIC, JPG, PNG, WebP, AVIF, TIFF), merge/split/rearrange PDFs, remove passwords, clean metadata. Private by default - all processing on-device. | $29 one-time purchase (Lifetime Plan with 1 year updates) *50% off on Black Friday only* |
 | 🔄 | [How to Convert](https://howtoconvert.co) | Local file converter app for Mac, Windows & Linux. Do 3,969 video, image, audio, document and email file conversions and compressions with a desktop app. | 30% OFF with code **BLACKFRIDAY** |
 | ⭐ | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
 | 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
