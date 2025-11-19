@@ -81,7 +81,7 @@ Total deals: 306
 | 👨‍💻 | [Kaleidoscope](https://kaleidoscope.app) | Effortlessly compare and merge any text, images, and folders. Kaleidoscope also compares Git branches, tags, or commits. | Use code [ABFCM25](https://cloud.kaleidoscope.app/store?discount_code=ABFCM25&utm_source=trungdq88&utm_medium=referral&utm_campaign=ABFCM25) for **40% OFF** for the FIRST **2 YEARS** of subscription + 2 extra free months! |
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2025** |
 | 🍐 | [Hopp](https://www.gethopp.app) | Open-source remote 🍐🍐 pair programming tool built for developers. Ultra-low latency, crystal-clear HD screen sharing with full keyboard and mouse control. | 40% OFF until end of November, code `HOPPFRIDAY40` |
-| ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | $100 off , no code required |
+| ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
