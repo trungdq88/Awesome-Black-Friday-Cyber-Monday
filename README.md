@@ -183,6 +183,7 @@ Total deals: 307
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 📚 | [buildsheet.one](https://buildsheet.one) | Drag & drop beautiful cheatsheet builder for developers, students & anyone who learns from structured notes. | **25% OFF** with code **BLACKFRIDAY25** | 2025-12-07 |
 | 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
 | 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
 
