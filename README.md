@@ -293,7 +293,7 @@ Total deals: 258
 | 🏠 | [Stagify](https://stagify.io) | Virtual Staging within seconds with AI. Furnish, declutter, and transform your real estate photos with just one click. | **30% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
 | 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 👀 | [ChampSignal](https://champsignal.com) | Get the insights your competitors don't want you to have. ChampSignal tracks your competitors' websites, social mentions, ads, and SEO, and sends you email alerts only when it matters. | **25% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
-
+| 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for children — complete with illustrations, narration, and soothing sleep sounds & lullabies. | **50% OFF** all plans! |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -330,7 +330,7 @@ Total deals: 258
 | 🏞️ | [BrandBird](https://brandbird.app/) | Powerful image, mockup & screenshot editor for SaaS founders | **30% OFF** the first year with code **BF2025** |
 | 🎨 | [MagicPattern](https://magicpattern.design/) | 20+ design tools to generate beautiful patterns, gradients, and background effects. | **30% OFF** the first year with code **BF2025** |
 | 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
-
+| 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -495,6 +495,7 @@ Total deals: 258
 
 | 📸 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BF2025) | Photo & video geotagging. Rediscover your photo memories with precise location data. | **30% OFF** with code **BF2025** |
 | 📸 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BF2025) | Currate your Apple Photos library. Organize, rate, & compare photos. | **30% OFF** with code **BF2025** |
+| 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **80% OFF** on Lifetime plan! |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
