@@ -115,6 +115,7 @@ Total deals: 307
 | 🎥 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** |
 | 🔌 | [Terminalwire](https://terminalwire.com/?utm_source=tonybf) | Ship a TUI or CLI for your SaaS in *hours* | 20% OFF a license with code **BFD25** |
 | ⭐ | [Leave Me Alone](https://leavemealone.com/?ref=tonybf) | Protect your inbox from unwanted emails. Get Rid of Newsletters, Spam, Cold Emails in one click | **70% discount** on our Inbox Hero Plan + Buy One Get One Free. No Code Required |
+| ⚔️ | [pwn.guide](https://pwn.guide) | Learn ethical hacking with **more than 150+ tutorials**, ranging from web, hardware, wireless hacking to forensics, defense & certification training (CompTIA Security+ SY0-701). Deal is for all of the plans, including lifetime.  | 20% OFF a license with code **BLKFRI20** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -421,6 +422,7 @@ Total deals: 307
 | 👥 | [FeedbackPulse](https://feedbackpulse.com?utm_source=tonybf) | Employee feedback tools that take minutes, not months to implement. No consultants needed - just meaningful surveys your team will actually complete. Purpose-built for growing companies with 10-500 employees. | **30% OFF** first year with code **BLACKFRIDAY2025** |
 | 💼 | [Hirevire](https://hirevire.com?ref=tonydinh) | One‑way video interview software that replaces first‑round phone screens. Send a link, candidates record on their time, and you review in minutes—cutting screening time by 50%+ while getting better signal on communication, fit, and motivation. | **20% OFF** for first year  - available on all plans with code **BlackFriday20in25** |
 | 🛠️ | [SharpAPI](https://sharpapi.com/en/pricing?utm_source=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, reliable AI endpoints without extra complexity. | **50% OFF first year** with code **BF2025** (Nov 24–Dec 3) |
+| ⚔️ | [pwn.guide](https://pwn.guide) | Learn ethical hacking with **more than 150+ tutorials**, ranging from web, hardware, wireless hacking to forensics, defense & certification training (CompTIA Security+ SY0-701). Deal is for all of the plans, including lifetime.  | 20% OFF a license with code **BLKFRI20** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -515,6 +517,7 @@ Total deals: 307
 | 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **80% OFF** on Lifetime plan! |
 | 📄 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied), 17 Nov - 1 Dec |
 | 📘 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied), 17 Nov - 1 Dec |
+| ⚔️ | [pwn.guide](https://pwn.guide) | Learn ethical hacking with **more than 150+ tutorials**, ranging from web, hardware, wireless hacking to forensics, defense & certification training (CompTIA Security+ SY0-701). Deal is for all of the plans, including lifetime.  | 20% OFF a license with code **BLKFRI20** |
 
 
 
