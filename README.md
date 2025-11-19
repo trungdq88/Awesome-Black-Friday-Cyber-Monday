@@ -42,7 +42,7 @@ Total deals: 307
 	- [🛠️ Productivity Tools & Services (6)](#️-productivity-tools--services
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (15)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (28)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (29)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (23)](#-other-ai-tools)
 - [🌅 Design Tools (30)](#-design-tools)
 - [🌈 Marketing Tools (31)](#-marketing-tools)
