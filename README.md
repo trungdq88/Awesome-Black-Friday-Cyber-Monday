@@ -377,7 +377,7 @@ Total deals: 307
 | 📈 | [ZapDigits](https://zapdigits.com?utm_source=github) |  ZapDigits is the easiest way to build marketing dashboards. Connect your data, track real metrics, and share reports in minutes. No code needed. | 60% OFF annual plans |
 | 🔗 | [T.LY URL Shortener](https://t.ly/) | The all-in-one URL shortener and QR code platform built for marketers, developers, creators, and teams. | **50% OFF** first payment: coupon code **tly50** |
 | ⚡ | [Uneed](https://uneed.best) | Launch, get seen, grow together. The best launch platform for indie hackers! | **LIFETIME LAUNCH PASS**: unlimited launches and relaunches for life! |
-
+| 📧 | [Prontuno](https://prontuno.com?utm_source=tonybf) | Transactional email service for developers. Send receipts, notifications, and alerts via SMTP from unlimited domains with reliable delivery. | **750,000** email credits for **$100** (valid 12 months). No code required. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
