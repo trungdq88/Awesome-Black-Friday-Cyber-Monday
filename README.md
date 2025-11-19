@@ -376,6 +376,8 @@ Total deals: 306
 | 🔥 | [RightBlogger](https://rightblogger.com?utm_source=tonybf) | RightBlogger is the best AI article writer for bloggers, helping you automate your entire content workflow with powerful autoblogging features so you can drive more SEO and ChatGPT traffic effortlessly. | 50% OFF annual plans, 40% OFF monthly plans (automatically applied) |
 | 📈 | [ZapDigits](https://zapdigits.com?utm_source=github) |  ZapDigits is the easiest way to build marketing dashboards. Connect your data, track real metrics, and share reports in minutes. No code needed. | 60% OFF annual plans |
 | 🔗 | [T.LY URL Shortener](https://t.ly/) | The all-in-one URL shortener and QR code platform built for marketers, developers, creators, and teams. | **50% OFF** first payment: coupon code **tly50** |
+| ⚡ | [Uneed](https://uneed.best) | Launch, get seen, grow together. The best launch platform for indie hackers! | **LIFETIME LAUNCH PASS**: unlimited launches and relaunches for life! |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
