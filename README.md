@@ -236,6 +236,7 @@ Total deals: 307
 | 🧠 | [Loomr](https://loomr.co/) | Loomr lets you build a standalone AI Agent in minutes, ready to handle inquiries, engage your audience, answer questions, and qualify leads with a simple link. | **BLACKFRIDAY2025** 50% OFF |
 | 🚀 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) |
 | #️⃣ | [ChatFrame](https://www.chatframe.co) | Cross-platform desktop chatbot that unifies access to multiple LLM providersa and connect them with MCP (Model Context Protocol) servers. | 30% OFF **BLACKFRIDAY2025** |
+| 💬 | [Geeps](https://geeps.app/?utm_source=tonybf) | Cross-platform native AI chat client for iOS and macOS with iCloud sync. Use with your API keys and multiple AI providers. One time in-app purchase (lifetime). | 30% OFF ($9.99) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
