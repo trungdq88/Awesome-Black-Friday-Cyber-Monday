@@ -111,6 +111,8 @@ Total deals: 258
 | 🖥️ | [NightShiftKeeper](https://nightshiftkeeper.com/) | Keeps macOS Night Shift always on. | Buy Once, Use Forever, 20% off with discount code **BLACKFRIDAY** |
 | 🔥 | [TestDino](https://testdino.com/) | Smart Playwright Test Reporting and Analytics | **30% discount** on yearly Team plan with discount code **BFTD2025** |
 | 🎥 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** |
+| 🔌 | [Terminalwire](https://terminalwire.com/?utm_source=tonybf) | Ship a TUI or CLI for your SaaS in *hours* | 20% OFF a license with code **BFD25** |
+| ⭐ | [Leave Me Alone](https://leavemealone.com/?ref=tonybf) | Protect your inbox from unwanted emails. Get Rid of Newsletters, Spam, Cold Emails in one click | **70% discount** on our Inbox Hero Plan + Buy One Get One Free. No Code Required |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -207,6 +209,7 @@ Total deals: 258
 | 🤙 | [CSVtoSheets](https://csvtosheets.com/?utm_source=bf) | A tiny macOS app: Double-Click Any CSV Opens in Google Sheets! | Code: **BLACKFRIDAY25** 30% OFF Lifetime license-key
 | ✍️ | [BoloForms](https://boloforms.com/?utm_source=bf) | The eSignature Platform for Small Businesses - Unlimited signatures, templates, forms, and team members. One fixed price. No extra charges, ever. | Code: **BFCMXBOLO25** 25% OFF LifeTime.
 | 🛠️ | [UtilBolt](https://www.utilbolt.com/black-friday) | Black Friday Super Bundle: 115+ productivity & developer tools. One-time payment. Lifetime access to 4 tools + 1 year UnifyMe + free ChromePilot quarterly plan. | 82% OFF at $129 (was $705)
+| 🛡️ | [J2TEAM Security](https://j2team.org/?utm_source=TonyDinh) | A powerful Chrome extension that combines essential security protection with advanced privacy tools and Facebook management features. Trusted by over 360,000 active users since 2016. | **30% OFF** Lifetime plan with code **BLACKFRIDAY2025**
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -292,7 +295,8 @@ Total deals: 258
 | 🏠 | [Stagify](https://stagify.io) | Virtual Staging within seconds with AI. Furnish, declutter, and transform your real estate photos with just one click. | **30% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
 | 🚀 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 👀 | [ChampSignal](https://champsignal.com) | Get the insights your competitors don't want you to have. ChampSignal tracks your competitors' websites, social mentions, ads, and SEO, and sends you email alerts only when it matters. | **25% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
-
+| 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for children — complete with illustrations, narration, and soothing sleep sounds & lullabies. | **50% OFF** all plans! |
+| 🎬 | [Seedance 2](https://seedance2.ai/) | Generate stunning AI videos from text or images in seconds. Seedance 2 delivers cinematic motion, smooth camera work, and high-quality visuals for creators, marketers, and storytellers. | **50% OFF annual plans**.|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -329,7 +333,7 @@ Total deals: 258
 | 🏞️ | [BrandBird](https://brandbird.app/) | Powerful image, mockup & screenshot editor for SaaS founders | **30% OFF** the first year with code **BF2025** |
 | 🎨 | [MagicPattern](https://magicpattern.design/) | 20+ design tools to generate beautiful patterns, gradients, and background effects. | **30% OFF** the first year with code **BF2025** |
 | 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
-
+| 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -406,6 +410,7 @@ Total deals: 258
 | 🚀 | [Burp Bounty Pro](https://bountysecurity.ai) | Profiles-Based Authenticated Scanner: web vulnerability scanner that revolutionizes authenticated testing directly in Burp Suite. Designed for penetration testers, security teams, and bug hunters, Burp Bounty Pro automates security assessments—even within logged-in sessions—significantly reducing your audit time while expanding overall coverage.| 40% OFF annual plans — **No Coupon Needed** |
 | 🚀 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 👥 | [FeedbackPulse](https://feedbackpulse.com?utm_source=tonybf) | Employee feedback tools that take minutes, not months to implement. No consultants needed - just meaningful surveys your team will actually complete. Purpose-built for growing companies with 10-500 employees. | **30% OFF** first year with code **BLACKFRIDAY2025** |
+| 💼 | [Hirevire](https://hirevire.com?ref=tonydinh) | One‑way video interview software that replaces first‑round phone screens. Send a link, candidates record on their time, and you review in minutes—cutting screening time by 50%+ while getting better signal on communication, fit, and motivation. | **20% OFF** for first year  - available on all plans with code **BlackFriday20in25** |
 | 🛠️ | [SharpAPI](https://sharpapi.com/en/pricing?utm_source=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, reliable AI endpoints without extra complexity. | **50% OFF first year** with code **BF2025** (Nov 24–Dec 3) |
 
 
@@ -493,9 +498,12 @@ Total deals: 258
 | 🔐 | [Eternal Vault](https://eternalvault.app) | Secure bridge between your life and your loved ones | **20% OFF** on all plans (incl lifetime) using code **BLACKFRIDAY2025** |
 | 🎙️  | [Podigy Podcast Player](https://apps.apple.com/us/app/podcast-player-podigy/id6473860416) | Best in class podcast player for iPhone, iPad and Mac. Trim silence, boost voices, CarPlay support and more.                                                                                                                              | 30% off on annual plan via the App Store. |
 | 💬 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
-
 | 📸 | [HoudahGeo](https://www.houdah.com/houdahGeo/buy.html?coupon=BF2025) | Photo & video geotagging. Rediscover your photo memories with precise location data. | **30% OFF** with code **BF2025** |
 | 📸 | [Photos Workbench](https://www.houdah.com/photosWorkbench/buy.html?coupon=BF2025) | Currate your Apple Photos library. Organize, rate, & compare photos. | **30% OFF** with code **BF2025** |
+| 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **80% OFF** on Lifetime plan! |
+| 📄 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied), 17 Nov - 1 Dec |
+| 📘 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied), 17 Nov - 1 Dec |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
