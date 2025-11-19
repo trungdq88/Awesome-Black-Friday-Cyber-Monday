@@ -137,8 +137,10 @@ Total deals: 258
 | 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
 | ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
-
 ⬆️ | [Go to Top](#table-of-contents)
+
+| 🖥️ | [DynamicLake](https://www.dynamiclake.com) | Dynamic Island For Mac | **25% OFF** |
+| 🎵 | [Liqoria](https://www.liqoria.com) | Liquid Glass Music | **25% OFF** |
 
 #### Window, Screen, Clipboard, Utilities
 
