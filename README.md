@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 306
+Total deals: 307
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (21)](#-developer-macos-apps)
@@ -48,7 +48,7 @@ Total deals: 306
 - [🌈 Marketing Tools (31)](#-marketing-tools)
 - [🔍 SEO Tools (12)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
-- [🌏 Social Media Tools (15)](#-social-media-tools)
+- [🌏 Social Media Tools (16)](#-social-media-tools)
 - [💸 Finance Tools (9)](#-finance-tools)
 - [🎛 Utility Tools (13)](#-utility-tools)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
@@ -442,6 +442,7 @@ Total deals: 306
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** |
 | 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | ▶️ | [OutlierKit](https://outlierkit.com/)) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis.| **30% OFF** All Plans, code **BFCM25** (Nov 17–Dec 4) |
+| 🚀 | [TrendPost.co](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
