@@ -82,6 +82,8 @@ Total deals: 307
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2025** |
 | 🍐 | [Hopp](https://www.gethopp.app) | Open-source remote 🍐🍐 pair programming tool built for developers. Ultra-low latency, crystal-clear HD screen sharing with full keyboard and mouse control. | 40% OFF until end of November, code `HOPPFRIDAY40` |
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** |
+| 🌐 | [Poedit](https://poedit.net/?utm_source=trungdq88) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
