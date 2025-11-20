@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 331
+Total deals: 332
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
@@ -38,7 +38,7 @@ Total deals: 331
 		- [Window, Screen, Clipboard, Utilities (15)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (5)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (4)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (8)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (17)](#-ai-chat-ui)
@@ -211,6 +211,7 @@ Total deals: 331
 | 🕕 | [TimeWave - Timer Chains](https://apps.apple.com/app/id1524345488) | Create timer-chains for all your sequential tasks with a modern black & white design. | **50% OFF** Lifetime Family Purchase between Nov 28 and Dec 3. |
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=tonybf&promocode=TONYBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **TONYBF50** |
 | 💬 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
+| ✅ | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied) between Nov 20 and Dec 1, 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
