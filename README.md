@@ -446,6 +446,8 @@ Total deals: 308
 | ▶️ | [OutlierKit](https://outlierkit.com/)) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis.| **30% OFF** All Plans, code **BFCM25** (Nov 17–Dec 4) |
 | 🚀 | [TrendPost.co](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed |
 | 🥁 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
+| 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 322% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -485,6 +487,7 @@ Total deals: 308
 | 🙈 | [Safe Screen Share](https://safescreenshare.com) | Blur out personal info while sharing your screen or taking a screenshot. | 60% OFF Lifetime with code `BF25` |
 | 🛜 | [Ping](https://ping.neat.software) | Native macOS uptime monitor that uses your Mac's internet connection. Keep track of the status & speed of your websites, APIs, servers or any endpoint. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
+| 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
