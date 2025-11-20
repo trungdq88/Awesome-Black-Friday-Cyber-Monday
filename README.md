@@ -27,11 +27,11 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 331
+Total deals: 333
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
-	- [💻 Tools & Services (28)](#-tools--services)
+	- [💻 Tools & Services (30)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (16)](#tasks-organize-planning)
@@ -120,6 +120,8 @@ Total deals: 331
 | ⭐ | [Leave Me Alone](https://leavemealone.com/?ref=tonybf) | Protect your inbox from unwanted emails. Get Rid of Newsletters, Spam, Cold Emails in one click | **70% discount** on our Inbox Hero Plan + Buy One Get One Free. No Code Required |
 | ✉️ | [Sales.co](https://sales.co/?utm_source=tonybf) | The Cold Email Service used by B2B brands like Instantly, Antimetal, ConvertKit, Alts.co, and more. | **10% discount** on any cold email service plan or lead list with code BLACKFRIDAY |
 | 📊 | [Fusionaly](https://karloscodes.gumroad.com/l/fusionaly/BFRIDAY25) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. https://fusionaly.com | **$80 OFF** with **BFRIDAY25** |
+| 🤖 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit with AI subagents, custom slash commands, and automation workflows for solo developers building micro SaaS. | **50% OFF** ($49, was $99) with code **CKEBF2025**. Nov 24-30 |
+| 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
