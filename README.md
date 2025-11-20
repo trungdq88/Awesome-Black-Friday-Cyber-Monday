@@ -530,6 +530,7 @@ Total deals: 308
 | 🏞️ | [Limory: Live Memory Photo AR](https://apps.apple.com/us/app/limory-live-memory-photo-ar/id6445834735) | Create unforgettable moments, turn your photos into vivid memory clips. | **80% OFF** on Lifetime plan! |
 | 📄 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied), 17 Nov - 1 Dec |
 | 📘 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied), 17 Nov - 1 Dec |
+| 📚 | [Dictionaries](https://dictionaries.io/?utm_source=trungdq88) | Adds 80+ Wiktionary-based dictionaries directly to your Mac and Kindle, available system-wide. | 50% OFF with code **BLACKFRIDAY25** |
 
 
 
