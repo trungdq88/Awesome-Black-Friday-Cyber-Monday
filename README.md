@@ -147,6 +147,7 @@ Total deals: 331
 | ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
 | 🔥 | [ConniePad](https://conniepad.com/?utm_source=black-friday-2025) | Powerful note app for macOS and iOS. Search your notes with AI. The note app that truly offloads your brain. | 50% OFF with code **F25** |
+| 🐙 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
