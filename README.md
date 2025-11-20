@@ -31,7 +31,7 @@ Total deals: 308
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (21)](#-developer-macos-apps)
-	- [💻 Tools & Services (26)](#-tools--services)
+	- [💻 Tools & Services (27)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (15)](#tasks-organize-planning)
@@ -117,6 +117,7 @@ Total deals: 308
 | 🔌 | [Terminalwire](https://terminalwire.com/?utm_source=tonybf) | Ship a TUI or CLI for your SaaS in *hours* | 20% OFF a license with code **BFD25** |
 | ⭐ | [Leave Me Alone](https://leavemealone.com/?ref=tonybf) | Protect your inbox from unwanted emails. Get Rid of Newsletters, Spam, Cold Emails in one click | **70% discount** on our Inbox Hero Plan + Buy One Get One Free. No Code Required |
 | ✉️ | [Sales.co](https://sales.co/?utm_source=tonybf) | The Cold Email Service used by B2B brands like Instantly, Antimetal, ConvertKit, Alts.co, and more. | **10% discount** on any cold email service plan or lead list with code BLACKFRIDAY |
+| 📊 | [Fusionaly](https://karloscodes.gumroad.com/l/fusionaly/BFRIDAY25) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. https://fusionaly.com | **$80 OFF** with **BFRIDAY25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
