@@ -37,7 +37,7 @@ Total deals: 308
 		- [Tasks, Organize, Planning (15)](#tasks-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (15)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (5)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (2)](#miscellaneous-productivity-apps)
+		- [Miscellaneous Productivity Apps (3)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (6)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (6)](#️-productivity-tools--services
 - [🤖 AI Tools ](#-ai-tools)
@@ -185,7 +185,7 @@ Total deals: 308
 | -- | ---| ------ | ------ |
 | 🔥 | [Fileside](https://www.fileside.app/?ref=abfcm) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license between 24 Nov and 1 Dec |
 | 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
-
+| 🔥 | [Koofr](https://koofr.eu/black-friday/) | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
