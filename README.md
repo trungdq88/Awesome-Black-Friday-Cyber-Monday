@@ -27,10 +27,10 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 331
+Total deals: 334
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (26)](#-developer-macos-apps)
 	- [💻 Tools & Services (28)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
@@ -50,7 +50,7 @@ Total deals: 331
 - [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (10)](#-finance-tools)
-- [🎛 Utility Tools (16)](#-utility-tools)
+- [🎛 Utility Tools (17)](#-utility-tools)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
 - [🎯 Miscellaneous (12)](#-miscellaneous)
 
@@ -84,6 +84,8 @@ Total deals: 331
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** |
 | ⭐ | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
 | 🌐 | [Poedit](https://poedit.net/?utm_source=trungdq88) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
+| 🌐 | [LocalizApp](https://apps.apple.com/us/app/localizapp/id6443473845) | Ultimate app for managing Localizable strings, xcstrings and stringsdict with AI-powered translation | 30% OFF in Mac App Store |
+| ⭐ | [Dock - ASO Manager](https://apps.apple.com/redeem?ctx=offercodes&id=6741204788&code=BK2025) | Powerful App Store optimization tool giving developers complete control over ASO and visibility | 30% OFF with code **BK2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -506,6 +508,7 @@ Total deals: 331
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 | 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% off** (automatically applied), until Dec 4 |
+| ⭐ | [work.bench](https://apps.apple.com/redeem?ctx=offercodes&id=6747436885&code=BK2025) | The Notch Window that transforms your productivity with quick access to files, apps, and tools. | 33% OFF with code **BK2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
