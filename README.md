@@ -506,6 +506,7 @@ Total deals: 331
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 | 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% off** (automatically applied), until Dec 4 |
+| 😺 | [Gato AI Translations for Polylang](https://gatoplugins.com/plugins/ai-translations-for-polylang) | Automatically translate your content to all languages on your WordPress site | Up to $59.70 off the price |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
