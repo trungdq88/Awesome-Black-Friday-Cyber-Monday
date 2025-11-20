@@ -541,6 +541,6 @@ Total deals: 331
 | 📘 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=trungdq88-awesome-bfcm25) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied), 17 Nov - 1 Dec |
 | 📚 | [Dictionaries](https://dictionaries.io/?utm_source=trungdq88) | Adds 80+ Wiktionary-based dictionaries directly to your Mac and Kindle, available system-wide. | 50% OFF with code **BLACKFRIDAY25** |
 | 🎨 | [Mangii App](https://mangii-app.web.app/) | Turn prompts into manga masterpieces — generate high-quality AI manga & anime art in seconds. No drawing required, just your imagination. | **50% OFF** for the first week/month, 17 Nov - 1 Dec |
-
+| 🎨 | [Linkcraft AI](https://linkcraftai.com/lifetime-deal) | Generate internal link suggestions for your blog articles in a single click and get more website traffic with increased SEO rankings | **Lifetime deal** 20 Nov - 1 Dec |
 
 ⬆️ | [Go to Top](#table-of-contents)
