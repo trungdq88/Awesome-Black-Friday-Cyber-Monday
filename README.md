@@ -462,6 +462,7 @@ Total deals: 308
 | 🧾 | [Reckord](https://apps.apple.com/us/app/id6744819252) | Reckord helps users to create professional invoices in seconds, manage income and expenses, and track their business performance. It also supports multiple languages and currencies to make invoicing accessible for users around the world. | **70% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 💳 | [CardPointers](https://cardpointers.com/thanks/) | CardPointers will save you money and earn you more cash back, points, and miles every day by maximizing credit card spend bonuses, offers, and welcome bonuses. | **50% OFF** Annual and Lifetime plans |
 | 📈 | [stocktrader.studio](https://stocktrader.studio?utm_source=tonybf) | Ai-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners, custom dashboards and global coverage.  | **50% OFF** with code BLACKFRIDAY2025 |
+| 👻 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription plus **3 months extra** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
