@@ -120,6 +120,7 @@ Total deals: 331
 | ⭐ | [Leave Me Alone](https://leavemealone.com/?ref=tonybf) | Protect your inbox from unwanted emails. Get Rid of Newsletters, Spam, Cold Emails in one click | **70% discount** on our Inbox Hero Plan + Buy One Get One Free. No Code Required |
 | ✉️ | [Sales.co](https://sales.co/?utm_source=tonybf) | The Cold Email Service used by B2B brands like Instantly, Antimetal, ConvertKit, Alts.co, and more. | **10% discount** on any cold email service plan or lead list with code BLACKFRIDAY |
 | 📊 | [Fusionaly](https://karloscodes.gumroad.com/l/fusionaly/BFRIDAY25) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. https://fusionaly.com | **$80 OFF** with **BFRIDAY25** |
+| 🛍️ | [WooCommerce extension for Gato GraphQL](https://gatographql.com/pricing) | Fetch product data from your WooCommerce store using this integration for Gato GraphQL. | **Free WooCommerce extension** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
