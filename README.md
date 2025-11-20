@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 307
+Total deals: 308
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (21)](#-developer-macos-apps)
@@ -50,7 +50,7 @@ Total deals: 307
 - [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
 - [🌏 Social Media Tools (16)](#-social-media-tools)
 - [💸 Finance Tools (9)](#-finance-tools)
-- [🎛 Utility Tools (13)](#-utility-tools)
+- [🎛 Utility Tools (14)](#-utility-tools)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
 - [🎯 Miscellaneous (10)](#-miscellaneous)
 
@@ -141,7 +141,7 @@ Total deals: 307
 | 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
 | ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
-
+| 🔥 | [ConniePad](https://conniepad.com/?utm_source=black-friday-2025) | Powerful note app for macOS and iOS. Search your notes with AI. The note app that truly offloads your brain. | 50% OFF with code **F25** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 #### Window, Screen, Clipboard, Utilities
@@ -300,7 +300,7 @@ Total deals: 307
 | 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for children — complete with illustrations, narration, and soothing sleep sounds & lullabies. | **50% OFF** all plans! |
 | 🎬 | [Seedance 2](https://seedance2.ai/) | Generate stunning AI videos from text or images in seconds. Seedance 2 delivers cinematic motion, smooth camera work, and high-quality visuals for creators, marketers, and storytellers. | **50% OFF annual plans**.|
 | 🏗️ | [Anything](https://createanything.com) | AI Mobile and web app builder (database, storage, AI models built in) | **50% OFF on all plans** with code **TRUNGDQ88**. Valid until Dec 1st. |
-
+| 🎨 | [Design0](https://design0.ai) | 🎨 Effortless AI Design for Everyone | **30% OFF** with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -445,7 +445,9 @@ Total deals: 307
 | 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | ▶️ | [OutlierKit](https://outlierkit.com/)) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis.| **30% OFF** All Plans, code **BFCM25** (Nov 17–Dec 4) |
 | 🚀 | [TrendPost.co](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed |
+| 🥁 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
 | 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 322% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -462,6 +464,7 @@ Total deals: 307
 | 🧾 | [Reckord](https://apps.apple.com/us/app/id6744819252) | Reckord helps users to create professional invoices in seconds, manage income and expenses, and track their business performance. It also supports multiple languages and currencies to make invoicing accessible for users around the world. | **70% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 💳 | [CardPointers](https://cardpointers.com/thanks/) | CardPointers will save you money and earn you more cash back, points, and miles every day by maximizing credit card spend bonuses, offers, and welcome bonuses. | **50% OFF** Annual and Lifetime plans |
 | 📈 | [stocktrader.studio](https://stocktrader.studio?utm_source=tonybf) | Ai-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners, custom dashboards and global coverage.  | **50% OFF** with code BLACKFRIDAY2025 |
+| 👻 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription plus **3 months extra** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -470,6 +473,7 @@ Total deals: 307
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 📁 | [File Studio](https://filestudio.app/) | 100% offline file & PDF tools for Mac and Windows. Convert images (HEIC, JPG, PNG, WebP, AVIF, TIFF), merge/split/rearrange PDFs, remove passwords, clean metadata. Private by default - all processing on-device. | $29 one-time purchase (Lifetime Plan with 1 year updates) *50% off on Black Friday only* |
 | 🔄 | [How to Convert](https://howtoconvert.co) | Local file converter app for Mac, Windows & Linux. Do 3,969 video, image, audio, document and email file conversions and compressions with a desktop app. | 30% OFF with code **BLACKFRIDAY** |
 | ⭐ | [Ultimate Web Scraper](https://ultimatewebscraper.com/) | The best no-code web scraper chrome extension. Grab text, images, emails & links from any website with a single click. | 20% OFF with code **BLACKFRIDAY20** |
 | 🧠 | [SyncRange](https://syncrange.com) |Connect your Ecommerce and Marketing data to Google Sheets, Looker Studio and BigQuery. Works with tools including Shopify, Meta Ads, TikTok, LinkedIn  Ads and more | 40% OFF any plan **BLACKFRIDAY2025** |
