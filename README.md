@@ -27,30 +27,32 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 308
+Total deals: 331
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (21)](#-developer-macos-apps)
-	- [💻 Tools & Services (27)](#-tools--services)
+	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
+	- [💻 Tools & Services (28)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (15)](#tasks-organize-planning)
+		- [Tasks, Organize, Planning (16)](#tasks-organize-planning)
 		- [Window, Screen, Clipboard, Utilities (15)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (5)](#time-distraction-focus)
-	- [🛠️ Productivity Tools & Services (6)](#️-productivity-tools--services
+		- [Miscellaneous Productivity Apps (4)](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (15)](#-ai-chat-ui)
+	- [💬 AI Chat UI (17)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (29)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (23)](#-other-ai-tools)
+	- [✨ Other AI tools (24)](#-other-ai-tools)
 - [🌅 Design Tools (30)](#-design-tools)
-- [🌈 Marketing Tools (31)](#-marketing-tools)
+- [🌈 Marketing Tools (33)](#-marketing-tools)
 - [🔍 SEO Tools (12)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
-- [🌏 Social Media Tools (16)](#-social-media-tools)
-- [💸 Finance Tools (9)](#-finance-tools)
-- [🎛 Utility Tools (14)](#-utility-tools)
+- [🌏 Social Media Tools (18)](#-social-media-tools)
+- [💸 Finance Tools (10)](#-finance-tools)
+- [🎛 Utility Tools (16)](#-utility-tools)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
-- [🎯 Miscellaneous (10)](#-miscellaneous)
+- [🎯 Miscellaneous (12)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
