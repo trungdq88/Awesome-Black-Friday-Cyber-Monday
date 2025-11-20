@@ -42,7 +42,7 @@ Total deals: 308
 	- [🛠️ Productivity Tools & Services (6)](#️-productivity-tools--services
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (15)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (28)](#-ai-productivity--learning-tools)
+	- [📖 AI Productivity & Learning Tools (29)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (23)](#-other-ai-tools)
 - [🌅 Design Tools (30)](#-design-tools)
 - [🌈 Marketing Tools (31)](#-marketing-tools)
@@ -271,6 +271,7 @@ Total deals: 308
 | 🎤 | [Speakmac](https://speakmac.app/?utm_source=tonybf) | Offline speech-to-text for macOS. Press a hotkey to dictate into any app with instant, punctuation-perfect text and no subscription. | Black Friday pricing: Personal now **$14** (was $19) and Pro now **$22** (was $29) one-time with code **SPEAK25** |
 | 💥 | [TypeBoost](https://www.typeboost.ai/?utm_source=trungdq88-black-friday-2025) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | 60% OFF all plans for 6 months with code **BF2025** |
 | 🤖 | [PromptlyAI](https://apps.apple.com/us/app/promptlyai-your-ai-shortcut/id6751836264?mt=12) | Instant AI in any macOS context. Select text anywhere and transform it with AI commands. Your AI shortcut for writing, editing, and content transformation directly in any app. | Special offer with code **BLACKFRIDAY2025** |
+| 📝 | [SupWriter](https://supwriter.com/) | Humanize AI Text & Outsmart AI Detectors. SupWriter transforms your AI-generated content into completely humanized writing that can bypass leading AI detection tools. | **65% OFF** on all yearly plans with code **BLACKFRIDAY65** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
