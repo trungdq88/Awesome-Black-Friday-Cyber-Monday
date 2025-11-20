@@ -355,6 +355,9 @@ Total deals: 331
 | 🎨 | [MagicPattern](https://magicpattern.design/) | 20+ design tools to generate beautiful patterns, gradients, and background effects. | **30% OFF** the first year with code **BF2025** |
 | 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
+| 🎨 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors design workflow. | 30% OFF Lifetime - NO CODE REQUIRED |
+| 🎨 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -506,6 +509,8 @@ Total deals: 331
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 | 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% off** (automatically applied), until Dec 4 |
+| 🌅 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF LIFETIME- NO CODE REQUIRED | 
+| 📸 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
