@@ -251,6 +251,7 @@ Total deals: 331
 | #️⃣ | [ChatFrame](https://www.chatframe.co) | Cross-platform desktop chatbot that unifies access to multiple LLM providersa and connect them with MCP (Model Context Protocol) servers. | 30% OFF **BLACKFRIDAY2025** |
 | 🦊 | [Rispose](https://www.rispose.com) | Embed a ChatGPT widget on your own site. Train it with 1K files, site search, MCPs and functions. | 70% OFF for the first 3 months **BLACKFRIDAY2025** |
 | 💬 | [Geeps](https://geeps.app/?utm_source=tonybf) | Cross-platform native AI chat client for iOS and macOS with iCloud sync. Use with your API keys and multiple AI providers. One time in-app purchase (lifetime). | 30% OFF ($9.99) |
+| 🌟 | [AssistLoop](https:/assistloop.ai/?utm_source=tonybf) | The BestAI Customer Service with Human Handoff Instant answers from your knowledge base, with seamless handoff to your team and agent actions that keep every conversation moving forward. | 50% OFF - On All Anual Plans - **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
