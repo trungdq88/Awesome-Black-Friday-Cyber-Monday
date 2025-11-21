@@ -27,11 +27,11 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 332
+Total deals: 333
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
-	- [💻 Tools & Services (29)](#-tools--services)
+	- [💻 Tools & Services (30)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (16)](#tasks-organize-planning)
@@ -122,6 +122,8 @@ Total deals: 332
 | 📊 | [Fusionaly](https://karloscodes.gumroad.com/l/fusionaly/BFRIDAY25) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. https://fusionaly.com | **$80 OFF** with **BFRIDAY25** |
 | 🔍 | [CSS Scan](https://cssscan.com/?utm_source=tonybf) | The fastest and easiest way to check and copy CSS | 59% OFF, lifetime deal, only until Nov 28 |
 | 📊 | [TelemetryDeck](https://telemetrydeck.com/blog/black-friday-sale-2025) | Privacy-first analytics for app developers. Double-hashing anonymization, GDPR compliant by default. iOS, macOS, Android, Web, and more. Built by indies, for indies. | **40% OFF** first year with code **BLACK2025** (Nov 24 - Dec 1) |
+| 🤖 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit with AI subagents, custom slash commands, and automation workflows for solo developers building micro SaaS. | **50% OFF** ($49, was $99) with code **CKEBF2025**. Nov 24-30 |
+| 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
