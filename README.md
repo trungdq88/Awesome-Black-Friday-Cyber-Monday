@@ -172,7 +172,7 @@ Total deals: 331
 | 💰 | [DisplayBuddy](https://displaybuddy.app/?r=awesome) | Control the brightness of monitors directly from your Mac - no need to touch your monitor buttons! | 50% OFF with code **BLACKFRIDAY25**|
 | 🍝 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | ⌨️ | [Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS. | **30% OFF** with code **BF2025** at checkout|
-
+| 🪷 | [ClipZen](https://apps.apple.com/us/app/clipzen-clipboard-management/id6748610842?mt=12) | A clipboard and screenshot manager that embodies the principles of mindful computing. Clean, purposeful, and designed to enhance your workflow. | **50% OFF** util 31 Dec|
 
 ⬆️ | [Go to Top](#table-of-contents)
 
