@@ -27,11 +27,11 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 331
+Total deals: 332
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
-	- [💻 Tools & Services (28)](#-tools--services)
+	- [💻 Tools & Services (29)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (16)](#tasks-organize-planning)
@@ -121,7 +121,7 @@ Total deals: 331
 | ✉️ | [Sales.co](https://sales.co/?utm_source=tonybf) | The Cold Email Service used by B2B brands like Instantly, Antimetal, ConvertKit, Alts.co, and more. | **10% discount** on any cold email service plan or lead list with code BLACKFRIDAY |
 | 📊 | [Fusionaly](https://karloscodes.gumroad.com/l/fusionaly/BFRIDAY25) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. https://fusionaly.com | **$80 OFF** with **BFRIDAY25** |
 | 🔍 | [CSS Scan](https://cssscan.com/?utm_source=tonybf) | The fastest and easiest way to check and copy CSS | 59% OFF, lifetime deal, only until Nov 28 |
-
+| 📊 | [TelemetryDeck](https://telemetrydeck.com/blog/black-friday-sale-2025) | Privacy-first analytics for app developers. Double-hashing anonymization, GDPR compliant by default. iOS, macOS, Android, Web, and more. Built by indies, for indies. | **40% OFF** first year with code **BLACK2025** (Nov 24 - Dec 1) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
