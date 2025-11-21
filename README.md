@@ -401,6 +401,7 @@ Total deals: 333
 | 🔗 | [T.LY URL Shortener](https://t.ly/) | The all-in-one URL shortener and QR code platform built for marketers, developers, creators, and teams. | **50% OFF** first payment: coupon code **tly50** |
 | ⚡ | [Uneed](https://uneed.best) | Launch, get seen, grow together. The best launch platform for indie hackers! | **LIFETIME LAUNCH PASS**: unlimited launches and relaunches for life! |
 | 📧 | [Prontuno](https://prontuno.com?utm_source=tonybf) | Transactional email service for developers. Send receipts, notifications, and alerts via SMTP from unlimited domains with reliable delivery. | **750,000** email credits for **$100** (valid 12 months). No code required. |
+| 📊 | [Usermaven](https://usermaven.com) | Simple, powerful analytics for marketers, product teams, and agencies. | **15% OFF** all annual plans |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
