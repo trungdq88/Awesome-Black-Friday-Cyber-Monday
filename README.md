@@ -150,11 +150,10 @@ Total deals: 333
 | ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
 | 🔥 | [ConniePad](https://conniepad.com/?utm_source=black-friday-2025) | Powerful note app for macOS and iOS. Search your notes with AI. The note app that truly offloads your brain. | 50% OFF with code **F25** |
+| 🖥️ | [DynamicLake](https://www.dynamiclake.com) | Dynamic Island for Mac - Music, Notifications, Drop Actions | **25%OFF** |
+| 🎵 | [Liqoria](https://www.liqoria.com) | Beautiful Liquid Glass music app that supports Apple Music, Spotify, YouTube, browser players  **25%OFF No Code Required** |
 
 ⬆️ | [Go to Top](#table-of-contents)
-
-| 🖥️ | [DynamicLake](https://www.dynamiclake.com) | Dynamic Island For Mac | **25% OFF** |
-| 🎵 | [Liqoria](https://www.liqoria.com) | Liquid Glass Music | **25% OFF** |
 
 #### Window, Screen, Clipboard, Utilities
 
