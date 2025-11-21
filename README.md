@@ -155,6 +155,7 @@ Total deals: 333
 | 🖥️ | [DynamicLake](https://www.dynamiclake.com) | Dynamic Island for Mac - Music, Notifications, Drop Actions | **25%OFF** |
 | 🎵 | [Liqoria](https://www.liqoria.com) | Beautiful Liquid Glass music app that supports Apple Music, Spotify, YouTube, browser players  **25%OFF No Code Required** |
 | 🖥️ | [LaunchOS](https://launchosapp.com?utm_source=abfcm)| The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.| **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
+| ☎️ | [Airbounce for Zoom](https://www.airbounce.co/?utm_source=gh-bf2025) | Upgrade your CapsLock key for easier Zoom calls on Mac! One button to join, mute/unmute, or leave — plus integration with your HomeKit smart light to show you're #OnAir. | **40% off** with **BF2025** (one-time purchase) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
