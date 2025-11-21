@@ -288,6 +288,7 @@ Total deals: 331
 | 💥 | [TypeBoost](https://www.typeboost.ai/?utm_source=trungdq88-black-friday-2025) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | 60% OFF all plans for 6 months with code **BF2025** |
 | 🤖 | [PromptlyAI](https://apps.apple.com/us/app/promptlyai-your-ai-shortcut/id6751836264?mt=12) | Instant AI in any macOS context. Select text anywhere and transform it with AI commands. Your AI shortcut for writing, editing, and content transformation directly in any app. | Special offer with code **BLACKFRIDAY2025** |
 | 📝 | [SupWriter](https://supwriter.com/) | Humanize AI Text & Outsmart AI Detectors. SupWriter transforms your AI-generated content into completely humanized writing that can bypass leading AI detection tools. | **65% OFF** on all yearly plans with code **BLACKFRIDAY65** |
+| 🗣️ | [VoxWrite](https://voxwrite.app/) | AI-powered Voice-to-Text Chrome Extension that captures your speech and transforms it into clean, clear, styled text — translated, punctuated, and instantly ready to use. | **30% OFF** on LIFETIME plan with code **BF2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
