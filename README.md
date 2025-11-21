@@ -85,6 +85,7 @@ Total deals: 333
 | ⭐ | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
 | 🌐 | [Poedit](https://poedit.net/?utm_source=trungdq88) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
 | ✅ | [JuxtaCode](https://juxtacode.app/) | Compare Git branches and resolve conflicts with ease | 25% off with code **BLACKFRIDAY25** |
+| 🛠️ | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=trungdq88) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50%** off with promo code **BFHALFOFF** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
