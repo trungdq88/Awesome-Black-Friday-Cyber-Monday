@@ -443,6 +443,7 @@ Total deals: 333
 | 👥 | [FeedbackPulse](https://feedbackpulse.com?utm_source=tonybf) | Employee feedback tools that take minutes, not months to implement. No consultants needed - just meaningful surveys your team will actually complete. Purpose-built for growing companies with 10-500 employees. | **30% OFF** first year with code **BLACKFRIDAY2025** |
 | 💼 | [Hirevire](https://hirevire.com?ref=tonydinh) | One‑way video interview software that replaces first‑round phone screens. Send a link, candidates record on their time, and you review in minutes—cutting screening time by 50%+ while getting better signal on communication, fit, and motivation. | **20% OFF** for first year  - available on all plans with code **BlackFriday20in25** |
 | 🛠️ | [SharpAPI](https://sharpapi.com/en/pricing?utm_source=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, reliable AI endpoints without extra complexity. | **50% OFF first year** with code **BF2025** (Nov 24–Dec 3) |
+| 🚀 | [idealogger](https://www.idealogger.app/) | Go from spark to strategy. Think through your idea with structured guidance, run AI-backed research with credible sources, and map insights into an actionable plan. | **80 free credits after  signup** (send an email to contact@idealogger.app with your email address you used for signup and get the credits).|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
