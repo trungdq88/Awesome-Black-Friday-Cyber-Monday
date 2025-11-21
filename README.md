@@ -472,6 +472,7 @@ Total deals: 333
 | 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
 | 📱 | [ContentStudio](https://contentstudio.io/black-friday) | Plan, schedule, collaborate, and track everything across all your social channels in one place. | **40% OFF** all annual plans |
 | ✍️ | [Contentpen](https://contentpen.ai/black-friday) | Turn ideas into polished content for blogs, social posts, ads, and more. | **50% OFF** all annual plans |
+| 🔗 | [Replug](https://replug.io/black-friday) | Create branded short links, add CTAs, track performance, and boost conversions. | **Flat 60% OFF** all annual plans |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
