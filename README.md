@@ -19,19 +19,19 @@ Don't forget to:
 
 Hi there! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on Twitter: https://x.com/tdinh_me
 
-| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF - Buy Once, Use Forever. | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
+| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF - Buy Once, Use Forever. | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Compresto](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
 | --- | ------ | ------|
-| <a href="https://www.typingmind.com?utm_source=tonybf"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="[https://compresto.app/pricing](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday)"><img src="https://image.social/get?url=compresto.app"></a> |
+| <a href="https://www.typingmind.com?utm_source=tonybf"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="[https://compresto.app](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday)"><img src="https://image.social/get?url=compresto.app"></a> |
 | The best chat frontend for LLMs.<br/>BLACKFRIDAY2025<br/><br/>Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY2025 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BFCM25<br/><br/>Compresto is a powerful video, image & PDF compression for macOS |
 
 
 ## Table of Contents
 
-Total deals: 331
+Total deals: 333
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
-	- [💻 Tools & Services (28)](#-tools--services)
+	- [💻 Tools & Services (30)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (16)](#tasks-organize-planning)
@@ -120,7 +120,10 @@ Total deals: 331
 | ⭐ | [Leave Me Alone](https://leavemealone.com/?ref=tonybf) | Protect your inbox from unwanted emails. Get Rid of Newsletters, Spam, Cold Emails in one click | **70% discount** on our Inbox Hero Plan + Buy One Get One Free. No Code Required |
 | ✉️ | [Sales.co](https://sales.co/?utm_source=tonybf) | The Cold Email Service used by B2B brands like Instantly, Antimetal, ConvertKit, Alts.co, and more. | **10% discount** on any cold email service plan or lead list with code BLACKFRIDAY |
 | 📊 | [Fusionaly](https://karloscodes.gumroad.com/l/fusionaly/BFRIDAY25) | Self-hosted web analytics. Privacy-first, first-party tracking, AI-powered insights. Install in 3 minutes with one command. Own your data forever. https://fusionaly.com | **$80 OFF** with **BFRIDAY25** |
-
+| 🔍 | [CSS Scan](https://cssscan.com/?utm_source=tonybf) | The fastest and easiest way to check and copy CSS | 59% OFF, lifetime deal, only until Nov 28 |
+| 📊 | [TelemetryDeck](https://telemetrydeck.com/blog/black-friday-sale-2025) | Privacy-first analytics for app developers. Double-hashing anonymization, GDPR compliant by default. iOS, macOS, Android, Web, and more. Built by indies, for indies. | **40% OFF** first year with code **BLACK2025** (Nov 24 - Dec 1) |
+| 🤖 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit with AI subagents, custom slash commands, and automation workflows for solo developers building micro SaaS. | **50% OFF** ($49, was $99) with code **CKEBF2025**. Nov 24-30 |
+| 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -147,12 +150,11 @@ Total deals: 331
 | ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
 | 🔥 | [ConniePad](https://conniepad.com/?utm_source=black-friday-2025) | Powerful note app for macOS and iOS. Search your notes with AI. The note app that truly offloads your brain. | 50% OFF with code **F25** |
+| 🖥️ | [DynamicLake](https://www.dynamiclake.com) | Dynamic Island for Mac - Music, Notifications, Drop Actions | **25%OFF** |
+| 🎵 | [Liqoria](https://www.liqoria.com) | Beautiful Liquid Glass music app that supports Apple Music, Spotify, YouTube, browser players  **25%OFF No Code Required** |
 | 🖥️ | [LaunchOS](https://launchosapp.com?utm_source=abfcm)| The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.| **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
 
 ⬆️ | [Go to Top](#table-of-contents)
-
-| 🖥️ | [DynamicLake](https://www.dynamiclake.com) | Dynamic Island For Mac | **25% OFF** |
-| 🎵 | [Liqoria](https://www.liqoria.com) | Liquid Glass Music | **25% OFF** |
 
 #### Window, Screen, Clipboard, Utilities
 
@@ -464,7 +466,7 @@ Total deals: 331
 | ▶️ | [OutlierKit](https://outlierkit.com/)) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis.| **30% OFF** All Plans, code **BFCM25** (Nov 17–Dec 4) |
 | 🚀 | [TrendPost.co](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed |
 | 🥁 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
-| 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 322% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+| 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
