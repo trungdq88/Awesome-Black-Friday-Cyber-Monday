@@ -360,7 +360,7 @@ Total deals: 333
 | 🎨 | [MagicPattern](https://magicpattern.design/) | 20+ design tools to generate beautiful patterns, gradients, and background effects. | **30% OFF** the first year with code **BF2025** |
 | 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
-| 🌇 | [Rapidemo](https://getrapidemo.com/) | Screen recorder that automatically zooms in on clicks, smoothens the cursor and animates everything beautifully. Made for Windows 10 and 11 PCs. | **70% OFF** the first month with code **BLACKFRIDAY25** |
+| 🌇 | [Rapidemo](https://getrapidemo.com/) | Automatically beautiful screen recordings. Made for Windows 10 and 11. | **70% OFF** the first month with code **BLACKFRIDAY25** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
