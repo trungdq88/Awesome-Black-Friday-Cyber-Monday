@@ -47,6 +47,12 @@ Total deals: 405
 - [🌅 Design Tools (31)](#-design-tools)
 - [🌈 Marketing Tools (36)](#-marketing-tools)
 - [🔍 SEO Tools (12)](#-seo-tools)
+- [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
+- [🌏 Social Media Tools (18)](#-social-media-tools)
+- [💸 Finance Tools (10)](#-finance-tools)
+- [🎛 Utility Tools (17)](#-utility-tools)
+- [💪 Health and Fitness (8)](#-health-and-fitness)
+- [🎯 Miscellaneous (12)](#-miscellaneous)
 - [🚀 Startup SaaS/Tools (22)](#-startup-saastools)
 - [🌏 Social Media Tools (24)](#-social-media-tools)
 - [💸 Finance Tools (12)](#-finance-tools)
@@ -99,6 +105,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** |
 | ⭐ | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
 | 🌐 | [Poedit](https://poedit.net/?utm_source=trungdq88) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
+| 🌐 | [LocalizApp](https://localizapp.dimitrigiani.com/) | Ultimate app for managing Localizable strings, xcstrings and stringsdict with AI-powered translation | 30% OFF in Mac App Store |
+| ⭐ | [Dock - ASO Manager](https://dock-app.com/) | Powerful App Store optimization tool giving developers complete control over ASO and visibility | 30% OFF with code **BK2025** |
 | 🔌 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** |
 | ✅ | [JuxtaCode](https://juxtacode.app/) | Compare Git branches and resolve conflicts with ease | 25% off with code **BLACKFRIDAY25** |
 | 🛠️ | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=trungdq88) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50%** off with promo code **BFHALFOFF** |
@@ -595,6 +603,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 | 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% off** (automatically applied), until Dec 4 |
+| ⭐ | [work.bench](https://workbench.dimix.it/) | The Notch Window that transforms your productivity with quick access to files, apps, and tools. | 33% OFF with code **BK2025** |
 | 🎨 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes in seconds on iPhone, iPad, and Mac. Add your logo, pick custom colors, and design QR codes that stand out, boost scan rates, and increase brand recognition. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 🧾 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes in seconds on iPhone and iPad. Choose from formats like Code 128, EAN-13, PDF417, and more, then scan and test instantly with the built-in camera scanner. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 🌤️ | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=awesome_black_friday_cyber_monday) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 |
