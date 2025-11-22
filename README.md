@@ -84,6 +84,7 @@ Total deals: 333
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** |
 | ⭐ | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
 | 🌐 | [Poedit](https://poedit.net/?utm_source=trungdq88) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
+| 🔌 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** |
 | ✅ | [JuxtaCode](https://juxtacode.app/) | Compare Git branches and resolve conflicts with ease | 25% off with code **BLACKFRIDAY25** |
 | 🛠️ | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=trungdq88) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50%** off with promo code **BFHALFOFF** |
 | ⚡ | [CodexUse](https://codexuse.com) | Stop logging out and logging back in—save Codex CLI logins as profiles, see live rate-limit headroom, and auto-roll to a fresher account. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
