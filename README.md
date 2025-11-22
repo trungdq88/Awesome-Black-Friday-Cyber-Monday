@@ -86,6 +86,8 @@ Total deals: 333
 | 🌐 | [Poedit](https://poedit.net/?utm_source=trungdq88) | Translation editor supporting modern formats incl. JSON, plus automatic pre-translation via DeepL. | 30% OFF with code **BLACKFRIDAY25** |
 | ✅ | [JuxtaCode](https://juxtacode.app/) | Compare Git branches and resolve conflicts with ease | 25% off with code **BLACKFRIDAY25** |
 | 🛠️ | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=trungdq88) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50%** off with promo code **BFHALFOFF** |
+| 🛠️ | [CodeSwissKnife Bar Dev Tools](https://apps.apple.com/us/app/codeswissknife-bar-dev-tools/id6749501609?mt=12) | CodeSwissKnife Bar is a fast, privacy-first developer toolkit that lives in your Mac’s menu bar. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -330,6 +332,7 @@ Total deals: 333
 | 🎬 | [Seedance 2](https://seedance2.ai/) | Generate stunning AI videos from text or images in seconds. Seedance 2 delivers cinematic motion, smooth camera work, and high-quality visuals for creators, marketers, and storytellers. | **50% OFF annual plans**.|
 | 🏗️ | [Anything](https://createanything.com) | AI Mobile and web app builder (database, storage, AI models built in) | **50% OFF on all plans** with code **TRUNGDQ88**. Valid until Dec 1st. |
 | 🎨 | [Design0](https://design0.ai) | 🎨 Effortless AI Design for Everyone | **30% OFF** with code **BLACKFRIDAY2025** |
+| ✨ | [AppReview AI – Review Analyzer](https://apps.apple.com/us/app/appreview-ai-review-analyzer/id6755069850?mt=12) | Analyze App Store reviews instantly with AppReview AI. Powered by Apple Intelligence no cloud, no API, no internet required. 100% private and secure on your device. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | 📖 | [Translate a Book with AI](https://translateabook.com/) | Quality book AI translations with our custom pipeline that preserves layout and uses the current top LLMs - join thousands of happy authors, publishers and readers | **30% off** all translations until Nov 31st with code **BF30**. |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -482,6 +485,7 @@ Total deals: 333
 | 🚀 | [TrendPost.co](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed |
 | 🥁 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
 | 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+| 📷 | [CamFrame Stream Your Face](https://apps.apple.com/us/app/camframe-stream-your-face/id6478444750?mt=12) | Elevate your YouTube content creation with CamFrame: effortlessly stream your face or photos for engaging tutorials and presentations. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -524,7 +528,9 @@ Total deals: 333
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 | 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% off** (automatically applied), until Dec 4 |
+| 📅 | [Time Calc - Time Calculator](https://apps.apple.com/us/app/time-calc-time-calculator/id1279195300) | TimeCalc is the simple and accurate time calculator for hours, minutes, seconds. Log flight hours, track work shifts, add and subtract time and differences between dates. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | ⭐ | [StopTheMadness Pro](https://apps.apple.com/app/stopthemadness-pro/id6471380298) | Web browser extension for iOS and macOS that stops web site annoyances and privacy violations | **25% OFF** from Nov 21 to Dec 5 |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
