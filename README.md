@@ -54,6 +54,21 @@ Total deals: 405
 - [💪 Health and Fitness (10)](#-health-and-fitness)
 - [🎯 Miscellaneous (14)](#-miscellaneous)
 
+## Hacker Residency Group Entries
+
+Special category for the [Hacker Residency Group](https://www.hackerresidencygroup.com/).
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+| 📸 | [Once](https://www.once.film/?utm_source=bf) | Disposable camera app for events. Guests scan a QR code, take limited photos, and the photos reveal the next day! | 50% OFF for Early Waitlist Users |
+| ⚡ | [Uneed](https://uneed.best) | Launch, get seen, grow together. The best launch platform for indie hackers! | **LIFETIME LAUNCH PASS**: unlimited launches and relaunches for life! |
+| 📺 | [SponsorRadar](https://sponsorradar.com) | Land Paid Sponsors for Your YouTube Channel. Find brands already sponsoring channels like yours. Generate professional media kits. Send outreach emails—all in one place. | **60% OFF** monthly subscription |
+| 🎨 | [Reframe](https://usereframe.com/?utm_source=bf) | Create designs, illustrations, mockups, ad creatives and more in seconds and edit them by chatting with AI. |  **45% OFF** on all plans.
+| 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
+|  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
+| 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
+| ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
+
 ## 👨‍💻 Developer Tools
 
 ### 💻 Developer macOS Apps
