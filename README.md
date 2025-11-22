@@ -311,9 +311,11 @@ Total deals: 333
 | 💥 | [TypeBoost](https://www.typeboost.ai/?utm_source=trungdq88-black-friday-2025) | Build your personal AI toolkit. Use anywhere you type on Mac. Write, translate, improve, explain, brainstorm... | 60% OFF all plans for 6 months with code **BF2025** |
 | 🤖 | [PromptlyAI](https://apps.apple.com/us/app/promptlyai-your-ai-shortcut/id6751836264?mt=12) | Instant AI in any macOS context. Select text anywhere and transform it with AI commands. Your AI shortcut for writing, editing, and content transformation directly in any app. | Special offer with code **BLACKFRIDAY2025** |
 | 📝 | [SupWriter](https://supwriter.com/) | Humanize AI Text & Outsmart AI Detectors. SupWriter transforms your AI-generated content into completely humanized writing that can bypass leading AI detection tools. | **65% OFF** on all yearly plans with code **BLACKFRIDAY65** |
+| 🟪 | [QuickWhisper](https://quickwhisper.app) | QuickWhisper turns your Mac into a voice-first workspace. Speak instead of typing anywhere with system-wide dictation, automatically record and transcribe your meetings, then get instant AI summaries of everything you've recorded. | Get **65% OFF** with **[BFRIDAY25](https://iwtcom.gumroad.com/l/quickwhisper/BFRIDAY25)** until Dec 4 |
 | 🗣️ | [VoxWrite](https://voxwrite.app/) | AI-powered Voice-to-Text Chrome Extension that captures your speech and transforms it into clean, clear, styled text — translated, punctuated, and instantly ready to use. | **30% OFF** on LIFETIME plan with code **BF2025** |
 | ⛰️ | [Heights Platform](https://www.heightsplatform.com/black-friday-2025) | the all-in-one, AI-powered course creation and community-building platform. Start your dream business as a creator with AI tools that help you grow and scale. Get all the features you need to create and sell unlimited online courses and grow a thriving community of engaged customers. Now with built-in live streaming and group meetings. | **35% OFF** Basic or Pro plan for 2 years ($1000 savings) |
 | 🤖 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
