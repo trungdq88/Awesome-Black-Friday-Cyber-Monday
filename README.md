@@ -211,6 +211,9 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | ⚡️ | [PastePal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | 50% off lifetime. Use code INDIEGOODIESBF25 for 50% off standalone versions |
 | ⚡️ | [Almighty](https://indiegoodies.com/almighty) | Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience | 50% off lifetime. Use code INDIEGOODIESBF25 for 50% off standalone versions |
+| 💰 | [KeyScreen](https://keyscreenapp.com) | Show your keystrokes on screen. The most customizable keypress visualizer for Mac | **40% OFF** from Nov 21 to Dec 2. No code needed. |
+| 💰 | [FaceScreen](https://facescreenapp.com) | Show your face and brand on top of everything else. | **40% OFF** from Nov 21 to Dec 2. No code needed. |
+| 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen in real-time when on calls or giving demos. | **30% OFF** from Nov 21 to Dec 2. No code needed. |
 
 
 
