@@ -536,6 +536,7 @@ Total deals: 405
 | ✍️ | [Contentpen](https://contentpen.ai/black-friday) | Turn ideas into polished content for blogs, social posts, ads, and more. | **50% OFF** all annual plans |
 | 🔗 | [Replug](https://replug.io/black-friday) | Create branded short links, add CTAs, track performance, and boost conversions. | **Flat 60% OFF** all annual plans |
 | 📷 | [CamFrame Stream Your Face](https://apps.apple.com/us/app/camframe-stream-your-face/id6478444750?mt=12) | Elevate your YouTube content creation with CamFrame: effortlessly stream your face or photos for engaging tutorials and presentations. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
+| 📺 | [SponsorRadar](https://sponsorradar.com) | Land Paid Sponsors for Your YouTube Channel. Find brands already sponsoring channels like yours. Generate professional media kits. Send outreach emails—all in one place. | **60% OFF** monthly subscription |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
