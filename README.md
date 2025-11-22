@@ -309,8 +309,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💬 | [aiToggler](https://app.aitoggler.com/#subscription) | ALL AI under One App. Text, image, video, audio AI models, all accessible under 1 intuitive interface with easy access to Artificial Analysis leaderboard. | 90% OFF Lifetime with code **BlackFriday2025** |
 | ✨ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime With AI Usage |
 | 🌟 | [AssistLoop](https://assistloop.ai/?utm_source=tonybf) | The BestAI Customer Service with Human Handoff Instant answers from your knowledge base, with seamless handoff to your team and agent actions that keep every conversation moving forward. | 50% OFF - On All Anual Plans - **BLACKFRIDAY2025** |
-| 🤖 | [Formbot]([https://tryformbot.com/black-friday](https://tryformbot.com/black-friday)/?utm_source=tonybf) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** |
-
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -388,6 +386,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✨ | [AppReview AI – Review Analyzer](https://apps.apple.com/us/app/appreview-ai-review-analyzer/id6755069850?mt=12) | Analyze App Store reviews instantly with AppReview AI. Powered by Apple Intelligence no cloud, no API, no internet required. 100% private and secure on your device. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | 📖 | [Translate a Book with AI](https://translateabook.com/) | Quality book AI translations with our custom pipeline that preserves layout and uses the current top LLMs - join thousands of happy authors, publishers and readers | **30% off** all translations until Nov 31st with code **BF30**. |
 | 👀 | [Transvid - Video Translator](https://apps.apple.com/us/app/transvid-video-translator/id6751031978) | Instant download and translate video from Tiktok, Youtube shorts. Instagram, Facebook Reels, Douyin - Watch the world in your language | **50% OFF Yearly Plan** with code **BLACKFRIDAY2025**. https://apps.apple.com/redeem?ctx=offercodes&id=6751031978&code=BLACKFRIDAY2025 |
+| 🤖 | [Formbot](https://tryformbot.com/black-friday/?utm_source=tonybf) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
