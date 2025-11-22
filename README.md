@@ -388,6 +388,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✨ | [AppReview AI – Review Analyzer](https://apps.apple.com/us/app/appreview-ai-review-analyzer/id6755069850?mt=12) | Analyze App Store reviews instantly with AppReview AI. Powered by Apple Intelligence no cloud, no API, no internet required. 100% private and secure on your device. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | 📖 | [Translate a Book with AI](https://translateabook.com/) | Quality book AI translations with our custom pipeline that preserves layout and uses the current top LLMs - join thousands of happy authors, publishers and readers | **30% off** all translations until Nov 31st with code **BF30**. |
 | 👀 | [Transvid - Video Translator](https://apps.apple.com/us/app/transvid-video-translator/id6751031978) | Instant download and translate video from Tiktok, Youtube shorts. Instagram, Facebook Reels, Douyin - Watch the world in your language | **50% OFF Yearly Plan** with code **BLACKFRIDAY2025**. https://apps.apple.com/redeem?ctx=offercodes&id=6751031978&code=BLACKFRIDAY2025 |
+| 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup. Valid until Dec 22nd. |
+| 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup . Valid until Dec 22nd. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
