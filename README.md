@@ -294,7 +294,7 @@ Total deals: 405
 | 💬 | [Geeps](https://geeps.app/?utm_source=tonybf) | Cross-platform native AI chat client for iOS and macOS with iCloud sync. Use with your API keys and multiple AI providers. One time in-app purchase (lifetime). | 30% OFF ($9.99) |
 | 💬 | [aiToggler](https://app.aitoggler.com/#subscription) | ALL AI under One App. Text, image, video, audio AI models, all accessible under 1 intuitive interface with easy access to Artificial Analysis leaderboard. | 90% OFF Lifetime with code **BlackFriday2025** |
 | ✨ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime With AI Usage |
-| 🌟 | [AssistLoop](https:/assistloop.ai/?utm_source=tonybf) | The BestAI Customer Service with Human Handoff Instant answers from your knowledge base, with seamless handoff to your team and agent actions that keep every conversation moving forward. | 50% OFF - On All Anual Plans - **BLACKFRIDAY2025** |
+| 🌟 | [AssistLoop](https://assistloop.ai/?utm_source=tonybf) | The BestAI Customer Service with Human Handoff Instant answers from your knowledge base, with seamless handoff to your team and agent actions that keep every conversation moving forward. | 50% OFF - On All Anual Plans - **BLACKFRIDAY2025** |
 
 
 
