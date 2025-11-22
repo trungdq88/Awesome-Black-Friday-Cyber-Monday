@@ -131,7 +131,6 @@ Total deals: 331
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| ✨ | **[DEKI](https://deki.vercel.app/)** | Floating flashcards integrated seamlessly into your **desktop workflow**. Review, create, and quiz yourself **over any application.** | **25% OFF** with code **`BLACKFRIDAY2025`** |
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=tonybf) | Smart, simple staff scheduling. Build rosters, manage shifts, and notify staff in seconds. | **70% OFF** for 6 Months **BLACKFRIDAY2025** |
 | 💥 | [MenubarX](https://MenubarX.app) | Powful macOS menu bar browser that helps you to add any web pages to the menu bar just like Native Apps. | App Store **28% OFF** <br> **or** Code **BF2025** | 2025-12-01 |
 | 🛡️ | [Tiny Shield](https://tinyshield.proxyman.com/?utm_source=black-friday-2025) | Alternative to Little Snitch Mini - See all traffic from your Mac and block it | 60% OFF with code **BLACKFRIDAY2025** |
@@ -148,6 +147,7 @@ Total deals: 331
 | ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
 | 🔥 | [ConniePad](https://conniepad.com/?utm_source=black-friday-2025) | Powerful note app for macOS and iOS. Search your notes with AI. The note app that truly offloads your brain. | 50% OFF with code **F25** |
+| ✨ | **[DEKI](https://deki.vercel.app/)** | Floating flashcards integrated seamlessly into your **desktop workflow**. Review, create, and quiz yourself **over any application.** | **25% OFF** with code **`BLACKFRIDAY2025`** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
