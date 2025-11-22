@@ -146,7 +146,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📊 | [TelemetryDeck](https://telemetrydeck.com/blog/black-friday-sale-2025) | Privacy-first analytics for app developers. Double-hashing anonymization, GDPR compliant by default. iOS, macOS, Android, Web, and more. Built by indies, for indies. | **40% OFF** first year with code **BLACK2025** (Nov 24 - Dec 1) |
 | 🤖 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit with AI subagents, custom slash commands, and automation workflows for solo developers building micro SaaS. | **50% OFF** ($49, was $99) with code **CKEBF2025**. Nov 24-30 |
 | 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
-
+| ☂︎ | [saasbrella](https://saasbrella.co/?utm_source=tonybf) | Hosted, Deployed & Fully Functional SaaS Template with instant Dev Environment setup | $99 LIFETIME PRO PLAN with 10 Hosting Years|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
