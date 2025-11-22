@@ -571,6 +571,8 @@ Total deals: 333
 |💸|[Steps](https://apps.apple.com/us/app/steps-step-counter-workouts/id6746096378)| Your complete step tracking companion with Apple Watch sync, beautiful charts, workout analytics, and personalized goals to keep you moving. | 33% OFF lifetime  plan with code **BLACKFRIDAY** or using https://apps.apple.com/redeem?ctx=offercodes&id=6746096378&code=BLACKFRIDAY, Nov 25 - Dec 2 |
 | 🏃‍♂️‍➡️ |[WalkMate](https://apps.apple.com/us/app/walk-mate-weight-loss/id6739468121) | Daily random walking routes in your location. |  50% OFF lifetime plan with code **BLCKFRDY25** or using https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25 , Nov 13 - Dec 31 |
 | 📕 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package from Nov.28 to Dec.2 |
+| 🏃 | [Watch to 5K](https://apps.apple.com/us/app/watchto5k-couch-to-5km-watch/id1517914828) | Train to run 5K in 9 weeks with just your Apple Watch. .One small upfront cost, no subscriptions. Apple Watch App of the Year 2024 Finalist. | 25% OFF Lifetime Access just $3.59. One time purchase in the AppStore. Nov 28 - Dec 1|
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
