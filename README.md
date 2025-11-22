@@ -518,6 +518,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎁 | [VaocherApp](https://www.vaocherapp.com/?utm_source=github) | Sell more gift cards and gift vouchers with less effort. VaocherApp lets your restaurant, spa, hotel or experience business sell, manage, and track online gift cards in one simple platform. | **50% OFF** with code **BF2025VA50** |
 | ✨ | [Orshot](https://orshot.com?utm_source=bf25) | Automate visual content generation for high-volume marketing. Instantly create images & PDFs at scale. Integrates with API, Zapier, and SDKs | **15% OFF for first 3 months** with code **BLACKFRIDAY25** (Nov 22–Dec 3) |
 | ⭐ | [Resmume](https://resmume.com/?utm_source=bf2025) | Resmume is an online resume builder that uses AI + ATS-friendly templates to create polished, error-free resumes in no time. | **62% OFF Lifetime deal** |
+| 🚀 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** on everything with code **BF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
