@@ -538,6 +538,7 @@ Total deals: 334
 | 💳 | [CardPointers](https://cardpointers.com/thanks/) | CardPointers will save you money and earn you more cash back, points, and miles every day by maximizing credit card spend bonuses, offers, and welcome bonuses. | **50% OFF** Annual and Lifetime plans |
 | 📈 | [stocktrader.studio](https://stocktrader.studio?utm_source=tonybf) | Ai-powered stock market research with best-in-class financial data, analyst estimates, advanced screeners, custom dashboards and global coverage.  | **50% OFF** with code BLACKFRIDAY2025 |
 | 👻 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription plus **3 months extra** |
+| 🤑 | [Capitally](https://www.mycapitally.com?ref=awsm-tony&discount=BLACKWEEK25) | Wealth tracker for assets, liabilities, and stock options, with robust CSV imports and E2E encryption | **20% OFF** on all plans, including **5-Year** plan, code: **BLACKWEEK25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
