@@ -198,7 +198,9 @@ Total deals: 333
 | ⏲️ | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF, Nov 20 - Dec 2 |
 | ⏲️ | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
 | 🍅 | [Pomotto](https://pomotto.app) | A pomodoro timer to sync focus time and Do Not Disturb. Your Mac finally knows when you're working! | **30% off** in the AppStore (already applied) - Pay Once Own Forever |
+| 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=trungdq88-github) | #1 Focus app for ADHD timeblindness. Focusmo helps you log your day as you go - so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates (Nov 21 - Dec 1). (code automatically applied) |
 | 🕑 | [Daily Time Tracking](https://dailytimetracking.com?ref=awesomebf) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to.  | **30% off** on the Mac App Store |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -210,6 +212,7 @@ Total deals: 333
 | 🚀 | [Hyud](https://www.hyud.app/?utm_source=tonybf) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. Built for Mac. | 50% OFF Lifetime License with code **BLACKFRIDAY50** |
 | 🔥 | [Koofr](https://koofr.eu/black-friday/) | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. |
 | ⭐ | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2025** |
+| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=trungdq88-github) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. **BLACKFRIDAY50** (Nov 21 - Dec 1) |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 🚀 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
