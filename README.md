@@ -367,8 +367,10 @@ Total deals: 334
 | 🎬 | [Seedance 2](https://seedance2.ai/) | Generate stunning AI videos from text or images in seconds. Seedance 2 delivers cinematic motion, smooth camera work, and high-quality visuals for creators, marketers, and storytellers. | **50% OFF annual plans**.|
 | 🏗️ | [Anything](https://createanything.com) | AI Mobile and web app builder (database, storage, AI models built in) | **50% OFF on all plans** with code **TRUNGDQ88**. Valid until Dec 1st. |
 | 🎨 | [Design0](https://design0.ai) | 🎨 Effortless AI Design for Everyone | **30% OFF** with code **BLACKFRIDAY2025** |
+| 📄 | [CSVNormalize](https://csvnormalize.com) | AI powered CSV processing that cleans, validates, and transforms your data with enterprise-grade accuracy and lightning-fast performance. | **3 Months Free** with promo code **BlackFriday25**. Valid until Dec 15th.|
 | ✨ | [AppReview AI – Review Analyzer](https://apps.apple.com/us/app/appreview-ai-review-analyzer/id6755069850?mt=12) | Analyze App Store reviews instantly with AppReview AI. Powered by Apple Intelligence no cloud, no API, no internet required. 100% private and secure on your device. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | 📖 | [Translate a Book with AI](https://translateabook.com/) | Quality book AI translations with our custom pipeline that preserves layout and uses the current top LLMs - join thousands of happy authors, publishers and readers | **30% off** all translations until Nov 31st with code **BF30**. |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
