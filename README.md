@@ -600,6 +600,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🌤️ | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=awesome_black_friday_cyber_monday) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 |
 | 📅 | [Time Calc - Time Calculator](https://apps.apple.com/us/app/time-calc-time-calculator/id1279195300) | TimeCalc is the simple and accurate time calculator for hours, minutes, seconds. Log flight hours, track work shifts, add and subtract time and differences between dates. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | ⭐ | [StopTheMadness Pro](https://apps.apple.com/app/stopthemadness-pro/id6471380298) | Web browser extension for iOS and macOS that stops web site annoyances and privacy violations | **25% OFF** from Nov 21 to Dec 5 |
+| 🌅 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> from Nov 24th - Dec 4th |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
