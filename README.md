@@ -27,32 +27,32 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 332
+Total deals: 405
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
-	- [💻 Tools & Services (30)](#-tools--services)
+	- [💻 Developer macOS Apps (29)](#-developer-macos-apps)
+	- [💻 Tools & Services (34)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (16)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (15)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (5)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (4)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (8)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
+		- [Tasks, Organize, Planning (24)](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities (20)](#window-screen-clipboard-utilities)
+		- [Time, Distraction, Focus (7)](#time-distraction-focus)
+		- [Miscellaneous Productivity Apps (9)](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (17)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (29)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (24)](#-other-ai-tools)
-- [🌅 Design Tools (30)](#-design-tools)
-- [🌈 Marketing Tools (33)](#-marketing-tools)
+	- [💬 AI Chat UI (20)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (34)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (27)](#-other-ai-tools)
+- [🌅 Design Tools (31)](#-design-tools)
+- [🌈 Marketing Tools (36)](#-marketing-tools)
 - [🔍 SEO Tools (12)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (17)](#-startup-saastools)
-- [🌏 Social Media Tools (18)](#-social-media-tools)
-- [💸 Finance Tools (10)](#-finance-tools)
-- [🎛 Utility Tools (18)](#-utility-tools)
-- [💪 Health and Fitness (8)](#-health-and-fitness)
-- [🎯 Miscellaneous (12)](#-miscellaneous)
+- [🚀 Startup SaaS/Tools (22)](#-startup-saastools)
+- [🌏 Social Media Tools (24)](#-social-media-tools)
+- [💸 Finance Tools (12)](#-finance-tools)
+- [🎛 Utility Tools (21)](#-utility-tools)
+- [💪 Health and Fitness (10)](#-health-and-fitness)
+- [🎯 Miscellaneous (14)](#-miscellaneous)
 
 ## 👨‍💻 Developer Tools
 
