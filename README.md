@@ -159,6 +159,7 @@ Total deals: 405
 | ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
 | 🔥 | [ConniePad](https://conniepad.com/?utm_source=black-friday-2025) | Powerful note app for macOS and iOS. Search your notes with AI. The note app that truly offloads your brain. | 50% OFF with code **F25** |
+| ✨ | **[DEKI](https://deki.vercel.app/)** | Floating flashcards integrated seamlessly into your **desktop workflow**. Review, create, and quiz yourself **over any application.** | **25% OFF** with code **`BLACKFRIDAY2025`** |
 | 🐙 | [Octoparse](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). |
 | 🖥️ | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run whatever you want, whenever you want with Lingon Pro | **20% OFF** (automatically applied)|
 | 👀 | [DoubleMemory](https://doublememory.com) | Bookmark & read later & clipbard all in one app. For iOS, iPadOS and macOS. | **60% OFF** on lifetime plan with code: `CYBERWEEK` |
@@ -167,8 +168,6 @@ Total deals: 405
 | 🎵 | [Liqoria](https://www.liqoria.com) | Beautiful Liquid Glass music app that supports Apple Music, Spotify, YouTube, browser players  **25%OFF No Code Required** |
 | 🖥️ | [LaunchOS](https://launchosapp.com?utm_source=abfcm)| The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.| **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
 | ☎️ | [Airbounce for Zoom](https://www.airbounce.co/?utm_source=gh-bf2025) | Upgrade your CapsLock key for easier Zoom calls on Mac! One button to join, mute/unmute, or leave — plus integration with your HomeKit smart light to show you're #OnAir. | **40% off** with **BF2025** (one-time purchase) |
-
-
 
 
 ⬆️ | [Go to Top](#table-of-contents)
