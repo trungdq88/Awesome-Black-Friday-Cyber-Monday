@@ -47,7 +47,7 @@ Total deals: 332
 - [🌅 Design Tools (30)](#-design-tools)
 - [🌈 Marketing Tools (33)](#-marketing-tools)
 - [🔍 SEO Tools (12)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
+- [🚀 Startup SaaS/Tools (17)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (10)](#-finance-tools)
 - [🎛 Utility Tools (18)](#-utility-tools)
@@ -498,12 +498,12 @@ Total deals: 332
 | 👥 | [FeedbackPulse](https://feedbackpulse.com?utm_source=tonybf) | Employee feedback tools that take minutes, not months to implement. No consultants needed - just meaningful surveys your team will actually complete. Purpose-built for growing companies with 10-500 employees. | **30% OFF** first year with code **BLACKFRIDAY2025** |
 | 💼 | [Hirevire](https://hirevire.com?ref=tonydinh) | One‑way video interview software that replaces first‑round phone screens. Send a link, candidates record on their time, and you review in minutes—cutting screening time by 50%+ while getting better signal on communication, fit, and motivation. | **20% OFF** for first year  - available on all plans with code **BlackFriday20in25** |
 | 🛠️ | [SharpAPI](https://sharpapi.com/en/pricing?utm_source=bfcm2025) | AI workflow automation API for product descriptions, resume parsing, job match scoring, SEO tags, and more. Built for developers who want fast, reliable AI endpoints without extra complexity. | **50% OFF first year** with code **BF2025** (Nov 24–Dec 3) |
+| 💎 | [SecDim](https://secdim.com/pricing) | Secure coding Wargames, Courses and Labs to upskill your Application Security and Cybersecurity skills. | **35% OFF first year** with code **APPSECONABUDGET2025** (Nov 20–Dec 5) |
 | 🛡️ | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | AI-powered automated pentesting for web apps, APIs & GraphQL. Uses agentic AI to simulate real-world attacks and provide actionable vulnerability insights. | **35% OFF annual** — `BFCMY25` & **20% OFF monthly** — `BFCMM25` (valid 6 months on Essential & Advanced plans, **Nov 25–Dec 4, 2025**) |
 | 🛠️ | [txtcv](https://txtcv.com) | Plaintext CV builder for developers using JSON resume with CLI support. | **50% OFF first year** with code **BFCM2025** |
 | 🎁 | [VaocherApp](https://www.vaocherapp.com/?utm_source=github) | Sell more gift cards and gift vouchers with less effort. VaocherApp lets your restaurant, spa, hotel or experience business sell, manage, and track online gift cards in one simple platform. | **50% OFF** with code **BF2025VA50** |
 | ✨ | [Orshot](https://orshot.com?utm_source=bf25) | Automate visual content generation for high-volume marketing. Instantly create images & PDFs at scale. Integrates with API, Zapier, and SDKs | **15% OFF for first 3 months** with code **BLACKFRIDAY25** (Nov 22–Dec 3) |
 | ⭐ | [Resmume](https://resmume.com/?utm_source=bf2025) | Resmume is an online resume builder that uses AI + ATS-friendly templates to create polished, error-free resumes in no time. | **62% OFF Lifetime deal** |
-
 
 
 ⬆️ | [Go to Top](#table-of-contents)
