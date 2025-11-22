@@ -27,7 +27,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 333
+Total deals: 334
+
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
@@ -38,7 +39,7 @@ Total deals: 333
 		- [Window, Screen, Clipboard, Utilities (15)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (5)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (4)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (7)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (8)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (7)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (17)](#-ai-chat-ui)
@@ -50,7 +51,7 @@ Total deals: 333
 - [🚀 Startup SaaS/Tools (16)](#-startup-saastools)
 - [🌏 Social Media Tools (18)](#-social-media-tools)
 - [💸 Finance Tools (10)](#-finance-tools)
-- [🎛 Utility Tools (16)](#-utility-tools)
+- [🎛 Utility Tools (18)](#-utility-tools)
 - [💪 Health and Fitness (8)](#-health-and-fitness)
 - [🎯 Miscellaneous (12)](#-miscellaneous)
 
@@ -234,6 +235,7 @@ Total deals: 333
 | 🕕 | [TimeWave - Timer Chains](https://apps.apple.com/app/id1524345488) | Create timer-chains for all your sequential tasks with a modern black & white design. | **50% OFF** Lifetime Family Purchase between Nov 28 and Dec 3. |
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=tonybf&promocode=TONYBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **TONYBF50** |
 | 💬 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
+| 📦 | [Itemlist – Inventory Tracker App](https://www.getitemlist.app) | Powerful inventory tracker app for home and business. Organize, categorize, and locate items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 📝 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -556,10 +558,11 @@ Total deals: 333
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 | 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% off** (automatically applied), until Dec 4 |
+| 🎨 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes in seconds on iPhone, iPad, and Mac. Add your logo, pick custom colors, and design QR codes that stand out, boost scan rates, and increase brand recognition. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
+| 🧾 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes in seconds on iPhone and iPad. Choose from formats like Code 128, EAN-13, PDF417, and more, then scan and test instantly with the built-in camera scanner. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 🌤️ | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=awesome_black_friday_cyber_monday) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 |
 | 📅 | [Time Calc - Time Calculator](https://apps.apple.com/us/app/time-calc-time-calculator/id1279195300) | TimeCalc is the simple and accurate time calculator for hours, minutes, seconds. Log flight hours, track work shifts, add and subtract time and differences between dates. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | ⭐ | [StopTheMadness Pro](https://apps.apple.com/app/stopthemadness-pro/id6471380298) | Web browser extension for iOS and macOS that stops web site annoyances and privacy violations | **25% OFF** from Nov 21 to Dec 5 |
-
 
 
 ⬆️ | [Go to Top](#table-of-contents)
