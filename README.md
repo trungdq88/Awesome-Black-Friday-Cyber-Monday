@@ -248,6 +248,7 @@ Total deals: 333
 | 🛠️ | [UtilBolt](https://www.utilbolt.com/black-friday) | Black Friday Super Bundle: 115+ productivity & developer tools. One-time payment. Lifetime access to 4 tools + 1 year UnifyMe + free ChromePilot quarterly plan. | 82% OFF at $129 (was $705)
 | 🛡️ | [J2TEAM Security](https://j2team.org/?utm_source=TonyDinh) | A powerful Chrome extension that combines essential security protection with advanced privacy tools and Facebook management features. Trusted by over 360,000 active users since 2016. | **30% OFF** Lifetime plan with code **BLACKFRIDAY2025**
 | ⭐ | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off with code **BLACKFRIDAY2025** |
+| ⭐ | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
