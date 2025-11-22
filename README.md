@@ -27,8 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 334
-
+Total deals: 332
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (24)](#-developer-macos-apps)
@@ -244,8 +243,10 @@ Total deals: 334
 | 🕕 | [TimeWave - Timer Chains](https://apps.apple.com/app/id1524345488) | Create timer-chains for all your sequential tasks with a modern black & white design. | **50% OFF** Lifetime Family Purchase between Nov 28 and Dec 3. |
 | ⭐ | [Luckynote](https://www.luckynote.io/?ref=tonybf&promocode=TONYBF50) | WhatsApp style note app that feels like texting yourself. Dump thoughts, links, files and tasks into one fast thread and actually find them later. | 50% OFF Lifetime - **TONYBF50** |
 | 💬 | [Thoughts - Quotes Manager](https://apps.apple.com/app/thoughts-inspiration-manager/id6444917751) | Remember what inspires you with Thoughts — a central place for all your quotes, thoughts, life lessons, and whatever else you want to remind yourself of. | **50% OFF Lifetime** with code BLACK25 |
+| ✅ | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied) between Nov 20 and Dec 1, 2025 |
 | 📦 | [Itemlist – Inventory Tracker App](https://www.getitemlist.app) | Powerful inventory tracker app for home and business. Organize, categorize, and locate items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 📝 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with code **BLACKFRIDAY2025** |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
