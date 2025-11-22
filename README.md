@@ -373,7 +373,7 @@ Total deals: 405
 | 📄 | [CSVNormalize](https://csvnormalize.com) | AI powered CSV processing that cleans, validates, and transforms your data with enterprise-grade accuracy and lightning-fast performance. | **3 Months Free** with promo code **BlackFriday25**. Valid until Dec 15th.|
 | ✨ | [AppReview AI – Review Analyzer](https://apps.apple.com/us/app/appreview-ai-review-analyzer/id6755069850?mt=12) | Analyze App Store reviews instantly with AppReview AI. Powered by Apple Intelligence no cloud, no API, no internet required. 100% private and secure on your device. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | 📖 | [Translate a Book with AI](https://translateabook.com/) | Quality book AI translations with our custom pipeline that preserves layout and uses the current top LLMs - join thousands of happy authors, publishers and readers | **30% off** all translations until Nov 31st with code **BF30**. |
-
+| 👀 | [Transvid - Video Translator](https://apps.apple.com/us/app/transvid-video-translator/id6751031978) | Instant download and translate video from Tiktok, Youtube shorts. Instagram, Facebook Reels, Douyin - Watch the world in your language | **50% OFF Yearly Plan** with code **BLACKFRIDAY2025**. https://apps.apple.com/redeem?ctx=offercodes&id=6751031978&code=BLACKFRIDAY2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
