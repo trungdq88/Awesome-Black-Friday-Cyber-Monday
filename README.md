@@ -129,6 +129,7 @@ Total deals: 333
 | 🤖 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit with AI subagents, custom slash commands, and automation workflows for solo developers building micro SaaS. | **50% OFF** ($49, was $99) with code **CKEBF2025**. Nov 24-30 |
 | 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔥 Productivity
@@ -413,6 +414,7 @@ Total deals: 333
 | 🔗 | [T.LY URL Shortener](https://t.ly/) | The all-in-one URL shortener and QR code platform built for marketers, developers, creators, and teams. | **50% OFF** first payment: coupon code **tly50** |
 | ⚡ | [Uneed](https://uneed.best) | Launch, get seen, grow together. The best launch platform for indie hackers! | **LIFETIME LAUNCH PASS**: unlimited launches and relaunches for life! |
 | 📧 | [Prontuno](https://prontuno.com?utm_source=tonybf) | Transactional email service for developers. Send receipts, notifications, and alerts via SMTP from unlimited domains with reliable delivery. | **750,000** email credits for **$100** (valid 12 months). No code required. |
+| 📊 | [Usermaven](https://usermaven.com) | Simple, powerful analytics for marketers, product teams, and agencies. | **15% OFF** all annual plans |
 | 📁 | [SwipeWell](https://swipewell.app?utm_source=tonybf) | Save and organize marketing assets, automate collection of ads, track competitor ads, and use AI to remix ads for your own products. | 50% OFF annual plan with code **BLACKFRIDAY25** |
 
 
@@ -486,6 +488,9 @@ Total deals: 333
 | 🚀 | [TrendPost.co](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed |
 | 🥁 | [WaveGen.ai](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** |
 | 🐝 | [SubtitleBee](https://subtitlebee.com/) | Add accurate subtitles to your videos with SubtitleBee. You can also use this tool to translate subtitles in 120+ languages and transcribe both audio and video content | Up to 32% OFF using code BEE20 at [checkout](https://subtitlebee.com/#pricing), Nov 1 - Dec 4|
+| 📱 | [ContentStudio](https://contentstudio.io/black-friday) | Plan, schedule, collaborate, and track everything across all your social channels in one place. | **40% OFF** all annual plans |
+| ✍️ | [Contentpen](https://contentpen.ai/black-friday) | Turn ideas into polished content for blogs, social posts, ads, and more. | **50% OFF** all annual plans |
+| 🔗 | [Replug](https://replug.io/black-friday) | Create branded short links, add CTAs, track performance, and boost conversions. | **Flat 60% OFF** all annual plans |
 | 📷 | [CamFrame Stream Your Face](https://apps.apple.com/us/app/camframe-stream-your-face/id6478444750?mt=12) | Elevate your YouTube content creation with CamFrame: effortlessly stream your face or photos for engaging tutorials and presentations. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 
 
