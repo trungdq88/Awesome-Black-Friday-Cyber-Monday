@@ -187,7 +187,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖥️ | [LaunchOS](https://launchosapp.com?utm_source=abfcm)| The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.| **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
 | ☎️ | [Airbounce for Zoom](https://www.airbounce.co/?utm_source=gh-bf2025) | Upgrade your CapsLock key for easier Zoom calls on Mac! One button to join, mute/unmute, or leave — plus integration with your HomeKit smart light to show you're #OnAir. | **40% off** with **BF2025** (one-time purchase) |
 | 🖥️ | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link |
-
+| 🥑 | [DockFlow](https://dockflow.appitstudio.com) | Save and switch between macOS Dock presets. Instant workspace setup | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
+| 🍉 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks on macOS. Perfect for multiple monitor setups | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
