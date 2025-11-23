@@ -278,6 +278,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🇯🇵 | [Kaku - Japanese Notebook](https://apps.apple.com/us/app/kaku-japanese-notebook/id1515101339) | Fast Japanese dictionary with OCR, translations, and conjugations. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇯🇵 | [KeitaiTango - JLPT Flashcards](https://apps.apple.com/us/app/jlpt-flashcards-keitaitango/id1546470961) | Spaced-repetition flashcard app for JLPT vocabulary and grammar. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇰🇷 | [K Spelling Bee](https://apps.apple.com/us/app/k-spelling-bee/id6752530947) | Master Korean spelling and vocabulary with audio quizzes and game-like learning. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
+| ⭐ | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% OFF Lifetime** (auto-applied), Nov 22 - Dec 4 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
