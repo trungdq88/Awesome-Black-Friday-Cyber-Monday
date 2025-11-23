@@ -366,7 +366,9 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🗣️ | [VoxWrite](https://voxwrite.app/) | AI-powered Voice-to-Text Chrome Extension that captures your speech and transforms it into clean, clear, styled text — translated, punctuated, and instantly ready to use. | **30% OFF** on LIFETIME plan with code **BF2025** |
 | ⛰️ | [Heights Platform](https://www.heightsplatform.com/black-friday-2025) | the all-in-one, AI-powered course creation and community-building platform. Start your dream business as a creator with AI tools that help you grow and scale. Get all the features you need to create and sell unlimited online courses and grow a thriving community of engaged customers. Now with built-in live streaming and group meetings. | **35% OFF** Basic or Pro plan for 2 years ($1000 savings) |
 | 🤖 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
+| 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2025BF30** for a **30% discount** on all plans |
 | 🎙️ | [Knowii Voice AI](https://voice-ai.knowii.net) | Privacy-first AI Voice-To-Text App. Press. Speak. Release. Your words appear exactly where you need them. | 30% off with code **BLACKFRIDAY2025** |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
