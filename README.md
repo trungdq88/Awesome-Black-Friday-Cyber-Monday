@@ -250,7 +250,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 ### 📱 Productivity Mobile Apps
 
-|  | Name | Description | Discount Code & Terms |
+|  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 | 📚 | TTS Reader [iOS](https://apps.apple.com/us/app/id6746346171) [Android](https://play.google.com/store/apps/details?id=voice.reader.ai) | Unlimited listening with premium realistic AI voices. Supports PDF, EPUB, Kindle, and more. | Annual plan: **$9.99** (no VAT, automatically applied) |
@@ -262,6 +262,12 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✅ | [Habit Pixel](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied) between Nov 20 and Dec 1, 2025 |
 | 📦 | [Itemlist – Inventory Tracker App](https://www.getitemlist.app) | Powerful inventory tracker app for home and business. Organize, categorize, and locate items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 📝 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with code **BLACKFRIDAY2025** |
+| 🇯🇵 | [TokeiTango - Japanese Flashcards](https://apps.apple.com/us/app/japanese-flashcards-tokeitango/id1492526803) | Learn 8,000+ JLPT vocabulary words on Apple Watch & iOS using spaced repetition. | **50% OFF** (auto-applied), Nov 22 - Dec 2 |
+| 🇰🇷 | [Eohwi - Korean Flashcards](https://apps.apple.com/au/app/korean-flashcards-eohwi/id6478456641) | Learn 6,000+ TOPIK words on Apple Watch & iOS with spaced-repetition and widgets. | **50% OFF** (auto-applied), Nov 22 - Dec 2 |
+| 🇨🇳 | [Zungzi - Chinese Flashcards](https://apps.apple.com/us/app/chinese-flashcards-zungzi/id1496948615) | Master HSK Chinese vocabulary on Apple Watch & iOS with spaced repetition. | **50% OFF** (auto-applied), Nov 22 - Dec 2 |
+| 🇯🇵 | [Kaku - Japanese Notebook](https://apps.apple.com/us/app/kaku-japanese-notebook/id1515101339) | Fast Japanese dictionary with OCR, translations, and conjugations. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
+| 🇯🇵 | [KeitaiTango - JLPT Flashcards](https://apps.apple.com/us/app/jlpt-flashcards-keitaitango/id1546470961) | Spaced-repetition flashcard app for JLPT vocabulary and grammar. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
+| 🇰🇷 | [K Spelling Bee](https://apps.apple.com/us/app/k-spelling-bee/id6752530947) | Master Korean spelling and vocabulary with audio quizzes and game-like learning. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
