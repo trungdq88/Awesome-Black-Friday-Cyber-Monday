@@ -27,30 +27,30 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 405
+Total deals: 437
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (29)](#-developer-macos-apps)
-	- [💻 Tools & Services (34)](#-tools--services)
+	- [💻 Developer macOS Apps (30)](#-developer-macos-apps)
+	- [💻 Tools & Services (36)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (24)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (20)](#window-screen-clipboard-utilities)
+		- [Tasks, Organize, Planning (26)](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities (26)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (7)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (9)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (10)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (16)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (20)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (34)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (27)](#-other-ai-tools)
-- [🌅 Design Tools (31)](#-design-tools)
+	- [📖 AI Productivity & Learning Tools (36)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (32)](#-other-ai-tools)
+- [🌅 Design Tools (34)](#-design-tools)
 - [🌈 Marketing Tools (36)](#-marketing-tools)
 - [🔍 SEO Tools (12)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (22)](#-startup-saastools)
-- [🌏 Social Media Tools (24)](#-social-media-tools)
+- [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
+- [🌏 Social Media Tools (26)](#-social-media-tools)
 - [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (21)](#-utility-tools)
+- [🎛 Utility Tools (23)](#-utility-tools)
 - [💪 Health and Fitness (10)](#-health-and-fitness)
 - [🎯 Miscellaneous (14)](#-miscellaneous)
 
