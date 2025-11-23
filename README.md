@@ -104,6 +104,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🛠️ | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=trungdq88) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50%** off with promo code **BFHALFOFF** |
 | ⚡ | [CodexUse](https://codexuse.com) | Stop logging out and logging back in—save Codex CLI logins as profiles, see live rate-limit headroom, and auto-roll to a fresher account. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
 | 🛠️ | [CodeSwissKnife Bar Dev Tools](https://apps.apple.com/us/app/codeswissknife-bar-dev-tools/id6749501609?mt=12) | CodeSwissKnife Bar is a fast, privacy-first developer toolkit that lives in your Mac’s menu bar. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
+| 🐘 | [TablePlus](https://tableplus.com/?utm_source=black-friday-2025) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% OFF with code **BLACK_FRIDAY_2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
