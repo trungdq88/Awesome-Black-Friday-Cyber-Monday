@@ -437,6 +437,9 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖼️ | [Gradients.fm](https://gradients.fm/) | Collections with 300+ high-quality gradient & abstract backgrounds | **50% OFF** with promo code **BF2025** |
 | 📸 | [PicPoc - Photo Editor AI](https://apps.apple.com/us/app/picpoc-photo-editor-ai/id1001312063#?platform=iphone) | Photo editor, filled with filters and editing features. | **80% OFF** on Lifetime Premium! |
 | 🌇 | [Rapidemo](https://getrapidemo.com/) | Automatically beautiful screen recordings. Made for Windows 10 and 11. | **70% OFF** the first month with code **BLACKFRIDAY25** |
+| 🧑‍🎨 | [RapidWeaver Elements](https://realmacsoftware.com/rapidweaver) | A Powerful, Next-Gen Website Builder for Mac. Design and publish modern, responsive websites visually with complete design freedom, no-code required. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
+| ✏️ | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
+| 🍊 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
