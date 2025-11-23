@@ -212,7 +212,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ↖ | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | ⚡️ | [PastePal](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad | 50% off lifetime. Use code INDIEGOODIESBF25 for 50% off standalone versions |
 | ⚡️ | [Almighty](https://indiegoodies.com/almighty) | Over 50 cool Mac tweaks and extra utilities to supercharge your Mac experience | 50% off lifetime. Use code INDIEGOODIESBF25 for 50% off standalone versions |
-
+| ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a ring light for video calls | **50% off** on the App Store |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
