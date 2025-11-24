@@ -96,7 +96,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📖 | [Dash](https://kapeli.com/dash) | Instant offline access to 200+ API documentation sets, snippets and more! | **50% OFF** the first year with code [BLACKFRIDAY](https://kapeli.com/subscribe?coupon=BLACKFRIDAY) |
 | 🌐 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package from Nov.28 to Dec.2 |
 | 👨‍💻 | [Kaleidoscope](https://kaleidoscope.app) | Effortlessly compare and merge any text, images, and folders. Kaleidoscope also compares Git branches, tags, or commits. | Use code [ABFCM25](https://cloud.kaleidoscope.app/store?discount_code=ABFCM25&utm_source=trungdq88&utm_medium=referral&utm_campaign=ABFCM25) for **40% OFF** for the FIRST **2 YEARS** of subscription + 2 extra free months! |
-| 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2025** |
+| 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF with code **BLACKFRIDAY2025** |
 | 🍐 | [Hopp](https://www.gethopp.app) | Open-source remote 🍐🍐 pair programming tool built for developers. Ultra-low latency, crystal-clear HD screen sharing with full keyboard and mouse control. | 40% OFF until end of November, code `HOPPFRIDAY40` |
 | ⭐ | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** |
 | ⭐ | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | 25% off with code **BLACKFRIDAY2025** |
@@ -106,6 +106,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🛠️ | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=trungdq88) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50%** off with promo code **BFHALFOFF** |
 | ⚡ | [CodexUse](https://codexuse.com) | Stop logging out and logging back in—save Codex CLI logins as profiles, see live rate-limit headroom, and auto-roll to a fresher account. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
 | 🛠️ | [CodeSwissKnife Bar Dev Tools](https://apps.apple.com/us/app/codeswissknife-bar-dev-tools/id6749501609?mt=12) | CodeSwissKnife Bar is a fast, privacy-first developer toolkit that lives in your Mac’s menu bar. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
+| 👨‍💻 | [Notepad.exe](https://notepadexe.com) | The lightweight Mac editor that lets you write and run code instantly - no setup required. Perfect for testing Swift APIs, learning to code, prototyping apps, and rapid experimentation. | **60% OFF** the first year with code **WHATISTHECODEBF2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
