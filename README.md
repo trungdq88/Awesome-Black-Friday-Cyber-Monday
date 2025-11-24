@@ -278,6 +278,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🇯🇵 | [Kaku - Japanese Notebook](https://apps.apple.com/us/app/kaku-japanese-notebook/id1515101339) | Fast Japanese dictionary with OCR, translations, and conjugations. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇯🇵 | [KeitaiTango - JLPT Flashcards](https://apps.apple.com/us/app/jlpt-flashcards-keitaitango/id1546470961) | Spaced-repetition flashcard app for JLPT vocabulary and grammar. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇰🇷 | [K Spelling Bee](https://apps.apple.com/us/app/k-spelling-bee/id6752530947) | Master Korean spelling and vocabulary with audio quizzes and game-like learning. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
+| 🕰 | [Tempus - AI Daily Planner](https://apps.apple.com/us/app/tempus-ai-daily-planner/id6751440902) | Plan the day effortlessly with AI-powered scheduling, smart AlarmKit reminders, and a stunning Liquid Glass timeline. | **67% OFF Lifetime** (auto-applied) |
+| 📝 | [Noota - AI Note Taker](https://apps.apple.com/us/app/noota-ai-note-taker/id6744225641) | Turn anything into structured notes: videos, audio, PDFs, Word, Excel, EPUB, and more. Generate summaries, flashcards, quizzes instantly with AI. | **50% OFF Lifetime** (auto-applied) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
