@@ -68,6 +68,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
+| 🗂️ | [FileFaker](https://filefaker.com) | Generate fake files for testing purposes. Create dummy files with custom sizes, formats, and content instantly for your testing needs. | **40% OFF** with code **FILEFAKERFRIDAY**, Nov 21 - Dec 21 |
 
 ## 👨‍💻 Developer Tools
 
