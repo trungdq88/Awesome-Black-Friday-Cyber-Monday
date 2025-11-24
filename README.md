@@ -106,6 +106,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🛠️ | [SQLPro Studio](https://www.sqlprostudio.com/blackfriday.html?utm_source=trungdq88) | A native, lightweight database client for macOS that supports MySQL, Postgres, SQL Server, SQLite, and more. | **50%** off with promo code **BFHALFOFF** |
 | ⚡ | [CodexUse](https://codexuse.com) | Stop logging out and logging back in—save Codex CLI logins as profiles, see live rate-limit headroom, and auto-roll to a fresher account. | **50% OFF** lifetime license with code **BLACKFRIDAY2025** |
 | 🛠️ | [CodeSwissKnife Bar Dev Tools](https://apps.apple.com/us/app/codeswissknife-bar-dev-tools/id6749501609?mt=12) | CodeSwissKnife Bar is a fast, privacy-first developer toolkit that lives in your Mac’s menu bar. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
+| 🚀 | [PortTraceX - Port management tools](https://porttracex.com/?ref=tonybf) | PortTraceX is the fast, reliable way for developers to eliminate one of the most persistent daily annoyances: **ports being blocked, busy, or hijacked by unknown processes** — whether on your **local machine** or a **remote server**. | **40% OFF** lifetime license with code **BF40** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
