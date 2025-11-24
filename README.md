@@ -150,6 +150,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
 | 🚀 | [TranscriptBunny](https://www.transcriptbunny.com?utm_source=tonybf) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
 | 🚖 | [Folge](https://www.folge.me/) | The fastest tool for creating step-by-step guides. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, .doc, PDF, and more | 25% OFF Lifetime **BLACKFRIDAY25** |
+|  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 20% off, auto-applied Nov 28 – Dec 1 
 
 
 
@@ -279,6 +280,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🇯🇵 | [Kaku - Japanese Notebook](https://apps.apple.com/us/app/kaku-japanese-notebook/id1515101339) | Fast Japanese dictionary with OCR, translations, and conjugations. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇯🇵 | [KeitaiTango - JLPT Flashcards](https://apps.apple.com/us/app/jlpt-flashcards-keitaitango/id1546470961) | Spaced-repetition flashcard app for JLPT vocabulary and grammar. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇰🇷 | [K Spelling Bee](https://apps.apple.com/us/app/k-spelling-bee/id6752530947) | Master Korean spelling and vocabulary with audio quizzes and game-like learning. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
+|  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off, auto-applied Nov 28 – Dec 1 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -630,7 +632,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ⭐ | [StopTheMadness Pro](https://apps.apple.com/app/stopthemadness-pro/id6471380298) | Web browser extension for iOS and macOS that stops web site annoyances and privacy violations | **25% OFF** from Nov 21 to Dec 5 |
 | 🌅 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> from Nov 24th - Dec 4th |
 | 🧳 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF), until Dec 2 |
-
+|  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off, auto-applied Nov 28 – Dec 1 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
