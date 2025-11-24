@@ -68,7 +68,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2025** |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
-| 🗂️ | [FileFaker](https://filefaker.com) | Generate fake files for testing purposes. Create dummy files with custom sizes, formats, and content instantly for your testing needs. | **40% OFF** with code **FILEFAKERFRIDAY**, Nov 21 - Dec 21 |
 
 ## 👨‍💻 Developer Tools
 
@@ -150,6 +149,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
 | 🚀 | [TranscriptBunny](https://www.transcriptbunny.com?utm_source=tonybf) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
 | 🚖 | [Folge](https://www.folge.me/) | The fastest tool for creating step-by-step guides. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, .doc, PDF, and more | 25% OFF Lifetime **BLACKFRIDAY25** |
+| 🎁 | [DronaHQ](https://www.dronahq.com/utm_source=bf-list) | AI powered low code platform for building internal tools, admin panels, dashboards, and business apps for web and mobile. Connect your data sources, use pre built UI components, and accelerate development with VedaAI, which generates app screens, data bindings, and logic from prompts or design references, making delivery faster and easier for engineering teams.| **20% OFF** [Get code](https://crm.dronahq.io/dronahq-offer ) (Nov 15 - Dec 25)  |
 
 
 
