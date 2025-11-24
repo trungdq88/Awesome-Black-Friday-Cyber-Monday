@@ -45,7 +45,7 @@ Total deals: 438
 	- [📖 AI Productivity & Learning Tools (36)](#-ai-productivity--learning-tools)
 	- [✨ Other AI tools (32)](#-other-ai-tools)
 - [🌅 Design Tools (34)](#-design-tools)
-- [🌈 Marketing Tools (36)](#-marketing-tools)
+- [🌈 Marketing Tools (37)](#-marketing-tools)
 - [🔍 SEO Tools (12)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
 - [🌏 Social Media Tools (26)](#-social-media-tools)
@@ -495,6 +495,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🚀 | [Microlaunch](https://microlaunch.net/premium) | Launch. Reach 30k+ makers. Get more users & customers. 30-day launches → 30× more exposure. Your unfair visibility advantage. | **20% OFF** with code **BLACKFRIDAY2025** + Exclusive **2Y PRO PASS** for Serial Builders. |
 | 📊 | [Usermaven](https://usermaven.com) | Simple, powerful analytics for marketers, product teams, and agencies. | **15% OFF** all annual plans |
 | 📁 | [SwipeWell](https://swipewell.app?utm_source=tonybf) | Save and organize marketing assets, automate collection of ads, track competitor ads, and use AI to remix ads for your own products. | 50% OFF annual plan with code **BLACKFRIDAY25** |
+| 📧 | [YAMM (Yet Another Mail Merge)](https://yamm.com/pricing)) | Send bulk personalized emails inside Google Sheets, and track if recipients open, click, respond, bounce or unsubscribe in real time directly from your spreadsheet. | **50% OFF the first year** — applies to all plans (from 1 to 100 users) with code **BLACKFRIDAY50**. Valid Nov 24 – Dec 30. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
