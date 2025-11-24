@@ -222,6 +222,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen in real-time when on calls or giving demos. | **30% OFF** from Nov 21 to Dec 2. No code needed. |
 | ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a ring light for video calls | **50% off** on the App Store |
 | 🔊 | [AudioWrangler](https://audiowrangler.app/) | Auto-switch to preferred speakers/microphones, wherever you are | **50% OFF** on the Mac App Store |
+| 💥 | [Paste](https://pasteapp.io/) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** |
 
 
 
