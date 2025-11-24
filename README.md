@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 437
+Total deals: 438
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (30)](#-developer-macos-apps)
@@ -50,7 +50,7 @@ Total deals: 437
 - [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
 - [🌏 Social Media Tools (26)](#-social-media-tools)
 - [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (23)](#-utility-tools)
+- [🎛 Utility Tools (24)](#-utility-tools)
 - [💪 Health and Fitness (10)](#-health-and-fitness)
 - [🎯 Miscellaneous (14)](#-miscellaneous)
 
@@ -621,6 +621,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📱 | [ByePhotos](https://apps.apple.com/us/app/byephotos-free-up-storage/id6737446757) | Declutter your iPhone camera roll effortlessly with Tinder-style swipe gestures, AI-powered duplicate detection, and batch video compression. | 40% OFF Lifetime plan using https://apps.apple.com/redeem?ctx=offercodes&id=6737446757&code=BLACKFRIDAY25, Nov 19 - Dec 4|
 | 🗣️ | [WebsiteVoice](https://websitevoice.com/) | Add text-to-speech to your website with a simple play button widget to ensure your target audience can listen to your site's content | 20% OFF on all plans using code VOICE20 at checkout, Nov 1 - Dec 4|
 | 📖 | [BookletCreator](https://www.bookletcreator.com) | BookletCreator is a simple tool that allows you to create a booklet from a PDF document. It reorders pages so that after printing and folding the pages, a small book is created. | **40% off** (automatically applied), until Dec 4 |
+| 🗂️ | [FileFaker](https://filefaker.com) | Generate fake files for testing purposes. Create dummy files with custom sizes, formats, and content instantly for your testing needs. | **40% OFF** with code **FILEFAKERFRIDAY**, Nov 21 - Dec 21 |
 | 🎨 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes in seconds on iPhone, iPad, and Mac. Add your logo, pick custom colors, and design QR codes that stand out, boost scan rates, and increase brand recognition. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 🧾 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes in seconds on iPhone and iPad. Choose from formats like Code 128, EAN-13, PDF417, and more, then scan and test instantly with the built-in camera scanner. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity), Nov 21 to Dec 7, 2025 |
 | 🌤️ | [Sonuby Weather (iOS & Android)](https://sonuby.com/download/?utm_campaign=awesome_black_friday_cyber_monday) | Sonuby Weather is a highly customizable weather & forecast app for daily life, drone flying, sailing, health and other weather dependent activities and scenarios. | **58% off lifetime** (offer will be shown in-app), until Dec 4 |
