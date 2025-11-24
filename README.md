@@ -325,6 +325,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💬 | [aiToggler](https://app.aitoggler.com/#subscription) | ALL AI under One App. Text, image, video, audio AI models, all accessible under 1 intuitive interface with easy access to Artificial Analysis leaderboard. | 90% OFF Lifetime with code **BlackFriday2025** |
 | ✨ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime With AI Usage |
 | 🌟 | [AssistLoop](https://assistloop.ai/?utm_source=tonybf) | The BestAI Customer Service with Human Handoff Instant answers from your knowledge base, with seamless handoff to your team and agent actions that keep every conversation moving forward. | 50% OFF - On All Anual Plans - **BLACKFRIDAY2025** |
+| 🔥 | [GasbyAI](https://gasbyai.com/?utm_source=tdq) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). App Center to Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
