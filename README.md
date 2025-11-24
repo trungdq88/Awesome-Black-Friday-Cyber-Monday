@@ -514,6 +514,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🚀 | [SEO Utils](https://seoutils.app/?utm_source=tonybf) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | (All Plans) 20% OFF with code **BF25**, redeem until 2 Dec, 2025 |
 | 🤖 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster, boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
+| 🔥 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout! (Nov 21–Dec 7) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
