@@ -545,8 +545,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✨ | [Orshot](https://orshot.com?utm_source=bf25) | Automate visual content generation for high-volume marketing. Instantly create images & PDFs at scale. Integrates with API, Zapier, and SDKs | **15% OFF for first 3 months** with code **BLACKFRIDAY25** (Nov 22–Dec 3) |
 | ⭐ | [Resmume](https://resmume.com/?utm_source=bf2025) | Resmume is an online resume builder that uses AI + ATS-friendly templates to create polished, error-free resumes in no time. | **62% OFF Lifetime deal** |
 | 🚀 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** on everything with code **BF2025** |
-| 🏷️ | Place Card Maker | Create beautiful printable place cards in minutes | 25% OFF on everything with code blackfriday25 |
-
+cvbox/Awesome-Black-Friday-Cyber-Monday
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
