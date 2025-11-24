@@ -296,6 +296,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ⭐ | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off with code **BLACKFRIDAY2025** |
 | 🗑️ | [InboxPurge](https://www.inboxpurge.com/?utm_source=tonybf) | Clean up your Gmail in minutes. Unsubscribe, delete junk, and reclaim your sanity. | 30% OFF the PRO plan with code **BF2025** |
 | ⭐ | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
+| 🛠️ | [Cleanest AI](https://cleanest.ai/) | Tame the AI Chat Chaos - Organize Chat GPT Conversations and LinkedIn Posts into custom folders. Search and filter through them! | 40% off automatically applied |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
