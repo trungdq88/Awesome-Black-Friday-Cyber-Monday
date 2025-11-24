@@ -29,30 +29,35 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 Total deals: 438
 
-- [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (30)](#-developer-macos-apps)
-	- [💻 Tools & Services (36)](#-tools--services)
-- [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (26)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (26)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (7)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (9)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (16)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
-- [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (20)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (36)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (32)](#-other-ai-tools)
-- [🌅 Design Tools (34)](#-design-tools)
-- [🌈 Marketing Tools (36)](#-marketing-tools)
-- [🔍 SEO Tools (12)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
-- [🌏 Social Media Tools (26)](#-social-media-tools)
-- [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (24)](#-utility-tools)
-- [💪 Health and Fitness (10)](#-health-and-fitness)
-- [🎯 Miscellaneous (14)](#-miscellaneous)
+- [💵 Awesome Black Friday / Cyber Monday Deals - 2025 🤑](#-awesome-black-friday--cyber-monday-deals---2025-)
+	- [What's new in 2025?](#whats-new-in-2025)
+	- [Sponsored Deals](#sponsored-deals)
+	- [Table of Contents](#table-of-contents)
+	- [Hacker Residency Group Entries](#hacker-residency-group-entries)
+	- [👨‍💻 Developer Tools](#-developer-tools)
+		- [💻 Developer macOS Apps](#-developer-macos-apps)
+		- [💻 Tools \& Services](#-tools--services)
+	- [🔥 Productivity](#-productivity)
+		- [🖥️ Productivity Desktop Apps](#️-productivity-desktop-apps)
+			- [Tasks, Organize, Planning](#tasks-organize-planning)
+			- [Window, Screen, Clipboard, Utilities](#window-screen-clipboard-utilities)
+			- [Time, Distraction, Focus](#time-distraction-focus)
+			- [Miscellaneous Productivity Apps](#miscellaneous-productivity-apps)
+		- [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
+		- [🛠️ Productivity Tools \& Services](#️-productivity-tools--services)
+	- [🤖 AI Tools](#-ai-tools)
+		- [💬 AI Chat UI](#-ai-chat-ui)
+		- [📖 AI Productivity \& Learning Tools](#-ai-productivity--learning-tools)
+		- [✨ Other AI tools](#-other-ai-tools)
+	- [🌅 Design Tools](#-design-tools)
+	- [🌈 Marketing Tools](#-marketing-tools)
+	- [🔍 SEO Tools](#-seo-tools)
+	- [🚀 Startup SaaS/Tools](#-startup-saastools)
+	- [🌏 Social Media Tools](#-social-media-tools)
+	- [💸 Finance Tools](#-finance-tools)
+	- [🎛 Utility Tools](#-utility-tools)
+	- [💪 Health and Fitness](#-health-and-fitness)
+	- [🎯 Miscellaneous](#-miscellaneous)
 
 ## Hacker Residency Group Entries
 
@@ -369,7 +374,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🤖 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2025BF30** for a **30% discount** on all plans |
 | 🎙️ | [Knowii Voice AI](https://voice-ai.knowii.net) | Privacy-first AI Voice-To-Text App. Press. Speak. Release. Your words appear exactly where you need them. | 30% off with code **BLACKFRIDAY2025** |
-
+| 🎧 | [LilyFM](https://apps.apple.com/us/app/lilyfm-ai-text-to-speech/id6745472149) | The Most Versatile AI Podcast App. Get URLs, PDFs, and scanned documents transformed into personalized podcasts with AI insights tailored to you so you learn while multitasking. | App Store **21% OFF** for Annual Plan |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
