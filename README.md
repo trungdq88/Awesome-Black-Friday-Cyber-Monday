@@ -369,7 +369,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🤖 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2025BF30** for a **30% discount** on all plans |
 | 🎙️ | [Knowii Voice AI](https://voice-ai.knowii.net) | Privacy-first AI Voice-To-Text App. Press. Speak. Release. Your words appear exactly where you need them. | 30% off with code **BLACKFRIDAY2025** |
-| 📸 | [Profile Pic Pro](https://www.profilepicpro.com/) | Profile Pic Pro is an AI headshot generator that turns selfies into professional photos that look like you from the comfort of your own home. Elevate your online image by upgrading your profile pics for LinkedIn, job applications, social media and much more. | $10 OFF with code **BLACKFRIDAY** |
+| 📸 | [Profile Pic Pro](https://www.profilepicpro.com/) | There are a thousand AI headshot tools. This one is built differently. Profile Pic Pro creates natural professional photos that actually look like you. It’s also tuned for Asian features, real skin tones, and a dedicated hijab mode that respects your identity. | Get $10 OFF with code **BLACKFRIDAY** |
 
 
 
