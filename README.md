@@ -188,6 +188,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖥️ | [LaunchOS](https://launchosapp.com?utm_source=abfcm)| The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.| **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
 | ☎️ | [Airbounce for Zoom](https://www.airbounce.co/?utm_source=gh-bf2025) | Upgrade your CapsLock key for easier Zoom calls on Mac! One button to join, mute/unmute, or leave — plus integration with your HomeKit smart light to show you're #OnAir. | **40% off** with **BF2025** (one-time purchase) |
 | 🖥️ | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link |
+| 🔐 | [Uplock](https://uplock.app/black-friday-2025) | Uplock keeps your important information safe, organized, and always within reach across your Apple devices. Your data syncs through iCloud and is end-to-end encrypted with Advanced Data Protection for iCloud. Available on iOS, macOS, iPadOS, watchOS, and visionOS. | Up to **75% OFF** your first year of Uplock+, or **50% OFF** Uplock+ Lifetime plan |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
