@@ -670,6 +670,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎨 | [Mangii App](https://mangii-app.web.app/) | Turn prompts into manga masterpieces — generate high-quality AI manga & anime art in seconds. No drawing required, just your imagination. | **50% OFF** for the first week/month, 17 Nov - 1 Dec |
 | 🎨 | [Linkcraft AI](https://linkcraftai.com/lifetime-deal) | Generate internal link suggestions for your blog articles in a single click and get more website traffic with increased SEO rankings | **Lifetime deal at 50%** 20 Nov - 1 Dec |
 | ✈️ | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. |
+| 🚀 | [Skymage - Image transformation](https://skymage.dev/?utm_source=github&utm_content=trungdq88-awesome-bfcm25) | Blazing-fast image optimization CDN: resize, crop, compress, and deliver images instantly with up to 80% size reduction. Supports WebP, global CDN, and automatic watermarking for lightning-fast websites. | **50% OFF** with code **SKYMAGEBF2025**. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
