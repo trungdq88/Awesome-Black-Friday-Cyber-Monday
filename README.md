@@ -729,6 +729,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🐕 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime until Dec 2th 2025 |
 | 📻 | [Eter](https://eter.apparentsoft.com/) | Play internet radio on any Apple device and in CarPlay | **50% OFF** until Dec 2th 2025 |
 | 🚀 | [Skymage - Image transformation](https://skymage.dev/?utm_source=github&utm_content=trungdq88-awesome-bfcm25) | Blazing-fast image optimization CDN: resize, crop, compress, and deliver images instantly with up to 80% size reduction. Supports WebP, global CDN, and automatic watermarking for lightning-fast websites. | **50% OFF** with code **SKYMAGEBF2025**. |
-
+| 🗣️| [Talkville](https://talkvilleapp.com) | Practice social skills by roleplaying scenarios in a 2D RPG town | 50% OFF annual subscription until the end of the year |
 
 ⬆️ | [Go to Top](#table-of-contents)
