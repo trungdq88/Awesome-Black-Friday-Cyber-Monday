@@ -329,6 +329,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 ### 💬 AI Chat UI
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🧑‍💻 | [GLM Coding Plan](https://z.ai/subscribe) | Your elite AI coding partner, integrated directly into your favorite IDEs. Powered by GLM-4.6 (#1 open-source model for coding) with massive usage starting at just $3/month, fully compatible with top coding environments like Claude Code, Kilo Code, Cline, Cursor, and more. | Regular discount: Get 50% OFF your first order. **Black Friday Blowout (Nov 26 - Dec 5):** Quarterly Plan: Get an EXTRA 20% OFF. Yearly Plan: Get an EXTRA 30% OFF. |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
 | ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  |
@@ -604,8 +605,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📷 | [Countdown Timer App](https://www.countdown-timer.app/?ref=tonybf) |  Create and publish beautiful countdowns to your Facebook business page or website. | **50% OFF** for 1st year with code **BF2025** |
 | 📥 | [Bluesky Inbox](https://www.blueskyinbox.com/) | Real-time Bluesky keyword and author tracking from the comfort and privacy of your browser. | **30% OFF** with code **BF2025** |
 | 📸 | [PostCapture](https://postcapture.com) | Turn any social media post into a beautiful, professional image! | **30% OFF** with code **BLACKFRIDAY25** |
-| 🔖 | [TweetsMash](https://www.tweetsmash.com?ref=tonybf)￼ | Import, search, organize, and export all your Twitter/X bookmarks with AI. Notion/Sheets sync with API access, List Digest, and powerful filters. | 30% OFF with code **TONYDEALS2025** |
-| 💼 | [LinkedMash](https://www.linkedmash.com?ref=tonybf)￼ | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
+| 🔖 | [TweetsMash](https://www.tweetsmash.com?ref=tonybf)  | Import, search, organize, and export all your Twitter/X bookmarks with AI. Notion/Sheets sync with API access, List Digest, and powerful filters. | 30% OFF with code **TONYDEALS2025** |
+| 💼 | [LinkedMash](https://www.linkedmash.com?ref=tonybf)  | Turn your LinkedIn saved posts into an organized knowledge system. Import, tag, search, export to Notion/Sheets/Airtable with API access — and unlock AI insights. | 30% OFF with code **TONYDEALS2025** |
 | 🚀 | [Nuelink](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly|
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY25) | macOS App for Recording Face In Videos | **40% OFF** with code **BLACKFRIDAY25** |
 | 🤖 | [SocialBott](https://socialbott.com/) | AI assistant managing your social media using your existing content — no fabricated advice | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
@@ -727,3 +728,11 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 
 ⬆️ | [Go to Top](#table-of-contents)
+1.Name:[https://z.ai/subscribe] GLM Coding Plan
+2.Description: Your elite AI coding partner, integrated directly into your favorite IDEs.
+Powered by GLM-4.6 (#1 open-source model for coding) with massive usage starting at just $3/month, fully compatible with top coding environments like Claude Code, Kilo Code, Cline, Cursor, and more.
+3.Discount Code & Terms：
+Regular discount:Get 50% OFF your first order.
+Black Friday Blowout (From Nov 26 to Dec 5):
+ Quarterly Plan: Get an EXTRA 20% OFF.
+ Yearly Plan: Get an EXTRA 30% OFF.
