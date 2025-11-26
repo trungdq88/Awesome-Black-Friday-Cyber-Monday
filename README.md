@@ -561,6 +561,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🤖 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster, boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 🔥 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout! (Nov 21–Dec 7) |
+| 🔍  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
