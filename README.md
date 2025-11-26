@@ -200,7 +200,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📁 | [Files to Notion](https://www.files2notion.com/) | Link to and organize your files in Notion | 20% OFF with discount code *BLACK2025FRIDAY* at checkout |
 | 🔐 | [Uplock](https://uplock.app/black-friday-2025) | Uplock keeps your important information safe, organized, and always within reach across your Apple devices. Your data syncs through iCloud and is end-to-end encrypted with Advanced Data Protection for iCloud. Available on iOS, macOS, iPadOS, watchOS, and visionOS. | Up to **75% OFF** your first year of Uplock+, or **50% OFF** Uplock+ Lifetime plan |
 | 📧 | [Mailbird](https://www.getmailbird.com/) | The Best Email client for Windows and Mac. Bring all your email accounts, calendars, and apps into one clean workspace. Stay focused, move faster. | **80%+ OFF Pay once plan** and **30% OFF Yearly Plan** (auto-applied), Nov 24 - Dec 5 |
-
+| 🥑 | [DockFlow](https://dockflow.appitstudio.com) | Save and switch between macOS Dock presets. Instant workspace setup | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
+| 🍉 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks on macOS. Perfect for multiple monitor setups | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
