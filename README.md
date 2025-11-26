@@ -119,6 +119,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🧑‍💻 | [GLM Coding Plan](https://z.ai/subscribe) | Your elite AI coding partner, integrated directly into your favorite IDEs. Powered by GLM-4.6 (#1 open-source model for coding) with massive usage starting at just $3/month, fully compatible with top coding environments like Claude Code, Kilo Code, Cline, Cursor, and more. | Regular discount: Get 50% OFF your first order. **Black Friday Blowout (Nov 26 - Dec 5):** Quarterly Plan: Get an EXTRA 20% OFF. Yearly Plan: Get an EXTRA 30% OFF. |
 | ✉️ | [VerifyForge](https://verifyforge.com/) | Enterprise email validation API with 99%+ accuracy. Real-time validation, bulk processing, SMTP & DNS verification with transparent results. | 30% OFF with code **BF2025** |
 | ✅ | [WishKit — iOS Library](https://www.wishkit.io/?utm_source=tonybf) | A complete and native feedback system for your iOS and macOS App. Allow your users to submit feedback and feature requets. Collect user votes for each suggestion and identify the highest converting feature you should be focusing on implementing next. | 40% OFF Lifetime on any plan **BLACKFRIDAY2025** |
 | 🔻 | [IsDown.app](https://isdown.app) | The status page aggregator that monitors all your critical dependencies in one place (AWS, GitHub, OpenAI, Stripe, +4,500 services). Never miss an outage again. Create your own Public or Private Status Page. | 25% OFF on Starter and Pro plans **BF2025** |
@@ -329,7 +330,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 ### 💬 AI Chat UI
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧑‍💻 | [GLM Coding Plan](https://z.ai/subscribe) | Your elite AI coding partner, integrated directly into your favorite IDEs. Powered by GLM-4.6 (#1 open-source model for coding) with massive usage starting at just $3/month, fully compatible with top coding environments like Claude Code, Kilo Code, Cline, Cursor, and more. | Regular discount: Get 50% OFF your first order. **Black Friday Blowout (Nov 26 - Dec 5):** Quarterly Plan: Get an EXTRA 20% OFF. Yearly Plan: Get an EXTRA 30% OFF. |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
 | ✍️ | [Kerlig](https://www.kerlig.com/) | AI Writing Assistant & Chat for macOS. Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and YouTube videos. | 20 x **BF40** 40% OFF and 100 x **BF20** 20% OFF  |
