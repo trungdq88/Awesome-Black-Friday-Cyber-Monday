@@ -587,6 +587,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ⭐ | [Resmume](https://resmume.com/?utm_source=bf2025) | Resmume is an online resume builder that uses AI + ATS-friendly templates to create polished, error-free resumes in no time. | **62% OFF Lifetime deal** |
 | 🚀 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** on everything with code **BF2025** |
 | 🛠️ | [ResumeUp.ai](https://resumeup.ai/) | is an AI-powered resume builder with a chat interface that helps users create, update, and organize their resumes dynamically. | **50% OFF** with code **BLACKFRIDAY50** |
+| 🚀 | NuxtPro](https://nuxtpro.com) | 🎨 The NuxtJS boilerplate with all the stuff you need to get your product in front of customers. From idea to production in few days instead of 2 weeks. | **50% OFF** with code **NUXTPRO** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
