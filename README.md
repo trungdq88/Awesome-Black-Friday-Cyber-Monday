@@ -703,6 +703,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🏃 | [Watch to 5K](https://apps.apple.com/us/app/watchto5k-couch-to-5km-watch/id1517914828) | Train to run 5K in 9 weeks with just your Apple Watch. .One small upfront cost, no subscriptions. Apple Watch App of the Year 2024 Finalist. | 25% OFF Lifetime Access just $3.59. One time purchase in the AppStore. Nov 28 - Dec 1|
 | 🔥 | [Home Workout - QuickFit](https://quickfit.bylancer.com/) | Transform your body with QuickFit - the complete 30 day workout app built for real results. No gym, no equipment, no excuses. Just your space, your time, and a smart plan that actually works. | 50% OFF Lifetime Access. One-time purchase in the App Store/Play Store. Nov 23 - Nov 30|
 | 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [use this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25). (Nov 25 - Dec 2) |
+| 💪 | [Gym Diary - Workout Tracker](https://apps.apple.com/us/app/workout-tracker-gym-diary/id1328908841) | Simple & beautiful app to plan & track your workout routines | **50% OFF** in Yearly plan (From 29.99$ to 14.99$) (Nov 28 - Dec 1) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
