@@ -401,6 +401,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📸 | [Profile Pic Pro](https://www.profilepicpro.com/) | There are a thousand AI headshot tools. This one is built differently. Profile Pic Pro creates natural professional photos that actually look like you. It’s also tuned for Asian features, real skin tones, and a dedicated hijab mode that respects your identity. | Get $10 OFF with code **BLACKFRIDAY** |
 | 🚀 | [PromptKit](https://www.promptkit.app) | Create, organize, and use prompts with top AI models while building your personal prompt library. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=6504561145&code=BF2025) |
 | 🌐 | [Ddict](https://ddict.me) | your friendly AI-powered tool for seamless translation and writing enhancement on any website. Enjoy smooth and uninterrupted reading with real-time text translations and smart writing suggestions. | Ddict Premium - $0.99 for first month |
+| 👍 | [Mentorbook](https://mentorbook.ai) | Your AI Mentor, Your Learning Assistant, Create any course, Learning anything. | **30% OFF** any plan with code **BF2025** (Nov 21 - Nov 30). |
 
 
 
