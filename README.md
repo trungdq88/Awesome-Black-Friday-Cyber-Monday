@@ -248,6 +248,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ⏲️ | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 50% OFF lifetime purchases Nov 21 - Dec 2 with code **NSCOBF25** |
 | 🍅 | [Pomotto](https://pomotto.app) | A pomodoro timer to sync focus time and Do Not Disturb. Your Mac finally knows when you're working! | **30% off** in the AppStore (already applied) - Pay Once Own Forever |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=trungdq88-github) | #1 Focus app for ADHD timeblindness. Focusmo helps you log your day as you go - so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates (Nov 21 - Dec 1). (code automatically applied) |
+| 🕑 | [Daily Time Tracking](https://dailytimetracking.com?ref=awesomebf) | Daily tracks time effortlessly by periodically asking what you're doing. No more toggling timers or forgetting to.  | **30% off** on the Mac App Store |
+| 🍅 | [Focusito](https://apps.apple.com/us/app/focusito-pomodoro-focus-timer/id1473808464?mt=12) | A quiet companion for focused work. Set a timer, stay in flow, and step away when it's time to rest. Clean Mac design, built-in ambient sounds, and nothing to distract you. | **50% OFF** (Nov 24 - Nov 30) |
 | 🕑 | [Daily Time Tracking](https://dailytimetracking.com?ref=awesomebf) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to.  | **30% off** on the Mac App Store |
 | 🟢 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | **50% off** Lifetime on the Mac App Store (Nov 24-28) |
 | ⏳ | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics, quantify your productivity. | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** Nov 24th - Dec 8th 2025 |
@@ -268,6 +270,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 🚀 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
+| 🎧 | [AudioBo](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | **50% OFF** (Nov 24 - Nov 30) |
 | 🖥️ | [Trickster](https://www.apparentsoft.com/trickster) | Your recently used files, at your fingertips | **50% OFF** until Dec 2nd |
 
 
