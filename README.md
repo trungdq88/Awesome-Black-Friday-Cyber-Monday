@@ -160,6 +160,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖱️ | [Hoverify](https://www.tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed |
 | 🧑‍💻 | [Polypane](https://polypane.app/?utm_source=tonybf) | The browser for developers who care (for macOS, Windows and Linux). Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |
 | 🖥️ | [StatusGator](https://statusgator.com/blog/statusgator-black-friday-deal-2025/) | StatusGator aggregates and monitors the status of cloud services and websites in one dashboard, offering real-time alerts, website monitoring, and customizable status pages. | **20% OFF** Monthly and Annual Starter Plan **BLACKFRIDAY2025** (Nov 2 - Dec 2) |
+| 🧑‍💻 | [Livewiredemos](https://livewiredemos.com/) | Reusable Component Library for Laravel Livewire | **50% OFF**  **BLACKFRIDAY25** (Until Dec 2) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
