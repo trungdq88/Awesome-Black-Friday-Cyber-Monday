@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 438
+Total deals: 439
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (30)](#-developer-macos-apps)
@@ -228,7 +228,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💰 | [Presentify](https://presentifyapp.com) | Annotate your screen in real-time when on calls or giving demos. | **30% OFF** from Nov 21 to Dec 2. No code needed. |
 | ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a ring light for video calls | **50% off** on the App Store |
 | 🔊 | [AudioWrangler](https://audiowrangler.app/) | Auto-switch to preferred speakers/microphones, wherever you are | **50% OFF** on the Mac App Store |
-
+| 💎 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF** lifetime Mac + iOS (Nov 27 - Dec 2) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
