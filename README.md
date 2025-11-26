@@ -189,7 +189,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📅 | [DaySchedule](https://dayschedule.com?utm_source=tonybf) | Appointment scheduling software for 1:1, Group and round-robin bookings. | **50% OFF** on annual plan with code **BLACKFRIDAY** |
 | 📊 | [WhatPulse](https://whatpulse.org/?ref=abfcm) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** |
 | 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** |
-| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 50% off Lifetime Plan (Nov 10 - Dec 2) |
+| ⭐ | [DeskRest](https://deskrest.com/offers/) | Smart break and posture reminder app for macOS. Transform your workday. | 60% off Lifetime Plan (Nov 10 - Dec 2) |
 | ✅ | [SmartTask](https://www.smarttask.io?ref=abfcm) | Operations Management System for Services Firms - AI Powered Project Management Software | 50% off for an year with **2025BF50** |
 | 🔥 | [ConniePad](https://conniepad.com/?utm_source=black-friday-2025) | Powerful note app for macOS and iOS. Search your notes with AI. The note app that truly offloads your brain. | 50% OFF with code **F25** |
 | ✨ | **[DEKI](https://deki.vercel.app/)** | Floating flashcards integrated seamlessly into your **desktop workflow**. Review, create, and quiz yourself **over any application.** | **25% OFF** with code **`BLACKFRIDAY2025`** |
@@ -205,8 +205,9 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📁 | [Files to Notion](https://www.files2notion.com/) | Link to and organize your files in Notion | 20% OFF with discount code *BLACK2025FRIDAY* at checkout |
 | 🔐 | [Uplock](https://uplock.app/black-friday-2025) | Uplock keeps your important information safe, organized, and always within reach across your Apple devices. Your data syncs through iCloud and is end-to-end encrypted with Advanced Data Protection for iCloud. Available on iOS, macOS, iPadOS, watchOS, and visionOS. | Up to **75% OFF** your first year of Uplock+, or **50% OFF** Uplock+ Lifetime plan |
 | 📧 | [Mailbird](https://www.getmailbird.com/) | The Best Email client for Windows and Mac. Bring all your email accounts, calendars, and apps into one clean workspace. Stay focused, move faster. | **80%+ OFF Pay once plan** and **30% OFF Yearly Plan** (auto-applied), Nov 24 - Dec 5 |
+| 🥑 | [DockFlow](https://dockflow.appitstudio.com) | Save and switch between macOS Dock presets. Instant workspace setup | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
+| 🍉 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks on macOS. Perfect for multiple monitor setups | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
 | 💸 | [ScreenFloat for Mac](https://eternalstorms.at/ScreenFloat) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
-
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -241,6 +242,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ☀️ | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a ring light for video calls | **50% off** on the App Store |
 | 🔊 | [AudioWrangler](https://audiowrangler.app/) | Auto-switch to preferred speakers/microphones, wherever you are | **50% OFF** on the Mac App Store |
 | 💎 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF** lifetime Mac + iOS (Nov 27 - Dec 2) |
+| 💥 | [Paste](https://pasteapp.io/) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -356,6 +358,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✨ | [Alter](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime With AI Usage |
 | 🌟 | [AssistLoop](https://assistloop.ai/?utm_source=tonybf) | The BestAI Customer Service with Human Handoff Instant answers from your knowledge base, with seamless handoff to your team and agent actions that keep every conversation moving forward. | 50% OFF - On All Anual Plans - **BLACKFRIDAY2025** |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI-powered word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
+| 🔥 | [GasbyAI](https://gasbyai.com/?utm_source=tdq) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). App Center to Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
 
 | ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, Contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | 50% OFF Lifetime with code **BLACK-FRIDAY-2025-LTD**  |
 ⬆️ | [Go to Top](#table-of-contents)
@@ -541,6 +544,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🔔 | [RedditAlert](https://www.redditalert.com) | AI-powered Reddit monitoring tool that sends real-time email alerts for posts and comments matching your criteria. Monitor Reddit in real time for brand mentions, market sentiment, or breaking stories in niche communities. No Reddit login required. | 50% OFF with code **BLACKFRIDAY2025** |
 | 📧 | [YAMM (Yet Another Mail Merge)](https://yamm.com/pricing)) | Send bulk personalized emails inside Google Sheets, and track if recipients open, click, respond, bounce or unsubscribe in real time directly from your spreadsheet. | **50% OFF the first year** — applies to all plans (from 1 to 100 users) with code **BLACKFRIDAY50**. Valid Nov 24 – Dec 30. |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co) | Publish your notes to a Quotion subdomain or your domain automatically, with fast page loads, SEO ready, built-in analytics, and looks great. No design or coding skills required. | 30% OFF for 12 months with code **BLACKFRIDAY2025** |
+| 🔥 | [Appfigures](https://appfigures.com?utm_source=tonybf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads. | 50% OFF monthly and yearly plans **BF2550** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -684,6 +688,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🧳 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF), until Dec 2 |
 |  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off, auto-applied Nov 28 – Dec 1 |
 | 🛡️ | [Fast VPN – Private VPN Master](https://apps.apple.com/us/app/fast-vpn-private-vpn-master/id6476809579) | One-tap private VPN with WireGuard, global servers, and unlimited browsing on iOS/iPadOS. | Black Friday lifetime plan $9.99 (was $199), auto-applied |
+| ✒️ | [Gorby - Text Analyzer](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvements, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF25** for 30% off yearly or lifetime plan |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
