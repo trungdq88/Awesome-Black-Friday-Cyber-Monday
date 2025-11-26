@@ -622,6 +622,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📺 | [SponsorRadar](https://sponsorradar.com) | Land Paid Sponsors for Your YouTube Channel. Find brands already sponsoring channels like yours. Generate professional media kits. Send outreach emails—all in one place. | **60% OFF** monthly subscription |
 | 📝 | [Typoro](https://typoro.com/?ref=tonybf) | AI tool for writing, editing, and scheduling LinkedIn posts | **30% OFF for 3 months with code BLACKFRIDAY** |
 | 🟦 | [PostOnce](https://postonce.to/) | PostOnce is the simplest way to automate your social media distribution. Repurpose content across TikTok, Instagram, YouTube, X, Threads, BlueSky, LinkedIn, Pinterest without changing your posting habits. | **30% OFF with code BF30** |
+| 🔖 | [Favourites.io](https://favourites.io) | Search, Organize and Export your X/Twitter Likes and Bookmarks | 50% OFF Annual Plans - €19/ year instead of €39/year!|
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
