@@ -369,6 +369,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🤖 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** |
 | 🚀 | [NootCode](https://www.nootcode.com) | Online judging and coaching platform to practice non-coding skills with LeetCode-style challenges - CS Fundamentals, System Design, Scenario Analysis | Use promo code **NOOTCODE2025BF30** for a **30% discount** on all plans |
 | 🎙️ | [Knowii Voice AI](https://voice-ai.knowii.net) | Privacy-first AI Voice-To-Text App. Press. Speak. Release. Your words appear exactly where you need them. | 30% off with code **BLACKFRIDAY2025** |
+| 🌐 | [Ddict](https://ddict.me) | your friendly AI-powered tool for seamless translation and writing enhancement on any website. Enjoy smooth and uninterrupted reading with real-time text translations and smart writing suggestions. | Ddict Premium - $0.99 for first month |
 
 
 
