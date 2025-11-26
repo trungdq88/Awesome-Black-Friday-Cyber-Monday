@@ -443,6 +443,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup . Valid until Dec 22nd. |
 | 🤖 | [Formbot](https://tryformbot.com/black-friday/?utm_source=tonybf) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** |
 | 📜 | [Kopia](https://kopia.ai/?utm_source=tonybf) | Transcribe any audio or video effortlessly. Edit, translate, create subtitles and repurpose your content with our AI all on our platform. | Get 40% off the first 4 months - **BF2025** |
+| 📚 | [BeYourCover](https://beyourcover.com/black-friday/pro?utm_source=tonybf) | AI book cover generator for indie authors. Create market-ready covers in minutes with pro styles and typography tools. | **25% OFF** with code **BF25** |
 
 
 
