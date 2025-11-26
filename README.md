@@ -254,7 +254,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🕑 | [Daily Time Tracking](https://dailytimetracking.com?ref=awesomebf) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to.  | **30% off** on the Mac App Store |
 | 🟢 | [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | **50% off** Lifetime on the Mac App Store (Nov 24-28) |
 | ⏳ | [ScreenTimerAI](https://screentimerai.com/) | Privacy-first AI screen time tracker and analytics, quantify your productivity. | **50% OFF** to 25$ for lifetime purchase with code **BLACKFRIDAY2025** Nov 24th - Dec 8th 2025 |
-
+| ⏳ | [Focus Room](https://focusroom.pro/) | Keep Students Focused During Online Learning | **50% OFF** with code **BLACKFRIDAY2025** Nov 24th - Dec 8th 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
