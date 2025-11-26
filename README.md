@@ -668,6 +668,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🌅 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> from Nov 24th - Dec 4th |
 | 🧳 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF), until Dec 2 |
 |  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off, auto-applied Nov 28 – Dec 1 |
+| 🛡️ | [Fast VPN – Private VPN Master](https://apps.apple.com/us/app/fast-vpn-private-vpn-master/id6476809579) | One-tap private VPN with WireGuard, global servers, and unlimited browsing on iOS/iPadOS. | Black Friday lifetime plan $9.99 (was $199), auto-applied |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
