@@ -538,6 +538,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 ⬆️ | [Go to Top](#table-of-contents)
 | 🎥 | [ScreenDemos](https://screendemos.com/?utm_source=bf) | Record demo videos with professional effects for your product. A video recording extension with automatic zoom and animations without any editing. | **50% OFF** lifetime plan with code **BLACKFRIDAY2025** |
 | 🎨 | [Zzo.ai](https://zzo.ai) | Free AI image generator & photo editor. Zzo.ai offers AI art creation, photo editing in one platform. Create amazing content now! Integrated with the latest nano banana pro model. Starting at just $2/month. | 50% OFF with code **ZZOAI50OFF** |
+| 🎨 | [Bundled.Design](https://bundled.design/) | All-in-one AI image & video generator. Create and edit marketing collaterals using 80+ AI models in a single subscription,including Midjourney, Veo 3.1, Sora, Flux and more. | **35% OFF** on all plans with code: **35OFFBUNDLED** |
+
  ⬆️ | [Go to Top](#table-of-contents)
 
 
