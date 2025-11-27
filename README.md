@@ -374,7 +374,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🌟 | [AssistLoop](https://assistloop.ai/?utm_source=tonybf) | The BestAI Customer Service with Human Handoff Instant answers from your knowledge base, with seamless handoff to your team and agent actions that keep every conversation moving forward. | 50% OFF - On All Anual Plans - **BLACKFRIDAY2025** |
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI-powered word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
 | 🔥 | [GasbyAI](https://gasbyai.com/?utm_source=tdq) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). App Center to Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
-
 | ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, Contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | 50% OFF Lifetime with code **BLACK-FRIDAY-2025-LTD**  |
 ⬆️ | [Go to Top](#table-of-contents)
 
