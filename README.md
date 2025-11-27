@@ -320,6 +320,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off, auto-applied Nov 28 – Dec 1 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 | 🗒 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF**, Nov 25 - Dec 5 |
+| 🗓️ | [Daylish](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you *never be late* again and *flow through your day* with ease. | **75% Off** Daylish+ Yearly ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
 
 
 
