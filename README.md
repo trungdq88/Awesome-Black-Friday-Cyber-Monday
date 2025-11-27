@@ -27,12 +27,12 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 441
-Total deals: 439
+Total deals: 442
+Total deals: 440
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (30)](#-developer-macos-apps)
-	- [💻 Tools & Services (36)](#-tools--services)
+	- [💻 Tools & Services (37)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (26)](#tasks-organize-planning)
@@ -162,12 +162,12 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖱️ | [Hoverify](https://www.tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed |
 | 🧑‍💻 | [Polypane](https://polypane.app/?utm_source=tonybf) | The browser for developers who care (for macOS, Windows and Linux). Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |
 | 🖥️ | [StatusGator](https://statusgator.com/blog/statusgator-black-friday-deal-2025/) | StatusGator aggregates and monitors the status of cloud services and websites in one dashboard, offering real-time alerts, website monitoring, and customizable status pages. | **20% OFF** Monthly and Annual Starter Plan **BLACKFRIDAY2025** (Nov 2 - Dec 2) |
+| 🚀 | [DeployHQ](https://www.deployhq.com/) | Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations for your workflows. | **50% OFF** for 3 months (automatically applied for new customers) Nov 25 - Dec 2 |
 | 💸 | [Yoink for Mac](https://eternalstorms.at/yoink/mac) | Improve and Simplify Drag and Drop on your Mac with Yoink | **77% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [Yoink for iPhone and iPad](https://eternalstorms.at/yoink/ios) | Your files and snippet shelf with clipboard observing powers | **66% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [Transloader for Mac](https://eternalstorms.at/transloader) | Manage downloads on your Macs, remotely from your iPhone, iPad, and other Macs | **60% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [DeskMat for Mac](https://eternalstorms.at/DeskMat) | Cover your messy desktop with a single click | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [Tameno for Apple Watch, iPhone, iPad, Mac and Apple TV](https://eternalstorms.at/tameno) | Keep your mind at peace, let Tameno keep the pace | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
-
 
 
 ⬆️ | [Go to Top](#table-of-contents)
