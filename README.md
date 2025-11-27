@@ -323,7 +323,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off, auto-applied Nov 28 – Dec 1 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 | 🗒 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF**, Nov 25 - Dec 5 |
-| 🗓️ | [Daylish](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you *never be late* again and *flow through your day* with ease. | **75% Off** Daylish+ Yearly ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
+| 🗓️ | [Daylish](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you *never be late* again and *flow through your day* with ease. | **75% Off** Daylish+ Yearly ($19.99 → $4.99) with code **BF25** [or by tapping here](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25), Nov 26 - Dec 5 |
 
 
 
@@ -749,7 +749,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [use this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25). (Nov 25 - Dec 2) |
 | 🐣 | [Steps & Beasts - Gamified Step Tracker](https://apps.apple.com/app/id6670788226) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | **33% OFF** lifetime plan (IAP). (Nov 01 - Nov 30) |
 | 💪 | [Gym Diary - Workout Tracker](https://apps.apple.com/us/app/workout-tracker-gym-diary/id1328908841) | Simple & beautiful app to plan & track your workout routines | **50% OFF** in Yearly plan (From 29.99$ to 14.99$) (Nov 28 - Dec 1) |
-| 🪷 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | **50% OFF** Zenitizer+ Yearly (19.99$ → 9.99$) (Nov 27 - Dec 5) |
+| 🪷 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | **50% OFF** Zenitizer+ Yearly (19.99$ → 9.99$) with code **BF25** [or by tapping here](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BF25), Nov 27 - Dec 5 |
 
 
 
