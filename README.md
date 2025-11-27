@@ -171,8 +171,10 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💸 | [Transloader for Mac](https://eternalstorms.at/transloader) | Manage downloads on your Macs, remotely from your iPhone, iPad, and other Macs | **60% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [DeskMat for Mac](https://eternalstorms.at/DeskMat) | Cover your messy desktop with a single click | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [Tameno for Apple Watch, iPhone, iPad, Mac and Apple TV](https://eternalstorms.at/tameno) | Keep your mind at peace, let Tameno keep the pace | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
+| 📄 | [Publish Markdown](https://publishmarkdown.com/#pricing) | The simplest way to publish and share markdown files | **25% OFF** until December 31st, 2025 for monthly subscriptions (up to 12 months) — Use **BLACKFRIDAY25** |
 | 💸 | [Daestro](https://daestro.com) | Run compute workload across Cloud Providers & On-Prem | **50% OFF** across all Annual Plans until December 1st 2025 |
 | 📊 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an extended **60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code CYBER2025 between Nov 28 – Dec 8, 2025. |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
