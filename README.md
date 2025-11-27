@@ -738,6 +738,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🏆 | [ChattyFit AI Personal Trainer](https://apps.apple.com/app/apple-store/id6748089571) | AI Workout plans for weight loss, muscle building, strength training, and any fitness goal. Get expert coaching, instant answers, and workout guidance 24/7 — right in your pocket. | 50% OFF Lifetime Access just $124.99. 50% OFF Annual Access just 49.99%. Autoapplied in app. Nov 22 - Dec 2|
 | 🔥 | [Home Workout - QuickFit](https://quickfit.bylancer.com/) | Transform your body with QuickFit - the complete 30 day workout app built for real results. No gym, no equipment, no excuses. Just your space, your time, and a smart plan that actually works. | 50% OFF Lifetime Access. One-time purchase in the App Store/Play Store. Nov 23 - Nov 30|
 | 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [use this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25). (Nov 25 - Dec 2) |
+| 💪 | [Gym Diary - Workout Tracker](https://apps.apple.com/us/app/workout-tracker-gym-diary/id1328908841) | Simple & beautiful app to plan & track your workout routines | **50% OFF** in Yearly plan (From 29.99$ to 14.99$) (Nov 28 - Dec 1) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
