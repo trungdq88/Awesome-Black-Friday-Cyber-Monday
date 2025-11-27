@@ -49,7 +49,7 @@ Total deals: 543
 - [🔍 SEO Tools (15)](#-seo-tools)
 - [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
 - [🌏 Social Media Tools (28)](#-social-media-tools)
-- [💸 Finance Tools (15)](#-finance-tools)
+- [💸  Tools (15)](#--tools)
 - [🎛 Utility Tools (28)](#-utility-tools)
 - [💪 Health and Fitness (15)](#-health-and-fitness)
 - [🎯 Miscellaneous (22)](#-miscellaneous)
@@ -691,6 +691,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🪙 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went | **50% OFF** Lifetime until Dec 2th 2025 |
 | 🗓️ | [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | **50% OFF** Lifetime PRO |
 | 💸 | [Sumio – Net Worth Tracker](https://www.sumio.app) | AI-Powered Portfolio & Net Worth Tracker. | [**50% OFF** Annual Subscription](https://apps.apple.com/redeem?ctx=offercodes&id=1560198579&code=BF2025) |
+| 💸 | [SubCal](https://apps.apple.com/ar/app/subscription-tracker-subcal/id6752016485?l=en-GB) | Manage every subscription in one place with smart reminders and deep link access that keep you in control. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
