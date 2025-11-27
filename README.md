@@ -200,11 +200,13 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖥️ | [LaunchOS](https://launchosapp.com?utm_source=abfcm)| The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.| **60% OFF** plus an additional **5% OFF** with code **EARLYBIRDBLACKFRIDAY** |
 | ☎️ | [Airbounce for Zoom](https://www.airbounce.co/?utm_source=gh-bf2025) | Upgrade your CapsLock key for easier Zoom calls on Mac! One button to join, mute/unmute, or leave — plus integration with your HomeKit smart light to show you're #OnAir. | **40% off** with **BF2025** (one-time purchase) |
 | 🖥️ | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link |
+| 🗓 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your life with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | **50% OFF** one-time purchase, no code necessary |
 | 📁 | [Files to Notion](https://www.files2notion.com/) | Link to and organize your files in Notion | 20% OFF with discount code *BLACK2025FRIDAY* at checkout |
 | 🔐 | [Uplock](https://uplock.app/black-friday-2025) | Uplock keeps your important information safe, organized, and always within reach across your Apple devices. Your data syncs through iCloud and is end-to-end encrypted with Advanced Data Protection for iCloud. Available on iOS, macOS, iPadOS, watchOS, and visionOS. | Up to **75% OFF** your first year of Uplock+, or **50% OFF** Uplock+ Lifetime plan |
 | 📧 | [Mailbird](https://www.getmailbird.com/) | The Best Email client for Windows and Mac. Bring all your email accounts, calendars, and apps into one clean workspace. Stay focused, move faster. | **80%+ OFF Pay once plan** and **30% OFF Yearly Plan** (auto-applied), Nov 24 - Dec 5 |
 | 🥑 | [DockFlow](https://dockflow.appitstudio.com) | Save and switch between macOS Dock presets. Instant workspace setup | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
 | 🍉 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks on macOS. Perfect for multiple monitor setups | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
