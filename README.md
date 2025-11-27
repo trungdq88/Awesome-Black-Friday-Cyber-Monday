@@ -454,9 +454,11 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🏦 | [Bank Statements CSV](https://bankstatementscsv.com/) | Convert PDF bank statements to accurate CSVs instantly with secure AI extraction, fast processing, and clean results. | **25% off** on all file conversions with promo code **BlackFriday25** on signup. Valid until Dec 22nd. |
 | 💳 | [Card Statement CSV](https://cardstatementcsv.com/) | Instantly convert PDF credit card statements into clean, accurate CSV files with fast, secure, AI-powered processing. | **25% off** on all file conversions with promo code **BlackFriday25** on signup . Valid until Dec 22nd. |
 | 🤖 | [Formbot](https://tryformbot.com/black-friday/?utm_source=tonybf) | Build Forms with Natural Language. Describe your form in plain English, then let users respond via traditional or AI native conversational form. | Automatic 87% off Lifetime Deal - **BLACKFRIDAY2025** |
+| 💵 | [ReelMoney](https://reel.money?ref=trungdq88) | Create realistic AI Influencers and TikTok slideshows to automate marketing and growing your social media. | **60% OFF**. No code required. Valid until Dec 31st, 2025.                                                                                      |
 | 🎨 | [Infography](https://infography.in) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code - **BFCM2025**  |
 | 📼 | [Yescaptions](https://yescaptions.com) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code - **BFCM2025**  |
 | 📜 | [Kopia](https://kopia.ai/?utm_source=tonybf) | Transcribe any audio or video effortlessly. Edit, translate, create subtitles and repurpose your content with our AI all on our platform. | Get 40% off the first 4 months - **BF2025** |
+
 
 
 
