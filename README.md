@@ -537,9 +537,9 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✏️ | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 | 🍊 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. Ends December 1st. |
 | 🖼️ | [ImageFramer](https://imageframer.net) | Easily add frames, mats and borders to your art | **50% OFF** Lifetime until Dec 2th 2025 |
-⬆️ | [Go to Top](#table-of-contents)
 | 🎥 | [ScreenDemos](https://screendemos.com/?utm_source=bf) | Record demo videos with professional effects for your product. A video recording extension with automatic zoom and animations without any editing. | **50% OFF** lifetime plan with code **BLACKFRIDAY2025** |
 | 🎨 | [Zzo.ai](https://zzo.ai) | Free AI image generator & photo editor. Zzo.ai offers AI art creation, photo editing in one platform. Create amazing content now! Integrated with the latest nano banana pro model. Starting at just $2/month. | 50% OFF with code **ZZOAI50OFF** |
+| 🎨 | [Midjourney Prompts, Video, SREF Codes Library and Guides](https://promptsref.com/?utm_source=bf) | Hand-picked 1,380 sref codes, 5,526 prompts and art Guide to spark your creativity!| **15% OFF** $42/Year -> $36/Year https://buy.stripe.com/dRm3cv8Ksfog1dH6tP3Nm09 |
 | 🎨 | [Bundled.Design](https://bundled.design/) | All-in-one AI image & video generator. Create and edit marketing collaterals using 80+ AI models in a single subscription,including Midjourney, Veo 3.1, Sora, Flux and more. | **35% OFF** on all plans with code: **35OFFBUNDLED** |
 
  ⬆️ | [Go to Top](#table-of-contents)
