@@ -383,11 +383,13 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✍️ | [Manzoni](https://manzoni.app) | Local AI-powered word processor that runs LLMs entirely on your device to help you brainstorm, draft, and edit text without cloud processing or data tracking. | 10% OFF LIFETIME with code **BLACKFRIDAY10** |
 | 🔥 | [GasbyAI](https://gasbyai.com/?utm_source=tdq) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). App Center to Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
 | ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, Contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | 50% OFF Lifetime with code **BLACK-FRIDAY-2025-LTD**  |
+| 🤯 | [LobeHub](https://lobehub.com) | An open-source AI Agent Workspace. Build and deploy AI agents with multi-model support, knowledge base, plugins, and more. | 40% OFF with code **V2COMING** (Ends Nov 30) |
 | 🧠 | [Backona AI](https://backona.com/?utm_source=tony-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
 | 🤖 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | 50% OFF on all plans with code **CXBLACK2025** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
+
 
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
