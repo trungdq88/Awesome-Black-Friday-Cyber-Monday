@@ -779,5 +779,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🐕 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime until Dec 2th 2025 |
 | 🔮 | [Zodicy](https://www.zodicy.com) | Ditch the generic horoscopes that feel shallow and irrelevant. Take our expert-designed quiz and, in just 60 seconds, uncover a personalized reading that reveals your truth — clear, specific, and entirely your own. | **80% OFF** until Dec 2th 2025 |
 | 🗣️| [Talkville](https://talkvilleapp.com) | Practice social skills by roleplaying scenarios in a 2D RPG town | 50% OFF annual subscription until the end of the year |
+| 🎮 | [LaunchBox](https://go.launchbox.gg/abfcm-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout until 12/2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
