@@ -376,6 +376,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🔥 | [GasbyAI](https://gasbyai.com/?utm_source=tdq) | Web and Desktop AI Chat - Support latest AI models (GPT, Claude, Gemini, OpenRouter & more). App Center to Generate images, craft content, analyze documents, code, or research online — all in one place | 60% OFF with code **BlackFriday2025** |
 
 | ✨ | [Enconvo](https://enconvo.com) | The Always‑Online AI Companion That Knows You Best, Contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | 50% OFF Lifetime with code **BLACK-FRIDAY-2025-LTD**  |
+| 🤯 | [LobeHub](https://lobehub.com) | An open-source AI Agent Workspace. Build and deploy AI agents with multi-model support, knowledge base, plugins, and more. | 40% OFF with code **V2COMING** (Ends Nov 30) |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
