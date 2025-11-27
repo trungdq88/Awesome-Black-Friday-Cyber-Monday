@@ -515,6 +515,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖼️ | [ImageFramer](https://imageframer.net) | Easily add frames, mats and borders to your art | **50% OFF** Lifetime until Dec 2th 2025 |
 ⬆️ | [Go to Top](#table-of-contents)
 | 🎥 | [ScreenDemos](https://screendemos.com/?utm_source=bf) | Record demo videos with professional effects for your product. A video recording extension with automatic zoom and animations without any editing. | **50% OFF** lifetime plan with code **BLACKFRIDAY2025** |
+| 🎨 | [Zzo.ai](https://zzo.ai) | Free AI image generator & photo editor. Zzo.ai offers AI art creation, photo editing in one platform. Create amazing content now! Integrated with the latest nano banana pro model. Starting at just $2/month. | 50% OFF with code **ZZOAI50OFF** |
  ⬆️ | [Go to Top](#table-of-contents)
 
 
