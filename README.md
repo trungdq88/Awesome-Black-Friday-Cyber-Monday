@@ -27,33 +27,32 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 442
-Total deals: 440
+Total deals: 543
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (30)](#-developer-macos-apps)
-	- [💻 Tools & Services (37)](#-tools--services)
+	- [💻 Developer macOS Apps (32)](#-developer-macos-apps)
+	- [💻 Tools & Services (50)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (26)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (26)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (7)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (9)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (16)](#-productivity-mobile-apps)
+		- [Tasks, Organize, Planning (35)](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities (29)](#window-screen-clipboard-utilities)
+		- [Time, Distraction, Focus (12)](#time-distraction-focus)
+		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps (25)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (20)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (39)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (32)](#-other-ai-tools)
-- [🌅 Design Tools (34)](#-design-tools)
-- [🌈 Marketing Tools (37)](#-marketing-tools)
-- [🔍 SEO Tools (12)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (23)](#-startup-saastools)
-- [🌏 Social Media Tools (26)](#-social-media-tools)
-- [💸 Finance Tools (12)](#-finance-tools)
-- [🎛 Utility Tools (24)](#-utility-tools)
-- [💪 Health and Fitness (10)](#-health-and-fitness)
-- [🎯 Miscellaneous (14)](#-miscellaneous)
+	- [💬 AI Chat UI (22)](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools (49)](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools (39)](#-other-ai-tools)
+- [🌅 Design Tools (38)](#-design-tools)
+- [🌈 Marketing Tools (43)](#-marketing-tools)
+- [🔍 SEO Tools (15)](#-seo-tools)
+- [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
+- [🌏 Social Media Tools (28)](#-social-media-tools)
+- [💸 Finance Tools (15)](#-finance-tools)
+- [🎛 Utility Tools (28)](#-utility-tools)
+- [💪 Health and Fitness (15)](#-health-and-fitness)
+- [🎯 Miscellaneous (22)](#-miscellaneous)
 
 ## Hacker Residency Group Entries
 
