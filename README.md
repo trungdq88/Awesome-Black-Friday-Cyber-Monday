@@ -718,7 +718,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off, auto-applied Nov 28 – Dec 1 |
 | 🛡️ | [Fast VPN – Private VPN Master](https://apps.apple.com/us/app/fast-vpn-private-vpn-master/id6476809579) | One-tap private VPN with WireGuard, global servers, and unlimited browsing on iOS/iPadOS. | Black Friday lifetime plan $9.99 (was $199), auto-applied |
 | ✒️ | [Gorby - Text Analyzer](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvements, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF25** for 30% off yearly or lifetime plan |
-
+| 🏞️ | [Smart Photo Cleaner:Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | iPhone Photo And Video Cleaner + Storage Optimizer. | 50% OFF Annual Plan in App until Dec 4 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
