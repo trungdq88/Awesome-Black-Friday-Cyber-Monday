@@ -749,6 +749,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🧘 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | **68% OFF** lifetime plan with code BLACKFRIDAY25 or [use this link](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25). (Nov 25 - Dec 2) |
 | 🐣 | [Steps & Beasts - Gamified Step Tracker](https://apps.apple.com/app/id6670788226) | Gamified Step Tracker with a fun twist. Reach your goal every day, hatch an egg and collect 200 unique creatures. | **33% OFF** lifetime plan (IAP). (Nov 01 - Nov 30) |
 | 💪 | [Gym Diary - Workout Tracker](https://apps.apple.com/us/app/workout-tracker-gym-diary/id1328908841) | Simple & beautiful app to plan & track your workout routines | **50% OFF** in Yearly plan (From 29.99$ to 14.99$) (Nov 28 - Dec 1) |
+| 🪷 | [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | **50% OFF** Zenitizer+ Yearly (19.99$ → 9.99$) (Nov 27 - Dec 5) |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
