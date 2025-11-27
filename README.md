@@ -112,6 +112,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 | 🌐 | [WrapPixel](https://www.wrappixel.com/) | Premium UI kits, admin dashboards, and templates for developers. | Up to 50 percent off all templates (Coupon: `BFCM50`) and 95 percent off All Access Pass | Now to December 31, 2025 |
 | ⭐ |[AdminMart](https://adminmart.com/) | Premium admin templates and UI kits for developers. | Up to 50 percent off sitewide (Coupon: `BFCM50`) and 95% OFF on Big Bundle | Now to December 31, 2025 |
+| 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -592,6 +594,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🚀 | [IndexRusher](https://indexrusher.com/) | A tool that helps get a website indexed by Google faster, boosts searchability & SEO ranking | **20% OFF** first payment, code **JOHNRUSH** (Nov 21–Dec 7) |
 | 📈 | [GemRank](https://gemrank.co) | Be the brand AI recommends Track how ChatGPT, Gemini, Claude, and Perplexity talk about your brand, and get weekly visibility reports. | **50% OFF** on Lifetime Deals with code - **BFCM2025**  |
 | 🔥 | [Effortless Backlinks](https://www.effortlessbacklinks.com/) | We submit your product to 100 high-quality directories for you. Increase domain authority and bring steady, qualified traffic without wasting 30+ hours on manual submissions. | **Save up to 50€** with code **EB2025** at checkout! (Nov 21–Dec 7) |
+| 🔍  | [CheckMySEO](https://checkmyseo.io) | Generate SEO‑optimized content and blog posts tailored to your keywords in minutes. | **30% OFF** with code **BF25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -626,6 +629,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🚀 | [Produktly](https://produktly.com) | All-in-one platform for product-led growth | **40% OFF** on everything with code **BF2025** |
 | 🚀 | [Place Card Maker](https://placecard.net) | Create beautiful printable place cards in minutes | 25% OFF on everything with code blackfriday25 |
 | 🛠️ | [ResumeUp.ai](https://resumeup.ai/) | is an AI-powered resume builder with a chat interface that helps users create, update, and organize their resumes dynamically. | **50% OFF** with code **BLACKFRIDAY50** |
+| 📦 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -661,6 +666,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📺 | [SponsorRadar](https://sponsorradar.com) | Land Paid Sponsors for Your YouTube Channel. Find brands already sponsoring channels like yours. Generate professional media kits. Send outreach emails—all in one place. | **60% OFF** monthly subscription |
 | 📝 | [Typoro](https://typoro.com/?ref=tonybf) | AI tool for writing, editing, and scheduling LinkedIn posts | **30% OFF for 3 months with code BLACKFRIDAY** |
 | 🟦 | [PostOnce](https://postonce.to/) | PostOnce is the simplest way to automate your social media distribution. Repurpose content across TikTok, Instagram, YouTube, X, Threads, BlueSky, LinkedIn, Pinterest without changing your posting habits. | **30% OFF with code BF30** |
+| 🔴 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
