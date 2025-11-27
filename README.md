@@ -176,8 +176,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | ✅ | [PingPing.io](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | **LIFETIME 25% OFF** with code **CYBER25** (Nov 27 - Dec 5) |
 | 📄 | [Publish Markdown](https://publishmarkdown.com/#pricing) | The simplest way to publish and share markdown files | **25% OFF** until December 31st, 2025 for monthly subscriptions (up to 12 months) — Use **BLACKFRIDAY25** |
 | 💸 | [Daestro](https://daestro.com) | Run compute workload across Cloud Providers & On-Prem | **50% OFF** across all Annual Plans until December 1st 2025 |
-| 📊 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an extended **60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code CYBER2025 between Nov 28 – Dec 8, 2025. |
-
+| 🤖 | [GLM Coding Plan](https://z.ai/subscribe) | Your elite AI coding partner, integrated directly into your favorite IDEs. | **Regular Discount:** Get **50% OFF** your first order. **Black Friday Blowout (Nov 26 – Dec 5):** Quarterly Plan: Get an **EXTRA 20% OFF**. Yearly Plan: Get an **EXTRA 30% OFF**. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
