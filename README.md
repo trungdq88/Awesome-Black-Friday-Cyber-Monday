@@ -250,7 +250,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🔊 | [AudioWrangler](https://audiowrangler.app/) | Auto-switch to preferred speakers/microphones, wherever you are | **50% OFF** on the Mac App Store |
 | 💎 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF** lifetime Mac + iOS (Nov 27 - Dec 2) |
 | 💥 | [Paste](https://pasteapp.io/) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** |
-
+| 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime**, Nov 26 - Dec 2 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
