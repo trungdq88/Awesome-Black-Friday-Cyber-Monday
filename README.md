@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 543
+Total deals: 544
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (32)](#-developer-macos-apps)
@@ -35,7 +35,7 @@ Total deals: 543
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (35)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (29)](#window-screen-clipboard-utilities)
+		- [Window, Screen, Clipboard, Utilities (30)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (12)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (25)](#-productivity-mobile-apps)
@@ -259,6 +259,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💎 | [Snippety](https://snippety.app) | Powerful productivity tool for macOS and iOS that helps you work faster with instantly accessible snippets and intelligent placeholders. | **34% OFF** lifetime Mac + iOS (Nov 27 - Dec 2) |
 | 💥 | [Paste](https://pasteapp.io/) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** |
 | 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime**, Nov 26 - Dec 2 |
+| 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
