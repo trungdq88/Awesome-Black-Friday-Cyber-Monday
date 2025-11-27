@@ -669,6 +669,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📝 | [Typoro](https://typoro.com/?ref=tonybf) | AI tool for writing, editing, and scheduling LinkedIn posts | **30% OFF for 3 months with code BLACKFRIDAY** |
 | 🟦 | [PostOnce](https://postonce.to/) | PostOnce is the simplest way to automate your social media distribution. Repurpose content across TikTok, Instagram, YouTube, X, Threads, BlueSky, LinkedIn, Pinterest without changing your posting habits. | **30% OFF with code BF30** |
 | 🔴 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
+| 🛡️ | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724?mt=12) | Safari Web Extension that filters unwanted content on Reddit. Block posts by keywords and domains, hide ads and promoted content. Works on old and new Reddit across macOS, iOS, iPadOS, and visionOS. | **50% OFF** ($0.99, was $1.99) Nov 27 - Dec 6 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
