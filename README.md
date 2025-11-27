@@ -302,11 +302,14 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🇯🇵 | [Kaku - Japanese Notebook](https://apps.apple.com/us/app/kaku-japanese-notebook/id1515101339) | Fast Japanese dictionary with OCR, translations, and conjugations. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇯🇵 | [KeitaiTango - JLPT Flashcards](https://apps.apple.com/us/app/jlpt-flashcards-keitaitango/id1546470961) | Spaced-repetition flashcard app for JLPT vocabulary and grammar. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
 | 🇰🇷 | [K Spelling Bee](https://apps.apple.com/us/app/k-spelling-bee/id6752530947) | Master Korean spelling and vocabulary with audio quizzes and game-like learning. | **50% OFF Lifetime** (auto-applied), Nov 22 - Dec 2 |
+| 🕰 | [Tempus - AI Daily Planner](https://apps.apple.com/us/app/tempus-ai-daily-planner/id6751440902) | Plan the day effortlessly with AI-powered scheduling, smart AlarmKit reminders, and a stunning Liquid Glass timeline. | **67% OFF Lifetime** (auto-applied) |
+| 📝 | [Noota - AI Note Taker](https://apps.apple.com/us/app/noota-ai-note-taker/id6744225641) | Turn anything into structured notes: videos, audio, PDFs, Word, Excel, EPUB, and more. Generate summaries, flashcards, quizzes instantly with AI. | **50% OFF Lifetime** (auto-applied) |
 | 🦥 | [Joonote](https://play.google.com/store/apps/details?id=com.kyw.joonote) | A note-taking app in your lockscreen. | **25% OFF Lifetime** (auto-applied) |
 | 📁 | [Kutu:Bookmark Manager](https://apps.apple.com/us/app/id6751636194) | Organize all your links and bookmarks in one place with smart folders and automations. | **50% OFF** Lifetime plan with code **BLACKFRIDAY** |
 |  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off, auto-applied Nov 28 – Dec 1 |
 | 📸 | [CheckCam — Visual Reminder](https://apps.apple.com/app/apple-store/id6748918261?pt=127961359&ct=rarebigdeal.com&mt=8) | Minimalist iOS camera for temporary photos that auto-delete and keep your main gallery clean. | **60% OFF** Lifetime Access with code **BF2025** | 2025-12-03 |
 | 🗒 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase **40% OFF**, Nov 25 - Dec 5 |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
