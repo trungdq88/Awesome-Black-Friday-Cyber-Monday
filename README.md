@@ -170,7 +170,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💸 | [Transloader for Mac](https://eternalstorms.at/transloader) | Manage downloads on your Macs, remotely from your iPhone, iPad, and other Macs | **60% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [DeskMat for Mac](https://eternalstorms.at/DeskMat) | Cover your messy desktop with a single click | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
 | 💸 | [Tameno for Apple Watch, iPhone, iPad, Mac and Apple TV](https://eternalstorms.at/tameno) | Keep your mind at peace, let Tameno keep the pace | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
-
+| ✅ | [PingPing.io](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | **LIFETIME 25% OFF** with code **CYBER25** (Nov 27 - Dec 5) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
