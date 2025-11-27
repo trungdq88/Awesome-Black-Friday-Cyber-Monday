@@ -155,11 +155,13 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎁 | [ClaudeKit Combo](https://claudekit.cc) | Complete ClaudeKit bundle (Engineer + Marketing kits) with AI automation for development, research, sales, and content marketing. | **BUY 1 GET 1** ($99, was $199). Nov 24-30 |
 | 🚀 | [TranscriptBunny](https://www.transcriptbunny.com?utm_source=tonybf) | YouTube transcript API - Extract transcripts from any YouTube video with timestamps and text. Fast, reliable API for developers who want to ship fast | Use promo code **BF25** for a **30% discount** on all plans |
 | 🚖 | [Folge](https://www.folge.me/) | The fastest tool for creating step-by-step guides. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, .doc, PDF, and more | 25% OFF Lifetime **BLACKFRIDAY25** |
+| 🎬 | [React Video Editor](https://reactvideoeditor.com/) | A fully customisable video-editing toolkit for React and Next.js. Build your own video editor with timelines, trimming, text overlays, and Remotion-powered rendering. Perfect for SaaS founders, dev tools, and teams building in-browser video workflows. | 50% OFF — Use **MAKINGVIDEOS** |
 |  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 20% off, auto-applied Nov 28 – Dec 1 
 | 🖥️ | [AdverseMonnitor](https://adversemonitor.com/) | Real-time threat intelligence platform monitoring 500+ dark web sources, ransomware groups, and data breaches. Get instant alerts when your organization appears in threat actor communications. | 75% OFF Detection plan **BLACKFRIDAY2025** |
 | 🖱️ | [Hoverify](https://www.tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed |
 | 🧑‍💻 | [Polypane](https://polypane.app/?utm_source=tonybf) | The browser for developers who care (for macOS, Windows and Linux). Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |
 | 🖥️ | [StatusGator](https://statusgator.com/blog/statusgator-black-friday-deal-2025/) | StatusGator aggregates and monitors the status of cloud services and websites in one dashboard, offering real-time alerts, website monitoring, and customizable status pages. | **20% OFF** Monthly and Annual Starter Plan **BLACKFRIDAY2025** (Nov 2 - Dec 2) |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
