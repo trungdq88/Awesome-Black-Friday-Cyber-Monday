@@ -469,7 +469,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎨 | [Infography](https://infography.in) | Turn your blogs into stunning, shareable infographics. | **50% OFF** on Lifetime Deals with code - **BFCM2025**  |
 | 📼 | [Yescaptions](https://yescaptions.com) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code - **BFCM2025**  |
 | 📜 | [Kopia](https://kopia.ai/?utm_source=tonybf) | Transcribe any audio or video effortlessly. Edit, translate, create subtitles and repurpose your content with our AI all on our platform. | Get 40% off the first 4 months - **BF2025** |
-
+| 📜 | [Uncody](https://uncody.com/?utm_source=tonybfdeal) | AI Landing page builder that helps you get leads, newsletter signups | Get 50% off on yearly plans - **BLACKFRIDAY50** |
+| 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 
 
 
