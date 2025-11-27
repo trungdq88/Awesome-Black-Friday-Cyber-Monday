@@ -29,30 +29,35 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 Total deals: 544
 
-- [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (32)](#-developer-macos-apps)
-	- [💻 Tools & Services (50)](#-tools--services)
-- [🔥 Productivity ](#-productivity)
-	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
-		- [Tasks, Organize, Planning (35)](#tasks-organize-planning)
-		- [Window, Screen, Clipboard, Utilities (30)](#window-screen-clipboard-utilities)
-		- [Time, Distraction, Focus (12)](#time-distraction-focus)
-		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (25)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
-- [🤖 AI Tools ](#-ai-tools)
-	- [💬 AI Chat UI (22)](#-ai-chat-ui)
-	- [📖 AI Productivity & Learning Tools (49)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (39)](#-other-ai-tools)
-- [🌅 Design Tools (38)](#-design-tools)
-- [🌈 Marketing Tools (43)](#-marketing-tools)
-- [🔍 SEO Tools (15)](#-seo-tools)
-- [🚀 Startup SaaS/Tools (26)](#-startup-saastools)
-- [🌏 Social Media Tools (28)](#-social-media-tools)
-- [💸  Tools (15)](#--tools)
-- [🎛 Utility Tools (28)](#-utility-tools)
-- [💪 Health and Fitness (15)](#-health-and-fitness)
-- [🎯 Miscellaneous (22)](#-miscellaneous)
+- [� Awesome Black Friday / Cyber Monday Deals - 2025 🤑](#-awesome-black-friday--cyber-monday-deals---2025-)
+	- [What's new in 2025?](#whats-new-in-2025)
+	- [Sponsored Deals](#sponsored-deals)
+	- [Table of Contents](#table-of-contents)
+	- [Hacker Residency Group Entries](#hacker-residency-group-entries)
+	- [👨‍💻 Developer Tools](#-developer-tools)
+		- [💻 Developer macOS Apps](#-developer-macos-apps)
+		- [💻 Tools \& Services](#-tools--services)
+	- [🔥 Productivity](#-productivity)
+		- [🖥️ Productivity Desktop Apps](#️-productivity-desktop-apps)
+			- [Tasks, Organize, Planning](#tasks-organize-planning)
+			- [Window, Screen, Clipboard, Utilities](#window-screen-clipboard-utilities)
+			- [Time, Distraction, Focus](#time-distraction-focus)
+			- [Miscellaneous Productivity Apps](#miscellaneous-productivity-apps)
+		- [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
+		- [🛠️ Productivity Tools \& Services](#️-productivity-tools--services)
+	- [🤖 AI Tools](#-ai-tools)
+		- [💬 AI Chat UI](#-ai-chat-ui)
+		- [📖 AI Productivity \& Learning Tools](#-ai-productivity--learning-tools)
+		- [✨ Other AI tools](#-other-ai-tools)
+	- [🌅 Design Tools](#-design-tools)
+	- [🌈 Marketing Tools](#-marketing-tools)
+	- [🔍 SEO Tools](#-seo-tools)
+	- [🚀 Startup SaaS/Tools](#-startup-saastools)
+	- [🌏 Social Media Tools](#-social-media-tools)
+	- [💸 Finance Tools](#-finance-tools)
+	- [🎛 Utility Tools](#-utility-tools)
+	- [💪 Health and Fitness](#-health-and-fitness)
+	- [🎯 Miscellaneous](#-miscellaneous)
 
 ## Hacker Residency Group Entries
 
@@ -159,7 +164,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🚖 | [Folge](https://www.folge.me/) | The fastest tool for creating step-by-step guides. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, .doc, PDF, and more | 25% OFF Lifetime **BLACKFRIDAY25** |
 | 🎨 | [Pixpa](https://www.pixpa.com/?via=blfpixpa55) | Pixpa is a no-code website builder for creatives and small businesses to showcase work, run blogs, sell online, and manage client galleries. | **55%** discount on Pixpa’s annual plans. **BLFPIXPA55** |
 | 🎬 | [React Video Editor](https://reactvideoeditor.com/) | A fully customisable video-editing toolkit for React and Next.js. Build your own video editor with timelines, trimming, text overlays, and Remotion-powered rendering. Perfect for SaaS founders, dev tools, and teams building in-browser video workflows. | 50% OFF — Use **MAKINGVIDEOS** |
-|  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 20% off, auto-applied Nov 28 – Dec 1 
+|  🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 20% off, auto-applied Nov 28 – Dec 1
 | 🖥️ | [AdverseMonnitor](https://adversemonitor.com/) | Real-time threat intelligence platform monitoring 500+ dark web sources, ransomware groups, and data breaches. Get instant alerts when your organization appears in threat actor communications. | 75% OFF Detection plan **BLACKFRIDAY2025** |
 | 🖱️ | [Hoverify](https://www.tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed |
 | 🧑‍💻 | [Polypane](https://polypane.app/?utm_source=tonybf) | The browser for developers who care (for macOS, Windows and Linux). Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |
@@ -808,5 +813,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖼 | [ArtDay](https://apps.apple.com/us/app/artday-daily-art-gallery/id6744864765) | Access over 300k masterpieces in the highest available resolution, all free from copyright restrictions and ready to use in your projects. | **73% OFF** lifetime  plan with code **BLCKFRDY25** until Dec 2th |
 | 🎮 | [LaunchBox](https://go.launchbox.gg/abfcm-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout until 12/2 |
 | 🏆 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 👩‍💼 | [Olivia](https://useOlivia.com) | Market research recruiting on autopilot. 📅 Easy bookings, 📤 Excel exports, 📄 PDF invitations, 📱 QR code check-in, 👥 unlimited team members. | Over **50% OFF** on every slot with **`BLACKFRIDAY25`** until the end of 2025. |
 
 ⬆️ | [Go to Top](#table-of-contents)
