@@ -447,6 +447,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🚀 | [Treble](https://treble.io?utm_source=tonybf) | Treble is an AI assistant that keeps track of your work, prioritizes your tasks and surfaces important details right when you need them. | **50% off** for 6 months |
 | 🎙️ | [CallCow Voice AI](https://www.callcow.ai) | AI voice assistant that sounds just like you.  Clone your voice in 30 seconds and replace your traditional voice mail | 40% off with code **blackfriday2025** |
 | 🎙️ | [Monologue](https://monologue.to) | Effortless voice dictation that adapts to your style, context & vocabulary so you can work 3× faster. | **52% OFF** on Annual |
+| 🎙️ | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) | Quickly and easily transcribe audio files into text with OpenAI's Whisper and Nvidia Parakeet. Accurately transcribes meetings, lectures, and other audio. | 25% OFF with code **BFF2025E** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
