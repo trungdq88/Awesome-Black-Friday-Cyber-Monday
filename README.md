@@ -223,6 +223,10 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🥑 | [DockFlow](https://dockflow.appitstudio.com) | Save and switch between macOS Dock presets. Instant workspace setup | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
 | 🍉 | [ExtraDock](https://extradock.app) | Create unlimited floating Docks on macOS. Perfect for multiple monitor setups | **50% OFF** for all Lifetime Licenses with code BLACK2025FRIDAY50 |
 | 💸 | [ScreenFloat for Mac](https://eternalstorms.at/ScreenFloat) | Your Mac's Screen Capture All-Rounder | **50% OFF** from Nov 27th 2025 to December 1st, 2025 on the Mac App Store and Direct Purchase on the Website (30% of proceeeds go to charity) |
+| 💸 | [ActiveDock 2](https://noteifyapp.com/activedock/) | ActiveDock 2 is a customizable Apple Dock replacement for macOS. | **30% OFF**. Nov 24 - Dec 5, [Buy Link](https://sites.fastspring.com/noteifyapp/product/activedock2) |
+| 💸 | [DockView](https://noteifyapp.com/dockview/) | DockView adds window previews to the standard macOS Dock, similar to the taskbar in MS Windows. | **30% OFF**. Nov 24 - Dec 5, [Buy Link](https://sites.fastspring.com/noteifyapp/product/buydockview) |
+| 💸 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) | Command-Tab Plus 2 is a keyboard-centric application switcher for macOS designed to replace the standard built-in "Command + Tab" switcher. | **30% OFF**. Nov 24 - Dec 5, [Buy Link](https://sites.fastspring.com/noteifyapp/product/commandtabplus2) |
+
 
 
 
