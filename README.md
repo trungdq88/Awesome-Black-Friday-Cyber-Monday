@@ -108,11 +108,10 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🛠️ | [CodeSwissKnife Bar Dev Tools](https://apps.apple.com/us/app/codeswissknife-bar-dev-tools/id6749501609?mt=12) | CodeSwissKnife Bar is a fast, privacy-first developer toolkit that lives in your Mac’s menu bar. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | 🚀 | [PortTraceX - Port management tools](https://porttracex.com/?ref=tonybf) | PortTraceX is the fast, reliable way for developers to eliminate one of the most persistent daily annoyances: **ports being blocked, busy, or hijacked by unknown processes** — whether on your **local machine** or a **remote server**. | **40% OFF** lifetime license with code **BF40** |
 | 👨‍💻 | [Notepad.exe](https://notepadexe.com) | The lightweight Mac editor that lets you write and run code instantly - no setup required. Perfect for testing Swift APIs, learning to code, prototyping apps, and rapid experimentation. | **60% OFF** the first year with code **WHATISTHECODEBF2025** |
-
 | 🌐 | [WrapPixel](https://www.wrappixel.com/) | Premium UI kits, admin dashboards, and templates for developers. | Up to 50 percent off all templates (Coupon: `BFCM50`) and 95 percent off All Access Pass | Now to December 31, 2025 |
 | ⭐ |[AdminMart](https://adminmart.com/) | Premium admin templates and UI kits for developers. | Up to 50 percent off sitewide (Coupon: `BFCM50`) and 95% OFF on Big Bundle | Now to December 31, 2025 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
-
+| 🌐 | [Webhookify](https://webhookify.io) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **70% OFF** with the code **BLACKFRIDAY2025** (yearly plan) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
