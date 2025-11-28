@@ -355,6 +355,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🗑️ | [InboxPurge](https://www.inboxpurge.com/?utm_source=tonybf) | Clean up your Gmail in minutes. Unsubscribe, delete junk, and reclaim your sanity. | 30% OFF the PRO plan with code **BF2025** |
 | ⭐ | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
 | 🔥 | [SwiftBiu](https://swiftbiu.com) | SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations "one step". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets. | **50% OFF** Pro Lifetime only $ 4.99 between Nov 21 - Dec 26 |
+| 🚀 | [Calamari](https://www.calamari.io/?utm_source=github-awesome-blackfriday) | Platform with tools for collecting and sharing information about people and their work. | **30% OFF** first payment (month/year) *BF2025_CODE* . Nov 17 - Dec 2 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
