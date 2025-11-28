@@ -455,6 +455,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [CrawlChat](https://crawlchat.app/?utm_source=tonybf) | Power up your tech documentation with Ask AI that can answer your users and community queries instantly on your website, Discord server, Slack channel, MCP, or API! | 50% OFF all plans for first 6 months **BLACKFRIDAY2025** |
+| 🎞️ | [Sora2Video](https://sora2video.us/?utm_source=tonybf) | Affordable AI video generator supporting Sora, VEO 3.1, and Grok-based video models. Create high-quality text-to-video or image-to-video clips easily. | **50% OFF** with code **QXJWZRW1** |
 | ⭐ | [Prompty](https://prompty.to/?utm_source=tonybf) | A unified LLM playground to manage prompts, compare models, and debug AI prompts with ease. | 50% OFF Lifetime Pro Plan **BLACKFRIDAY50** |
 | 📊 | [GenPPT](https://genppt.com/?utm_source=tonybf) | AI-powered presentation generation tool. Create pitch decks and presentations using templates and AI. Turn ideas into polished slides quickly. | 20% OFF with code **BF25** |
 | 📃 | [PageAI](https://pageai.pro) | AI website generator with beautiful design and SEO baked in for prod. | **50% OFF** with discount code **BF2025** |
