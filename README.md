@@ -30,7 +30,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 Total deals: 544
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
-	- [💻 Developer macOS Apps (32)](#-developer-macos-apps)
+	- [💻 Developer macOS Apps (36)](#-developer-macos-apps)
 	- [💻 Tools & Services (50)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
