@@ -503,6 +503,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🤖 | [NanoPhoto.AI](https://nanophoto.ai/pricing?utm_source=bf) | Making AI Photo and Video editing simple and efficient — Sora 2 Video, Veo3.1, Nano Banana Pro, Video Reverse Prompt Generator, and more. | **30% OFF Forever** on all plans with code **BLACKFRIDAY30** at Stripe checkout (Ends Nov 30, 23:59 UTC) |
 | 🎨 | [Reframe](https://usereframe.com/?utm_source=bf) | Create designs, illustrations, mockups, ad creatives and more in seconds and edit them by chatting with AI. |  **45% OFF** on all plans.
 | 📸 | [Xnapper](https://www.xnapper.com/?utm_source=bf) | Take screenshots that are beautiful by default. #1 Screenshot Tool for macOS and Windows with new features including GIF recording, cloud storage, and video capture.| 30% OFF Lifetime Premium Plan **BLACKFRIDAY2025** |
 | 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | **$50 OFF** one-time purchase (no code) |
