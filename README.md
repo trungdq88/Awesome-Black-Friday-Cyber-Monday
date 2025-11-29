@@ -38,7 +38,7 @@ Total deals: 544
 		- [Window, Screen, Clipboard, Utilities (30)](#window-screen-clipboard-utilities)
 		- [Time, Distraction, Focus (12)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
-	- [📱 Productivity Mobile Apps (25)](#-productivity-mobile-apps)
+	- [📱 Productivity Mobile Apps (29)](#-productivity-mobile-apps)
 	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (22)](#-ai-chat-ui)
@@ -336,6 +336,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🗓️ | [Daylish](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you *never be late* again and *flow through your day* with ease. | **75% Off** Daylish+ Yearly ($19.99 → $4.99) with code **BF25** [or by tapping here](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25), Nov 26 - Dec 5 |
 | 🗓️ | [Daylish](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you *never be late* again and *flow through your day* with ease. | **75% Off** Daylish+ Yearly ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
 | 🗒 | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| ⭐ | [Conqur - Growth & Productivity](https://conqur.app/) | Turn big goals into clear plans, daily habits, and focused work sessions. The complete personal growth toolkit includes visual goal-setting, automated prioritizer, habit tracking with streaks, focus tools, breathwork techniques, and uplifting content for both adults and kids. | **50% OFF** yearly plan (automatically applied): **Ends Dec 1** |
 
 
 
