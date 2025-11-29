@@ -336,7 +336,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🗓️ | [Daylish](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you *never be late* again and *flow through your day* with ease. | **75% Off** Daylish+ Yearly ($19.99 → $4.99) with code **BF25** [or by tapping here](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25), Nov 26 - Dec 5 |
 | 🗓️ | [Daylish](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you *never be late* again and *flow through your day* with ease. | **75% Off** Daylish+ Yearly ($19.99 → $4.99) with code **BF25**, Nov 26 - Dec 5 |
 | 🗒 | [YourChecklist](https://apps.apple.com/ar/app/daily-checklist-to-do-list/id6743703945?l=en-GB) | Create unlimited checklists and stay effortlessly organized so every task gets done on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
-
+| ☕️ | [Y-Pod](https://apps.apple.com/app/id6451288906) | Your all-in-one life planner with AI | **40% OFF** from Nov 28th 2025 to December 1st, 2025 on the App Store |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
