@@ -389,6 +389,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🤯 | [LobeHub](https://lobehub.com) | An open-source AI Agent Workspace. Build and deploy AI agents with multi-model support, knowledge base, plugins, and more. | 40% OFF with code **V2COMING** (Ends Nov 30) |
 | 🧠 | [Backona AI](https://backona.com/?utm_source=tony-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** |
 | 🤖 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | 50% OFF on all plans with code **CXBLACK2025** |
+| 🤖 | [AI with Live Search](https://t.me/LiveSearchAIBot) | Telegram ChatGPT AI Bot - Unlimited GPT-5 mini messages with built-in live web search. | $0.99/month (75% OFF) with code **BLACKFRIDAY** (Ends Nov 30) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
