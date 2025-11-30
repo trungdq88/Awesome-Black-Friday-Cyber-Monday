@@ -69,6 +69,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
 | 🗂️ | [FileFaker](https://filefaker.com) | Generate fake files for testing purposes. Create dummy files with custom sizes, formats, and content instantly for your testing needs. | **40% OFF** with code **FILEFAKERFRIDAY**, Nov 21 - Dec 21 |
+| 🎦 | [CineAI](https://cine.vost.ai) | Generate cinematic video transitions with AI. These transitions were fine-tuned by a filmmaker with over 160K Instagram followers and have gotten over 4 million views. | 40% OFF with code BLACKFRIDAY40
 
 ## 👨‍💻 Developer Tools
 
