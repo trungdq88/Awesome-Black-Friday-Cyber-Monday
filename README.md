@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 544
+Total deals: 545
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (32)](#-developer-macos-apps)
@@ -39,7 +39,7 @@ Total deals: 544
 		- [Time, Distraction, Focus (12)](#time-distraction-focus)
 		- [Miscellaneous Productivity Apps (11)](#miscellaneous-productivity-apps)
 	- [📱 Productivity Mobile Apps (25)](#-productivity-mobile-apps)
-	- [🛠️ Productivity Tools & Services (9)](#️-productivity-tools--services)
+	- [🛠️ Productivity Tools & Services (10)](#️-productivity-tools--services)
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (22)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (49)](#-ai-productivity--learning-tools)
@@ -355,6 +355,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🗑️ | [InboxPurge](https://www.inboxpurge.com/?utm_source=tonybf) | Clean up your Gmail in minutes. Unsubscribe, delete junk, and reclaim your sanity. | 30% OFF the PRO plan with code **BF2025** |
 | ⭐ | [CSV Table](https://csvtable.com/) | View and edit CSV, JSON data for Professional s| 60% off with code **BLACKFRIDAY2025** |
 | 🔥 | [SwiftBiu](https://swiftbiu.com) | SwiftBiu is a text efficiency tool for macOS, select text in any app and a customizable extended toolbar pops up to make common operations "one step". Supports AI multimodal (text-to-text, text-to-graph), AppleScript/javascript plugins, html extension applets. | **50% OFF** Pro Lifetime only $ 4.99 between Nov 21 - Dec 26 |
+| 🤑 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | 50% off with code **SUMMATEBF25** - $10/mo (annual) or $15/mo (monthly). Expires December 5, 2025 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
