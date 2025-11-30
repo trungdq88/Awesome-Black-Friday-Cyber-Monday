@@ -592,6 +592,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📧 | [YAMM (Yet Another Mail Merge)](https://yamm.com/pricing)) | Send bulk personalized emails inside Google Sheets, and track if recipients open, click, respond, bounce or unsubscribe in real time directly from your spreadsheet. | **50% OFF the first year** — applies to all plans (from 1 to 100 users) with code **BLACKFRIDAY50**. Valid Nov 24 – Dec 30. |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co) | Publish your notes to a Quotion subdomain or your domain automatically, with fast page loads, SEO ready, built-in analytics, and looks great. No design or coding skills required. | 30% OFF for 12 months with code **BLACKFRIDAY2025** |
 | 🔥 | [Appfigures](https://appfigures.com?utm_source=tonybf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads. | 50% OFF monthly and yearly plans **BF2550** |
+| 📧 | [BetterMerge](https://bettermerge.com?utm_source=awesome-bfcm) | Send personalized mass emails directly from Gmail & Sheets. Track opens/clicks and schedule campaigns. The easiest way to send email campaigns and newsletters. | [**50% OFF**](https://bettermerge.com/pricing?utm_source=awesome-bfcm) on yearly plans (auto-applied). Valid until Dec 7th. |
+| ✍️ | [Tenwrite](https://tenwrite.com?utm_source=awesome-bfcm) | Publish Google Docs to WordPress & Blogger with perfect formatting. Automate your blog workflow: write in Docs, auto-sync to your blog. No more copy-paste nightmares. | [**50% OFF**](https://tenwrite.com/pricing?utm_source=awesome-bfcm) on yearly plans (auto-applied). Valid until Dec 7th. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
