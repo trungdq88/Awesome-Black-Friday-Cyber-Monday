@@ -27,11 +27,11 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 544
+Total deals: 545
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (32)](#-developer-macos-apps)
-	- [💻 Tools & Services (50)](#-tools--services)
+	- [💻 Tools & Services (51)](#-tools--services)
 - [🔥 Productivity ](#-productivity)
 	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
 		- [Tasks, Organize, Planning (35)](#tasks-organize-planning)
@@ -177,6 +177,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📄 | [Publish Markdown](https://publishmarkdown.com/#pricing) | The simplest way to publish and share markdown files | **25% OFF** until December 31st, 2025 for monthly subscriptions (up to 12 months) — Use **BLACKFRIDAY25** |
 | 💸 | [Daestro](https://daestro.com) | Run compute workload across Cloud Providers & On-Prem | **50% OFF** across all Annual Plans until December 1st 2025 |
 | 📊 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an extended **60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code CYBER2025 between Nov 28 – Dec 8, 2025. |
+| 📊 | [ChartDB](https://chartdb.io/black-friday) | Powerful database schema visualization and design tool. Create, visualize, and manage your database schemas with an intuitive interface. | ChartDB Pro for **$89/year** with code **BLACKFRIDAY25** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
