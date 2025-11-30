@@ -649,6 +649,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🚀 | [Place Card Maker](https://placecard.net) | Create beautiful printable place cards in minutes | 25% OFF on everything with code blackfriday25 |
 | 🛠️ | [ResumeUp.ai](https://resumeup.ai/) | is an AI-powered resume builder with a chat interface that helps users create, update, and organize their resumes dynamically. | **50% OFF** with code **BLACKFRIDAY50** |
 | 📦 | [Mondial Relay WooCommerce](https://www.wcmultishipping.com/mondial-relay-woocommerce) | A WordPress plugin for the Mondial Relay shipping provider in Europe. | **20% OFF** with code **BF25** until 2025-12-31 |
+| Searchly Pro– AI Search Plugin for WordPress | Instantly boost WordPress search accuracy with AI-powered results | 79% OFF Black Friday Deal | https://searchly.pro |
 
 
 
