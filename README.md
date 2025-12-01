@@ -69,6 +69,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2025** |
 | ⚡ | [BoltAI](https://boltai.com/?utm_source=tonybf) | Best AI client for Mac. Instantly switch between 300+ AI models. Feature-packed, Native Performance, Private by default | 51% OFF with code **BFCM25** |
 | 🗂️ | [FileFaker](https://filefaker.com) | Generate fake files for testing purposes. Create dummy files with custom sizes, formats, and content instantly for your testing needs. | **40% OFF** with code **FILEFAKERFRIDAY**, Nov 21 - Dec 21 |
+| 🎦 | [CineAI](https://cine.vost.ai) | Generate cinematic video transitions with AI. These transitions were fine-tuned by a filmmaker with over 160K Instagram followers and have gotten over 4 million views. | 40% OFF with code BLACKFRIDAY40
 
 ## 👨‍💻 Developer Tools
 
@@ -81,8 +82,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  🪣 | [BucketMate](https://bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3-compatible manager for macOS. | 70% OFF with code **BLACKFRIDAY11** |
 |  🐛 | [Sentry](https://sentry.io) |Find, automatically root cause, and fix software issues before users notice.  | Get $500 in Sentry credit with code **awesome-friday** |
 |  🗂️ | [Medis](https://getmedis.com) | Modern Redis GUI for macOS. | 50% OFF with code **BLACKFRIDAY2025** |
-|  🔍 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. | 30% OFF with code **BLACKFRIDAY2025** |
-| ⚡ | [Requestly](https://requestly.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Open-Source API Client & Debugging Platform. Test APIs, mock responses, and modify traffic. contact support if coupon doesn't work. | 50% OFF with code **BLACKFRIDAY2025** until Dec 15. |
+|  🔍 | [Proxyman](https://proxyman.com/?utm_source=black-friday-2025) | Need to capture HTTPS request on your iPhone/Android? Proxyman is what you need. Best-in-class HTTP debugging proxy for macOS. Capture HTTPS Requests/Response from Mac, iOS, Android, and more. | 30% OFF with code **BF2025** |
+|  ⚡ | [Requestly](https://requestly.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Open-Source API Client & Debugging Platform. Test APIs, mock responses, and modify traffic. contact support if coupon doesn't work. | 50% OFF with code **BLACKFRIDAY2025** until Dec 15. |
 | 🐘 | [TablePlus](https://tableplus.com/?utm_source=black-friday-2025) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% OFF with code **BLACK_FRIDAY_2025** |
 |  🌐 | [LocalCan](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX (Mac / Windows) | 10 x **BF40** 40% OFF and 100 x **BF20** 20% OFF |
 |  🛠️ | [SelfDevKit](https://selfdevkit.com) | 50+ essential developer tools in one desktop app. Built with Rust, works offline, privacy-focused. | 50% OFF with code **BLACKFRIDAY2025** |
@@ -109,7 +110,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🛠️ | [CodeSwissKnife Bar Dev Tools](https://apps.apple.com/us/app/codeswissknife-bar-dev-tools/id6749501609?mt=12) | CodeSwissKnife Bar is a fast, privacy-first developer toolkit that lives in your Mac’s menu bar. | **20% OFF** Lifetime Package from Nov.21 to Dec.2 |
 | 🚀 | [PortTraceX - Port management tools](https://porttracex.com/?ref=tonybf) | PortTraceX is the fast, reliable way for developers to eliminate one of the most persistent daily annoyances: **ports being blocked, busy, or hijacked by unknown processes** — whether on your **local machine** or a **remote server**. | **40% OFF** lifetime license with code **BF40** |
 | 👨‍💻 | [Notepad.exe](https://notepadexe.com) | The lightweight Mac editor that lets you write and run code instantly - no setup required. Perfect for testing Swift APIs, learning to code, prototyping apps, and rapid experimentation. | **60% OFF** the first year with code **WHATISTHECODEBF2025** |
-
 | 🌐 | [WrapPixel](https://www.wrappixel.com/) | Premium UI kits, admin dashboards, and templates for developers. | Up to 50 percent off all templates (Coupon: `BFCM50`) and 95 percent off All Access Pass | Now to December 31, 2025 |
 | ⭐ |[AdminMart](https://adminmart.com/) | Premium admin templates and UI kits for developers. | Up to 50 percent off sitewide (Coupon: `BFCM50`) and 95% OFF on Big Bundle | Now to December 31, 2025 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
