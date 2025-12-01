@@ -494,6 +494,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📜 | [Uncody](https://uncody.com/?utm_source=tonybfdeal) | AI Landing page builder that helps you get leads, newsletter signups | Get 50% off on yearly plans - **BLACKFRIDAY50** |
 | 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 | 🧽 | [RemoveMark](https://removemark.io/?utm=tonybf) | Remove text watermarks and handwriting from images, and remove watermarks from videos with AI. |Get 40% off on all plans - **REMOVEMARK40** |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, and export to code. | **30% OFF** on all plans with code: **BLACKFRIDAY2025** | 2025-12-02 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -541,6 +542,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎨 | [Zzo.ai](https://zzo.ai) | Free AI image generator & photo editor. Zzo.ai offers AI art creation, photo editing in one platform. Create amazing content now! Integrated with the latest nano banana pro model. Starting at just $2/month. | 50% OFF with code **ZZOAI50OFF** |
 | 🎨 | [Midjourney Prompts, Video, SREF Codes Library and Guides](https://promptsref.com/?utm_source=bf) | Hand-picked 1,380 sref codes, 5,526 prompts and art Guide to spark your creativity!| **15% OFF** $42/Year -> $36/Year https://buy.stripe.com/dRm3cv8Ksfog1dH6tP3Nm09 |
 | 🎨 | [Bundled.Design](https://bundled.design/) | All-in-one AI image & video generator. Create and edit marketing collaterals using 80+ AI models in a single subscription,including Midjourney, Veo 3.1, Sora, Flux and more. | **35% OFF** on all plans with code: **35OFFBUNDLED** |
+| ✨ | [Vibedesign](https://vibedesign.site) | Design websites and mobile apps with AI. Describe your website or app idea, and AI will build the user interface for you. Refine with chat, share preview urls, and export to code. | **30% OFF** on all plans with code: **BLACKFRIDAY2025** | 2025-12-02 |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
