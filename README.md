@@ -112,7 +112,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🌐 | [WrapPixel](https://www.wrappixel.com/) | Premium UI kits, admin dashboards, and templates for developers. | Up to 50 percent off all templates (Coupon: `BFCM50`) and 95 percent off All Access Pass | Now to December 31, 2025 |
 | ⭐ |[AdminMart](https://adminmart.com/) | Premium admin templates and UI kits for developers. | Up to 50 percent off sitewide (Coupon: `BFCM50`) and 95% OFF on Big Bundle | Now to December 31, 2025 |
 | 🔔 | [BetterNotif](https://www.betternotif.app/) | MacOS Stripe Real Time Notifications | **30% OFF** with code **BF25** | 2025-12-12 |
-
+| 🛜 | [Portless](https://portless.app/?ref=trungdq88) | Portless: A tiny macOS tool I made to kill occupied ports with one click | **30% OFF** discount code **NOMORELSOF** | December 31, 2025 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
