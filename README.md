@@ -177,6 +177,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📄 | [Publish Markdown](https://publishmarkdown.com/#pricing) | The simplest way to publish and share markdown files | **25% OFF** until December 31st, 2025 for monthly subscriptions (up to 12 months) — Use **BLACKFRIDAY25** |
 | 💸 | [Daestro](https://daestro.com) | Run compute workload across Cloud Providers & On-Prem | **50% OFF** across all Annual Plans until December 1st 2025 |
 | 📊 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an extended **60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code CYBER2025 between Nov 28 – Dec 8, 2025. |
+| 🚀 | [Softr.io](https://softr.io) | Build custom business apps with AI, no code required. | **40% off** for 3 months on Softr, valid to be added until Dec 31, for new customers, monthly plans only. Coupon code: **blackfriday202540** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
