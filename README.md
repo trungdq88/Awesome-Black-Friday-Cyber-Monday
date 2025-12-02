@@ -494,6 +494,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📜 | [Uncody](https://uncody.com/?utm_source=tonybfdeal) | AI Landing page builder that helps you get leads, newsletter signups | Get 50% off on yearly plans - **BLACKFRIDAY50** |
 | 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 | 🧽 | [RemoveMark](https://removemark.io/?utm=tonybf) | Remove text watermarks and handwriting from images, and remove watermarks from videos with AI. |Get 40% off on all plans - **REMOVEMARK40** |
+| 💵 | [Quickshot Photo Editor](https://quickshot.photo/?ref=trungdq88) | Powerful iOS photo editor. Edit photos with words, not tools. |Get **50% off** an annual plan |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
