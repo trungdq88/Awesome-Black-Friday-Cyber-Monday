@@ -541,6 +541,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎨 | [Zzo.ai](https://zzo.ai) | Free AI image generator & photo editor. Zzo.ai offers AI art creation, photo editing in one platform. Create amazing content now! Integrated with the latest nano banana pro model. Starting at just $2/month. | 50% OFF with code **ZZOAI50OFF** |
 | 🎨 | [Midjourney Prompts, Video, SREF Codes Library and Guides](https://promptsref.com/?utm_source=bf) | Hand-picked 1,380 sref codes, 5,526 prompts and art Guide to spark your creativity!| **15% OFF** $42/Year -> $36/Year https://buy.stripe.com/dRm3cv8Ksfog1dH6tP3Nm09 |
 | 🎨 | [Bundled.Design](https://bundled.design/) | All-in-one AI image & video generator. Create and edit marketing collaterals using 80+ AI models in a single subscription,including Midjourney, Veo 3.1, Sora, Flux and more. | **35% OFF** on all plans with code: **35OFFBUNDLED** |
+| 🎬 | [Seedance 1.5 AI](https://seedance15.ai/) | Transform your ideas into stunning videos with Seedance 1.5's advanced AI technology. Create professional 1080p videos with multi-shot narratives, physics-accurate motion, and cinematic quality from text prompts or images. | **50% OFF annual plans**.|
 
  ⬆️ | [Go to Top](#table-of-contents)
 
