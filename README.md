@@ -808,5 +808,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🖼 | [ArtDay](https://apps.apple.com/us/app/artday-daily-art-gallery/id6744864765) | Access over 300k masterpieces in the highest available resolution, all free from copyright restrictions and ready to use in your projects. | **73% OFF** lifetime  plan with code **BLCKFRDY25** until Dec 2th |
 | 🎮 | [LaunchBox](https://go.launchbox.gg/abfcm-bf25/premium) | Organize and beautify your retro & PC game library with an easy-to-use and customizable launcher. | Up to **56%** OFF, auto-applied at checkout until 12/2 |
 | 🏆 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
+| 🎸 | [Gitori](https://www.gitori.com) | Games for Guitarists | $50 off Lifetime plan with code **BLACKFRIDAY2025** until Dec 1st|
 
 ⬆️ | [Go to Top](#table-of-contents)
