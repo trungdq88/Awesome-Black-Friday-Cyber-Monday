@@ -476,7 +476,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 👀 | [ChampSignal](https://champsignal.com) | Get the insights your competitors don't want you to have. ChampSignal tracks your competitors' websites, social mentions, ads, and SEO, and sends you email alerts only when it matters. | **25% OFF on all plans** with code **BF2025**. Valid until Dec 1st. |
 | 🦁 | [Storyleo - Bedtime Stories](https://apps.apple.com/us/app/storyleo-bedtime-stories-ai/id6450256832) | Create personalized bedtime stories for children — complete with illustrations, narration, and soothing sleep sounds & lullabies. | **50% OFF** all plans! |
 | 🎬 | [Seedance 2](https://seedance2.ai/) | Generate stunning AI videos from text or images in seconds. Seedance 2 delivers cinematic motion, smooth camera work, and high-quality visuals for creators, marketers, and storytellers. | **50% OFF annual plans**.|
-| 🎬 | [Render of Dreams](https://renderofdreams.com/) | Render of Dreams helps you create AI videos fast with Seedance 2.0 and Sora2. Turn prompts into cinematic clips with a simple workflow and flexible pricing. | **20% OFF month plans**.|
 | 🏗️ | [Anything](https://createanything.com) | AI Mobile and web app builder (database, storage, AI models built in) | **50% OFF on all plans** with code **TRUNGDQ88**. Valid until Dec 1st. |
 | 🎨 | [Design0](https://design0.ai) | 🎨 Effortless AI Design for Everyone | **30% OFF** with code **BLACKFRIDAY2025** |
 | 📄 | [CSVNormalize](https://csvnormalize.com) | AI powered CSV processing that cleans, validates, and transforms your data with enterprise-grade accuracy and lightning-fast performance. | **3 Months Free** with promo code **BlackFriday25**. Valid until Dec 15th.|
@@ -495,6 +494,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📜 | [Uncody](https://uncody.com/?utm_source=tonybfdeal) | AI Landing page builder that helps you get leads, newsletter signups | Get 50% off on yearly plans - **BLACKFRIDAY50** |
 | 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 | 🧽 | [RemoveMark](https://removemark.io/?utm=tonybf) | Remove text watermarks and handwriting from images, and remove watermarks from videos with AI. |Get 40% off on all plans - **REMOVEMARK40** |
+| 🎬 | [Render of Dreams](https://renderofdreams.com/) | Render of Dreams helps you create AI videos fast with Seedance 2.0 and Sora2. Turn prompts into cinematic clips with a simple workflow and flexible pricing. | **20% OFF month plans**.|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
