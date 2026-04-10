@@ -73,6 +73,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 ## 👨‍💻 Developer Tools
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=trungdq88_Awesome-Black-Friday-Cyber-Monday) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### 💻 Developer macOS Apps
 
 |  | Name | Description | Discount Code & Terms |
