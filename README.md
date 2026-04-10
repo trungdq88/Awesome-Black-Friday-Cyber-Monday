@@ -27,7 +27,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ## Table of Contents
 
-Total deals: 545
+Total deals: 546
 
 - [👨‍💻 Developer Tools ](#‍-developer-tools)
 	- [💻 Developer macOS Apps (32)](#-developer-macos-apps)
@@ -43,7 +43,7 @@ Total deals: 545
 - [🤖 AI Tools ](#-ai-tools)
 	- [💬 AI Chat UI (22)](#-ai-chat-ui)
 	- [📖 AI Productivity & Learning Tools (49)](#-ai-productivity--learning-tools)
-	- [✨ Other AI tools (40)](#-other-ai-tools)
+	- [✨ Other AI tools (41)](#-other-ai-tools)
 - [🌅 Design Tools (38)](#-design-tools)
 - [🌈 Marketing Tools (43)](#-marketing-tools)
 - [🔍 SEO Tools (15)](#-seo-tools)
@@ -495,6 +495,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 | 🧽 | [RemoveMark](https://removemark.io/?utm=tonybf) | Remove text watermarks and handwriting from images, and remove watermarks from videos with AI. |Get 40% off on all plans - **REMOVEMARK40** |
 | 🎨 | [uni-1](https://www.uni-1.online) | Multimodal reasoning image generator for more controllable image creation across prompting, references, and editing workflows. | **20% OFF** on paid plans with code **uni-1.online** during Black Friday |
+| 🎥 | [Happy Horse](https://www.happy-horse.net) | AI video generator for cinematic text-to-video and image-to-video with strong motion quality, prompt adherence, and commercial-ready output. | **Up to 50% OFF** launch pricing before public launch. No code required, ends Apr 30. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
