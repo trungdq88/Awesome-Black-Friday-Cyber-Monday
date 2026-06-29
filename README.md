@@ -810,3 +810,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🏆 | [ToMoment](https://apps.apple.com/ar/app/event-countdown-tomoment/id6751402161?l=en-GB) | Track every important moment with unlimited countdowns and live updates that keep you perfectly on time. | **75% OFF** Lifetime (auto-applied), Nov 22 – Dec 4 |
 
 ⬆️ | [Go to Top](#table-of-contents)
+
+## Directories
+
+- [OpenRuna](https://www.openruna.com) — Free AI resource catalog
