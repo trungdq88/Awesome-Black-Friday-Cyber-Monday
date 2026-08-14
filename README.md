@@ -689,6 +689,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🔖 | [LikedIn.io](https://likedin.io) | Search, Organize and Export your LinkedIn Saved Posts | 50% OFF Annual Plans - €19/ year instead of €39/year! |
 | 🔴 | [Best time to post Reddit](https://www.postwatch.app/best-time-to-post-on-reddit) | Reddit tool to find the best time to post on Reddit so you can maximize engagement. | **30% OFF** with code **BF25** (valid until 2025-12-12) |
 | 🛡️ | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724?mt=12) | Safari Web Extension that filters unwanted content on Reddit. Block posts by keywords and domains, hide ads and promoted content. Works on old and new Reddit across macOS, iOS, iPadOS, and visionOS. | **50% OFF** ($0.99, was $1.99) Nov 27 - Dec 6 |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. |  |  |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
