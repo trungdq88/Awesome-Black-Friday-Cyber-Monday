@@ -300,6 +300,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
 | 🎧 | [AudioBo](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | **50% OFF** (Nov 24 - Nov 30) |
 | 🖥️ | [Trickster](https://www.apparentsoft.com/trickster) | Your recently used files, at your fingertips | **50% OFF** until Dec 2nd |
+| 📝 | [Noteline](https://noteline.io/pricing) | Markdown editor for Mac, Windows and Linux. Notes are plain .md files in a folder you choose, and Pandoc and Typst are built in, so Word and PDF export works offline. 14-day free trial, no account. | **50% OFF** the one-time license ($9.99 → $4.99), Nov 25 - Nov 30, 2026, applied automatically at checkout |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
