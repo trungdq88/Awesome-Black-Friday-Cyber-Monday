@@ -294,7 +294,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🔥 | [Koofr](https://koofr.eu/black-friday/) | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | Use code **BF2025** for **55% OFF** on yearly plans **100 GB** or larger. |
 | ⭐ | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2025** |
 | ✏️ | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)|
-| 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=trungdq88-github) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. **BLACKFRIDAY50** (Nov 21 - Dec 1) |
+| 📌 | [SupaSidebar](https://supasidebar.com?r=td) | Arc-like sidebar for all browsers. View or fuzzy search open tabs, bookmarks and Finder files, one shortcut away. | **60% OFF** Lifetime · first 100 · code `SIDEBARBF60` |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Teleport your cursor across your screens. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 🚀 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime, Nov 21th - Dec 3th |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime, Nov 21th - Dec 3th |
