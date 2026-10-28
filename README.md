@@ -541,6 +541,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 🎨 | [Zzo.ai](https://zzo.ai) | Free AI image generator & photo editor. Zzo.ai offers AI art creation, photo editing in one platform. Create amazing content now! Integrated with the latest nano banana pro model. Starting at just $2/month. | 50% OFF with code **ZZOAI50OFF** |
 | 🎨 | [Midjourney Prompts, Video, SREF Codes Library and Guides](https://promptsref.com/?utm_source=bf) | Hand-picked 1,380 sref codes, 5,526 prompts and art Guide to spark your creativity!| **15% OFF** $42/Year -> $36/Year https://buy.stripe.com/dRm3cv8Ksfog1dH6tP3Nm09 |
 | 🎨 | [Bundled.Design](https://bundled.design/) | All-in-one AI image & video generator. Create and edit marketing collaterals using 80+ AI models in a single subscription,including Midjourney, Veo 3.1, Sora, Flux and more. | **35% OFF** on all plans with code: **35OFFBUNDLED** |
+| 🐦 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-trungdq88) | Mac app that crops thousands of bird photos in one go, at full resolution, from Apple Photos or a folder (JPEG, HEIC or RAW). Free for 50 photos per run. | **33% OFF** the one-time unlock: ~~$29.99~~ $19.99, Nov 20 - Dec 1, 2026. No code needed. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
