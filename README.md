@@ -262,6 +262,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 💥 | [Paste](https://pasteapp.io/) | Paste keeps everything you copy organized and searchable. Lightweight, intuitive, packed with smart features, and private by design. | **50% OFF** Mac + iOS, on the Apple App Store or with code **BLACKFRIDAY2025** |
 | 🍍 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime**, Nov 26 - Dec 2 |
 | 📸 | [CleanShot X](https://cleanshot.com/pricing) | The ultimate screenshot and screen recording tool for macOS. Capture, annotate, and share beautiful screenshots with cloud storage and advanced features. | **30% OFF** App + Cloud Basic at $20.30 (was $29) / **50% OFF** first year Cloud Pro at $4/month (was $8/month) |
+| 🪟 | [NeoTiler](https://getneotiler.com/?utm_source=trungdq88-blackfriday) | Native macOS window manager with keyboard shortcuts, custom snap areas, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews. One-time purchase, no subscription. | **30% OFF** Lifetime License ($6.99) with code **BF30** (until Dec 1, 2026) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
