@@ -221,7 +221,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
