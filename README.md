@@ -78,6 +78,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🗄️ | [1bench](https://1bench.dev/black-friday?utm_source=tonybf) | One desktop app for 25+ databases: PostgreSQL, Redis, ClickHouse, MongoDB, Qdrant and more. Mac, Windows, Linux. | **50% OFF** Solo Lifetime ($199 → $99) with code **FCBF26**, Nov 20 - Dec 1 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
