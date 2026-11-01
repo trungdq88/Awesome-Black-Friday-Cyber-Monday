@@ -114,7 +114,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🌙 | [AppsByMo](https://appsbymo.app/?ref=awesome-bf) | 14 Mac and iPhone apps from one independent developer: Atelier, Cue, Scry, Thurayya, Margin, Wick, Vigil, Mo, What Happened, Chute, Yonder, Soluna, Emojist and Pinvoy. Native, private, no accounts. | **50% OFF every paid app**, Nov 27 - Nov 30, 2026. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue ~~$29~~ $14.50, Scry ~~$24~~ $12). App Store apps already half price, no code (e.g. Wick ~~$15.99~~ $7.99, Margin for iPhone ~~$5.99~~ $2.99) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
