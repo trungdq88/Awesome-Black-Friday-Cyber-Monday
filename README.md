@@ -168,7 +168,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🐦 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-trungdq88) | Mac app that crops thousands of bird photos in one go, at full resolution, from Apple Photos or a folder (JPEG, HEIC or RAW). Free for 50 photos per run. | **33% OFF** the one-time unlock: ~~$29.99~~ $19.99, Nov 20 - Dec 1, 2026. No code needed. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
