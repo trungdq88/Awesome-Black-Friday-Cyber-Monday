@@ -6,7 +6,7 @@
 - ⭐ **I’ll pick the best 10 indie products** and feature them in [my personal newsletter](https://news.tonydinh.com/) with 15,000+
  subscribers!
 
-Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/1618).
+Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/2352).
 
 Make sure you add your deal **at the end** of each category (first come, first merged). ([See rules](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367))
 
