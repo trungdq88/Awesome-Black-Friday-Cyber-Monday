@@ -178,6 +178,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
+| 🧰 | [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | **50% OFF** Featured listing for a full year with code **BF2026** ($49 → $24.50, until Dec 31, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
