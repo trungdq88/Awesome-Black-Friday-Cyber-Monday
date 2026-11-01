@@ -124,6 +124,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
+| 🧶 | [StitchTally](https://ujiapps.com/stitchtally/) | Row counter for knitting and crochet: track rows, repeats and multiple projects at once, with widgets and an Apple Watch app. No account needed. | Scheduled **32% OFF Lifetime** (one-time purchase), **November 27–30, 2026**. US pricing: **$24.99 → $16.99 USD**; local prices vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
