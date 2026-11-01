@@ -229,7 +229,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🌙 | [FastingLady](https://www.ujiapps.com/fastinglady) | Intermittent fasting tracker that syncs your fasts to your menstrual cycle and hormone phases | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$24.99 → $14.99 USD**; local prices vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
