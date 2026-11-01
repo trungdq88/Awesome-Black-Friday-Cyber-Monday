@@ -124,6 +124,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
+| 🐝 | [ChartyBee](https://www.ujiapps.com/chartybee) | Habit and health tracker that charts mood, sleep, symptoms, and anything else in one dashboard | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$19.99 → $11.99 USD**; local prices vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -230,6 +231,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🌙 | [FastingLady](https://www.ujiapps.com/fastinglady) | Intermittent fasting tracker that syncs your fasts to your menstrual cycle and hormone phases | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$24.99 → $14.99 USD**; local prices vary. |
+| ⚖️ | [HerWeigh](https://www.ujiapps.com/herweigh) | Cycle-aware weight tracker that separates hormonal water-weight swings from real progress | Scheduled **40% OFF Lifetime Access** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$19.99 → $11.99 USD**; local prices vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -239,5 +242,8 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| ☕ | [Dial In Espresso](https://www.ujiapps.com/dialinespresso) | Espresso shot journal: log every shot, track grinder settings, and repeat your best extractions | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$19.99 → $11.99 USD**; local prices vary. |
+| 🫖 | [Dial In Pourovers](https://www.ujiapps.com/dialinpourovers) | Pour-over brew log with multi-stage pour schedules, recipes, and a bean journal | Scheduled **40% OFF Lifetime Access** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$24.99 → $14.99 USD**; local prices vary. |
+| 🌱 | [Stem Cards](https://www.ujiapps.com/stemcards) | Vocabulary builder that teaches Greek and Latin roots, prefixes, and suffixes with flashcards and quizzes | Scheduled **40% OFF Pro** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$4.99 → $2.99 USD**; local prices vary. |
 
 ⬆️ | [Go to Top](#table-of-contents)
