@@ -124,6 +124,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
+| ☕ | [Dial In Espresso](https://ujiapps.com/dialinespresso) | Espresso shot journal for home baristas — log grind size, dose, yield and tasting notes to make your best shot repeatable | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$19.99 → $11.99 USD**; local prices vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
