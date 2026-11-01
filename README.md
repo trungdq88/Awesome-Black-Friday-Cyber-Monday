@@ -222,6 +222,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
+| 🖥️ | [Uji Apps — FaceCam, ResizeGenius & Redac](https://gracehuang.gumroad.com) | Three macOS apps from one indie developer: FaceCam, a floating camera overlay for video calls and recordings; ResizeGenius, batch image resizing and editing; Redac, easy redaction of text in images and screenshots. One-time purchases, no accounts. | **40% OFF** all three on Gumroad with code **BLACKFRIDAY26**, Nov 27 - Dec 1 (FaceCam $10 → $6, ResizeGenius $10 → $6, Redac $5 → $3) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
