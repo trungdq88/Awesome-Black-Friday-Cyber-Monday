@@ -227,6 +227,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
+| 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases that forward to your real inbox, end-to-end encrypted file sharing and end-to-end encrypted forms. Includes a CLI, browser extension and MCP server. Free plan available. | **40% OFF all paid plans for 12 months** with code **BLKFRI40** at card checkout (e.g. Plus yearly ~~$69.49~~ $41.69, Pro yearly ~~$89.89~~ $53.93 for the first year). Nov 2 - Dec 6, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
