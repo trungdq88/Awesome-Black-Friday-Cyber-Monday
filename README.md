@@ -194,6 +194,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
 | 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet powerful Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. Open source. | **30% OFF** the first year of any yearly plan with code **BF2026** (until Dec 1, 2026) |
+| 🎫 | [Ticketdesk AI](https://ticketdesk.ai/?ref=Awesome-Black-Friday-Cyber-Monday) | AI-powered help desk and customer support ticketing. Manage email, chat and support tickets in one inbox with AI replies. | **30% OFF** with code **BF2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
