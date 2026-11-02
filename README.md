@@ -179,6 +179,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
+| ✉️ | [Sequenzy](https://sequenzy.com/black-friday?utm_source=awesome-bfcm) | Email marketing for SaaS and online stores: newsletters, automated sequences and transactional email from one account, with AI that writes on-brand emails and integrations for Stripe, Shopify and more. Free plan for up to 100 subscribers. | **30% OFF** any annual plan with code **BLACKFRIDAY** (e.g. 1,000 subscribers ~~$205~~ $143.50/year, 10,000 subscribers ~~$529~~ $370.30/year) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
