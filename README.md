@@ -243,5 +243,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🎨 | [Lexington Themes](https://lexingtonthemes.com/pricing) | The biggest library of Astro and Tailwind CSS themes: 54 production ready templates for SaaS, studios, shops and more, many with Sanity and EmDash CMS versions, plus an MCP server so your AI editor can build with them. Award recognized by Astro, used by 9,000+ creators. | **50% OFF** Full Access: every theme and every future release, one-time payment from $99. No code needed. |
 
 ⬆️ | [Go to Top](#table-of-contents)
