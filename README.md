@@ -73,7 +73,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🎬 | [Renderly](https://renderly.video/pricing?code=BLACKFRIDAY2026&utm_source=awesome-bfcm) | Video rendering API. Send a JSON template and your data, get an MP4 back: product videos, personalized clips, captioned shorts. Includes a browser video editor, a template library, AI captions and voiceover, Zapier and Make integrations, and an MCP server for Claude. Billed per second of video. Free to try with 5 credits. | **30% OFF** the first payment of a new subscription with code **BLACKFRIDAY2026**: Creator ~~$29~~ $20.30 first month (~~$290~~ $203 first year billed annually), Business ~~$99~~ $69.30 first month (~~$990~~ $693 first year billed annually). Nov 27 - Dec 1, 2026 (UTC) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
