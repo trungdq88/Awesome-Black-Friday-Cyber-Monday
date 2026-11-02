@@ -179,6 +179,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
+| 🧩 | [ExtensionLaunch](https://extensionlaunch.com/pricing?ref=awesome-bf) | Launch directory for Chrome, Firefox and Edge extensions plus Android and iOS apps. Paste your store link and your listing is built and live in about a minute: featured placement, community votes and reviews, Editor's Pick badges and a permanent dofollow backlink. 590+ apps listed, 328M+ combined installs. | **20% OFF** every paid listing plan with code **BF2026**: Instant Publish ~~$9~~ $7.20, Launch Boost ~~$29~~ $23.20, Spotlight ~~$79~~ $63.20, Lifetime Partner ~~$149~~ $119.20. One-time payment, no subscription |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
