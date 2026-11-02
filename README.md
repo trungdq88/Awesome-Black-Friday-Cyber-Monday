@@ -65,6 +65,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🐦 | [Perch](https://perch.run/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A macOS menu bar app for Claude Code, Codex, Cursor and other AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, first 500 orders) |
 |  🧙‍♂️ | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50), Nov 27 - Dec 1|
 |  🐳 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35), Nov 27 - Dec 1|
+|  🗃️ | [TablePro](https://tablepro.app/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | Native database client for macOS: PostgreSQL, MySQL, SQLite, SQL Server, Redis, MongoDB and more. Free and open source; Pro adds iCloud Sync, Compare & Sync and Query Insights. | 40% OFF Pro with code **BLACKFRIDAY2026**: one-time $79 → $47.40, yearly $39 → $23.40 for the first year (Nov 24 - Dec 1) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
