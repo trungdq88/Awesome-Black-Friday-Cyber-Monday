@@ -187,6 +187,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🦔 | [Rankhog](https://rankhog.com/pricing?utm_source=tonybf) | Rank on ChatGPT and Google through Reddit. Rankhog spots new threads so you reply first and warms up Reddit accounts that you own. You approve everything, or let it run. | **40% off** your first 3 months with code **BLACKFRIDAY26**: $99 → $59.40/month per product, then $99/month. Until Dec 1, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
