@@ -160,6 +160,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🤖 | [Agenty](https://www.agenty.com/?ref=Awesome-Black-Friday-Cyber-Monday) | AI agents and web scraping platform. Extract data from websites, monitor changes and scrape data from websites. | **30% OFF** with code **BF2026** (~~$29~~ $20.3) and Plus (~~$99~~ $79.20) with code **BF2026**. Until Dec 1, 2026|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
