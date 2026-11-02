@@ -231,6 +231,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🌙 | [FastingLady](https://www.ujiapps.com/fastinglady) | Intermittent fasting tracker that syncs your fasts to your menstrual cycle and hormone phases | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$24.99 → $14.99 USD**; local prices vary. |
+| 🏋️ | [FitArchive](https://fitarchive.app/) | Free workout log and calorie counter for iPhone, Android and web: RIR on every set, with AI meal logging from a photo or text | **50% OFF** Plus for your first 3 months: **$2.99 → $1.49/month** in the US; local prices vary. iPhone code **FITNOV50** ([claim here](https://fitarchive.app/offer/)); on Android it applies automatically. New subscribers, until December 31, 2026. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
