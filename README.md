@@ -19,7 +19,7 @@ Don't forget to:
 
 Hi there! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on Twitter: https://x.com/tdinh_me
 
-| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF - Buy Once, Use Forever. | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [Compresto](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
+| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF - Buy Once, Use Forever. | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 60% OFF | [Compresto](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
 | --- | ------ | ------|
 | <a href="https://www.typingmind.com?utm_source=tonybf"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="[https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday)"><img src="https://image.social/get?url=compresto.app"></a> |
 | The best chat frontend for LLMs.<br/>BLACKFRIDAY2026<br/><br/>Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY2026 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BFCM26<br/><br/>Compresto is a powerful video, image & PDF compression for macOS |
@@ -58,7 +58,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-|  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2026** |
+|  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 60% OFF with code **BLACKFRIDAY2026** |
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM26** |
 |  🪣 | [BucketMate](https://www.bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3 client for macOS, iOS and the web. | 40% OFF all lifetime licenses with code **BF2026** (Nov 2 - Dec 1) |
 |  🌙 | [Lidnight](https://lidnight.app/en/buy/) | Keeps a MacBook awake with the lid closed while AI coding agents run, and shows what each one is doing. One-time purchase. | 50% OFF with code **BF50** (Nov 23 - Dec 1) |
