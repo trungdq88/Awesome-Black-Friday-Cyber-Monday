@@ -200,6 +200,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
 | 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet powerful Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. Open source. | **30% OFF** the first year of any yearly plan with code **BF2026** (until Dec 1, 2026) |
+| 🗂️ | [Directify](https://directify.app/founders?ref=Awesome-Black-Friday-Cyber-Monday) | No-code directory website builder. Launch a niche directory with listings, categories, paid featured listings, custom domain and SEO, then manage it from Claude or ChatGPT through the built-in MCP server. | **56% OFF**: 2 years of the Growth plan for **$599** (~~$1,368~~), no code needed. Includes 5 websites and a price-locked renewal. Nov 24 - Dec 1, 2026, limited to 20 passes |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
