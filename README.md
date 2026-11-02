@@ -65,6 +65,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🐦 | [Perch](https://perch.run/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A macOS menu bar app for Claude Code, Codex, Cursor and other AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, first 500 orders) |
 |  🧙‍♂️ | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50), Nov 27 - Dec 1|
 |  🐳 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35), Nov 27 - Dec 1|
+| 🛠️ | [HackUtilities](https://hackutilities.com/?ref=abfcm) | Desktop workspace for AI coding agents, dev servers, terminals and 46 developer tools. macOS and Windows. | **50% OFF** lifetime license, ~~$25~~ $12.50 for 1 computer, with code **BFCM2026** (Nov 27 - Dec 13) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -114,6 +115,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🌙 | [AppsByMo](https://appsbymo.app/?ref=awesome-bf) | 14 Mac and iPhone apps from one independent developer: Atelier, Cue, Scry, Thurayya, Margin, Wick, Vigil, Mo, What Happened, Chute, Yonder, Soluna, Emojist and Pinvoy. Native, private, no accounts. | **50% OFF every paid app**, Nov 27 - Nov 30, 2026. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue ~~$29~~ $14.50, Scry ~~$24~~ $12). App Store apps already half price, no code (e.g. Wick ~~$15.99~~ $7.99, Margin for iPhone ~~$5.99~~ $2.99) |
 | 🧮 | [Ratio](https://useratio.app/?ref=awesome-bf) | Notepad calculator for Mac, Windows and Linux. Write sums like a note and see the answer as you type: 160+ live currencies, units, dates, time zones and charts. One-time purchase, no account. | **30% OFF** with code **BLACKFRIDAY26** (Nov 24 - Dec 1, 2026): 1 computer ~~$19.99~~ $13.99, 2 computers ~~$29.99~~ $20.99, 3 computers ~~$39.99~~ $27.99. Direct purchase only |
+| 📞 | [MuteDeck](https://mutedeck.com/?ref=abfcm) | One-press mute, camera, screen share and recording controls across Zoom, Teams, Meet and more. macOS and Windows. | **35% OFF** lifetime license, ~~$14~~ $9.10 for 1 computer, with code **BFCM2026** (Nov 27 - Dec 13) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
