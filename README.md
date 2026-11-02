@@ -145,6 +145,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2026** |
 | ⚡ | [BoltAI 3](https://boltai.com/pricing?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | The native AI workspace: chats, agents and projects with ChatGPT, Claude, Gemini and local AI models. Use your ChatGPT subscription through Codex, or your own API keys. New in v3: Browser Use, Computer Use, Agent Skills, Multi-step Workflows, MCP, projects, local models and Image Studio. On Mac, Windows, web, iOS and Android. | **40% OFF** with code **BFCM2026**, until Dec 1, 2026: Pro ~~$99~~ $59, Lifetime ~~$399~~ $239 |
+| 🌀 | [Slashspace](https://www.slashspace.ai/?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Desktop AI canvas for research (formerly RabbitHoles AI). Chat with ChatGPT, Claude, Gemini and local models on an infinite canvas, branch any answer, and compare models side by side. Use your own API keys or your ChatGPT and Claude subscriptions. Mac, Windows and Linux. | **51% OFF** with code **BF2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
