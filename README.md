@@ -204,7 +204,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🖼️ | [Orshot](https://orshot.com/pricing?utm_source=awesome-bfcm) | Social content creation and posting via API & agents. Generate posts, carousels and short videos from your templates and data, then publish them to Instagram, LinkedIn, TikTok, X and 11 more platforms, from REST, n8n, Make, Zapier, Claude or ChatGPT. Free plan: 100 credits every month. | **25% OFF** any paid plan for 12 months (Launch ~~$39~~ $29.25/mo, or ~~$390~~ $292.50 for the first year billed annually) with code **BF2026**, Nov 27 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
