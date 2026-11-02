@@ -163,7 +163,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🎧 | [Wiredesk](https://wiredesk.ai/pricing?utm_source=tonybf) | AI support agents for chat, phone and email. Learns from your website and help center, answers around the clock, and hands your team the conversations that need a person, with the full transcript, as a ticket in Zendesk, Freshdesk, HubSpot or Intercom. Usage-based pricing, no seats, free plan included. | **30% OFF** your first year of Growth or Scale with code **BLACKFRIDAY2026**. Billed yearly: Growth ~~$39~~ $27.30/mo, Scale ~~$159~~ $111.30/mo. Billed monthly: Growth ~~$49~~ $34.30/mo, Scale ~~$199~~ $139.30/mo. Until Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
