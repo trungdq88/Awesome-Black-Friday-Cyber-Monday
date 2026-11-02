@@ -252,5 +252,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 👋 | [SlapMac](https://slapmac.com/?ref=tonybf) | 30% off SlapMac for Black Friday with code: **BLACKFRIDAY26** (100 coupons) First come first served! |
 
 ⬆️ | [Go to Top](#table-of-contents)
