@@ -144,6 +144,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2026** |
+| ⚡ | [BoltAI 3](https://boltai.com/pricing?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | The native AI workspace: chats, agents and projects with ChatGPT, Claude, Gemini and local AI models. Use your ChatGPT subscription through Codex, or your own API keys. New in v3: Browser Use, Computer Use, Agent Skills, Multi-step Workflows, MCP, projects, local models and Image Studio. On Mac, Windows, web, iOS and Android. | **40% OFF** with code **BFCM2026**, until Dec 1, 2026: Pro ~~$99~~ $59, Lifetime ~~$399~~ $239 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -152,7 +153,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 📄 | [PDF Pals v2](https://pdfpals.com/buy?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Chat with your documents on Mac. New in v2: built-in local AI models, an all-new app with the Liquid Glass design, and Word, Excel, PowerPoint, EPUB and Markdown files as well as PDF. Your files stay on your Mac. | **Lifetime** ~~$249~~ **$149** (4 Macs, every update), no code needed. **20% OFF** Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20) with code **BF20**. Until Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
