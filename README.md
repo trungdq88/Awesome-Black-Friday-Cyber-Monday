@@ -97,8 +97,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📋 | [ClipAudit](https://clipaudit.app/?utm_source=tonybf) | A clipboard manager that protects secrets: detects 700+ types of API keys and secrets and hides them from shell history and other apps that read your clipboard. Native macOS app. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026**, Nov 27 - Dec 1 |
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BF2026) | Floating camera overlay for Mac video calls and recordings — appear on screen in any app, with shapes, zoom, and a ring light | **40% OFF** ($10 → $6) with code **BF2026** on Gumroad, **November 27 – December 1, 2026** |
 | ⌨️ | [Clipboard Manager Pro](https://clipboardman.com/?utm_source=tonybf) | Your clipboard holds one item. This keeps every copy: press Ctrl/Cmd+U and search everything you copied, even last week's link, then paste it back. Snippets for text you retype, password fields never recorded, works offline. Chrome & Edge extension plus Android app, 4.8★ on the Chrome Web Store. | **35% OFF** Pro Yearly ($23.99 → $15.59/year) with code **BF2026**, **November 27 – December 1, 2026**. Free plan stays free, 30-day money-back |
-| 📸 | [ScreenVerb](https://screenverb.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | AI screenshot app for Mac, iPhone and iPad. Capture a window or region, run an AI action, and insert the result where you were typing. | 50% OFF Pro and Universal lifetime licenses with code **SVBF2026** (Nov 2 - Dec 5) |
-| 📷 | [ScreenSnap Pro](https://www.screensnap.pro/) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, screen recording with a built-in video editor, OCR and cloud share links. One license covers 2 computers. | **60% OFF** lifetime license ($39 → $15.60) with code **BLACKFRIDAY**, applied automatically at checkout, until **November 30, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -181,7 +179,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
-| ✉️ | [Sequenzy](https://sequenzy.com/black-friday?utm_source=awesome-bfcm) | Email marketing for SaaS and online stores: newsletters, automated sequences and transactional email from one account, with AI that writes on-brand emails and integrations for Stripe, Shopify and more. Priced by emails sent, with unlimited contacts on every plan. Free plan: 2,500 emails/month. | **30% OFF** any annual plan with code **BLACKFRIDAY** (e.g. 15,000 emails/month ~~$205~~ $143.50/year, 60,000 emails/month ~~$529~~ $370.30/year) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -200,6 +197,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
 | 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet powerful Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. Open source. | **30% OFF** the first year of any yearly plan with code **BF2026** (until Dec 1, 2026) |
+| 🤖 | [Robofy](https://www.robofy.ai/black-friday) | White label AI agents for agencies. Sell customer support and lead capture agents for websites and WhatsApp under your own brand and domain. Set your own prices and keep 100% of client payments. | **$200 OFF yearly plans**. White label Accelerator: ~~$799~~ **$599 for the first year**. Discount applies automatically at checkout; no code needed. First 100 purchases only. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
