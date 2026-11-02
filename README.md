@@ -220,7 +220,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 💰 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** the first year with code **BFCM26**: yearly **$24.99 → $14.99**. US pricing; local prices vary. **Nov 2 – Dec 1, 2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -241,6 +241,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌙 | [FastingLady](https://www.ujiapps.com/fastinglady) | Intermittent fasting tracker that syncs your fasts to your menstrual cycle and hormone phases | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$24.99 → $14.99 USD**; local prices vary. |
 | 🏋️ | [FitArchive](https://fitarchive.app/) | Free workout log and calorie counter for iPhone and web: RIR on every set, with AI meal logging from a photo or text | **Black Friday: 50% OFF** Plus yearly for your first year: **$19.99 → $9.99** in the US; local prices vary. iPhone code **BLACKFRIDAY50** ([claim here](https://fitarchive.app/black-friday/)). New subscribers, ends November 30, 2026. |
 | 🧬 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF the first year of the annual plan: 29.99 USD → 14.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
+| 👟 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | **40% OFF Lifetime** with code **BFCM26**: **$39.99 → $23.99**. **40% OFF Lifetime Family Sharing** with code **BFCM26FAMILY**: **$79.99 → $47.99**. US pricing; local prices vary. **Nov 2 – Dec 1, 2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
