@@ -98,7 +98,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BF2026) | Floating camera overlay for Mac video calls and recordings — appear on screen in any app, with shapes, zoom, and a ring light | **40% OFF** ($10 → $6) with code **BF2026** on Gumroad, **November 27 – December 1, 2026** |
 | ⌨️ | [Clipboard Manager Pro](https://clipboardman.com/?utm_source=tonybf) | Your clipboard holds one item. This keeps every copy: press Ctrl/Cmd+U and search everything you copied, even last week's link, then paste it back. Snippets for text you retype, password fields never recorded, works offline. Chrome & Edge extension plus Android app, 4.8★ on the Chrome Web Store. | **35% OFF** Pro Yearly ($23.99 → $15.59/year) with code **BF2026**, **November 27 – December 1, 2026**. Free plan stays free, 30-day money-back |
 | 📸 | [ScreenVerb](https://screenverb.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | AI screenshot app for Mac, iPhone and iPad. Capture a window or region, run an AI action, and insert the result where you were typing. | 50% OFF Pro and Universal lifetime licenses with code **SVBF2026** (Nov 2 - Dec 5) |
-| 🖱️ | [Mac Mouse Fixer](https://macfix.click/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | External mouse utility for macOS: click debounce, zoom with the wheel and more. | 50% OFF Pro with code **MMFBF2026** (Nov 2 - Dec 5) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
