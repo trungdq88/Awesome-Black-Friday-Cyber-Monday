@@ -187,6 +187,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔗 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | **36% OFF** Pro Plan. Auto-applied, no code needed. Valid Nov 15 – Nov 30, 2026 (Cyber Monday) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
