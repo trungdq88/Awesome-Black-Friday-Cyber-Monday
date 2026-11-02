@@ -195,7 +195,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
 | 💬 | [UserJot](https://userjot.com/?ref=awesome-bf) | Live chat, feedback boards, a public roadmap, and a changelog for SaaS teams. Juno, the built-in AI agent, answers support chat and email from your docs and hands off to your team when it can't. Flat pricing, no per-seat fees. | **30% OFF the first year** on yearly plans with code **BF2026** (Nov 24 - Dec 2, 2026): Starter ~~$24~~ $16.80/mo, Professional ~~$49~~ $34.30/mo, billed yearly |
 
 
