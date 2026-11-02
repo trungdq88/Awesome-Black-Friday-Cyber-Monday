@@ -65,7 +65,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🐦 | [Perch](https://perch.run/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A macOS menu bar app for Claude Code, Codex, Cursor and other AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, first 500 orders) |
 |  🧙‍♂️ | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50), Nov 27 - Dec 1|
 |  🐳 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35), Nov 27 - Dec 1|
-| 🛠️ | [Proxyman](https://proxyman.com/)<br/>[TinyShield](https://tinyshield.proxyman.com/)<br/>[TCP Viewer](https://tcpviewer.proxyman.com/)<br/>[Device MCP](https://devicemcp.ai/) | Proxyman: capture, inspect, and modify HTTP/HTTPS traffic.<br/>TinyShield: monitor and control app network connections on macOS.<br/>TCP Viewer: capture and inspect TCP/UDP packets in a native macOS app.<br/>Device MCP: mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents. | Black Friday / Cyber Monday 2026: **30% OFF all plans** for each of the four apps with code **BF2026**. |
+| 🛠️ | [Proxyman](https://proxyman.com/) | HTTP/HTTPS debugging proxy to capture, inspect, and modify network traffic. | Black Friday / Cyber Monday 2026: **30% OFF all plans** with code **BF2026**. |
+| 📡 | [TCP Viewer](https://tcpviewer.proxyman.com/) | Native macOS packet analyzer to capture and inspect TCP/UDP traffic. | Black Friday / Cyber Monday 2026: **30% OFF all plans** with code **BF2026**. |
+| 📱 | [Device MCP](https://devicemcp.ai/) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents to tap, type, and test apps. | Black Friday / Cyber Monday 2026: **30% OFF all plans** with code **BF2026**. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -233,6 +235,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
 | 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases that forward to your real inbox, end-to-end encrypted file sharing and end-to-end encrypted forms. Includes a CLI, browser extension and MCP server. Free plan available. | **40% OFF all paid plans for 12 months** with code **BLKFRI40** at card checkout (e.g. Plus yearly ~~$69.49~~ $41.69, Pro yearly ~~$89.89~~ $53.93 for the first year). Nov 2 - Dec 6, 2026 |
+| 🛡️ | [TinyShield](https://tinyshield.proxyman.com/) | App firewall and network monitor for macOS. See which apps connect to the internet and block unwanted connections. | Black Friday / Cyber Monday 2026: **30% OFF all plans** with code **BF2026**. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
