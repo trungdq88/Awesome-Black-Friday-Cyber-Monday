@@ -61,6 +61,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2026** |
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM26** |
 |  🪣 | [BucketMate](https://www.bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3 client for macOS, iOS and the web. | 40% OFF all lifetime licenses with code **BF2026** (Nov 2 - Dec 1) |
+|  🐦 | [Perch](https://perch.run/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A macOS menu bar app for Claude Code, Codex, Cursor and other AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, first 500 orders) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
