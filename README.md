@@ -95,6 +95,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📋 | [ClipAudit](https://clipaudit.app/?utm_source=tonybf) | A clipboard manager that protects secrets: detects 700+ types of API keys and secrets and hides them from shell history and other apps that read your clipboard. Native macOS app. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026**, Nov 27 - Dec 1 |
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BF2026) | Floating camera overlay for Mac video calls and recordings — appear on screen in any app, with shapes, zoom, and a ring light | **40% OFF** ($10 → $6) with code **BF2026** on Gumroad, **November 27 – December 1, 2026** |
 | ⌨️ | [Clipboard Manager Pro](https://clipboardman.com/?utm_source=tonybf) | Your clipboard holds one item. This keeps every copy: press Ctrl/Cmd+U and search everything you copied, even last week's link, then paste it back. Snippets for text you retype, password fields never recorded, works offline. Chrome & Edge extension plus Android app, 4.8★ on the Chrome Web Store. | **35% OFF** Pro Yearly ($23.99 → $15.59/year) with code **BF2026**, **November 27 – December 1, 2026**. Free plan stays free, 30-day money-back |
+| ⌨️ | [Tabhive](https://www.tabhive.app/?utm_source=tonybf) | Organize your tabs & bookmarks and find anything you have saved in seconds. Quickly save & find links with AI powered semantic search |**BF2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
