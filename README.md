@@ -251,6 +251,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔎 | [Winch](https://getwinch.app/#pricing) | Native Mac app for App Store and Google Play optimization. Tracks keyword ranks in 175 countries, localizes listings, creates store art, and groups reviews into themes. | **30% OFF** with code **BLACKFRIDAY2026** through Dec 1, 2026. Current tier: **$39 → $27.30**; next tier: **$49 → $34.30**. One-time license for 2 Macs, lifetime updates. |
 
 ⬆️ | [Go to Top](#table-of-contents)
