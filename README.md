@@ -164,7 +164,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### ✨ Other AI tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🎧 | [Wiredesk](https://wiredesk.ai/pricing?utm_source=tonybf) | AI support agents for chat, phone and email. Learns from your website and help center, answers around the clock, and hands your team the conversations that need a person, with the full transcript, as a ticket in Zendesk, Freshdesk, HubSpot or Intercom. Usage-based pricing, no seats, free plan included. | **30% OFF** your first year of Growth or Scale with code **BLACKFRIDAY2026**. Billed yearly: Growth ~~$39~~ $27.30/mo, Scale ~~$159~~ $111.30/mo. Billed monthly: Growth ~~$49~~ $34.30/mo, Scale ~~$199~~ $139.30/mo. Until Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -233,6 +233,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
 | 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases that forward to your real inbox, end-to-end encrypted file sharing and end-to-end encrypted forms. Includes a CLI, browser extension and MCP server. Free plan available. | **40% OFF all paid plans for 12 months** with code **BLKFRI40** at card checkout (e.g. Plus yearly ~~$69.49~~ $41.69, Pro yearly ~~$89.89~~ $53.93 for the first year). Nov 2 - Dec 6, 2026 |
+| 🔗 | [LinkShip](https://linkship.net/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Turn PDFs, videos, audio, images and zip files into shareable links you can update later, with view tracking, password protection and dynamic QR codes. Viewers open them in the browser, no account needed. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, 2026): Tiny ~~$66.99~~ $53.59, Solo ~~$124.99~~ $99.99, Pro ~~$249.99~~ $199.99, Pro Max ~~$499.99~~ $399.99 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -252,6 +253,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔎 | [Winch](https://getwinch.app/#pricing) | Native Mac app for App Store and Google Play optimization. Tracks keyword ranks in 175 countries, localizes listings, creates store art, and groups reviews into themes. | **30% OFF** with code **BLACKFRIDAY2026** through Dec 1, 2026. Current tier: **$39 → $27.30**; next tier: **$49 → $34.30**. One-time license for 2 Macs, lifetime updates. |
 
 ⬆️ | [Go to Top](#table-of-contents)
