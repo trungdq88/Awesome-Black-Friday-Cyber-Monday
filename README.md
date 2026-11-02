@@ -190,7 +190,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
-| 📊 | [Chartbrew](https://chartbrew.com) | Connect databases and APIs to build charts, dashboards, and reports with AI. Use MCP to explore your data with your AI assistant. | **20% OFF** for one year with code **CB6BFCM** |
+| 📊 | [Chartbrew](https://chartbrew.com) | Connect databases and APIs to build charts, dashboards, and reports with AI. Use MCP to explore your data with your AI assistant. | **20% OFF** for one year with code **CB6BFCM**, **Nov 2 – Dec 1, 2026**. Yearly billing (USD): Starter ~~$490~~ **$392**, Growth ~~$1,290~~ **$1,032**, Professional ~~$3,990~~ **$3,192** for the first year |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
