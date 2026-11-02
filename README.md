@@ -69,6 +69,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2026** |
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM26** |
+|  ✅ | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS. | 40% OFF with code **BLACKFRIDAY26** (direct purchase only) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
