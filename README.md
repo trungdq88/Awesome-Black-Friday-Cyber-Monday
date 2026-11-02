@@ -176,6 +176,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
+| 🔗 | [Shortener.dev](https://shortener.dev/?ref=Awesome-Black-Friday-Cyber-Monday) | URL shortener with custom domains, branded links, QR codes and click analytics. | **30% OFF** with code **BF2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
