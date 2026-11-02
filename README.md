@@ -99,7 +99,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📋 | [ClipAudit](https://clipaudit.app/?utm_source=tonybf) | A clipboard manager that protects secrets: detects 700+ types of API keys and secrets and hides them from shell history and other apps that read your clipboard. Native macOS app. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026**, Nov 27 - Dec 1 |
-| ⌨️ | [Clipboard Manager Pro](https://clipboardman.com/?utm_source=tonybf) | Your clipboard holds one item. This keeps every copy: press Ctrl/Cmd+U and search everything you copied, even last week's link, then paste it back. Snippets for text you retype, password fields never recorded, works offline. Chrome & Edge extension plus Android app, 4.8★ on the Chrome Web Store. | **35% OFF** Pro (cloud sync across devices, daily backups, unlimited snippets) with code **BF2026**: Pro Yearly ~~$23.99~~ $15.59/year (about $1.30/month). Free plan stays free, 30-day money-back |
+| ⌨️ | [Clipboard Manager Pro](https://clipboardman.com/?utm_source=tonybf) | Your clipboard holds one item. This keeps every copy: press Ctrl/Cmd+U and search everything you copied, even last week's link, then paste it back. Snippets for text you retype, password fields never recorded, works offline. Chrome & Edge extension plus Android app, 4.8★ on the Chrome Web Store. | **35% OFF** Pro (cloud sync across devices, daily backups, unlimited snippets) with code **BF2026**: Pro Yearly ~~$23.99~~ $15.59/year (about $1.30/month). Free plan stays free, 30-day money-back, Nov 2, 2026 - Jan 1, 2027 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
