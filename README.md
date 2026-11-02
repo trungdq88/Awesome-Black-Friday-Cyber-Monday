@@ -74,6 +74,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 📄 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing?utm_source=github-trungdq88&utm_medium=referral&utm_campaign=bfcm2026) | Customizable PDF viewer component for React apps: search, keyword highlights and programmatic control. Perpetual license with offline license validation. | **50% OFF** Developer ($89 → $44.50) & Organization ($239 → $119.50) licenses with code **BFCM2026** (until Dec 1, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
