@@ -60,7 +60,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2026** |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2026** |
-| 🌀 | [Slashspace](https://www.slashspace.ai/?utm_source=tonybf) | Node-based AI harness for visual thinkers. Chat with ChatGPT, Claude, Gemini and local models as nodes on an infinite canvas, branch any answer, compare models side by side. Use your API keys or your ChatGPT and Claude subscriptions. Mac, Windows, Linux. | 51% OFF **BF2026** |
+| 🌀 | [Slashspace](https://www.slashspace.ai/?utm_source=tonybf) | Node-based AI harness for visual thinkers. Chat with ChatGPT, Claude, Gemini and local models as nodes on an infinite canvas, branch any answer, compare models side by side. Use your API keys or your ChatGPT and Claude subscriptions. Mac, Windows, Linux. | **51% OFF** with code **BF2026**, Nov 14 - Dec 1, 2026: Lifetime ~~$249~~ $122.01, Yearly ~~$89~~ $43.61 |
 
 ## 👨‍💻 Developer Tools
 
@@ -146,7 +146,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2026** |
 | ⚡ | [BoltAI 3](https://boltai.com/pricing?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | The native AI workspace: chats, agents and projects with ChatGPT, Claude, Gemini and local AI models. Use your ChatGPT subscription through Codex, or your own API keys. New in v3: Browser Use, Computer Use, Agent Skills, Multi-step Workflows, MCP, projects, local models and Image Studio. On Mac, Windows, web, iOS and Android. | **40% OFF** with code **BFCM2026**, until Dec 1, 2026: Pro ~~$99~~ $59, Lifetime ~~$399~~ $239 |
-| 🌀 | [Slashspace](https://www.slashspace.ai/?utm_source=tonybf) | Node-based AI harness for visual thinkers. Chat with ChatGPT, Claude, Gemini and local models as nodes on an infinite canvas, branch any answer, compare models side by side. Use your API keys or your ChatGPT and Claude subscriptions. Mac, Windows, Linux. | 51% OFF **BF2026** |
+| 🌀 | [Slashspace](https://www.slashspace.ai/?utm_source=tonybf) | Node-based AI harness for visual thinkers. Chat with ChatGPT, Claude, Gemini and local models as nodes on an infinite canvas, branch any answer, compare models side by side. Use your API keys or your ChatGPT and Claude subscriptions. Mac, Windows, Linux. | **51% OFF** with code **BF2026**, Nov 14 - Dec 1, 2026: Lifetime ~~$249~~ $122.01, Yearly ~~$89~~ $43.61 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
