@@ -69,6 +69,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2026** |
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM26** |
+|  🪣 | [BucketMate](https://www.bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3 client for macOS, iOS and the web. | 40% OFF all lifetime licenses with code **BF2026** (Nov 2 - Dec 1) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
