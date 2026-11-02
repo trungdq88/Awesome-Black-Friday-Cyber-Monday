@@ -52,15 +52,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 - [💪 Health and Fitness](#-health-and-fitness)
 - [🎯 Miscellaneous](#-miscellaneous)
 
-## Hacker Residency Group Entries
-
-Special category for the [Hacker Residency Group](https://www.hackerresidencygroup.com/).
-
-|  | Name | Description | Discount Code & Terms |
-| -- | ---| ------ | ------ |
-|  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY2026** |
-| 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2026** |
-
 ## 👨‍💻 Developer Tools
 
 ### 💻 Developer macOS Apps
