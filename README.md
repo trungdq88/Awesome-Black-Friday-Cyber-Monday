@@ -76,6 +76,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🗄️ | [1bench](https://1bench.dev/black-friday?utm_source=tonybf) | One desktop app for 25+ databases: PostgreSQL, Redis, ClickHouse, MongoDB, Qdrant and more. Mac, Windows, Linux. | **50% OFF** Solo Lifetime ($199 → $99) with code **FCBF26**, Nov 20 - Dec 1 |
 | 🛠️ | [WP Foreman](https://wpforeman.com/black-friday/?utm_source=tonybf) | Hosted dashboard for managing many WordPress sites: backup before every update, before/after screenshot checks, uptime alerts, branded client reports. | **Lifetime deal**: 25 sites $199 / 50 $349 / 100 $599 / 250 $899 (regularly $1.99/site/mo). Nov 24 - Nov 30, 2026 |
+| ☁️ | [Infinite Uploads](https://infiniteuploads.com/wordpress-black-friday-deals/?utm_source=tonybf) | Offload, optimize and organize your WordPress media library. Cloud storage plus a global CDN, image optimization (Business plans), media folders, and duplicate and unused image detection. No S3 or CloudFront setup. Free plan with 10 GB storage and 20 GB bandwidth a month, no credit card. | **50% OFF** the first year of annual plans with code **BFCM50OFF**, or **30% OFF** monthly plans for 12 months with code **BFCM3
 
 
 ⬆️ | [Go to Top](#table-of-contents)
