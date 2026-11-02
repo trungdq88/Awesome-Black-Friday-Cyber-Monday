@@ -99,6 +99,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📋 | [ClipAudit](https://clipaudit.app/?utm_source=tonybf) | A clipboard manager that protects secrets: detects 700+ types of API keys and secrets and hides them from shell history and other apps that read your clipboard. Native macOS app. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026**, Nov 27 - Dec 1 |
+| 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BF2026) | Floating camera overlay for Mac video calls and recordings — appear on screen in any app, with shapes, zoom, and a ring light | **40% OFF** ($10 → $6) with code **BF2026** on Gumroad, **November 27 – December 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -152,7 +153,6 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 ### 📖 AI Productivity & Learning Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
 | 📄 | [PDF Pals v2](https://pdfpals.com/buy?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Chat with your documents on Mac. New in v2: built-in local AI models, an all-new app with the Liquid Glass design, and Word, Excel, PowerPoint, EPUB and Markdown files as well as PDF. Your files stay on your Mac. | **Lifetime** ~~$249~~ **$149** (4 Macs, every update), no code needed. **20% OFF** Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20) with code **BF20**. Until Dec 1, 2026 |
 
 
@@ -197,7 +197,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -206,7 +206,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🖼️ | [Orshot](https://orshot.com/pricing?utm_source=awesome-bfcm) | Social content creation and posting via API & agents. Generate posts, carousels and short videos from your templates and data, then publish them to Instagram, LinkedIn, TikTok, X and 11 more platforms, from REST, n8n, Make, Zapier, Claude or ChatGPT. Free plan: 100 credits every month. | **25% OFF** any paid plan for 12 months (Launch ~~$39~~ $29.25/mo, or ~~$390~~ $292.50 for the first year billed annually) with code **BF2026**, Nov 27 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
