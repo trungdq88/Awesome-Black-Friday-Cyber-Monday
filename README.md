@@ -125,6 +125,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
+| 🧠 | [Quick Notes - Supasend](https://supasend.app) | Quickly capture your notes & tasks instantly in your second brain apps 🧠 | **40% OFF on Lifetime** (one-time purchase), **November 5–30, 2026**. US pricing: **$9.99**; local prices vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
