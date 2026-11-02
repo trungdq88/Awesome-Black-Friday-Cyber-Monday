@@ -184,6 +184,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔗 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | **36% OFF** Pro Plan; **50% OFF** [directory submission service](https://citewing.com/directory-submission-service). Auto-applied, no code needed. Valid Nov 1 – Dec 31, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
