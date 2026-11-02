@@ -183,6 +183,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
 | ✉️ | [Sequenzy](https://sequenzy.com/black-friday?utm_source=awesome-bfcm) | Email marketing for SaaS and online stores: newsletters, automated sequences and transactional email from one account, with AI that writes on-brand emails and integrations for Stripe, Shopify and more. Priced by emails sent, with unlimited contacts on every plan. Free plan: 2,500 emails/month. | **30% OFF** any annual plan with code **BLACKFRIDAY** (e.g. 15,000 emails/month ~~$205~~ $143.50/year, 60,000 emails/month ~~$529~~ $370.30/year) |
+| ✍️ | [esigna](https://esigna.app/pricing?ref=tonybf) | Email signatures for Gmail, Outlook and Apple Mail. Paste your old signature and AI rebuilds it, or start from free designs. Team links, and a Brand Kit made from your website. | **53% OFF** the Signature plan: $9 instead of $19, and **41% OFF** the Brand Kit plan: $29 instead of $49. Paid once, no subscription. Nov 27 to 30, 2026 (US Pacific), applied at checkout, no code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
