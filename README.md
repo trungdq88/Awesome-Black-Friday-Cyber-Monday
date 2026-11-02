@@ -92,6 +92,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 📋 | [ClipAudit](https://clipaudit.app/?utm_source=tonybf) | A clipboard manager that protects secrets: detects 700+ types of API keys and secrets and hides them from shell history and other apps that read your clipboard. Native macOS app. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026**, Nov 27 - Dec 1 |
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BF2026) | Floating camera overlay for Mac video calls and recordings — appear on screen in any app, with shapes, zoom, and a ring light | **40% OFF** ($10 → $6) with code **BF2026** on Gumroad, **November 27 – December 1, 2026** |
+| ⌨️ | [Clipboard Manager Pro](https://clipboardman.com/?utm_source=tonybf) | Your clipboard holds one item. This keeps every copy: press Ctrl/Cmd+U and search everything you copied, even last week's link, then paste it back. Snippets for text you retype, password fields never recorded, works offline. Chrome & Edge extension plus Android app, 4.8★ on the Chrome Web Store. | **35% OFF** Pro Yearly ($23.99 → $15.59/year) with code **BF2026**, **November 27 – December 1, 2026**. Free plan stays free, 30-day money-back |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -190,6 +191,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
+| 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet powerful Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. Open source. | **30% OFF** the first year of any yearly plan with code **BF2026** (until Dec 1, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
