@@ -237,7 +237,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔗 | [LinkShip](https://linkship.net/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Turn PDFs, videos, audio, images and zip files into shareable links you can update later, with view tracking, password protection and dynamic QR codes. Viewers open them in the browser, no account needed. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, 2026): Tiny ~~$66.99~~ $53.59, Solo ~~$124.99~~ $99.99, Pro ~~$249.99~~ $199.99, Pro Max ~~$499.99~~ $399.99 |
 | 📺 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | A multi-camera live view for Ring. Turns your TV or computer into a camera wall on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **2nd month FREE**, ~~$1.99~~ $0 per camera after the 30-day free trial. No code needed (Nov 2 - Nov 30) |
 
-
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 💪 Health and Fitness
