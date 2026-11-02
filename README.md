@@ -69,7 +69,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🕸️ | [Hydrafetch](https://hydrafetch.com/pricing/?utm_source=awesome-bfcm) | Clean web data for developers and agents. Turn any URL into clean Markdown and structured data your model can use. Scrape, crawl, search and extract with one API, one credit a page. 500 free credits to start. | **20% OFF** any plan for your first year with code **BFCM26** (applied automatically at checkout), Nov 25 - Nov 30, 2026: Build ~~$19~~ $15.20/mo, Ship ~~$99~~ $79.20/mo |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
