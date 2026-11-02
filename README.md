@@ -190,6 +190,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
+| 💰 | [Datahyena](https://datahyena.com/pricing/?utm_source=awesome-bfcm) | Funding, M&A and executive move data API. Funding rounds, acquisitions, executive moves and hiring signals as one clean API, deduplicated, resolved to one company, fresh within hours. 50 free credits, no card. | **20% OFF** any plan for your first year with code **BFCM26** (applied automatically at checkout), Nov 25 - Nov 30, 2026: Starter ~~$49~~ $39.20/mo, Growth ~~$129~~ $103.20/mo |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
