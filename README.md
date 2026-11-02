@@ -122,7 +122,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
-|  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off |
+|  📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off ($20 → $15)|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -223,7 +223,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
-|  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off |
+|  🚗 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off ($20 → $10)|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
