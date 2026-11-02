@@ -62,6 +62,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM26** |
 |  🪣 | [BucketMate](https://www.bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3 client for macOS, iOS and the web. | 40% OFF all lifetime licenses with code **BF2026** (Nov 2 - Dec 1) |
 |  🌙 | [Lidnight](https://lidnight.app/en/buy/) | Keeps a MacBook awake with the lid closed while AI coding agents run, and shows what each one is doing. One-time purchase. | 50% OFF with code **BF50** (Nov 23 - Dec 1) |
+|  🐦 | [Perch](https://perch.run/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A macOS menu bar app for Claude Code, Codex, Cursor and other AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, first 500 orders) |
+|  🧙‍♂️ | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50), Nov 27 - Dec 1|
+|  🐳 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35), Nov 27 - Dec 1|
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -70,7 +73,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🗄️ | [1bench](https://1bench.dev/black-friday?utm_source=tonybf) | One desktop app for 25+ databases: PostgreSQL, Redis, ClickHouse, MongoDB, Qdrant and more. Mac, Windows, Linux. | **50% OFF** Solo Lifetime ($199 → $99) with code **FCBF26**, Nov 20 - Dec 1 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -94,6 +97,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📋 | [ClipAudit](https://clipaudit.app/?utm_source=tonybf) | A clipboard manager that protects secrets: detects 700+ types of API keys and secrets and hides them from shell history and other apps that read your clipboard. Native macOS app. | **40% OFF** ($29 → $17.40) with code **BLACKFRIDAY2026**, Nov 27 - Dec 1 |
 | 📸 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BF2026) | Floating camera overlay for Mac video calls and recordings — appear on screen in any app, with shapes, zoom, and a ring light | **40% OFF** ($10 → $6) with code **BF2026** on Gumroad, **November 27 – December 1, 2026** |
 | ⌨️ | [Clipboard Manager Pro](https://clipboardman.com/?utm_source=tonybf) | Your clipboard holds one item. This keeps every copy: press Ctrl/Cmd+U and search everything you copied, even last week's link, then paste it back. Snippets for text you retype, password fields never recorded, works offline. Chrome & Edge extension plus Android app, 4.8★ on the Chrome Web Store. | **35% OFF** Pro Yearly ($23.99 → $15.59/year) with code **BF2026**, **November 27 – December 1, 2026**. Free plan stays free, 30-day money-back |
+| 📸 | [ScreenVerb](https://screenverb.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | AI screenshot app for Mac, iPhone and iPad. Capture a window or region, run an AI action, and insert the result where you were typing. | 50% OFF Pro and Universal lifetime licenses with code **SVBF2026** (Nov 2 - Dec 5) |
+| 📷 | [ScreenSnap Pro](https://www.screensnap.pro/) | All-in-one screenshot and screen recording app for Mac and Windows: 17 annotation tools, scrolling capture, screen recording with a built-in video editor, OCR and cloud share links. One license covers 2 computers. | **60% OFF** lifetime license ($39 → $15.60) with code **BLACKFRIDAY**, applied automatically at checkout, until **November 30, 2026** |
+| 📸 | [ZxClip](https://zxclip.com/?utm_source=tonybf-2026) | The Descript alternative that runs on your Mac with local AI models. Edit video by editing the transcript, remove filler words and silences in one click, and fix words with on-device voice cloning, no re-recording needed. Built-in screen recorder with auto-zoom. Everything runs on your device: private, offline, no subscription, no AI credits. | **70% OFF Lifetime license** ($80 → $24). Applied automatically at checkout. No code needed. Valid from 01-Nov-2026 to 01-Dec-2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -120,6 +126,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
+| ⏳ | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | **50% OFF Lifetime: 59.99 USD → 29.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -175,6 +182,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |    | Name      | Description | Discount Code & Terms                                                                             |
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
+| ✉️ | [Sequenzy](https://sequenzy.com/black-friday?utm_source=awesome-bfcm) | Email marketing for SaaS and online stores: newsletters, automated sequences and transactional email from one account, with AI that writes on-brand emails and integrations for Stripe, Shopify and more. Priced by emails sent, with unlimited contacts on every plan. Free plan: 2,500 emails/month. | **30% OFF** any annual plan with code **BLACKFRIDAY** (e.g. 15,000 emails/month ~~$205~~ $143.50/year, 60,000 emails/month ~~$529~~ $370.30/year) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -193,6 +201,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🔒 | [SetLatch](https://setlatch.com/cyber-monday?utm_source=tonybf) | Privacy requests (GDPR, CCPA) for every client site a web agency runs: a request form per site, legal deadline tracking, lookups in Stripe, Shopify, Mailchimp, HubSpot and more, and deletions only after a person approves. | **30% OFF** the first year of any yearly plan: Agency (5 sites) $990 → $693 with code `CYBER-AGENCY`, Single site $290 → $203 with code `CYBER-SITE`. New customers, Nov 27 - Dec 4, 2026 |
 | 📊 | [Vemetric](https://vemetric.com/?ref=tonybf) | Simple, yet powerful Web & Product Analytics. Understand the complete journey of your users, from first visit to feature adoption. Open source. | **30% OFF** the first year of any yearly plan with code **BF2026** (until Dec 1, 2026) |
+| 🗂️ | [Directify](https://directify.app/founders?ref=Awesome-Black-Friday-Cyber-Monday) | No-code directory website builder. Launch a niche directory with listings, categories, paid featured listings, custom domain and SEO, then manage it from Claude or ChatGPT through the built-in MCP server. | **56% OFF**: 2 years of the Growth plan for **$599** (~~$1,368~~), no code needed. Includes 5 websites and a price-locked renewal. Nov 24 - Dec 1, 2026, limited to 20 passes |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -220,6 +229,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎙️ | [Aurio](https://aurio.dev/) | Noise cancelling microphone for Mac. Removes fans, typing, traffic and barking from your mic in real time, in Zoom, Meet, Teams, Discord or OBS. On-device, no account. Apple silicon, macOS 13.3+. | **25% OFF**, $30 (was $40) for the app to keep plus a year of updates, with code **BLACKFRIDAY26** (Nov 24 - Dec 1) |
+| 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases that forward to your real inbox, end-to-end encrypted file sharing and end-to-end encrypted forms. Includes a CLI, browser extension and MCP server. Free plan available. | **40% OFF all paid plans for 12 months** with code **BLKFRI40** at card checkout (e.g. Plus yearly ~~$69.49~~ $41.69, Pro yearly ~~$89.89~~ $53.93 for the first year). Nov 2 - Dec 6, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -230,6 +240,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌙 | [FastingLady](https://www.ujiapps.com/fastinglady) | Intermittent fasting tracker that syncs your fasts to your menstrual cycle and hormone phases | Scheduled **40% OFF Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$24.99 → $14.99 USD**; local prices vary. |
 | 🏋️ | [FitArchive](https://fitarchive.app/) | Free workout log and calorie counter for iPhone and web: RIR on every set, with AI meal logging from a photo or text | **Black Friday: 50% OFF** Plus yearly for your first year: **$19.99 → $9.99** in the US; local prices vary. iPhone code **BLACKFRIDAY50** ([claim here](https://fitarchive.app/black-friday/)). New subscribers, ends November 30, 2026. |
 | 👟 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | **40% OFF Lifetime** with code **BFCM26**: **$39.99 → $23.99**. **40% OFF Lifetime Family Sharing** with code **BFCM26FAMILY**: **$79.99 → $47.99**. US pricing; local prices vary. **Nov 2 – Dec 1, 2026** |
+| 🧬 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF the first year of the annual plan: 29.99 USD → 14.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
