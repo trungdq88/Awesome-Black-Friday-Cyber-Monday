@@ -65,6 +65,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  🐦 | [Perch](https://perch.run/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A macOS menu bar app for Claude Code, Codex, Cursor and other AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, first 500 orders) |
 |  🧙‍♂️ | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50), Nov 27 - Dec 1|
 |  🐳 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35), Nov 27 - Dec 1|
+| 🛠️ | [Proxyman](https://proxyman.com/pricing) | HTTP/HTTPS debugging proxy to capture, inspect, and modify network traffic. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. For example, Standard: ~~$89~~ **$62.30 USD**. |
+| 📱 | [Device MCP](https://devicemcp.ai/pricing) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents to tap, type, and test apps. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. Applies to early-bird prices: Standard ~~$34.50~~ **$24.15**, Pro ~~$44.50~~ **$31.15**, Lifetime ~~$69~~ **$48.30 USD**. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
