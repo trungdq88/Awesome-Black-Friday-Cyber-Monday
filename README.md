@@ -112,6 +112,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026&utm_source=tonybf) | Automate repeated screenshots and keypresses on Mac, then export images, PDF, ZIP or timelapse video. | **40% OFF** lifetime licenses with **BF2026**: 1 Mac **$39 → $23.40**, up to 3 Macs **$109 → $65.40** (USD before tax). Subscriptions excluded. Oct 18 - Dec 31, 2026. |
 | 🔀 | [ShiftPlus](https://shiftplus.app/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors, Spaces, links and terminal env vars. Native macOS app, one-time purchase, 14-day free trial. | **40% OFF** lifetime licenses: 1 Mac ~~$24~~ $14.40, 2 Macs ~~$39~~ $23.40 with code **AWESOMEBF40**, Nov 20 - Dec 2, 2026 |
 | 🖱️ | [MouseUp](https://mouseup.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | External mouse utility for macOS: click debounce, zoom with the wheel and more. | 50% OFF Pro with code **MMFBF2026** (Nov 2 - Dec 5) |
+| ⌨️ | [Tabhive](https://www.tabhive.app/?utm_source=tonybf) | Organize your tabs & bookmarks and find anything you have saved in seconds. Quickly save & find links with AI powered semantic search | **40% OFF** ($69 → $42) with code **BF2026**, Nov 2 - Dec 5, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
