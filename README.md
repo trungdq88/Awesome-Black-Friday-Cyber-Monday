@@ -8,6 +8,8 @@
 
 Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/2352).
 
+> ⭐ **Please star this repo** so it gets on the GitHub Trending page, and everyone's deal gets more views!
+
 Make sure you add your deal **at the end** of each category (first come, first merged). ([See rules](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367))
 
 Don't forget to:
