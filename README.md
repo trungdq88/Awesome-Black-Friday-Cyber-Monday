@@ -181,6 +181,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🐦 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-trungdq88) | Mac app that crops thousands of bird photos in one go, at full resolution, from Apple Photos or a folder (JPEG, HEIC or RAW). Free for 50 photos per run. | **33% OFF** the one-time unlock: ~~$29.99~~ $19.99, Nov 20 - Dec 1, 2026. No code needed. |
+| 🎬 | [Cutfac](https://cutfac.com/pricing?utm_source=tonybf) | Mac app for creating and editing short videos with your own Claude Code or Codex subscription. One-time licenses include a year of updates; keep the last version afterward. | **40% OFF** new licenses with **BF2026**, applied automatically: 1 Mac ~~$49~~ $29.40; 3 Macs ~~$69~~ $41.40; 5 Macs ~~$99~~ $59.40 (USD before tax). Renewals excluded. Oct 31–Dec 31, 2026, including Cyber Monday. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
