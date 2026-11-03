@@ -71,6 +71,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛠️ | [Proxyman](https://proxyman.com/pricing) | HTTP/HTTPS debugging proxy to capture, inspect, and modify network traffic. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. For example, Standard: ~~$89~~ **$62.30 USD**. |
 | 📱 | [Device MCP](https://devicemcp.ai/pricing) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents to tap, type, and test apps. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. Applies to early-bird prices: Standard ~~$34.50~~ **$24.15**, Pro ~~$44.50~~ **$31.15**, Lifetime ~~$69~~ **$48.30 USD**. |
 | 📡 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | Native macOS packet analyzer to capture and inspect TCP/UDP traffic. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. Standard: ~~$29~~ **$20.30**, Combo: ~~$39~~ **$27.30**, Lifetime: ~~$79~~ **$55.30 USD**. |
+| 🐘 | [TablePlus](https://tableplus.com/pricing?utm_source=black-friday-2026) | Modern, native database GUI for Mac, Windows, Linux and iOS. Query, edit and manage PostgreSQL, MySQL, SQL Server, SQLite, Redis, MongoDB, Oracle, ClickHouse and more. One-time purchase. | **25% OFF** with code **BLACK_FRIDAY_2026**: Basic ~~$99~~ $74.25 |
+| 🖥️ | [VMPal](https://vmpal.com/pricing?utm_source=black-friday-2026) | macOS, Windows and Linux virtual machines for Apple silicon, downloaded and installed for you in minutes, with GPU acceleration. Built for AI agents too, with a built-in MCP server and a `vmpal` command line. One-time purchase. | **25% OFF** with code **BLACK_FRIDAY_2026**: Individual ~~$69~~ $51.75, Team ~~$99~~ $74.25 per seat |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -93,7 +95,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 📝 | [NotePlus](https://noteplus.com/pricing?utm_source=black-friday-2026) | Native Markdown notes for Mac, iPhone, iPad and Windows. No account: your notes stay in your own iCloud, Google Drive or Dropbox. Plus Kanban boards, AI chat and Hub messages. One-time purchase. | **25% OFF** with code **BLACK_FRIDAY_2026**: Basic ~~$29~~ $21.75, Pro ~~$39~~ $29.25 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
