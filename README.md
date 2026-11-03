@@ -182,6 +182,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🎧 | [Wiredesk](https://wiredesk.ai/pricing?utm_source=tonybf) | AI support agents for chat, phone and email. Learns from your website and help center, answers around the clock, and hands your team the conversations that need a person, with the full transcript, as a ticket in Zendesk, Freshdesk, HubSpot or Intercom. Usage-based pricing, no seats, free plan included. | **30% OFF** your first year of Growth or Scale with code **BLACKFRIDAY2026**. Billed yearly: Growth ~~$39~~ $27.30/mo, Scale ~~$159~~ $111.30/mo. Billed monthly: Growth ~~$49~~ $34.30/mo, Scale ~~$199~~ $139.30/mo. Until Nov 30, 2026 |
+| 🎬 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=github) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images. Use it from code, n8n, Make, Zapier, Claude or ChatGPT. 600 free credits to try. | **25% OFF** the first year of the yearly plans with code **BF2026GH**, applied automatically: Professional ~~$399.60~~ **$299.70** ($24.98/month, half the monthly plan), Hobby ~~$199.50~~ **$149.63**. Nov 24 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
