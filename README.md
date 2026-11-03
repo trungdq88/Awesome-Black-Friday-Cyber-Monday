@@ -198,6 +198,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |----|-----------| ------ |---------------------------------------------------------------------------------------------------|
 | 📊 | [Airbridge](https://www.airbridge.io/en/black-friday?utm_source=github&utm_medium=deal_list&utm_campaign=black_friday_2026&utm_content=awesome_bfcm) | Mobile measurement for app teams. See which ads bring paying users, not just installs. | **50% OFF** Core Plan for your first 6 paid months with code `BLACKFRIDAY26` (until Nov 30, 2026) |
 | ✉️ | [Sequenzy](https://sequenzy.com/black-friday?utm_source=awesome-bfcm) | Email marketing for SaaS and online stores: newsletters, automated sequences and transactional email from one account, with AI that writes on-brand emails and integrations for Stripe, Shopify and more. Priced by emails sent, with unlimited contacts on every plan. Free plan: 2,500 emails/month. | **30% OFF** any annual plan with code **BLACKFRIDAY** (e.g. 15,000 emails/month ~~$205~~ $143.50/year, 60,000 emails/month ~~$529~~ $370.30/year) |
+| 🔭 | [Outmano](https://outmano.com/?utm_source=awesome-bfcm) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent. | **30% OFF** the first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2, 2026). E.g. ~~$49~~ $34.30/mo, ~~$99~~ $69.30/mo, ~~$199~~ $139.30/mo |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
