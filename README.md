@@ -83,6 +83,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛠️ | [WP Foreman](https://wpforeman.com/black-friday/?utm_source=tonybf) | Hosted dashboard for managing many WordPress sites: backup before every update, before/after screenshot checks, uptime alerts, branded client reports. | **Lifetime deal**: 25 sites $199 / 50 $349 / 100 $599 / 250 $899 (regularly $1.99/site/mo). Nov 24 - Nov 30, 2026 |
 | 🪓 | [Karve](https://karve.dev/pricing/?utm_source=awesome-bfcm&utm_campaign=bf2026) | Native Windows HTTP client for the .http/.rest files in your repos. Find and run requests across repos, with environments and searchable history. No account, no cloud sync. | **75% OFF**: one-time ~~$39.99~~ **$9.99** on the Microsoft Store, no code needed, 15-day free trial (until Dec 1, 2026) |
 | 🛠️ | [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026**. Pro $15 → $12/mo; Business $30 → $24/mo. Redeem by **Dec 2, 2026**. |
+| 🤖 | [AgentOps Monitor](https://agentopsmonitor.com) | Per-run cost and trace monitoring for AI agents. Records every tool call, LLM call, and dollar. No SDK setup. | **BLACKFRIDAY50**: 50% OFF the first 3 months of monthly plans for new customers, Team $299 → $149.50/mo (Nov 6 - Dec 1, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -211,6 +212,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 📝 | [SEO AI Regent](https://seo-ai-regent.com) | Score drafts on Content Score and GEO Score before publishing, for Google and AI search. Free for 5 articles/mo. | **BLACKFRIDAY50**: 50% OFF the first 3 months of monthly plans for new customers, Editor $49 → $24.50/mo (Nov 6 - Dec 1, 2026) |
+| 📈 | [LeanForge](https://lean-forge.net) | 0-100 Google Trends score, 7/30-day velocity and publish/track/hold/skip verdict per keyword. | **BLACKFRIDAY50**: 50% OFF the first 3 months of monthly plans for new customers, Starter $29 → $14.50/mo (Nov 6 - Dec 1, 2026) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
