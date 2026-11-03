@@ -108,6 +108,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⌨️ | [KeyboardStack](https://keyboardstack.com/) | Control your Mac using only your keyboard. Use on-screen hints to select buttons and links, or a screen grid to click anywhere. Scroll through pages, move the cursor precisely, and switch windows in Mission Control. Navigate across multiple displays while keeping your hands on the keyboard. Spend less time switching between your keyboard and mouse or trackpad, and stay focused on your work. | **50% OFF Lifetime license** ($29.99 → $14.99). Automatically applied at checkout; no code needed. Valid November 1–December 1, 2026. |
 | 🪟 | [NeoTiler](https://getneotiler.com/?utm_source=trungdq88-blackfriday) | Native macOS window manager with keyboard shortcuts, custom snap areas, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews. One-time purchase, no subscription. | **30% OFF** Lifetime License ($6.99) with code **BF30** (until Dec 1, 2026) |
 | 📸 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026&utm_source=tonybf) | Automate repeated screenshots and keypresses on Mac, then export images, PDF, ZIP or timelapse video. | **40% OFF** lifetime licenses with **BF2026**: 1 Mac **$39 → $23.40**, up to 3 Macs **$109 → $65.40** (USD before tax). Subscriptions excluded. Oct 18 - Dec 31, 2026. |
+| 🔀 | [ShiftPlus](https://shiftplus.app/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors, Spaces, links and terminal env vars. Native macOS app, one-time purchase, 14-day free trial. | **40% OFF** lifetime licenses: 1 Mac ~~$24~~ $14.40, 2 Macs ~~$39~~ $23.40 with code **AWESOMEBF40**, Nov 20 - Dec 2, 2026 |
+| 🖱️ | [MouseUp](https://mouseup.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | External mouse utility for macOS: click debounce, zoom with the wheel and more. | 50% OFF Pro with code **MMFBF2026** (Nov 2 - Dec 5) |
 | ⌨️ | [Tabhive](https://www.tabhive.app/?utm_source=tonybf) | Organize your tabs & bookmarks and find anything you have saved in seconds. Quickly save & find links with AI powered semantic search | **40% OFF** ($69 → $42) with code **BF2026**, Nov 2 - Dec 5, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -136,6 +138,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
 | ⏳ | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | **50% OFF Lifetime: 59.99 USD → 29.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
+| ✅ | [Habit Pixel](https://habitpixel.com) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF Lifetime** (one-time purchase), **November 19 – December 2, 2026**. US pricing: **$29.99 → $19.99 USD**; local prices vary. Discount applied automatically in the app, no code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -182,6 +185,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🐦 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-trungdq88) | Mac app that crops thousands of bird photos in one go, at full resolution, from Apple Photos or a folder (JPEG, HEIC or RAW). Free for 50 photos per run. | **33% OFF** the one-time unlock: ~~$29.99~~ $19.99, Nov 20 - Dec 1, 2026. No code needed. |
+| 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/?utm_source=awesome-bf-2026) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable: recolor or warp a line long after and it stays sharp. Opens .procreate and .psd files with their layers. | **50% OFF** the one-time purchase: ~~$12.99~~ $6.49, one purchase for iPad, iPhone and Mac. Nov 27 - Dec 1, 2026. No code needed. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
@@ -232,6 +236,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** the first year with code **BFCM26**: yearly **$24.99 → $14.99**. US pricing; local prices vary. **Nov 2 – Dec 1, 2026** |
+| 🧮 | [Par](https://par.sawirstudio.com/black-friday-2026/?utm_source=awesome-bf-2026) | Full RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the stack always in sight. | **60% OFF** the one-time purchase: ~~$4.99~~ $1.99. Nov 26 - 30, 2026. No code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
