@@ -160,6 +160,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🧠 | [TypingMind](https://www.typingmind.com/?utm_source=tonybf) |Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 60% OFF Lifetime **BLACKFRIDAY2026** |
 | ⚡ | [BoltAI 3](https://boltai.com/pricing?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | The native AI workspace: chats, agents and projects with ChatGPT, Claude, Gemini and local AI models. Use your ChatGPT subscription through Codex, or your own API keys. New in v3: Browser Use, Computer Use, Agent Skills, Multi-step Workflows, MCP, projects, local models and Image Studio. On Mac, Windows, web, iOS and Android. | **40% OFF** with code **BFCM2026**, until Dec 1, 2026: Pro ~~$99~~ $59, Lifetime ~~$399~~ $239 |
+| 💬 | [Vinaa](https://www.vinaa.ai/?utm_source=awesome-black-friday) | Native AI chat for macOS. Chat with cloud and local models, multiple windows and tabs, MCP, prompt templates, private iCloud sync and more. Lifetime licence. | **Up to 45% OFF** for Black Friday: 1 Mac $30, 2 Macs $39, 3 Macs $55 (until Nov 30, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
