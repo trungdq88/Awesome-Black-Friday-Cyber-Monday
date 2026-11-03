@@ -263,5 +263,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🔎 | [Winch](https://getwinch.app/#pricing) | Native Mac app for App Store and Google Play optimization. Tracks keyword ranks in 175 countries, localizes listings, creates store art, and groups reviews into themes. | **30% OFF** with code **BLACKFRIDAY2026** through Dec 1, 2026. Current tier: **$39 → $27.30**; next tier: **$49 → $34.30**. One-time license for 2 Macs, lifetime updates. |
+| 🐾 | [Pawlitics](https://pawlitics.sawirstudio.com/black-friday-2026/?utm_source=awesome-bf-2026) | Cozy cartoon politics game for iPhone and iPad: govern a town of animals, balance the budget, pass bills past the council and win re-election. | **40% OFF** the Full Game unlock: ~~$4.99~~ $2.99. Nov 26 - Dec 1, 2026. No code needed. |
 
 ⬆️ | [Go to Top](#table-of-contents)
