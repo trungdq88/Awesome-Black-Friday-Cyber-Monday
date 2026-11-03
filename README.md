@@ -246,8 +246,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
-
-🧹  | [CleanX](https://cleanx.lol/)  | A Chrome extension that brings X (Twitter) back to a text-first experience. Hide distracting images, videos, GIFs, ads, trends and recommendations. Choose what stays visible and enjoy a cleaner feed. Privacy-first: all filtering happens locally in your browser.  | Black Friday: 70% OFF Lifetime Pro ($59 → $17.70), November 11–30, 2026. No code needed.
+| 🧹 | [CleanX](https://cleanx.lol/) | A Chrome extension that brings X (Twitter) back to a text-first experience. Hide distracting images, videos, GIFs, ads, trends and recommendations. Privacy-first: filtering happens locally in your browser. | Black Friday: Lifetime Pro $19 (regularly $59), November 11–30, 2026. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
