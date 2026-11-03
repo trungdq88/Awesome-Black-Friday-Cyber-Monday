@@ -254,6 +254,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🏋️ | [FitArchive](https://fitarchive.app/) | Free workout log and calorie counter for iPhone and web: RIR on every set, with AI meal logging from a photo or text | **Black Friday: 50% OFF** Plus yearly for your first year: **$19.99 → $9.99** in the US; local prices vary. iPhone code **BLACKFRIDAY50** ([claim here](https://fitarchive.app/black-friday/)). New subscribers, ends November 30, 2026. |
 | 🧬 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders. | **50% OFF the first year of the annual plan: 29.99 USD → 14.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
 | 👟 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | **40% OFF Lifetime** with code **BFCM26**: **$39.99 → $23.99**. **40% OFF Lifetime Family Sharing** with code **BFCM26FAMILY**: **$79.99 → $47.99**. US pricing; local prices vary. **Nov 2 – Dec 1, 2026** |
+| 🍼 | [BabyAnalytic](https://babyanalytic.com/black-friday-2026/?utm_source=awesome-bf-2026) | Baby tracker for iPhone and Apple Watch: feeds, sleep and diapers in one tap, timers, charts, a pediatrician report and partner sharing through iCloud. | **50% OFF** Pro Lifetime, a one-time purchase: ~~$49.99~~ $24.99. Nov 27 - Dec 1, 2026. No code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
