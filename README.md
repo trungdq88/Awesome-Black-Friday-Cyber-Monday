@@ -263,5 +263,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🔎 | [Winch](https://getwinch.app/#pricing) | Native Mac app for App Store and Google Play optimization. Tracks keyword ranks in 175 countries, localizes listings, creates store art, and groups reviews into themes. | **30% OFF** with code **BLACKFRIDAY2026** through Dec 1, 2026. Current tier: **$39 → $27.30**; next tier: **$49 → $34.30**. One-time license for 2 Macs, lifetime updates. |
+| 🥟 | [Squishu](https://squishu.sawirstudio.com/black-friday-2026/?utm_source=awesome-bf-2026) | Cozy dumpling-squishing game for iPhone, iPad and Apple Watch: beat the boss before the steam runs out, and play the same 15-second daily round as everyone else. | **40% OFF** Squishu+, a one-time upgrade: ~~$4.99~~ $2.99. Nov 27 - Dec 1, 2026. No code needed. |
 
 ⬆️ | [Go to Top](#table-of-contents)
