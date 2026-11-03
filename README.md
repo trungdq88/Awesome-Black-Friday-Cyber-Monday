@@ -116,6 +116,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖱️ | [MouseUp](https://mouseup.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | External mouse utility for macOS: click debounce, zoom with the wheel and more. | 50% OFF Pro with code **MMFBF2026** (Nov 2 - Dec 5) |
 | ⌨️ | [Tabhive](https://www.tabhive.app/?utm_source=tonybf) | Organize your tabs & bookmarks and find anything you have saved in seconds. Quickly save & find links with AI powered semantic search | **40% OFF** ($69 → $42) with code **BF2026**, Nov 2 - Dec 5, 2026 |
 | 🪄 | [DockMagic](https://dockmagic.app/?ref=Awesome-Black-Friday-Cyber-Monday#dm-pricing) | A widget Dock for macOS that runs alongside the Apple Dock. Add 60+ widgets (unread Gmail, CPU and memory, top apps, calendar, clocks, everyday controls), drag to arrange them, and place the Dock at the bottom, left or right edge. Selected widgets are free; one-time purchase with lifetime updates. | **Up to 50% OFF** lifetime licenses, applied automatically, no code needed: 1 Mac ~~$25~~ **$12.99**, 2 Macs ~~$40~~ **$19.99**, 3 Macs ~~$60~~ **$29.99** (USD). **November 3 – 30, 2026**. |
+| 🖊️ | [Presentify](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom. For presentations, calls, demos, and teaching. Native Mac app, featured by Apple. One-time purchase, no subscription. | **30% OFF** ($14 → $9.80) with code **PRESENTIFY30**, **Nov 18 - Dec 2, 2026**. Direct purchase from the website only |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
