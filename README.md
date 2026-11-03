@@ -137,6 +137,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
 | ⏳ | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | **50% OFF Lifetime: 59.99 USD → 29.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
+| ✅ | [Habit Pixel](https://habitpixel.com) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone, iPad and Android. | **33% OFF Lifetime** (one-time purchase), **November 19 – December 2, 2026**. US pricing: **$29.99 → $19.99 USD**; local prices vary. Discount applied automatically in the app, no code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
