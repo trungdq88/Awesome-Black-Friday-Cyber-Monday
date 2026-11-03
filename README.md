@@ -82,6 +82,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗄️ | [1bench](https://1bench.dev/black-friday?utm_source=tonybf) | One desktop app for 25+ databases: PostgreSQL, Redis, ClickHouse, MongoDB, Qdrant and more. Mac, Windows, Linux. | **50% OFF** Solo Lifetime ($199 → $99) with code **FCBF26**, Nov 20 - Dec 1 |
 | 🛠️ | [WP Foreman](https://wpforeman.com/black-friday/?utm_source=tonybf) | Hosted dashboard for managing many WordPress sites: backup before every update, before/after screenshot checks, uptime alerts, branded client reports. | **Lifetime deal**: 25 sites $199 / 50 $349 / 100 $599 / 250 $899 (regularly $1.99/site/mo). Nov 24 - Nov 30, 2026 |
 | 🪓 | [Karve](https://karve.dev/pricing/?utm_source=awesome-bfcm&utm_campaign=bf2026) | Native Windows HTTP client for the .http/.rest files in your repos. Find and run requests across repos, with environments and searchable history. No account, no cloud sync. | **75% OFF**: one-time ~~$39.99~~ **$9.99** on the Microsoft Store, no code needed, 15-day free trial (until Dec 1, 2026) |
+| 🛠️ | [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026**. Pro $15 → $12/mo; Business $30 → $24/mo. Redeem by **Dec 2, 2026**. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -142,6 +143,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
 | ⏳ | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | **50% OFF Lifetime: 59.99 USD → 29.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
 | ✅ | [Habit Pixel](https://habitpixel.com) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF Lifetime** (one-time purchase), **November 19 – December 2, 2026**. US pricing: **$29.99 → $19.99 USD**; local prices vary. Discount applied automatically in the app, no code needed. |
+| 📸 | [Email Me](https://emailmeapp.net/) · [Digital Photo Frame](https://digitalphotoframeapp.com/) | Two Apple apps from one indie studio: voice and text notes sent straight to your inbox, and a smart photo frame for iPhone, iPad, Mac and Apple TV. | **50% OFF**, no code needed, **November 27 – December 1, 2026**. US pricing: Email Me Yearly **$12.99 → $6.49 USD**, Digital Photo Frame Yearly **$19.99 → $9.99 USD**; local prices vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
