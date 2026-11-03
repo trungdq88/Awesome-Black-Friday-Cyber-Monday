@@ -108,6 +108,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⌨️ | [KeyboardStack](https://keyboardstack.com/) | Control your Mac using only your keyboard. Use on-screen hints to select buttons and links, or a screen grid to click anywhere. Scroll through pages, move the cursor precisely, and switch windows in Mission Control. Navigate across multiple displays while keeping your hands on the keyboard. Spend less time switching between your keyboard and mouse or trackpad, and stay focused on your work. | **50% OFF Lifetime license** ($29.99 → $14.99). Automatically applied at checkout; no code needed. Valid November 1–December 1, 2026. |
 | 🪟 | [NeoTiler](https://getneotiler.com/?utm_source=trungdq88-blackfriday) | Native macOS window manager with keyboard shortcuts, custom snap areas, Smart Workspaces, trackpad gestures, Shake to Focus, and Windows-style live Dock previews. One-time purchase, no subscription. | **30% OFF** Lifetime License ($6.99) with code **BF30** (until Dec 1, 2026) |
 | 📸 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026&utm_source=tonybf) | Automate repeated screenshots and keypresses on Mac, then export images, PDF, ZIP or timelapse video. | **40% OFF** lifetime licenses with **BF2026**: 1 Mac **$39 → $23.40**, up to 3 Macs **$109 → $65.40** (USD before tax). Subscriptions excluded. Oct 18 - Dec 31, 2026. |
+| 🔀 | [ShiftPlus](https://shiftplus.app/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Switch your whole Mac workspace with one hotkey: apps, browser profiles, windows, monitors, Spaces, links and terminal env vars. Native macOS app, one-time purchase, 14-day free trial. | **40% OFF** lifetime licenses: 1 Mac ~~$24~~ $14.40, 2 Macs ~~$39~~ $23.40 with code **AWESOMEBF40**, Nov 20 - Dec 2, 2026 |
+| 🖱️ | [MouseUp](https://mouseup.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | External mouse utility for macOS: click debounce, zoom with the wheel and more. | 50% OFF Pro with code **MMFBF2026** (Nov 2 - Dec 5) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -181,6 +183,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🐦 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-trungdq88) | Mac app that crops thousands of bird photos in one go, at full resolution, from Apple Photos or a folder (JPEG, HEIC or RAW). Free for 50 photos per run. | **33% OFF** the one-time unlock: ~~$29.99~~ $19.99, Nov 20 - Dec 1, 2026. No code needed. |
+| 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/?utm_source=awesome-bf-2026) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable: recolor or warp a line long after and it stays sharp. Opens .procreate and .psd files with their layers. | **50% OFF** the one-time purchase: ~~$12.99~~ $6.49, one purchase for iPad, iPhone and Mac. Nov 27 - Dec 1, 2026. No code needed. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
