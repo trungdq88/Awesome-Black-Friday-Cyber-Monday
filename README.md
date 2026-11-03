@@ -181,6 +181,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🐦 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-trungdq88) | Mac app that crops thousands of bird photos in one go, at full resolution, from Apple Photos or a folder (JPEG, HEIC or RAW). Free for 50 photos per run. | **33% OFF** the one-time unlock: ~~$29.99~~ $19.99, Nov 20 - Dec 1, 2026. No code needed. |
+| 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/?utm_source=awesome-bf-2026) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable: recolor or warp a line long after and it stays sharp. Opens .procreate and .psd files with their layers. | **50% OFF** the one-time purchase: ~~$12.99~~ $6.49, one purchase for iPad, iPhone and Mac. Nov 27 - Dec 1, 2026. No code needed. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
