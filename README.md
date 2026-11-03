@@ -135,6 +135,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🎯 | [Y-Pod](https://www.y-pod.app/#black-friday) | Privacy-first life planner for goals, tasks, habits, budgets and journaling on iPhone and iPad. | Scheduled **50% OFF Pro Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$99.99 → $49.99 USD**; local prices vary. |
 | ⏳ | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | **50% OFF Lifetime: 59.99 USD → 29.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
+| 🧠 | [Math Daily](https://getmathdaily.com/black-friday-2026/?utm_source=awesome-bf-2026) | Daily mental math games for iPhone and iPad: short rounds that keep arithmetic sharp, with streaks and progress. | **50% OFF** the first year of Pro Yearly: ~~$29.99~~ $14.99 for new subscribers. Nov 27 - Dec 1, 2026. No code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
