@@ -282,5 +282,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🔎 | [Winch](https://getwinch.app/#pricing) | Native Mac app for App Store and Google Play optimization. Tracks keyword ranks in 175 countries, localizes listings, creates store art, and groups reviews into themes. | **30% OFF** with code **BLACKFRIDAY2026** through Dec 1, 2026. Current tier: **$39 → $27.30**; next tier: **$49 → $34.30**. One-time license for 2 Macs, lifetime updates. |
+| 👋 | [SlapMac](https://slapmac.com/?ref=tonybf) | Slap your MacBook and it talks back: reactive sound packs, a motion-triggered anti-theft alarm, animated lid effects and on-screen Motion Cues. Native macOS app. | **30% OFF** ($12.99 → $9.09) with code **BLACKFRIDAY26**, first 100 buyers, **Nov 3 - Dec 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
