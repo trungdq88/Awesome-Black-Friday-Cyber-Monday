@@ -85,6 +85,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛠️ | [WP Foreman](https://wpforeman.com/black-friday/?utm_source=tonybf) | Hosted dashboard for managing many WordPress sites: backup before every update, before/after screenshot checks, uptime alerts, branded client reports. | **Lifetime deal**: 25 sites $199 / 50 $349 / 100 $599 / 250 $899 (regularly $1.99/site/mo). Nov 24 - Nov 30, 2026 |
 | 🪓 | [Karve](https://karve.dev/pricing/?utm_source=awesome-bfcm&utm_campaign=bf2026) | Native Windows HTTP client for the .http/.rest files in your repos. Find and run requests across repos, with environments and searchable history. No account, no cloud sync. | **75% OFF**: one-time ~~$39.99~~ **$9.99** on the Microsoft Store, no code needed, 15-day free trial (until Dec 1, 2026) |
 | 🛠️ | [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026**. Pro $15 → $12/mo; Business $30 → $24/mo. Redeem by **Dec 2, 2026**. |
+| 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens. | **50% OFF lifetime deal** with code Sale2026 until Dec 31. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
