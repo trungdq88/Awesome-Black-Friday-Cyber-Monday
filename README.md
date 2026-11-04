@@ -102,6 +102,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ⬆️ | [Go to Top](#table-of-contents)
 
 #### Window, Screen, Clipboard, Utilities
+| 🪟 | [Wins](https://wins.cool/) | Windows-like window management for macOS with Dock previews and keyboard shortcuts. | **40% OFF** all plans with code **BF_26**, November 11–December 1, 2026. |
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
