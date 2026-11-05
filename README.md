@@ -224,6 +224,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🐰 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Build and exchange nofollow backlinks through your coding agent. | **30% OFF your first annual payment** with code **BLACKFRIDAY2026**: ~~$210~~ **$147** upfront, then renews at $210/year. First-time paying customers only; can't be combined with other discounts. Annual plan only. **Nov 5, 2026 – Dec 1, 2026 00:00 UTC**; payment must complete before the cutoff. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
