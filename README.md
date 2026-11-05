@@ -99,7 +99,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🧠 | [Mailflare for macOS](https://mailflare.co/macos?utm_source=tonybf) | Native macOS email client, all your emails in 1 app | **TONYBF** for 40% OFF for Mailflare Desktop, Mailflare Team, Mailflare Pro, Nov 24 - Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
