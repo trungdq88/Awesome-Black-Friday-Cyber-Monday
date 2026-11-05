@@ -124,6 +124,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🐙 | [FileOctopus](https://www.fileoctopus.com/black-friday.html?ref=Awesome-Black-Friday-Cyber-Monday) | A native Mac file manager that feels like Finder: split panes (up to a 2×2 grid), named workspaces, a Shelf to collect files, Compare Folders and fast search. One-time purchase, 14-day free trial, free version included. | **50% OFF** PRO: ~~$29.99~~ **$14.99** with code **BLACKFRIDAY2026** (applied automatically by the Buy button), 2 Macs, lifetime updates. Nov 27 - Nov 30, 2026 |
 | 🪟 | [Wins](https://wins.cool/) | Windows-like window management for macOS with Dock previews and keyboard shortcuts. | **40% OFF** all plans with code **BF_26**, November 11–December 1, 2026. |
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. Native Mac app. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($79 → $39.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
+| 🦆 | [Duckboard](https://www.duckboard.pro/) | Turn parts of any website into live, interactive desktop widgets and arrange them into custom dashboards. For macOS and Windows. | **20% OFF** Extended plan with code **BLACK2026FRIDAY**. One-time purchase. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
