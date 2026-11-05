@@ -123,6 +123,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪄 | [DockMagic](https://dockmagic.app/?ref=Awesome-Black-Friday-Cyber-Monday#dm-pricing) | A widget Dock for macOS that runs alongside the Apple Dock. Add 60+ widgets (unread Gmail, CPU and memory, top apps, calendar, clocks, everyday controls), drag to arrange them, and place the Dock at the bottom, left or right edge. Selected widgets are free; one-time purchase with lifetime updates. | **Up to 50% OFF** lifetime licenses, applied automatically, no code needed: 1 Mac ~~$25~~ **$12.99**, 2 Macs ~~$40~~ **$19.99**, 3 Macs ~~$60~~ **$29.99** (USD). **November 3 – 30, 2026**. |
 | 🐙 | [FileOctopus](https://www.fileoctopus.com/black-friday.html?ref=Awesome-Black-Friday-Cyber-Monday) | A native Mac file manager that feels like Finder: split panes (up to a 2×2 grid), named workspaces, a Shelf to collect files, Compare Folders and fast search. One-time purchase, 14-day free trial, free version included. | **50% OFF** PRO: ~~$29.99~~ **$14.99** with code **BLACKFRIDAY2026** (applied automatically by the Buy button), 2 Macs, lifetime updates. Nov 27 - Nov 30, 2026 |
 | 🪟 | [Wins](https://wins.cool/) | Windows-like window management for macOS with Dock previews and keyboard shortcuts. | **40% OFF** all plans with code **BF_26**, November 11–December 1, 2026. |
+| 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. Native Mac app. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($79 → $39.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -130,7 +131,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($99 → $49.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
