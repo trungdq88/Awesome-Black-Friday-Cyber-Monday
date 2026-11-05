@@ -100,6 +100,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✅ | [Todowing](https://todowing.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Chrome extension that upgrades Todoist: pick today's few tasks and run a focus session on them, put a time estimate on each and watch the day add up, keep a notes pad above your list, and see your Apple Calendar on Today. One-time purchase, no account needed. | **40% OFF** lifetime unlock ($9.99 → $5.99) with code **BF2026**, Nov 5 - Nov 30, 2026 |
+| 🗂️ | [Deckloud](https://deckloud.com/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Native app for your Nextcloud Deck boards on iPhone, iPad, Android, Mac, Windows and Linux: offline edits, Today across boards, a Gantt timeline and widgets, synced straight to your own Nextcloud server. Free core; independent, not affiliated with Nextcloud GmbH. | **40% OFF** Pro Lifetime, one-time ($39 → $22.99, 39 € → 22,99 €; about 40% off local prices elsewhere), applied automatically on the App Store and Google Play, no code needed. Desktop-only Pro $19 → $11.40 with code **BF2026**. Subscriptions excluded. **November 27 to December 2, 2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
