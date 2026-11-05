@@ -99,7 +99,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| ✅ | [Todowing](https://todowing.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Chrome extension that upgrades Todoist: pick today's few tasks and run a focus session on them, put a time estimate on each and watch the day add up, keep a notes pad above your list, and see your Apple Calendar on Today. One-time purchase, no account needed. | **40% OFF** lifetime unlock ($9.99 → $5.99) with code **BF2026**, Nov 5 - Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
