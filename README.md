@@ -100,6 +100,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✅ | [Todowing](https://todowing.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Chrome extension that upgrades Todoist: pick today's few tasks and run a focus session on them, put a time estimate on each and watch the day add up, keep a notes pad above your list, and see your Apple Calendar on Today. One-time purchase, no account needed. | **40% OFF** lifetime unlock ($9.99 → $5.99) with code **BF2026**, Nov 5 - Nov 30, 2026 |
+| 📁 | [Files to Notion](https://www.files2notion.com/) | Organize local files as Notion database entries and open them directly from Notion. Sync file metadata while keeping file contents and folder structure on your computer. For macOS and Windows. | **20% OFF** Extended plan with code **BLACK2026FRIDAY**: **$39.00 → $31.20 USD**, Nov 5 - Nov 30, 2026. One-time purchase. [Direct checkout](https://files2notion.lemonsqueezy.com/checkout/buy/7ca63070-a49d-4bbb-b91b-e4136f124fd4?logo=0&checkout%5Bdiscount_code%5D=BLACK2026FRIDAY) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
