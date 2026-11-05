@@ -88,6 +88,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛠️ | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026**. Pro $15 → $12/mo; Business $30 → $24/mo. Redeem by **Dec 2, 2026**. |
 | 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens. | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 until Dec 31. |
 | 🛻 | [Git On The Go](https://gitonthego.com/) | Real Git for iPad and iPhone: every repository is an ordinary folder in the Files app, with full Git LFS, a commit graph and offline commits. No account, no analytics, one-time purchase. | **40% OFF**, no code needed: $9.99 → $5.99 (£9.99 → £5.99), Nov 27 - Dec 1 |
+| 🎮 | [ESN Hosting](https://panel.esnoffical.com/plans) | Discord bot, Minecraft and game server hosting on a Pterodactyl web panel. Python, Node.js, Java and more; Java + Bedrock crossplay with Geyser. | **Up to 85% OFF the first month** on every monthly plan, applied at checkout, no code needed (Stripe minimum $0.50). Elite 4 GB ~~$4.49~~ **$0.67** first month, then $4.49/mo. Until Dec 1, 2026 |
+
 
 
 ⬆️ | [Go to Top](#table-of-contents)
