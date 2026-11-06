@@ -163,7 +163,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -275,6 +275,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔗 | [LinkShip](https://linkship.net/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Turn PDFs, videos, audio, images and zip files into shareable links you can update later, with view tracking, password protection and dynamic QR codes. Viewers open them in the browser, no account needed. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, 2026): Tiny ~~$66.99~~ $53.59, Solo ~~$124.99~~ $99.99, Pro ~~$249.99~~ $199.99, Pro Max ~~$499.99~~ $399.99 |
 | 🛡️ | [TinyShield](https://tinyshield.proxyman.com/pricing) | App firewall and network monitor for macOS. See which apps connect to the internet and block unwanted connections. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. Standard: ~~$29~~ **$20.30**, Combo: ~~$39~~ **$27.30**, Lifetime: ~~$69~~ **$48.30 USD**. |
 | 📖 | [Dictionaries](https://dictionaries.io/buy?utm_source=trungdq88) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | **50% OFF** with code **BF26**, **November 4 – December 3, 2026**. Standard ~~7.99$~~ $3.99  Lifetime ~~$19.99~~ $9.99 |
+| 🎙️ | [Roomtape](https://extensions.loopspec.com/roomtape?ref=Awesome-Black-Friday-Cyber-Monday) | Records Google Meet and Microsoft Teams calls to an MP4 on your computer. No bot joins the call and no Workspace or Microsoft 365 plan is needed: works on free Gmail, personal Microsoft accounts and as a guest. Recordings survive crashes and nothing is uploaded. Free for recordings up to 20 minutes. | **69% OFF** lifetime license: ~~$29~~ **$9** one-time, 3 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
