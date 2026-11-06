@@ -88,6 +88,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛠️ | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026**. Pro $15 → $12/mo; Business $30 → $24/mo. Redeem by **Dec 2, 2026**. |
 | 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens. | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 until Dec 31. |
 | 🛻 | [Git On The Go](https://gitonthego.com/) | Real Git for iPad and iPhone: every repository is an ordinary folder in the Files app, with full Git LFS, a commit graph and offline commits. No account, no analytics, one-time purchase. | **40% OFF**, no code needed: $9.99 → $5.99 (£9.99 → £5.99), Nov 27 - Dec 1 |
+| 🦋 | [getButterfly](https://getbutterfly.com/black-friday-wordpress-plugin-deals/) | WordPress plugins for performance (Lighthouse), privacy-first analytics (Active Analytics), Consent Mode v2 (WP GCP), CRM, galleries and more, plus the Saturn theme. Lifetime updates on every licence. | **40% OFF** with code **BF2026**, Nov 27 - Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
