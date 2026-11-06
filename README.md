@@ -102,6 +102,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | ✅ | [Todowing](https://todowing.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Chrome extension that upgrades Todoist: pick today's few tasks and run a focus session on them, put a time estimate on each and watch the day add up, keep a notes pad above your list, and see your Apple Calendar on Today. One-time purchase, no account needed. | **40% OFF** lifetime unlock ($9.99 → $5.99) with code **BF2026**, Nov 5 - Nov 30, 2026 |
 | 🗂️ | [Deckloud](https://deckloud.com/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Native app for your Nextcloud Deck boards on iPhone, iPad, Android, Mac, Windows and Linux: offline edits, Today across boards, a Gantt timeline and widgets, synced straight to your own Nextcloud server. Free core; independent, not affiliated with Nextcloud GmbH. | **40% OFF** Pro Lifetime, one-time ($39 → $22.99, 39 € → 22,99 €; about 40% off local prices elsewhere), applied automatically on the App Store and Google Play, no code needed. Desktop-only Pro $19 → $11.40 with code **BF2026**. Subscriptions excluded. **November 27 to December 2, 2026** |
+| 📁 | [Files to Notion](https://www.files2notion.com/) | Organize local files as Notion database entries and open them directly from Notion. Sync file metadata while keeping file contents and folder structure on your computer. For macOS and Windows. | **20% OFF** Extended plan with code **BLACK2026FRIDAY**: **$39.00 → $31.20 USD**, Nov 5 - Nov 30, 2026. One-time purchase. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -127,6 +128,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪟 | [Wins](https://wins.cool/) | Windows-like window management for macOS with Dock previews and keyboard shortcuts. | **40% OFF** all plans with code **BF_26**, November 11–December 1, 2026. |
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. Native Mac app. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($79 → $39.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
 | 🦆 | [Duckboard](https://www.duckboard.pro/) | Turn parts of any website into live, interactive desktop widgets and arrange them into custom dashboards. For macOS and Windows. | **20% OFF** Extended plan with code **BLACK2026FRIDAY**: **$29.00 → $23.20 USD**, Nov 5 - Nov 30, 2026. One-time purchase. |
+| 🐬 | [Iruka](https://iruka.sh/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A modern file manager for macOS: tabs, dual panes, list, column and icon views, instant file previews, a drop stack, batch rename and cloud mounts. One-time purchase, 30-day free trial. | **30% OFF** new licences with code **BF30**, until December 3, 2026. Personal: ~~$19.99~~ **$13.99**, Team: ~~$39.99~~ **$27.99**. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -164,7 +166,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -197,6 +199,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎧 | [Wiredesk](https://wiredesk.ai/pricing?utm_source=tonybf) | AI support agents for chat, phone and email. Learns from your website and help center, answers around the clock, and hands your team the conversations that need a person, with the full transcript, as a ticket in Zendesk, Freshdesk, HubSpot or Intercom. Usage-based pricing, no seats, free plan included. | **30% OFF** your first year of Growth or Scale with code **BLACKFRIDAY2026**. Billed yearly: Growth ~~$39~~ $27.30/mo, Scale ~~$159~~ $111.30/mo. Billed monthly: Growth ~~$49~~ $34.30/mo, Scale ~~$199~~ $139.30/mo. Until Nov 30, 2026 |
 | 🎬 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=github) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images. Use it from code, n8n, Make, Zapier, Claude or ChatGPT. 600 free credits to try. | **25% OFF** the first year of the yearly plans with code **BF2026GH**, applied automatically: Professional ~~$399.60~~ **$299.70** ($24.98/month, half the monthly plan), Hobby ~~$199.50~~ **$149.63**. Nov 24 - Dec 1, 2026 |
 | 🧰 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime ($49.50) and All Access Lifetime ($99.50), one-time payment, with code **BLACKFRIDAY** (through Nov 30). Monthly, Annual and Teams not included. |
+| 🛍️ | [Kindclerk](https://kindclerk.com/?utm_source=tonybf#pricing) | AI customer service and sales clerk for small shops. Answers customers on WhatsApp, Instagram, Messenger and more, checks stock in Shopify or WooCommerce, books appointments in Google Calendar, saves leads to HubSpot and sends payment links at your own prices. | **30% OFF your first 3 months** on any plan, no code needed (applied at checkout): Starter ~~$20~~ $14/mo, Business ~~$49~~ $34.30/mo, Enterprise ~~$99~~ $69.30/mo. New businesses, until Dec 31, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -275,6 +278,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔒 | [anon.li](https://anon.li/pricing) | Open-source privacy suite: email aliases that forward to your real inbox, end-to-end encrypted file sharing and end-to-end encrypted forms. Includes a CLI, browser extension and MCP server. Free plan available. | **40% OFF all paid plans for 12 months** with code **BLKFRI40** at card checkout (e.g. Plus yearly ~~$69.49~~ $41.69, Pro yearly ~~$89.89~~ $53.93 for the first year). Nov 2 - Dec 6, 2026 |
 | 🔗 | [LinkShip](https://linkship.net/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Turn PDFs, videos, audio, images and zip files into shareable links you can update later, with view tracking, password protection and dynamic QR codes. Viewers open them in the browser, no account needed. | **20% OFF** the first year of any yearly plan with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, 2026): Tiny ~~$66.99~~ $53.59, Solo ~~$124.99~~ $99.99, Pro ~~$249.99~~ $199.99, Pro Max ~~$499.99~~ $399.99 |
 | 🛡️ | [TinyShield](https://tinyshield.proxyman.com/pricing) | App firewall and network monitor for macOS. See which apps connect to the internet and block unwanted connections. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. Standard: ~~$29~~ **$20.30**, Combo: ~~$39~~ **$27.30**, Lifetime: ~~$69~~ **$48.30 USD**. |
+| 📖 | [Dictionaries](https://dictionaries.io/buy?utm_source=trungdq88) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | **50% OFF** with code **BF26**, **November 4 – December 3, 2026**. Standard ~~7.99$~~ $3.99  Lifetime ~~$19.99~~ $9.99 |
+| 🎙️ | [Roomtape](https://extensions.loopspec.com/roomtape?ref=Awesome-Black-Friday-Cyber-Monday) | Records Google Meet and Microsoft Teams calls to an MP4 on your computer. No bot joins the call and no Workspace or Microsoft 365 plan is needed: works on free Gmail, personal Microsoft accounts and as a guest. Recordings survive crashes and nothing is uploaded. Free for recordings up to 20 minutes. | **69% OFF** lifetime license: ~~$29~~ **$9** one-time, 3 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
