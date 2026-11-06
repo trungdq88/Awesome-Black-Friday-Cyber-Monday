@@ -163,7 +163,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
 ⬆️ | [Go to Top](#table-of-contents)
 
