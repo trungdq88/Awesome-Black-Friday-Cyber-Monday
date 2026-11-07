@@ -76,7 +76,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗄️ | [DynoTable](https://dynotable.com/?utm_source=trungdq88-blackfriday) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** for 12 months with code **BF50**: Individual ~~$108~~ **$54** for the first year, or ~~$12~~ **$6**/mo for 12 months. Until Dec 3 |
 | 🌐 | [Poedit](https://poedit.com/purchase/?utm_source=trungdq88) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | **30% OFF** with code **BF26**, **November 4 – December 3, 2026**. Pro ~~$29.99~~ $20.99, Pro+ ~~$39.99/yr~~ $27.99/yr |
 | 👀 | [Looq](https://parcse.com/looq?utm_source=awesome-black-friday) | A better Quick Look for Mac: press Space to preview Markdown with math and Mermaid diagrams, code in hundreds of file types, SQLite databases, archives and folders. One-time purchase. | **10% OFF** with code **PARCSEBLACKFRIDAY** on parcse.com, **Nov 7 to Dec 1, 2026**. Single (1 Mac): ~~$10~~ **$9**, Personal (3 Macs): ~~$15~~ **$13.50**, Team (10 Macs): ~~$35~~ **$31.50** |
-
+| 📡 | [PortDroid](https://portdroid.net/black-friday-2026) | Android network toolkit: port scanner with banner grabbing, ping, traceroute, DNS and reverse DNS, WHOIS, LAN device discovery, WiFi analyser, mDNS/UPnP browser and certificate inspection. | **50% OFF** Pro Lifetime with code **CYBER_2026**, **November 5 - December 4, 2026**. **$9.49 → $4.69 (£8.49 → £4.19)**. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
