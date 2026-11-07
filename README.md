@@ -76,7 +76,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗄️ | [DynoTable](https://dynotable.com/?utm_source=trungdq88-blackfriday) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** for 12 months with code **BF50**: Individual ~~$108~~ **$54** for the first year, or ~~$12~~ **$6**/mo for 12 months. Until Dec 3 |
 | 🌐 | [Poedit](https://poedit.com/purchase/?utm_source=trungdq88) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | **30% OFF** with code **BF26**, **November 4 – December 3, 2026**. Pro ~~$29.99~~ $20.99, Pro+ ~~$39.99/yr~~ $27.99/yr |
 | 👀 | [Looq](https://parcse.com/looq?utm_source=awesome-black-friday) | A better Quick Look for Mac: press Space to preview Markdown with math and Mermaid diagrams, code in hundreds of file types, SQLite databases, archives and folders. One-time purchase. | **10% OFF** with code **PARCSEBLACKFRIDAY** on parcse.com, **Nov 7 to Dec 1, 2026**. Single (1 Mac): ~~$10~~ **$9**, Personal (3 Macs): ~~$15~~ **$13.50**, Team (10 Macs): ~~$35~~ **$31.50** |
-| 📡 | [PortDroid](https://portdroid.net/black-friday-2026) | Android network toolkit: port scanner with banner grabbing, ping, traceroute, DNS and reverse DNS, WHOIS, LAN device discovery, WiFi analyser, mDNS/UPnP browser and certificate inspection. | **50% OFF** Pro Lifetime with code **CYBER_2026**, **November 5 - December 4, 2026**. **$9.49 → $4.69 (£8.49 → £4.19)**. |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -90,6 +90,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛠️ | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026**. Pro $15 → $12/mo; Business $30 → $24/mo. Redeem by **Dec 2, 2026**. |
 | 🧩 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert dates and timestamps, encode/decode Base64, URL encoding, and JWT tokens. | **50% OFF lifetime deal** ($30 → $15) with code Sale2026 until Dec 31. |
 | 🛻 | [Git On The Go](https://gitonthego.com/) | Real Git for iPad and iPhone: every repository is an ordinary folder in the Files app, with full Git LFS, a commit graph and offline commits. No account, no analytics, one-time purchase. | **40% OFF**, no code needed: $9.99 → $5.99 (£9.99 → £5.99), Nov 27 - Dec 1 |
+| 📡 | [PortDroid](https://portdroid.net/black-friday-2026) | Android network toolkit: port scanner with banner grabbing, ping, traceroute, DNS and reverse DNS, WHOIS, LAN device discovery, WiFi analyser, mDNS/UPnP browser and certificate inspection. | **50% OFF** Pro Lifetime with code **CYBER_2026**, **November 5 - December 4, 2026**. **$9.49 → $4.69 (£8.49 → £4.19)**. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
