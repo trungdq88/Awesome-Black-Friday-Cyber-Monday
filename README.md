@@ -257,7 +257,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🖼️ | [Orshot](https://orshot.com/pricing?utm_source=awesome-bfcm) | Social content creation and posting via API & agents. Generate posts, carousels and short videos from your templates and data, then publish them to Instagram, LinkedIn, TikTok, X and 11 more platforms, from REST, n8n, Make, Zapier, Claude or ChatGPT. Free plan: 100 credits every month. | **25% OFF** any paid plan for 12 months (Launch ~~$39~~ $29.25/mo, or ~~$390~~ $292.50 for the first year billed annually) with code **BF2026**, Nov 27 - Dec 1, 2026 |
-
+| 🧹 | [CleanX](https://cleanx.lol/) | A Chrome extension that brings X (Twitter) back to a text-first experience. Hide distracting images, videos, GIFs, ads, trends and recommendations. Privacy-first: filtering happens locally in your browser. | Black Friday: Lifetime Pro $19 (regularly $59), November 11–30, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -302,6 +302,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
 | 🔎 | [Winch](https://getwinch.app/#pricing) | Native Mac app for App Store and Google Play optimization. Tracks keyword ranks in 175 countries, localizes listings, creates store art, and groups reviews into themes. | **30% OFF** with code **BLACKFRIDAY2026** through Dec 1, 2026. Current tier: **$39 → $27.30**; next tier: **$49 → $34.30**. One-time license for 2 Macs, lifetime updates. |
 | 👋 | [SlapMac](https://slapmac.com/?ref=tonybf) | Slap your MacBook and it talks back: reactive sound packs, a motion-triggered anti-theft alarm, animated lid effects and on-screen Motion Cues. Native macOS app. | **30% OFF** ($12.99 → $9.09) with code **BLACKFRIDAY26**, first 100 buyers, **Nov 3 - Dec 1, 2026** |
 
