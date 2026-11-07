@@ -257,6 +257,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🖼️ | [Orshot](https://orshot.com/pricing?utm_source=awesome-bfcm) | Social content creation and posting via API & agents. Generate posts, carousels and short videos from your templates and data, then publish them to Instagram, LinkedIn, TikTok, X and 11 more platforms, from REST, n8n, Make, Zapier, Claude or ChatGPT. Free plan: 100 credits every month. | **25% OFF** any paid plan for 12 months (Launch ~~$39~~ $29.25/mo, or ~~$390~~ $292.50 for the first year billed annually) with code **BF2026**, Nov 27 - Dec 1, 2026 |
+| 📌 | [BlogToPin](https://blogtopin.com/black-friday?utm_source=awesome-bfcm) | AI Pinterest marketer that designs, writes and schedules pins for your blog or store every day. Unlimited Pinterest accounts and websites on every plan. | **40% OFF** any annual plan with code **BF40**, Nov 2 - Dec 1, 2026 (Starter ~~$299~~ $179.40/year, Agency ~~$599~~ $359.40/year, Enterprise ~~$1499~~ $899.40/year) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
