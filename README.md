@@ -190,6 +190,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📄 | [PDF Pals v2](https://pdfpals.com/buy?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Chat with your documents on Mac. New in v2: built-in local AI models, an all-new app with the Liquid Glass design, and Word, Excel, PowerPoint, EPUB and Markdown files as well as PDF. Your files stay on your Mac. | **Lifetime** ~~$249~~ **$149** (4 Macs, every update), no code needed. **20% OFF** Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20) with code **BF20**. Until Dec 1, 2026 |
+| 🎧 | [Podwise](https://podwise.ai) | Turns any podcast episode into summaries, transcripts, mind maps and searchable notes. Web, iOS and Android, plus an API, CLI, MCP server and Skills so coding agents can query the same knowledge base. | **40% OFF** annual plans on top of the existing annual price (annual billing is already 40% off monthly, so 64% off vs paying monthly): Pro ~~$142.80~~ **$85.68**/yr, Standard ~~$70.80~~ **$42.48**/yr with code **BF2026**. Nov 16 - Dec 6, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
