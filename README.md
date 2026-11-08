@@ -264,6 +264,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🖼️ | [Orshot](https://orshot.com/pricing?utm_source=awesome-bfcm) | Social content creation and posting via API & agents. Generate posts, carousels and short videos from your templates and data, then publish them to Instagram, LinkedIn, TikTok, X and 11 more platforms, from REST, n8n, Make, Zapier, Claude or ChatGPT. Free plan: 100 credits every month. | **25% OFF** any paid plan for 12 months (Launch ~~$39~~ $29.25/mo, or ~~$390~~ $292.50 for the first year billed annually) with code **BF2026**, Nov 27 - Dec 1, 2026 |
 | 🐝 | [Tickabee](https://tickabee.com/black-friday-2026?utm_source=awesome-bfcm) | Social media scheduler for businesses, marketers and creators. Draft posts with AI in ChatGPT or Claude, or write them yourself, then approve and schedule from your Tickabee dashboard or from your AI. | **50% OFF** your first payment (first month or first year) with code **OFF50**, Nov 20 - Dec 1, 2026 |
+| 📅 | [Mixpost](https://mixpost.app?utm_source=tonybf) | Social media scheduler for better reach with less effort. Creators save hours on scheduling, teams keep every channel in one calendar, and automation fans let Claude or any MCP-ready agent draft and post for them. Built-in analytics show you what works, so you understand your social media presence. Cloud or self-hosted. | **25% OFF** all Cloud plans for 12 months, and **25% OFF** the self-hosted license. Automatically applied, Nov 23 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
