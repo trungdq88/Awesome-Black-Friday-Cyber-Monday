@@ -232,7 +232,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✉️ | [Sequenzy](https://sequenzy.com/black-friday?utm_source=awesome-bfcm) | Email marketing for SaaS and online stores: newsletters, automated sequences and transactional email from one account, with AI that writes on-brand emails and integrations for Stripe, Shopify and more. Priced by emails sent, with unlimited contacts on every plan. Free plan: 2,500 emails/month. | **30% OFF** any annual plan with code **BLACKFRIDAY** (e.g. 15,000 emails/month ~~$205~~ $143.50/year, 60,000 emails/month ~~$529~~ $370.30/year) |
 | 🔭 | [Outmano](https://outmano.com/?utm_source=awesome-bfcm) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent. | **30% OFF** the first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2, 2026). E.g. ~~$49~~ $34.30/mo, ~~$99~~ $69.30/mo, ~~$199~~ $139.30/mo |
 | 📰 | [Sponsonizer](https://sponsonizer.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Sell newsletter sponsorships without the email back-and-forth. Sponsors pick an open slot, fill in their ad and pay with Stripe, and the booking lands on your calendar. | **50% OFF** the first year of Pro Yearly with code **BF2026** (~~$99~~ $49.50). Nov 5 - Nov 30, 2026 |
-
+| 💸 | [Evendeals](https://evendeals.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Increase revenue by up to 30% with purchasing power parity pricing. | **40% OFF** on all annual and lifetime plans with code **BF2026** (e.g. ~~$108~~ $64.80/year). Nov 7 - Dec 1, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
