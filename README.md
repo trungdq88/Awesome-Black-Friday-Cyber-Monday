@@ -76,6 +76,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗄️ | [DynoTable](https://dynotable.com/?utm_source=trungdq88-blackfriday) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** for 12 months with code **BF50**: Individual ~~$108~~ **$54** for the first year, or ~~$12~~ **$6**/mo for 12 months. Until Dec 3 |
 | 🌐 | [Poedit](https://poedit.com/purchase/?utm_source=trungdq88) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | **30% OFF** with code **BF26**, **November 4 – December 3, 2026**. Pro ~~$29.99~~ $20.99, Pro+ ~~$39.99/yr~~ $27.99/yr |
 | 👀 | [Looq](https://parcse.com/looq?utm_source=awesome-black-friday) | A better Quick Look for Mac: press Space to preview Markdown with math and Mermaid diagrams, code in hundreds of file types, SQLite databases, archives and folders. One-time purchase. | **10% OFF** with code **PARCSEBLACKFRIDAY** on parcse.com, **Nov 7 to Dec 1, 2026**. Single (1 Mac): ~~$10~~ **$9**, Personal (3 Macs): ~~$15~~ **$13.50**, Team (10 Macs): ~~$35~~ **$31.50** |
+| 👀 | [Needling](https://andretan0.gumroad.com/l/leqnw/BLACKFRIDAY) | Claude Code status around the MacBook notch: two thin eyes show what Claude is doing, two bars show your 5-hour and weekly limits, and it nudges you when Claude needs you. Independent app, not made by Anthropic. | **60% OFF** with code **BLACKFRIDAY**, **November 27 – 28, 2026 (PST)**. One-time ~~$9.67~~ $3.82 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -144,6 +145,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($99 → $49.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
+| 🐰 | [Copet](https://andretan0.gumroad.com/l/btdicz/BLACKFRIDAY) | A tiny cat-bunny that hangs from your Mac's top bar and reacts to your day: happy when Claude Code finishes, panics before meetings, asks for a pet after an hour without a break. Nothing leaves your Mac. | **60% OFF** with code **BLACKFRIDAY**, **November 27 – 28, 2026 (PST)**. One-time ~~$9.67~~ $3.82 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
