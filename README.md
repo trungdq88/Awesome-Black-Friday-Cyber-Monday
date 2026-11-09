@@ -277,6 +277,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 💰 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** the first year with code **BFCM26**: yearly **$24.99 → $14.99**. US pricing; local prices vary. **Nov 2 – Dec 1, 2026** |
 | 🧮 | [Par](https://par.sawirstudio.com/black-friday-2026/?utm_source=awesome-bf-2026) | Full RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the stack always in sight. | **60% OFF** the one-time purchase: ~~$4.99~~ $1.99. Nov 26 - 30, 2026. No code needed. |
+| 💰 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% OFF** SubManager+ for lifetime. $9.99 -> $4.99 **Nov 27 – Nov 30, 2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
