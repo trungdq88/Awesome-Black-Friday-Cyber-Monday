@@ -240,7 +240,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ## 🔍 SEO Tools
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
-| 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔍 | [Seobility](https://www.seobility.net/en/lp/blackfriday26/) | All-in-one SEO software for Google and AI search, used by more than 800,000 people. Connect Claude, Cursor or Codex with the Seobility MCP, see how AI tools like ChatGPT and Gemini mention your brand, and fix issues with a Website Audit that checks 300+ factors on every page. Also includes Ranking Monitoring, Backlink Monitoring, keyword research and Uptime Monitoring. | **60 days of Premium free, then 15% OFF** the monthly Premium price for as long as you stay on Premium (~~$69.90~~ $59.41/mo) with code `blackfriday26ext`. Nov 17 to Dec 6, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
