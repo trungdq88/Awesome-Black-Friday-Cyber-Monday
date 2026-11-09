@@ -233,6 +233,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔭 | [Outmano](https://outmano.com/?utm_source=awesome-bfcm) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent. | **30% OFF** the first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2, 2026). E.g. ~~$49~~ $34.30/mo, ~~$99~~ $69.30/mo, ~~$199~~ $139.30/mo |
 | 📰 | [Sponsonizer](https://sponsonizer.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Sell newsletter sponsorships without the email back-and-forth. Sponsors pick an open slot, fill in their ad and pay with Stripe, and the booking lands on your calendar. | **50% OFF** the first year of Pro Yearly with code **BF2026** (~~$99~~ $49.50). Nov 5 - Nov 30, 2026 |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF all paid plans for 12 months**, monthly or annual, with code **BLACKFRIDAY2026**. Lite $12 → $8.40/mo; Pro $29 → $20.30/mo. Nov 9 - Dec 2, 2026. |
+ | 📱 | [Scalelist](https://scalelist.com/black-friday/?utm_source=awesome-bfcm) | Finds the emails and mobile numbers of the people you want to call. | **40% OFF** annual plans with code **BF40**: 12 months for the price of 7 (e.g. 5,000 credits/month: $1,393/year instead of $2,388 paid monthly). Until Dec 2, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
