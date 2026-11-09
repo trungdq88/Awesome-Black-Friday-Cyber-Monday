@@ -317,5 +317,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🔎 | [Winch](https://getwinch.app/#pricing) | Native Mac app for App Store and Google Play optimization. Tracks keyword ranks in 175 countries, localizes listings, creates store art, and groups reviews into themes. | **30% OFF** with code **BLACKFRIDAY2026** through Dec 1, 2026. Current tier: **$39 → $27.30**; next tier: **$49 → $34.30**. One-time license for 2 Macs, lifetime updates. |
 | 👋 | [SlapMac](https://slapmac.com/?ref=tonybf) | Slap your MacBook and it talks back: reactive sound packs, a motion-triggered anti-theft alarm, animated lid effects and on-screen Motion Cues. Native macOS app. | **30% OFF** ($12.99 → $9.09) with code **BLACKFRIDAY26**, first 100 buyers, **Nov 3 - Dec 1, 2026** |
+| 🧝 | [ElfHosted](https://store.elfhosted.com/black-friday/?utm_source=awesome-bfcm&utm_campaign=bf2026) | Managed hosting for open-source apps: Immich, Vaultwarden, Mealie, Audiobookshelf, your own AIOStreams for Stremio, and your own AI agent (OpenClaw, Hermes). No server, Docker or VPS to run; updates and daily backups included. | **$1 trial runs to Jan 1, 2027** instead of the usual 7 days, no code needed. Start any trial **Nov 23 to Nov 30, 2026** (UTC); first regular payment Jan 1, 2027. |
 
 ⬆️ | [Go to Top](#table-of-contents)
