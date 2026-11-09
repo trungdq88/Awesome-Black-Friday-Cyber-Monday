@@ -93,10 +93,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📡 | [PortDroid](https://portdroid.net/black-friday-2026) | Android network toolkit: port scanner with banner grabbing, ping, traceroute, DNS and reverse DNS, WHOIS, LAN device discovery, WiFi analyser, mDNS/UPnP browser and certificate inspection. | **50% OFF** Pro Lifetime with code **CYBER_2026**, **November 5 - December 4, 2026**. **$9.49 → $4.69 (£8.49 → £4.19)**. |
 | 📝 | [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing?utm_source=tonybf) | YouTube transcript API, MCP server and Chrome extension: transcripts, search and channel data in one call. | **30% OFF** the first year of the annual plan ($54 → $37.80), auto-applied at checkout or with code **BF26GYT**, Nov 1 - Dec 10. |
 | 🕷️ | [Piloterr](https://www.piloterr.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Web scraping API that handles headless browsers and rotates proxies for you. | **50% OFF** for 3 months with code **BLACKFRIDAY50**, until Nov 30 |
-| 🛡️ | [Veille](https://www.veille.io/?ref=Awesome-Black-Friday-Cyber-Monday) | Fraud detection APIs to stop bots, fake signups and automated abuse with a single API call. | **50% OFF** for 3 months with code **BLACKFRIDAY50**, until Nov 30 |
 | 🔍 | [Autom](https://www.autom.dev/?ref=Awesome-Black-Friday-Cyber-Monday) | The cheapest Google Search API: fast, affordable SERP results across multiple search engines. | **50% OFF** one time on the Starter plan with code **BLACKFRIDAY50**, until Nov 30 |
-| 📸 | [CaptureKit](https://www.capturekit.dev/?ref=Awesome-Black-Friday-Cyber-Monday) | Screenshot API for developers: website screenshots, content extraction and AI analysis at scale. | **50% OFF** for 3 months with code **BLACKFRIDAY50**, until Nov 30 |
-| 🎥 | [HuntAPI](https://www.huntapi.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Video to API: instant video and audio downloads with metadata from major platforms. | **50% OFF** for 3 months with code **BLACKFRIDAY50**, until Nov 30 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
