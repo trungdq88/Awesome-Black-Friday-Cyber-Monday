@@ -144,6 +144,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($99 → $49.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
+| 🐱 | [Meoz](https://meoz.ai/black-friday) | AI focus companion for macOS 14 or later. Notices when your attention drifts from your goal and helps you return, with Session Lock & Commitment Lock, focus analytics and custom focus rules in Pro. Free forever with your own AI key; Pro adds managed AI with no key needed. | **50% OFF** with code **BLACKFRIDAY2026** (applied automatically at checkout from the deal page): Annual ($40 → $20 for the first year), Monthly ($5 → $2.50 for the first month). Nov 27 - Dec 1, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
