@@ -174,6 +174,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
+| 🗂️ | [NorthPeak Desk](https://northpeak-desk.pages.dev/?ref=Awesome-Black-Friday-Cyber-Monday) | A calm planner for freelancers that runs in your browser: clients, recurring reports, time tracking, calendar and an outreach list that warns you before you write to someone twice. Works offline, your data stays on your device: no account, no tracking. English and German, free demo. | **40% OFF** (€19 → €11.40) with code **BF2026**, Nov 27 – Nov 30, 2026. One-time purchase. |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
