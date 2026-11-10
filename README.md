@@ -129,7 +129,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [SmoothCapture](https://www.smoothcapture.app/pricing) | SmoothCapture turns screen recordings into polished app demo videos: auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. Native Mac app. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($79 → $39.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
 | 🦆 | [Duckboard](https://www.duckboard.pro/) | Turn parts of any website into live, interactive desktop widgets and arrange them into custom dashboards. For macOS and Windows. | **20% OFF** Extended plan with code **BLACK2026FRIDAY**: **$29.00 → $23.20 USD**, Nov 5 - Nov 30, 2026. One-time purchase. |
 | 🐬 | [Iruka](https://iruka.sh/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A modern file manager for macOS: tabs, dual panes, list, column and icon views, instant file previews, a drop stack, batch rename and cloud mounts. One-time purchase, 30-day free trial. | **30% OFF** new licences with code **BF30**, until December 3, 2026. Personal: ~~$19.99~~ **$13.99**, Team: ~~$39.99~~ **$27.99**. |
-| ✨ | [TextSniper](https://textsniper.app) | Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | 70% OFF with code **ABFCM26** |
+| ✨ | [TextSniper](https://textsniper.app) | Copy and paste any uncopyable text from your Mac's screen, listen to it with text-to-speech, or scan QR codes instantly. | **70% OFF** lifetime licenses: 1 Mac ~~$7.99~~ $2.40, 3 Macs ~~$.9.99~~ $3.00 with code **ABFCM26**, Nov 1- Dec 2, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
