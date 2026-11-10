@@ -139,6 +139,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 ⬆️ | [Go to Top](#table-of-contents)
 
+| 🖥️ | [Remotr](https://remotr.app/#pricing) | Turn your Mac into a native RDP server and connect using Microsoft Remote Desktop or Windows App. | **30% OFF** with code **1RDUW7I6**, November 10–28, 2026. |
+
 #### Time, Distraction, Focus
 
 |  | Name | Description | Discount Code & Terms |
