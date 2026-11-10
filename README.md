@@ -92,6 +92,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛻 | [Git On The Go](https://gitonthego.com/) | Real Git for iPad and iPhone: every repository is an ordinary folder in the Files app, with full Git LFS, a commit graph and offline commits. No account, no analytics, one-time purchase. | **40% OFF**, no code needed: $9.99 → $5.99 (£9.99 → £5.99), Nov 27 - Dec 1 |
 | 📡 | [PortDroid](https://portdroid.net/black-friday-2026) | Android network toolkit: port scanner with banner grabbing, ping, traceroute, DNS and reverse DNS, WHOIS, LAN device discovery, WiFi analyser, mDNS/UPnP browser and certificate inspection. | **50% OFF** Pro Lifetime with code **CYBER_2026**, **November 5 - December 4, 2026**. **$9.49 → $4.69 (£8.49 → £4.19)**. |
 | 📝 | [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing?utm_source=tonybf) | YouTube transcript API, MCP server and Chrome extension: transcripts, search and channel data in one call. | **30% OFF** the first year of the annual plan ($54 → $37.80), auto-applied at checkout or with code **BF26GYT**, Nov 1 - Dec 10. |
+| 🤖 | [HiAPI](https://hiapi.ai/en/promotions/black-friday-2026) | One pay-as-you-go API for image, video, audio and LLM models: GPT Image, Seedance, Kling, Veo, DeepSeek, Claude and more. | **Up to 30% extra credit**: top up $500, get $650 (up to 10% top-up bonus + up to 20% back on image, video and audio spend), plus 10M free DeepSeek V4.1 Flash tokens a day. Automatic, no code needed. Nov 24 - Nov 30, 2026 (PT) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
