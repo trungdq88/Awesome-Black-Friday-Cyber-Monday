@@ -92,7 +92,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛻 | [Git On The Go](https://gitonthego.com/) | Real Git for iPad and iPhone: every repository is an ordinary folder in the Files app, with full Git LFS, a commit graph and offline commits. No account, no analytics, one-time purchase. | **40% OFF**, no code needed: $9.99 → $5.99 (£9.99 → £5.99), Nov 27 - Dec 1 |
 | 📡 | [PortDroid](https://portdroid.net/black-friday-2026) | Android network toolkit: port scanner with banner grabbing, ping, traceroute, DNS and reverse DNS, WHOIS, LAN device discovery, WiFi analyser, mDNS/UPnP browser and certificate inspection. | **50% OFF** Pro Lifetime with code **CYBER_2026**, **November 5 - December 4, 2026**. **$9.49 → $4.69 (£8.49 → £4.19)**. |
 | 📝 | [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing?utm_source=tonybf) | YouTube transcript API, MCP server and Chrome extension: transcripts, search and channel data in one call. | **30% OFF** the first year of the annual plan ($54 → $37.80), auto-applied at checkout or with code **BF26GYT**, Nov 1 - Dec 10. |
-
+| 🌐 | [Wordify](https://wordify.com/black-friday/?utm_source=github-trungdq88&utm_medium=deals-list&utm_campaign=black-friday-2026) | Managed WordPress hosting for developers and agencies: SSH, Git and WP-CLI, staging, daily backups and Automated Safe Updates with automatic rollback on every plan. Free migrations. | **50% OFF for 6 months** for new customers with code **BF50** (applied automatically from the deal page). Agency plans ~~$5~~ **$2.50 a site**/mo, monthly minimum ~~$50~~ **$25**; single-site Starter ~~$15~~ **$7.50**/mo. Until **Dec 1, 2026** (11:59pm PT). |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
