@@ -207,6 +207,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=github) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images. Use it from code, n8n, Make, Zapier, Claude or ChatGPT. 600 free credits to try. | **25% OFF** the first year of the yearly plans with code **BF2026GH**, applied automatically: Professional ~~$399.60~~ **$299.70** ($24.98/month, half the monthly plan), Hobby ~~$199.50~~ **$149.63**. Nov 24 - Dec 1, 2026 |
 | 🧰 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime ($49.50) and All Access Lifetime ($99.50), one-time payment, with code **BLACKFRIDAY** (through Nov 30). Monthly, Annual and Teams not included. |
 | 🛍️ | [Kindclerk](https://kindclerk.com/?utm_source=tonybf#pricing) | AI customer service and sales clerk for small shops. Answers customers on WhatsApp, Instagram, Messenger and more, checks stock in Shopify or WooCommerce, books appointments in Google Calendar, saves leads to HubSpot and sends payment links at your own prices. | **30% OFF your first 3 months** on any plan, no code needed (applied at checkout): Starter ~~$20~~ $14/mo, Business ~~$49~~ $34.30/mo, Enterprise ~~$99~~ $69.30/mo. New businesses, until Dec 31, 2026 |
+| ✍️ | [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content. | **50% OFF** with code **BF2026** (through Dec 15, 2026): Pro monthly ~~$9.99~~ **$5.00**/month. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -233,6 +234,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔭 | [Outmano](https://outmano.com/?utm_source=awesome-bfcm) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent. | **30% OFF** the first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2, 2026). E.g. ~~$49~~ $34.30/mo, ~~$99~~ $69.30/mo, ~~$199~~ $139.30/mo |
 | 📰 | [Sponsonizer](https://sponsonizer.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Sell newsletter sponsorships without the email back-and-forth. Sponsors pick an open slot, fill in their ad and pay with Stripe, and the booking lands on your calendar. | **50% OFF** the first year of Pro Yearly with code **BF2026** (~~$99~~ $49.50). Nov 5 - Nov 30, 2026 |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF all paid plans for 12 months**, monthly or annual, with code **BLACKFRIDAY2026**. Lite $12 → $8.40/mo; Pro $29 → $20.30/mo. Nov 9 - Dec 2, 2026. |
+| ✉️ | [Mailazy](https://mailazy.com/blog/black-friday-deals) | Email sending and marketing. | **30% OFF** with code **THANKS30** (Nov 5, 2026 to Feb 5, 2027): Pro monthly ~~$49~~ **$34.30**/month. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -241,6 +243,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔎 | [GrackerAI](https://gracker.ai/blog/black-friday-deals) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS. Tracks how ChatGPT, Perplexity and Claude cite your brand and fixes what is missing. | **20% OFF** with code **BF2026** (through Dec 15, 2026): Individual monthly ~~$99~~ **$79.20**/month. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -269,6 +272,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🚀 | [Nuelink](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=trungdq88_awesome_black_friday_cyber_monday) | Agentic social media scheduling and automation for 12 platforms. Tell Claude or ChatGPT what to post and Nuelink publishes it, or turn new blog posts, products and videos into posts automatically. API and MCP on every plan. | **50% OFF** yearly plans (6 months free) or **25% OFF** your first 3 monthly payments with code **BFCM26** (Standard ~~$288~~ $144 for the first year, or ~~$24~~ $18/mo). Nov 6 - Nov 30, 2026, 23:59 UTC |
 | 🌸 | [Posteady](https://www.posteady.com/black-friday?promo=BF26&utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf2026) | AI social media workspace for marketers, agencies and small businesses. Turn a link or idea into a designed Instagram or LinkedIn carousel, generate captioned Reels and Shorts, clip long videos into short ones, and schedule it all to Threads, Instagram, X, LinkedIn, TikTok, YouTube and Facebook. | **50% OFF annual plans** with code **BF26**: Creator ~~$29/mo~~ **$14.50/mo** billed yearly ($174/yr), Pro ~~$79/mo~~ **$39.50/mo** ($474/yr), Team ~~$149/mo~~ **$74.50/mo** ($894/yr). Annual price is kept while you stay on the annual plan. Monthly: **20% OFF** the first 3 months for new subscribers. **Nov 20 - Dec 3, 2026** |
 | ✂️ | [SnapDub](https://snapdub.ai/) | Turn a long video (stream, podcast or YouTube link) into captioned vertical clips for TikTok, Reels and Shorts. It finds the best moments, keeps the speaker in frame and posts straight to your accounts. Also works inside ChatGPT and Claude. | **20% OFF** your first month on any plan with code **BLACKFRIDAY20**, now - December 4, 2026. |
+| 📅 | [Social9](https://social9.com/) | Social media scheduling. | **30% OFF** with code **BF2026** (through Dec 15, 2026): Individual monthly ~~$12~~ **$8.40**/month. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
