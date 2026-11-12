@@ -207,7 +207,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=github) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images. Use it from code, n8n, Make, Zapier, Claude or ChatGPT. 600 free credits to try. | **25% OFF** the first year of the yearly plans with code **BF2026GH**, applied automatically: Professional ~~$399.60~~ **$299.70** ($24.98/month, half the monthly plan), Hobby ~~$199.50~~ **$149.63**. Nov 24 - Dec 1, 2026 |
 | 🧰 | [AI Toolbox](https://www.ai-toolbox.co/pricing) | Chrome extension that adds folders, full-text search, bulk delete and export to ChatGPT, Claude, Gemini and Grok. | **50% OFF** Lifetime ($49.50) and All Access Lifetime ($99.50), one-time payment, with code **BLACKFRIDAY** (through Nov 30). Monthly, Annual and Teams not included. |
 | 🛍️ | [Kindclerk](https://kindclerk.com/?utm_source=tonybf#pricing) | AI customer service and sales clerk for small shops. Answers customers on WhatsApp, Instagram, Messenger and more, checks stock in Shopify or WooCommerce, books appointments in Google Calendar, saves leads to HubSpot and sends payment links at your own prices. | **30% OFF your first 3 months** on any plan, no code needed (applied at checkout): Starter ~~$20~~ $14/mo, Business ~~$49~~ $34.30/mo, Enterprise ~~$99~~ $69.30/mo. New businesses, until Dec 31, 2026 |
-
+| [Let's Trip](https://letstrip.ai/pricing) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | **50% OFF** Premium: $5/month (was $10) or $50/year (was $100). | Nov 11 – Dec 1, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
