@@ -144,6 +144,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🕑 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac. Logs apps, sites and docs, sorts them into projects and turns hours into invoices. Data stays on your Mac. | **50% OFF** with code **BLACKFRIDAY26** (applied automatically on the pricing page): Lifetime ($149 → $74.50), Personal ($99 → $49.50), Chronoid + SmoothCapture bundle ($199 → $99.50). Nov 3 - Dec 2, 2026. |
+| ⏱️ | [Daily Time Tracking](https://dailytimetracking.com/?utm_source=bf2026-github-tony) | Daily tracks time on Mac by periodically asking what you're doing, without timers or activity monitoring. Export CSV, JSON and PDF; integrate via API or MCP; automate via Zapier or AppleScript. | **Up to 30% OFF**: Annual US$39.99 → US$29.99 for one upcoming year with **DAILYBF2026**, then standard renewal; new, existing and expired subscribers subject to Apple's terms. Lifetime US$99.99 → US$69.99 once, no code, in-app purchase. Same numerical EUR prices. November 23–30, 2026. Local prices/savings vary; existing subscribers should compare their current rate. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
