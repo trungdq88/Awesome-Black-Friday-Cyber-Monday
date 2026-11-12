@@ -196,6 +196,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📄 | [PDF Pals v2](https://pdfpals.com/buy?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Chat with your documents on Mac. New in v2: built-in local AI models, an all-new app with the Liquid Glass design, and Word, Excel, PowerPoint, EPUB and Markdown files as well as PDF. Your files stay on your Mac. | **Lifetime** ~~$249~~ **$149** (4 Macs, every update), no code needed. **20% OFF** Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20) with code **BF20**. Until Dec 1, 2026 |
+| ✍️ | [Orwellix](https://orwellix.com/lifetime-deal?utm_source=awesome-bfcm&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026) | AI writing editor in the browser. An agent edits your whole document in place and you accept or reject every change, with grammar checking, readability analysis and plagiarism checking in the same document. Import and export Word files. | **Black Friday Lifetime plan**: ~~$468/year~~ (Premium) **$249 one-time**, with more AI credits, grammar characters and plagiarism words than Premium every month. No code needed. Only 300 deals, until Dec 31, 2026. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
