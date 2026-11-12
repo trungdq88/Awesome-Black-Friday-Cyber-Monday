@@ -233,6 +233,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔭 | [Outmano](https://outmano.com/?utm_source=awesome-bfcm) | AI competitive intelligence for SaaS teams: tracks competitors' pricing, website, SEO and news, alerts you on changes, and works with your AI agent. | **30% OFF** the first 12 months on any monthly plan with code **BF2026** (new customers only, until Dec 2, 2026). E.g. ~~$49~~ $34.30/mo, ~~$99~~ $69.30/mo, ~~$199~~ $139.30/mo |
 | 📰 | [Sponsonizer](https://sponsonizer.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Sell newsletter sponsorships without the email back-and-forth. Sponsors pick an open slot, fill in their ad and pay with Stripe, and the booking lands on your calendar. | **50% OFF** the first year of Pro Yearly with code **BF2026** (~~$99~~ $49.50). Nov 5 - Nov 30, 2026 |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF all paid plans for 12 months**, monthly or annual, with code **BLACKFRIDAY2026**. Lite $12 → $8.40/mo; Pro $29 → $20.30/mo. Nov 9 - Dec 2, 2026. |
+| 🔔 | [FomoToast](https://fomotoast.com) | Social-proof popups built from real customer activity (sales, sign-ups, reviews). Works on any site, including WooCommerce and Shopify. One-time pricing, no monthly fee. | **40% OFF** any lifetime plan with code **BF26** (one-time payment, from $39). Nov 13 - Dec 2, 2026. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
