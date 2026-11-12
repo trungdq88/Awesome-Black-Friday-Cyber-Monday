@@ -165,6 +165,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ⏳ | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines. | **50% OFF Lifetime: 59.99 USD → 29.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
 | ✅ | [Habit Pixel](https://habitpixel.com) | Habit tracker that colors a pixel for every check-in, so you can watch your consistency grow. Streak goals, reminders and home screen widgets, all offline with no account needed. iPhone and Android. | **33% OFF Lifetime** (one-time purchase), **November 19 – December 2, 2026**. US pricing: **$29.99 → $19.99 USD**; local prices vary. Discount applied automatically in the app, no code needed. |
 | 📸 | [Email Me](https://emailmeapp.net/) · [Digital Photo Frame](https://digitalphotoframeapp.com/) | Two Apple apps from one indie studio: voice and text notes sent straight to your inbox, and a smart photo frame for iPhone, iPad, Mac and Apple TV. | **50% OFF**, no code needed, **November 27 – December 1, 2026**. US pricing: Email Me Yearly **$12.99 → $6.49 USD**, Digital Photo Frame Yearly **$19.99 → $9.99 USD**; local prices vary. |
+| ⏳ | [SinceWhen: Days Since Tracker](https://apps.apple.com/us/app/sincewhen-days-since-counter/id6759450144) | SinceWhen is a one-tap tracker for things you do now and then, like haircuts, meds and oil changes. It learns your rhythm and nudges you before anything slips. No streaks, no account, no ads. |  **50% OFF Lifetime: 59.99 USD → 29.99 USD**. **November 20–December 1, 2026**. Discount available directly in the app. No code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -174,6 +175,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
+| 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily/?utm_source=awesome-bf-2026) | Copy any text with one click. No selecting, no Ctrl+C. Plus a clipboard history you can search and drag into any field. | **30% OFF** lifetime license using **30BF2026** from  **Nov 5 – Dec 2, 2026** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
@@ -220,6 +222,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/?utm_source=awesome-bf-2026) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable: recolor or warp a line long after and it stays sharp. Opens .procreate and .psd files with their layers. | **50% OFF** the one-time purchase: ~~$12.99~~ $6.49, one purchase for iPad, iPhone and Mac. Nov 27 - Dec 1, 2026. No code needed. |
 | 🖌️ | [Dabbit](https://dabbit.app/?utm_source=awesome-bf-2026) | Pixel-exact, color-managed color picker for Mac. Copy any color in the format you need (Hex, OKLCH, Display P3, SwiftUI, Tailwind…), build palettes and scales, and send them straight to Figma with the free Figma plugin, as named variables with Light and Dark modes. | **30% OFF** the one-time license. Code `BLACKFRIDAY`, applied automatically at checkout. Nov 4 - Dec 1, 2026. |
 | 🐶 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-awesome-bf&utm_medium=listing&utm_campaign=press-awesome-bf) | iPhone and Android app that turns photos of your pets, friends and food into chat stickers for iMessage, WhatsApp and Telegram. No ads, no account, no subscription. | **43% OFF** the one-time Plus purchase: ~~$6.99~~ $3.99, on iPhone and Android. Nov 27 - 30, 2026. No code needed. |
+| 🎨 | [AppScreenPro](https://appscreenpro.com/?utm_source=awesome-bf-2026) | Make App Store & Google Play screenshots in minutes, right in your browser. Pay once, own it forever. | **30% OFF** lifetime license with **30BF2026** : Nov 12 - Dec 1, 2026. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
