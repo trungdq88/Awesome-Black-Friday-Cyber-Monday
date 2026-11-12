@@ -174,6 +174,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
+| 🐜 | [AntShot](https://antshot.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page. Mark them up and save as PNG, JPG or PDF. Screenshots stay on your device: no account, no uploads. The free version has no limits or watermarks. | **35% OFF** Pro Lifetime with code **BLACKFRIDAY26**: ~~$39~~ **$25.35** one-time, includes all future updates. **Nov 12 – Dec 2, 2026** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
