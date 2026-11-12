@@ -76,7 +76,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗄️ | [DynoTable](https://dynotable.com/?utm_source=trungdq88-blackfriday) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** for 12 months with code **BF50**: Individual ~~$108~~ **$54** for the first year, or ~~$12~~ **$6**/mo for 12 months. Until Dec 3 |
 | 🌐 | [Poedit](https://poedit.com/purchase/?utm_source=trungdq88) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | **30% OFF** with code **BF26**, **November 4 – December 3, 2026**. Pro ~~$29.99~~ $20.99, Pro+ ~~$39.99/yr~~ $27.99/yr |
 | 👀 | [Looq](https://parcse.com/looq?utm_source=awesome-black-friday) | A better Quick Look for Mac: press Space to preview Markdown with math and Mermaid diagrams, code in hundreds of file types, SQLite databases, archives and folders. One-time purchase. | **10% OFF** with code **PARCSEBLACKFRIDAY** on parcse.com, **Nov 7 to Dec 1, 2026**. Single (1 Mac): ~~$10~~ **$9**, Personal (3 Macs): ~~$15~~ **$13.50**, Team (10 Macs): ~~$35~~ **$31.50** |
-
+| ⭐ | [DropDMG](https://c-command.com/dropdmg/) | The easiest way to create and work with Mac disk images (.dmg files). | **BLACKFRIDAY2026** 25% off |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -153,6 +153,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🌙 | [AppsByMo](https://appsbymo.app/?ref=awesome-bf) | 14 Mac and iPhone apps from one independent developer: Atelier, Cue, Scry, Thurayya, Margin, Wick, Vigil, Mo, What Happened, Chute, Yonder, Soluna, Emojist and Pinvoy. Native, private, no accounts. | **50% OFF every paid app**, Nov 9 - Dec 1, 2026. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue ~~$29~~ $14.50, Scry ~~$24~~ $12). App Store apps half price, no code (e.g. Wick ~~$15.99~~ $7.99, Margin for iPhone ~~$5.99~~ $2.99) |
 | 🧮 | [Ratio](https://useratio.app/?ref=awesome-bf) | Notepad calculator for Mac, Windows and Linux. Write sums like a note and see the answer as you type: 160+ live currencies, units, dates, time zones and charts. One-time purchase, no account. | **30% OFF** with code **BLACKFRIDAY26** (Nov 24 - Dec 1, 2026): 1 computer ~~$19.99~~ $13.99, 2 computers ~~$29.99~~ $20.99, 3 computers ~~$39.99~~ $27.99. Direct purchase only |
+| ⭐ | [EagleFiler](https://c-command.com/eaglfiler/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | **BLACKFRIDAY2026** 25% off |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -174,6 +175,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
+| ⭐ | [SpamSieve](https://c-command.com/spamsieve/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | **BLACKFRIDAY2026** 25% off |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 
