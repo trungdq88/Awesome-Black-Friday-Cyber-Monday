@@ -174,6 +174,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
+| ☁️ | [Koofr](https://koofr.eu/black-friday/) | Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, and external cloud integrations. Access via web, desktop, mobile, WebDAV, and rclone. | **55% OFF** yearly plans **250 GB** to **5TB**, including gift cards. Use promo code **BF2026**. Valid **November 16–30, 2026** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
