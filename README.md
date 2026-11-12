@@ -138,6 +138,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖥️ | [Spacepal](https://getspacepal.com/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | Names, colours and live previews for your Mac desktops (Spaces). Press Option-Tab to see every Space, type to find any window, and switch instantly without the slide animation. Native macOS app, 14-day free trial. | **20% OFF** the launch price ($9.99 → $7.99), one-time for up to 3 Macs. Applied automatically at checkout, no code. **Nov 27 – Dec 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
+| 🎬 | [MotionShine](https://motionshine.com/?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026#pricing) | Native Mac screen recorder that adds auto zoom, a smooth cursor, backgrounds and captions for you, with a built-in editor. Free version with no watermark. | **50% OFF** every paid plan with code **BF50**, one-time purchase: Pro Forever ~~$99~~ **$49.50**, Pro ~~$49~~ **$24.50**, Agency ~~$179~~ **$89.50**. **Nov 12 - Dec 5, 2026** |
+
 
 #### Time, Distraction, Focus
 
