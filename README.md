@@ -279,6 +279,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 💰 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** the first year with code **BFCM26**: yearly **$24.99 → $14.99**. US pricing; local prices vary. **Nov 2 – Dec 1, 2026** |
 | 🧮 | [Par](https://par.sawirstudio.com/black-friday-2026/?utm_source=awesome-bf-2026) | Full RPN financial calculator for iPhone and iPad: TVM, loans, amortization, NPV, IRR, bonds, dates and statistics, with the stack always in sight. | **60% OFF** the one-time purchase: ~~$4.99~~ $1.99. Nov 26 - 30, 2026. No code needed. |
+| 🔒 | [OrbySystems](https://orbysystems.ai/offers) | Private financial AI that runs on your laptop. No forms to fill in: add your bank and brokerage statements and see answers in about five minutes. Spending, real investment returns and a retirement outlook, every figure traced to its statement. Free Everyday plan. | **75% OFF** Plus and Premium with code **BLACKFRIDAY26**: Plus ~~$49.95~~ **$12.49**, Premium ~~$249.95~~ **$62.49** (Premium US only). Covers 2027 and all earlier statement years. **Now – Nov 30, 2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
