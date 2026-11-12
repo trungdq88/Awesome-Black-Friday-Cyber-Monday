@@ -174,7 +174,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | ✍️ | [Gramcheck](https://extensions.loopspec.com/gramcheck?ref=Awesome-Black-Friday-Cyber-Monday) | Grammar and spell checker for Chrome that runs entirely on your device, so your writing is never uploaded. Works in Gmail, Google Docs, Notion, Slack, LinkedIn, X and more, in five kinds of English. No account, no subscription, 14-day free trial. | **51% OFF** lifetime license: ~~$39~~ **$19** one-time, 5 years of updates. Applied automatically at checkout, no code needed. **Nov 5 – Dec 2, 2026** |
-| ✍️ | [Wordfully](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** with code **BLACKFRIDAY2026**: monthly ~~$20~~ **$10** for the first month, or annual ~~$108~~ **$54** for the first year (USD, before tax). First-time paying customers only; renewals at normal price. No expiry. |
+| ✍️ | [Wordfully](https://www.wordfully.ai/c/BLACKFRIDAY2026) | AI grammar checker and rephraser for everyday writing. | **50% OFF the first Pro payment** with code **BLACKFRIDAY2026**: monthly ~~$20~~ **$10** for the first month, or annual ~~$108~~ **$54** for the first year (USD, before tax). First-time paying customers only; renewals at normal price. Ends 4 December 2026, 23:59 Europe/Warsaw. |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
