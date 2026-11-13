@@ -187,6 +187,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💬 | [Vinaa](https://www.vinaa.ai/?utm_source=awesome-black-friday) | Native AI chat for macOS. Chat with cloud and local models, multiple windows and tabs, MCP, prompt templates, private iCloud sync and more. Lifetime licence. | **Up to 45% OFF** for Black Friday: 1 Mac $30, 2 Macs $39, 3 Macs $55 (until Nov 30, 2026) |
 | 🌀 | [Slashspace](https://www.slashspace.ai/?utm_source=tonybf) | Node-based AI harness for visual thinkers. Chat with ChatGPT, Claude, Gemini and local models as nodes on an infinite canvas, branch any answer, compare models side by side. Use your API keys or your ChatGPT and Claude subscriptions. Mac, Windows, Linux. | **51% OFF** with code **BF2026**, Nov 4 - Dec 1, 2026: Lifetime ~~$249~~ $122.01, Yearly ~~$89~~ $43.61 |
 | 💎 | [Fluent 2](https://fluentmac.app/?ref=Awesome-Black-Friday-Cyber-Monday) | Not another chat window: press ⌥Space in any app and Fluent works with what's in front of you. Polish the email you're writing, summarize a page or YouTube video, find a better price, or let it click through an app for you. Hire AI teammates and save hours on routine tasks, like drafting emails or sorting your Downloads folder. Use the ChatGPT or Claude plan you already pay for, 500+ models or local AI. Desktop pet included. One-time purchase. | **25% OFF** with code **BF2026**, until Dec 1: Basic ~~$49~~ $36.75 |
+| 🛰️ | [Outlier](https://outlier.host/?ref=awesome-bf) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat, a coding agent for your own codebase, and research with cited sources. Free to start. | **Black Friday sale: $16.99 once** (31% off our November price of $24.50), through Dec 2, then $29. Pay once, no code needed |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -220,6 +221,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎨 | [Rindraw](https://rindraw.com/black-friday-2026/?utm_source=awesome-bf-2026) | Drawing, painting and animation app for iPad, iPhone and Mac that keeps every stroke editable: recolor or warp a line long after and it stays sharp. Opens .procreate and .psd files with their layers. | **50% OFF** the one-time purchase: ~~$12.99~~ $6.49, one purchase for iPad, iPhone and Mac. Nov 27 - Dec 1, 2026. No code needed. |
 | 🖌️ | [Dabbit](https://dabbit.app/?utm_source=awesome-bf-2026) | Pixel-exact, color-managed color picker for Mac. Copy any color in the format you need (Hex, OKLCH, Display P3, SwiftUI, Tailwind…), build palettes and scales, and send them straight to Figma with the free Figma plugin, as named variables with Light and Dark modes. | **30% OFF** the one-time license. Code `BLACKFRIDAY`, applied automatically at checkout. Nov 4 - Dec 1, 2026. |
 | 🐶 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-awesome-bf&utm_medium=listing&utm_campaign=press-awesome-bf) | iPhone and Android app that turns photos of your pets, friends and food into chat stickers for iMessage, WhatsApp and Telegram. No ads, no account, no subscription. | **43% OFF** the one-time Plus purchase: ~~$6.99~~ $3.99, on iPhone and Android. Nov 27 - 30, 2026. No code needed. |
+| 🎞️ | [Crisp](https://crispvideo.app/pricing/?ref=awesome-bf) | Restores, denoises and upscales old video and VHS transfers to 4K on your own Mac or Windows PC, offline, with a timeline editor. Photos too on Mac. Free version available. | **Black Friday sale: $9.99 once** (31% off our November price of $14.50), through Dec 2, then $19. Pay once, no code needed |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
@@ -241,6 +243,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔧 | [Check Engine SEO](https://checkengineseo.com/?ref=awesome-bf) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste and a client-ready PDF. Free version available. | **Black Friday sale: $19.99 once** (32% off our November price of $29.50), through Dec 2, then $39. Pay once, no code needed |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
