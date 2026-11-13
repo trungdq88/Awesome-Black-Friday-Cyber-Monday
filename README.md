@@ -242,6 +242,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔧 | [Check Engine SEO](https://checkengineseo.com/?ref=awesome-bf) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan with the markup to paste and a client-ready PDF. Free version available. | **Black Friday sale: $19.99 once** (32% off our November price of $29.50), through Dec 2, then $39. Pay once, no code needed |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
