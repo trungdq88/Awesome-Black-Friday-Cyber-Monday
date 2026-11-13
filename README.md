@@ -241,6 +241,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔍 | [ZeroRank](https://zerorank.ai) | AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | **About 45% off the first annual year vs 12 standard monthly payments**, or **28% off the first 3 monthly payments**. Standard rates apply afterward. Eligible subscriptions only; no stacking. Click the Black Friday deal to auto-apply the discount at checkout. [Offer terms](https://zerorank.ai/pricing). Ends November 30, 2026 at 23:59 Europe/Tirane. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
