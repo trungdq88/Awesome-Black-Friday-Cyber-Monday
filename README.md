@@ -241,6 +241,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔍 | [CopyJump](https://copyjump.com/pricing?utm_source=tonybf) | Helps you get more customers from Google and AI search. Research, plan and write from your brand and real search data, for your own site or your clients. | **$40 off** the first invoice (1 site ~~$79~~ **$39**), applied automatically (code **BLACKFRIDAY26**). First-time orders, limited redemptions. Black Friday through Nov 27, then Cyber Week through Dec 1, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
