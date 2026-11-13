@@ -241,6 +241,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🔭 | [Ascope](https://ascope.app/?ref=Awesome-Black-Friday-Cyber-Monday#pricing) | ASO tool and keyword rank tracker for Mac and Windows. Tracks your App Store and Google Play rankings every day in 50+ countries, with Apple's own popularity score and a difficulty score next to every keyword. Data stays on your computer; includes an MCP server for Cursor and Claude. | **63% OFF Lifetime license**: ~~$189~~ **$69** one-time, no code needed. Nov 1 - Nov 30, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
