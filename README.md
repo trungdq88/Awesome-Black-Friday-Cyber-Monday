@@ -196,6 +196,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📄 | [PDF Pals v2](https://pdfpals.com/buy?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Chat with your documents on Mac. New in v2: built-in local AI models, an all-new app with the Liquid Glass design, and Word, Excel, PowerPoint, EPUB and Markdown files as well as PDF. Your files stay on your Mac. | **Lifetime** ~~$249~~ **$149** (4 Macs, every update), no code needed. **20% OFF** Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20) with code **BF20**. Until Dec 1, 2026 |
+| 🎓 | [Colossyan](https://www.colossyan.com/pricing?utm_source=awesomebf&utm_medium=referral&utm_campaign=black-friday-2026) | AI video and course creation for training teams. Turn documents, slides and screen recordings into training videos and interactive courses, presented by AI avatars and voiced in 120+ languages. | **40% OFF the first year** of Professional (yearly) with code **BLACKFRIDAY40**: ~~$59~~ **$35.40/mo** billed yearly (~~$708~~ $424.80 for the first year). Extra editors get 40% off too. Yearly plans only. Nov 23 - Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
