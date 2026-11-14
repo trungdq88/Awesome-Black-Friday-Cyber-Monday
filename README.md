@@ -196,6 +196,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 📄 | [PDF Pals v2](https://pdfpals.com/buy?utm_source=awesomebf&utm_medium=partner&utm_campaign=bf2026) | Chat with your documents on Mac. New in v2: built-in local AI models, an all-new app with the Liquid Glass design, and Word, Excel, PowerPoint, EPUB and Markdown files as well as PDF. Your files stay on your Mac. | **Lifetime** ~~$249~~ **$149** (4 Macs, every update), no code needed. **20% OFF** Basic (~~$59~~ $47.20) and Plus (~~$99~~ $79.20) with code **BF20**. Until Dec 1, 2026 |
+| 📓 | [NotebookLM Tools](https://www.nlmtools.com/pricing?utm_source=awesome-black-friday&utm_medium=referral&utm_campaign=black-friday-2026) | Chrome & Firefox extension that adds 35+ features to NotebookLM (now Gemini Notebook): bulk import, folders and collections, source export and saved prompts. Pro adds batch generation of quizzes, flashcards, slides and reports, up to 20 notebooks in one run. Free version available. | **30% OFF** 1-Month and 1-Year Pro with code **BLACKFRIDAY2026**: 1-Month ~~$7~~ **$4.90**, 1-Year ~~$29~~ **$20.30**, one-time payments, no subscription (Lifetime not included), **Nov 14 - Dec 2, 2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
