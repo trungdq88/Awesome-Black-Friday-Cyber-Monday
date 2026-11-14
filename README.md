@@ -241,6 +241,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🧠 | [New Row Template](https://www.typingmind.com/?utm_source=tonybf) |Example description |**BLACKFRIDAY2026** |
+| 🏁 | [Keyword Race](https://keywordrace.com/?utm_source=tonybf) | App Store keyword research for indie iOS developers: the apps competing for a keyword, your app's position among them, and labeled estimates of demand and competition. 5 free checks a day, no account. | **40% OFF** lifetime access ($59 → $35), one payment, no code needed (until Dec 2, 2026) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
