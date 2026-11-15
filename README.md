@@ -159,6 +159,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎹 | [Assignee](https://www.assignee.app) | A lightning-fast app switcher for macOS. No frills, just pure speed. | **30% OFF** with code **BFCM26** at checkout until Nov 30, 2026 |
 | 🪟 | [BetterStage](https://betterstage.app/pricing?utm_source=tonybf&utm_campaign=bf2026) | Window and workspace manager for macOS: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher, and Saved Workspaces. Native app, one-time purchase. | **20% OFF** lifetime Pro ($19.99 → $15.99 for 1 Mac, $39.99 → $31.99 for 3 Macs, $49.99 → $39.99 for 5 Macs) with code **BLACKFRIDAY20**, Nov 23 - Nov 30 |
 | 🎥 | [palmscreen](https://www.palmscreen.app/black-friday/?ref=Awesome-Black-Friday-Cyber-Monday) | palmscreen brings screenshots and screen recordings together in one beautifully simple Mac app. Capture, edit and share, and everything looks polished without extra work. macOS 15+, 14-day free trial. One-time purchase, one Mac. Made by us (palmstudio GmbH). | **$19** instead of $29 with code **BLACKWEEK** (active Nov 23 - Nov 30, 2026) |
+| 📋 | [CopyPasta](https://usecopypasta.com/) | Private-by-default clipboard manager for macOS that opens from the notch: encrypted history, Paste Stack and more. One-time purchase. | **50% OFF** all licenses: Personal ~~$14.99~~ **$7.50**, Plus ~~$29.99~~ **$15**, Studio ~~$39.99~~ **$20**. Applied automatically at checkout, or use code **BLACKFRIDAY26**. **Nov 14 – Dec 6, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
