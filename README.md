@@ -285,6 +285,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 🚀 | [Citation Rocket](https://www.citationrocket.com/pricing?utm_source=tonybf&utm_medium=bf_list&utm_campaign=bf2026) | AI-search readiness audit. Checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then gives a ranked fix list and a 10-file AEO Pack. Pay once, runs on your own OpenRouter key. | **40% OFF** lifetime licence, no code needed. Lifetime ~~$99~~ $59, Agency with white-label PDFs ~~$149~~ $89. Nov 12 - Dec 2, 2026 |
+| 🔍 | [CopyJump](https://copyjump.com/pricing?utm_source=tonybf) | Helps you get more customers from Google and AI search. Research, plan and write from your brand and real search data, for your own site or your clients. | **$40 off** the first invoice (1 site ~~$79~~ **$39**), applied automatically (code **BLACKFRIDAY26**). First-time orders, limited redemptions. Black Friday through Nov 27, then Cyber Week through Dec 1, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
