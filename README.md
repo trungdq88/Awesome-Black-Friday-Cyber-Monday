@@ -194,6 +194,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📤 | [Exporter](https://exporter.dev/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Mac app that keeps Apple Notes, Messages, Contacts, Calendar, Reminders, Mail, Safari and more as Markdown files in a folder you pick, kept in sync, so Obsidian and AI tools can read them. Each app exports free up to an allowance; one-time purchases, no account. | **20% OFF** Everything (every app, and each one added later): ~~$29.99~~ **$23.99**, no code needed, in the Mac App Store, until Dec 1, 2026. |
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock: ~~$59.99~~ **$39.99**, no code needed, 7-day free trial. Nov 27 - Dec 7, 2026. Back to $59.99 Dec 8. |
 | ✂️ | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase: ~~$149~~ **$99**, no code needed. Nov 12 – Dec 4, 2026 |
+| ⭐ | [EagleFiler](https://c-command.com/store/sale/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2026** (~~$69.99~~ $52.49) Nov 20 - Nov 30 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -223,6 +224,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ☁️ | [Koofr](https://koofr.eu/black-friday/) | Secure and reliable EU cloud storage that respects your privacy. No ads, no trackers and no spam. Supports automatic phone backups, device sync, and external cloud integrations. Access via web, desktop, mobile, WebDAV, and rclone. | **55% OFF** yearly plans **250 GB** to **5TB**, including gift cards. Use promo code **BF2026**. Valid **November 16–30, 2026** |
 | 🐜 | [AntShot](https://antshot.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page. Mark them up and save as PNG, JPG or PDF. Screenshots stay on your device: no account, no uploads. The free version has no limits or watermarks. | **35% OFF** Pro Lifetime with code **BLACKFRIDAY26**: ~~$39~~ **$25.35** one-time, includes all future updates. **Nov 12 – Dec 2, 2026** |
 | 📋 | [Copy Text Easily](https://devapt.com/copy-text-easily/?utm_source=awesome-bf-2026) | Copy any text with one click. No selecting, no Ctrl+C. Plus a clipboard history you can search and drag into any field. | **30% OFF** lifetime license using **30BF2026**: ~~$29~~ → **$20.3** one-time, includes all future updates. **Nov 12 – Dec 2, 2026** |
+| ⭐ | [SpamSieve](https://c-command.com/store/sale/) | Save time by adding powerful spam filtering to the e-mail client on your Mac. | 25% off with code **BLACKFRIDAY2026** (~~$39.99~~ $29.99) Nov 20 - Nov 30 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
