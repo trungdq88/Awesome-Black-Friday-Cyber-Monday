@@ -166,6 +166,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖥️ | [Remotr](https://remotr.app/#pricing) | Turn your Mac into a native RDP server and connect using Microsoft Remote Desktop or Windows App. | **30% OFF** Personal ($9.99 → $6.99) and Pro ($29.99 → $20.99) with code **1RDUW7I6**, November 10–28, 2026. |
 | 🪟 | [DockView 2](https://noteifyapp.com/dockview/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Hover any Dock icon to preview every open window of that app and switch to it. Native macOS app, one-time purchase. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: ~~$14.99~~ **$10.49**, Lifetime ~~$49.99~~ **$34.99**, **Nov 1 – Nov 30, 2026** |
 | 🔭 | [Quick Exposé 3](https://noteifyapp.com/quick-expose/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Classic Exposé on modern macOS: every window, every desktop, one overview, with Modern, Classic and Spaces layouts. One-time purchase. | **30% OFF** with code **MACPLUSBLACKFRIDAY26**: ~~$39.99~~ **$27.99**, **Nov 1 – Nov 30, 2026** |
+| 🔍 | [FileMinutes](https://www.fileminutes.com/?utm_source=awesome-black-friday) | A better way to find files on your Mac. Search inside a folder, browse files with arrow keys, filter by file type, and open, copy or share files right from your results. | **Up to 60% OFF** lifetime, code auto-applied at checkout: Pro ~~$10~~ $6, Pro 3x ~~$21~~ $9, Pro 5x ~~$30~~ $12 (until Nov 30) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
