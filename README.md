@@ -286,6 +286,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | -- | ---| ------ | ------ |
 | 🚀 | [Citation Rocket](https://www.citationrocket.com/pricing?utm_source=tonybf&utm_medium=bf_list&utm_campaign=bf2026) | AI-search readiness audit. Checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then gives a ranked fix list and a 10-file AEO Pack. Pay once, runs on your own OpenRouter key. | **40% OFF** lifetime licence, no code needed. Lifetime ~~$99~~ $59, Agency with white-label PDFs ~~$149~~ $89. Nov 12 - Dec 2, 2026 |
 | 🔍 | [CopyJump](https://copyjump.com/pricing?utm_source=tonybf) | Helps you get more customers from Google and AI search. Research, plan and write from your brand and real search data, for your own site or your clients. | **$40 off** the first invoice (1 site ~~$79~~ **$39**), applied automatically (code **BLACKFRIDAY26**). First-time orders, limited redemptions. Black Friday through Nov 27, then Cyber Week through Dec 1, 2026 |
+| 🔍 | [ZeroRank](https://zerorank.ai) | AI visibility tracking and GEO software. Monitor brand mentions, citations and competitors in AI search. | **About 45% off the first annual year vs 12 standard monthly payments**, or **28% off the first 3 monthly payments**. Standard rates apply afterward. Eligible subscriptions only; no stacking. Click the Black Friday deal to auto-apply the discount at checkout. [Offer terms](https://zerorank.ai/pricing). Ends November 30, 2026 at 23:59 Europe/Tirane. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
