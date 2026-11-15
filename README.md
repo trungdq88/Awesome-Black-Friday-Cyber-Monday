@@ -87,6 +87,94 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
+
+## What's new in 2026?
+- ⭐ **High quality curated deals only**: All deals in this repo are carefully review by me (Tony Dinh) with help from my brother (Hieu Dinh). We only pick the most legit and high quality apps, no half-finished, vibe-coded, or AI slops.
+- ⭐ **Only software, apps, or SaaS. No courses, books, boilerplates, etc.** This is to save our time in reviewing the deals and focusing more on what we love: cool software products.
+- ⭐ **I’ll pick the best 10 indie products** and feature them in [my personal newsletter](https://news.tonydinh.com/) with 15,000+
+ subscribers!
+
+Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/2352).
+
+> ⭐ **Please star this repo** so it gets on the GitHub Trending page, and everyone's deal gets more views!
+
+Make sure you add your deal **at the end** of each category (first come, first merged). ([See rules](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367))
+
+Don't forget to:
+- 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
+- 👉 ...bookmark this page to come back here next year 2027! 📆🤩
+
+
+## Sponsored Deals
+
+Hi there! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on Twitter: https://x.com/tdinh_me
+
+| [TypingMind.com](https://www.typingmind.com?utm_source=tonybf)<br/> 🔥 60% OFF - Buy Once, Use Forever. | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 60% OFF | [Compresto](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday) (macOS app) <br/> 🔥 40% OFF |
+| --- | ------ | ------|
+| <a href="https://www.typingmind.com?utm_source=tonybf"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="[https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday](https://compresto.app?ref=Awesome-Black-Friday-Cyber-Monday)"><img src="https://image.social/get?url=compresto.app"></a> |
+| The best chat frontend for LLMs.<br/>BLACKFRIDAY2026<br/><br/>Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY2026 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BFCM26<br/><br/>Compresto is a powerful video, image & PDF compression for macOS |
+
+
+## Table of Contents
+
+- [👨‍💻 Developer Tools ](#‍-developer-tools)
+	- [💻 Developer macOS Apps](#-developer-macos-apps)
+	- [💻 Tools & Services](#-tools--services)
+- [🔥 Productivity ](#-productivity)
+	- [🖥️ Productivity Desktop Apps ](#️-productivity-desktop-apps)
+		- [Tasks, Organize, Planning](#tasks-organize-planning)
+		- [Window, Screen, Clipboard, Utilities](#window-screen-clipboard-utilities)
+		- [Time, Distraction, Focus](#time-distraction-focus)
+		- [Miscellaneous Productivity Apps](#miscellaneous-productivity-apps)
+	- [📱 Productivity Mobile Apps](#-productivity-mobile-apps)
+	- [🛠️ Productivity Tools & Services](#️-productivity-tools--services)
+- [🤖 AI Tools ](#-ai-tools)
+	- [💬 AI Chat UI](#-ai-chat-ui)
+	- [📖 AI Productivity & Learning Tools](#-ai-productivity--learning-tools)
+	- [✨ Other AI tools](#-other-ai-tools)
+- [🌅 Design Tools](#-design-tools)
+- [🌈 Marketing Tools](#-marketing-tools)
+- [🔍 SEO Tools](#-seo-tools)
+- [🚀 Startup SaaS/Tools](#-startup-saastools)
+- [🌏 Social Media Tools](#-social-media-tools)
+- [💸 Finance Tools](#-finance-tools)
+- [🎛 Utility Tools](#-utility-tools)
+- [💪 Health and Fitness](#-health-and-fitness)
+- [🎯 Miscellaneous](#-miscellaneous)
+
+## 👨‍💻 Developer Tools
+
+### 💻 Developer macOS Apps
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 60% OFF with code **BLACKFRIDAY2026** |
+|  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM26** |
+|  🪣 | [BucketMate](https://www.bucketmate.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | a Finder-style S3 client for macOS, iOS and the web. | 40% OFF all lifetime licenses with code **BF2026** (Nov 2 - Dec 1) |
+|  🌙 | [Lidnight](https://lidnight.app/en/buy/) | Keeps a MacBook awake with the lid closed while AI coding agents run, and shows what each one is doing. One-time purchase. | 50% OFF with code **BF50** (Nov 23 - Dec 1) |
+|  🐦 | [Perch](https://perch.run/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | A macOS menu bar app for Claude Code, Codex, Cursor and other AI coding agents: see every session, and approve from your iPhone and Apple Watch. | 40% OFF with code **BLACKFRIDAY2026** (Nov 2 - Dec 1, first 500 orders) |
+|  🧙‍♂️ | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | Pro Annual 50% off ($100 → $50), Nov 27 - Dec 1|
+|  🐳 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 40% off ($57 → $35), Nov 27 - Dec 1|
+|  🗃️ | [TablePro](https://tablepro.app/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | Native database client for macOS: PostgreSQL, MySQL, SQLite, SQL Server, Redis, MongoDB and more. Free and open source; Pro adds iCloud Sync, Compare & Sync and Query Insights. | 40% OFF Pro with code **BLACKFRIDAY2026**: one-time $79 → $47.40, yearly $39 → $23.40 for the first year (Nov 24 - Dec 1) |
+| 🛠️ | [Proxyman](https://proxyman.com/pricing) | HTTP/HTTPS debugging proxy to capture, inspect, and modify network traffic. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. For example, Standard: ~~$89~~ **$62.30 USD**. |
+| 📱 | [Device MCP](https://devicemcp.ai/pricing) | Mirror and control iPhone and iPad from your Mac, with MCP tools for AI agents to tap, type, and test apps. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. Applies to early-bird prices: Standard ~~$34.50~~ **$24.15**, Pro ~~$44.50~~ **$31.15**, Lifetime ~~$69~~ **$48.30 USD**. |
+| 📡 | [TCP Viewer](https://tcpviewer.proxyman.com/pricing) | Native macOS packet analyzer to capture and inspect TCP/UDP traffic. | Black Friday 2026: **30% OFF all plans** with code **BF2026**, **November 19 – December 3, 2026**. Standard: ~~$29~~ **$20.30**, Combo: ~~$39~~ **$27.30**, Lifetime: ~~$79~~ **$55.30 USD**. |
+| 🐘 | [TablePlus](https://tableplus.com/pricing?utm_source=black-friday-2026) | Modern, native database GUI for Mac, Windows, Linux and iOS. Query, edit and manage PostgreSQL, MySQL, SQL Server, SQLite, Redis, MongoDB, Oracle, ClickHouse and more. One-time purchase. | **25% OFF** with code **BLACK_FRIDAY_2026**, **November 19 – December 3, 2026**. Basic ~~$99~~ $74.25 |
+| 🖥️ | [VMPal](https://vmpal.com/pricing?utm_source=black-friday-2026) | macOS, Windows and Linux virtual machines for Apple silicon, downloaded and installed for you in minutes, with GPU acceleration. Built for AI agents too, with a built-in MCP server and a `vmpal` command line. One-time purchase. | **25% OFF** with code **BLACK_FRIDAY_2026**, **November 19 – December 3, 2026**. Individual ~~$69~~ $51.75, Team ~~$99~~ $74.25 per seat |
+| 🗄️ | [DynoTable](https://dynotable.com/?utm_source=trungdq88-blackfriday) | DynamoDB GUI for Apple Silicon Macs, Windows and Linux. Its SQL Workbench runs JOIN, GROUP BY and aggregates that PartiQL can't, and the AI agent runs on your own AWS Bedrock keys. | **50% OFF** for 12 months with code **BF50**: Individual ~~$108~~ **$54** for the first year, or ~~$12~~ **$6**/mo for 12 months. Until Dec 3 |
+| 🌐 | [Poedit](https://poedit.com/purchase/?utm_source=trungdq88) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | **30% OFF** with code **BF26**, **November 4 – December 3, 2026**. Pro ~~$29.99~~ $20.99, Pro+ ~~$39.99/yr~~ $27.99/yr |
+| 👀 | [Looq](https://parcse.com/looq?utm_source=awesome-black-friday) | A better Quick Look for Mac: press Space to preview Markdown with math and Mermaid diagrams, code in hundreds of file types, SQLite databases, archives and folders. One-time purchase. | **10% OFF** with code **PARCSEBLACKFRIDAY** on parcse.com, **Nov 7 to Dec 1, 2026**. Single (1 Mac): ~~$10~~ **$9**, Personal (3 Macs): ~~$15~~ **$13.50**, Team (10 Macs): ~~$35~~ **$31.50** |
+| 🧰 | [DevWorkspace Pro](https://devworkspacepro.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Keep each project's files, terminals, services and logs together in one desktop workspace, and send failed CI runs and GitHub issues to Claude Code, Codex or OpenCode. macOS, Windows and Linux. | **40% OFF** all plans with code **BLACKFRIDAY40OFF**, **Nov 10 - Dec 10, 2026** (new purchases; first month on the monthly plan) |
+| 🍎 | [MacVisor](https://scaleninja.com/macvisor/) | Mac Virtualization Platform: run macOS, Windows, Linux & FreeBSD VMs setup automatically with account, SSH keys and guest tools. | **15% off with BLACKFRIDAY15**, **Nov 12 – Dec 1, 2026** |
+| 🛠️ | [Stratos](https://stratosapp.dev/buy/) | Native Swift macOS local dev stack for PHP 8.1–8.5, Laravel & Node (Visual Tinker, ER Diagrams, Cloudflare Tunnels, v1.7.1 MCP bridge for Cursor/Claude Code). Zero Docker VM. | **20% OFF** all plans with code `BFCM20` — Founder Lifetime $89 → $71.20 (3 Macs), Pro Annual $39/yr → $31.20/yr, Team $129/yr → $103.20/yr (Nov 15 – Nov 30, 2026) |
+
+
+⬆️ | [Go to Top](#table-of-contents)
+
+### 💻 Tools & Services
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
 | 🗄️ | [1bench](https://1bench.dev/black-friday?utm_source=tonybf) | One desktop app for 25+ databases: PostgreSQL, Redis, ClickHouse, MongoDB, Qdrant and more. Mac, Windows, Linux. | **50% OFF** Solo Lifetime ($199 → $99) with code **FCBF26**, Nov 20 - Dec 1 |
 | 🛠️ | [WP Foreman](https://wpforeman.com/black-friday/?utm_source=tonybf) | Hosted dashboard for managing many WordPress sites: backup before every update, before/after screenshot checks, uptime alerts, branded client reports. | **Lifetime deal**: 25 sites $199 / 50 $349 / 100 $599 / 250 $899 (regularly $1.99/site/mo). Nov 24 - Nov 30, 2026 |
 | 🪓 | [Karve](https://karve.dev/pricing/?utm_source=awesome-bfcm&utm_campaign=bf2026) | Native Windows HTTP client for the .http/.rest files in your repos. Find and run requests across repos, with environments and searchable history. No account, no cloud sync. | **75% OFF**: one-time ~~$39.99~~ **$9.99** on the Microsoft Store, no code needed, 15-day free trial (until Dec 1, 2026) |
@@ -263,6 +351,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎙️ | [Leelo](https://leelo-ai.com/black-friday?utm_source=tonybf) | Pay once instead of a monthly AI voice subscription. An AI voice studio for narration, videos, podcasts and audiobooks: text to speech with 1,100+ voices in 82 languages, video dubbing in each speaker's own voice, voice cloning, transcription, noise removal and sound effects. Free to start with 1,000 credits, no card. | **Lifetime Pro ~~$199~~ $149**: one payment, 80,000 credits every month for good. Plus **50% more credits** on every pack ($9 for ~~25,000~~ 37,500 credits) and up to **30% OFF** the first payment of a plan. No code needed, applied at checkout. Nov 24 - Dec 1, 2026 |
 | 🧩 | [MindPal](https://mindpal.io/pricing?utm_source=github-trungdq88&utm_campaign=bf2026) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock. Ground them in your own knowledge, publish them on a link, an embed or your own domain, choose GPT, Claude, Gemini and more, and read every conversation. No code. | **60% OFF** your first year on any annual plan with code **BLACKFRIDAY2026**, applied at checkout. Billed yearly: Pro ~~$39~~ $16/mo, Advanced ~~$149~~ $60/mo, Ultra ~~$374~~ $150/mo. Until Dec 11, 2026 |
 | 🔤 | [MakeItSay](https://makeitsay.com/pricing?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=bf2026) | Edit or translate text inside photos, screenshots, and labels while keeping the original font, perspective, and background intact (web app + API & MCP server). | **30% OFF** non-expiring credit packs with code **BF2026**: 6 edits ~~$3~~ **$2.10**, 40 edits ~~$10~~ **$7** (through Dec 1, 2026) |
+| ✨ | [Radiantly](https://radiantly.space/pricing) | Turn your knowledge into branded AI agents with interactive experiences, personalized responses for each client, and connections to 1,600+ apps. | **60% off** the first annual payment for new users with code **BF60**.<br>Pro: $91.20 first year (normally $228/year).<br>Max: $283.20 first year (normally $708/year).<br>BF60 does not apply to renewals. Nov 15–Dec 15, 2026 UTC. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
