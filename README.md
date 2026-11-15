@@ -77,6 +77,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌐 | [Poedit](https://poedit.com/purchase/?utm_source=trungdq88) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation. | **30% OFF** with code **BF26**, **November 4 – December 3, 2026**. Pro ~~$29.99~~ $20.99, Pro+ ~~$39.99/yr~~ $27.99/yr |
 | 👀 | [Looq](https://parcse.com/looq?utm_source=awesome-black-friday) | A better Quick Look for Mac: press Space to preview Markdown with math and Mermaid diagrams, code in hundreds of file types, SQLite databases, archives and folders. One-time purchase. | **10% OFF** with code **PARCSEBLACKFRIDAY** on parcse.com, **Nov 7 to Dec 1, 2026**. Single (1 Mac): ~~$10~~ **$9**, Personal (3 Macs): ~~$15~~ **$13.50**, Team (10 Macs): ~~$35~~ **$31.50** |
 | 🧰 | [DevWorkspace Pro](https://devworkspacepro.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Keep each project's files, terminals, services and logs together in one desktop workspace, and send failed CI runs and GitHub issues to Claude Code, Codex or OpenCode. macOS, Windows and Linux. | **40% OFF** all plans with code **BLACKFRIDAY40OFF**, **Nov 10 - Dec 10, 2026** (new purchases; first month on the monthly plan) |
+| 🍎 | [MacVisor](https://scaleninja.com/macvisor/) | Mac Virtualization Platform: run macOS, Windows, Linux & FreeBSD VMs setup automatically with account, SSH keys and guest tools. | **15% off with BLACKFRIDAY15**, **Nov 12 – Dec 1, 2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
