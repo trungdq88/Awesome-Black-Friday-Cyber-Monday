@@ -243,6 +243,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF all paid plans for 12 months**, monthly or annual, with code **BLACKFRIDAY2026**. Lite $12 → $8.40/mo; Pro $29 → $20.30/mo. Nov 9 - Dec 2, 2026. |
 | ✍️ | [SyncSignature](https://syncsignature.com/?utm_source=trungdq88&utm_medium=bf-listicle&utm_campaign=bfcm26) | Email signature management for Google Workspace and Microsoft 365. Design one signature, it installs for every employee, then run banner campaigns and track clicks. | **50% OFF** Teams plan: 2 years for the price of 1 (~~$360~~ $180 for 24 months, up to 5 users). No code needed. Nov 10 - Dec 4, 2026 |
 | 💸 | [Evendeals](https://evendeals.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Increase revenue by up to 30% with purchasing power parity pricing. | **40% OFF** on all annual and lifetime plans with code **BF2026** (e.g. ~~$108~~ $64.80/year). Nov 7 - Dec 1, 2026 |
+| ✉️ | [Emelia](https://emelia.io/blackfriday?utm_source=awesome-bfcm) | All-in-one B2B prospecting: cold email and LinkedIn campaigns, unlimited sending and warmup, Sales Navigator scraping, email and phone finder. | **30% to 40% OFF annual plans**: Start €259 instead of €370, Grow €630.50 instead of €970, Scale €1,782 instead of €2,970. Applied at checkout, no code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
