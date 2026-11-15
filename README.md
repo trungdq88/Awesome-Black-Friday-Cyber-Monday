@@ -241,6 +241,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📰 | [Sponsonizer](https://sponsonizer.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Sell newsletter sponsorships without the email back-and-forth. Sponsors pick an open slot, fill in their ad and pay with Stripe, and the booking lands on your calendar. | **50% OFF** the first year of Pro Yearly with code **BF2026** (~~$99~~ $49.50). Nov 5 - Nov 30, 2026 |
 | 📝 | [Quotion - Apple Notes to blogs in minutes](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF all paid plans for 12 months**, monthly or annual, with code **BLACKFRIDAY2026**. Lite $12 → $8.40/mo; Pro $29 → $20.30/mo. Nov 9 - Dec 2, 2026. |
 | ✍️ | [SyncSignature](https://syncsignature.com/?utm_source=trungdq88&utm_medium=bf-listicle&utm_campaign=bfcm26) | Email signature management for Google Workspace and Microsoft 365. Design one signature, it installs for every employee, then run banner campaigns and track clicks. | **50% OFF** Teams plan: 2 years for the price of 1 (~~$360~~ $180 for 24 months, up to 5 users). No code needed. Nov 10 - Dec 4, 2026 |
+| 💸 | [Evendeals](https://evendeals.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Increase revenue by up to 30% with purchasing power parity pricing. | **40% OFF** on all annual and lifetime plans with code **BF2026** (e.g. ~~$108~~ $64.80/year). Nov 7 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
