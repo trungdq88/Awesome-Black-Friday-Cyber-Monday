@@ -175,6 +175,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧹 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192?pt=128744286&ct=bf-tdinh&mt=8) | Duplicate file finder for Mac and external drives. Counts only the space you'll really get back, keeps one copy of every file, Trash with undo. No subscription, no account. | **50% OFF** ($14.99 → $7.49) on the one-time Unlock in-app purchase, applied automatically in the App Store, Nov 24 - Dec 1 |
 | 🐎 | [Paddock](https://loshadki.app/paddock/) | Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs. | **60% OFF** Paddock Pro: ~~$9.99~~ **$4.00** with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs. Nov 14 - Dec 1, 2026 |
 | 🪟 | [Tangrid](https://tangrid.app/pricing?code=BLACK5D) | Native macOS window manager that automatically tiles windows and organizes them into tabbed groups. | **20% OFF** lifetime licenses with code **BLACK5D**: 1 Mac ~~$22.99~~ **$18.39 USD**. One-time purchase, lifetime updates. |
+| 🔋 | [DuoBar](https://www.teekamsuthar.com/duobar?utm_source=tonydinh-bf&utm_medium=referral&utm_campaign=black-friday-2026) | Merges your Mac's native menu bar icons (battery, Wi-Fi, memory and more) into one glanceable icon to save space; hover to see them separately again. Works on macOS 27 Golden Gate (and macOS 14+). | **29% OFF** Pro ($6.99 → $4.99), one-time purchase, no code needed, Nov 24 - Dec 1 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
