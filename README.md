@@ -105,6 +105,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📚 | [POSH](https://poshtui.com/black-friday?utm_source=tonybf&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF for as long as you stay subscribed** with code **BLACKFRIDAY2026**: ~~€5~~ **€3.50**/month, ~~€45~~ **€31.50**/year. Until Dec 2, 2026 |
 | 🕷️ | [Piloterr](https://www.piloterr.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Web scraping API that handles headless browsers and rotates proxies for you. | **50% OFF** for 3 months with code **BLACKFRIDAY50**, until Nov 30 |
 | 🔍 | [Autom](https://www.autom.dev/?ref=Awesome-Black-Friday-Cyber-Monday) | The cheapest Google Search API: fast, affordable SERP results across multiple search engines. | **50% OFF** one time on the Starter plan with code **BLACKFRIDAY50**, until Nov 30 |
+| 🌍 | [Babelize](https://www.babelize.co/?ref=Awesome-Black-Friday-Cyber-Monday#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | **50% OFF the first year** of Pro yearly with code **BLACKFRIDAY26**: ~~$84~~ **$42**/year. Until Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
