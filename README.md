@@ -80,6 +80,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🍎 | [MacVisor](https://scaleninja.com/macvisor/) | Mac Virtualization Platform: run macOS, Windows, Linux & FreeBSD VMs setup automatically with account, SSH keys and guest tools. | **15% off with BLACKFRIDAY15**, **Nov 12 – Dec 1, 2026** |
 | 🛠️ | [Stratos](https://stratosapp.dev/buy/) | Native Swift macOS local dev stack for PHP 8.1–8.5, Laravel & Node (Visual Tinker, ER Diagrams, Cloudflare Tunnels, v1.7.1 MCP bridge for Cursor/Claude Code). Zero Docker VM. | **20% OFF** all plans with code `BFCM20` — Founder Lifetime $89 → $71.20 (3 Macs), Pro Annual $39/yr → $31.20/yr, Team $129/yr → $103.20/yr (Nov 15 – Nov 30, 2026) |
 | 🛎️ | [SupaYatta](https://supayatta.com?ref=td) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) · code `YATTADEAL` |
+| 🔍 | [Diffacto](https://diffacto.com/#pricing) | Compare two versions of any file or folder on your Mac: code, data, documents, images, audio, video and more. | **40% OFF** Pro, no code needed: one-time license $149 → $89.40, yearly $96 → $57.60 for the first year (Nov 23 – Dec 1, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
