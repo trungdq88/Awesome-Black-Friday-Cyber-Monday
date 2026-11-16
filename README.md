@@ -123,7 +123,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📌 | [Forma](https://useforma.app) | Free-form canvas for daily tasks and project planning: markdown cards, checklists and a marker. Native macOS app, free with a one-time Pro upgrade (unlimited boards, card colors, iCloud sync, PDF export). | **47% OFF** Lifetime Pro ($14.99 → $7.99) with code **BLACKFRIDAY50**, redeem in the app via "Have a code?" (Nov 20 – Dec 1, 2026) |
 | 🗒️ | [Outliner](https://outliner.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Mac app that puts Apple Notes, Reminders, Calendar, Mail, Messages and Contacts in one window: cards, search across all of them, a card for each person and day, and writing back to Notes, Reminders and Calendar. Nothing it reads is uploaded. Reading is free; one-time purchases, never a subscription. | **30% OFF** Outliner Pro with code **BLACKFRIDAY26**: ~~$29~~ **$20.30**, Nov 13 - Nov 30, 2026. One-time purchase. |
 | 📝 | [Smolpad](https://smolpad.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Markdown notes for Mac, iPhone, iPad and Apple Watch. On the Mac it lives in the menu bar, one keystroke away. Every note is a plain .md file in your own iCloud Drive, Dropbox, pCloud or Google Drive, so nothing is locked in. Free, with a one-time Pro unlock. | **50% OFF** Smolpad Pro Lifetime: ~~$29.99~~ **$14.99** with App Store offer code **BLACKFRIDAY**, redeemed through [this link](https://apps.apple.com/redeem?ctx=offercodes&id=6792438749&code=BLACKFRIDAY). One purchase covers Mac, iPhone, iPad and Apple Watch. **Through Dec 1, 2026** |
-
+| 📅 | [AirCalendar](https://apps.apple.com/app/id6761035745) | Check the date, see what's coming up and keep your tasks close at hand. | 50% OFF Lifetime Unlock, No code needed (Nov 27 – Nov 30, 2026) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -178,6 +178,10 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪟 | [Tangrid](https://tangrid.app/pricing?code=BLACK5D) | Native macOS window manager that automatically tiles windows and organizes them into tabbed groups. | **20% OFF** lifetime licenses with code **BLACK5D**: 1 Mac ~~$22.99~~ **$18.39 USD**. One-time purchase, lifetime updates. |
 | 🔋 | [DuoBar](https://www.teekamsuthar.com/duobar?utm_source=tonydinh-bf&utm_medium=referral&utm_campaign=black-friday-2026) | Merges your Mac's native menu bar icons (battery, Wi-Fi, memory and more) into one glanceable icon to save space; hover to see them separately again. Works on macOS 27 Golden Gate (and macOS 14+). | **29% OFF** Pro ($6.99 → $4.99), one-time purchase, no code needed, Nov 24 - Dec 1 |
 | 🌠 | [Wishbar](https://wishbar.app/black-friday?ref=Awesome-Black-Friday-Cyber-Monday) | Mac menu bar app that builds live widgets from plain English: type what you want (an alert when NVIDIA nears the price you set, the pound to rupee rate, delays on your train line) and your own AI builds it. A free ChatGPT account is enough. One-time purchase, macOS 13+, Apple silicon and Intel. | **Up to 42% OFF** one-time licences, applied automatically, no code needed: 1 Mac ~~$29~~ **$19** (34% off), 2 Macs ~~$39~~ **$24** (38% off), 5 Macs ~~$59~~ **$34** (42% off). **Nov 16 - Dec 7, 2026**. 14-day money-back guarantee |
+| 📋 | [PasteNook](https://apps.apple.com/app/id6762595649) | PasteNook is a beautiful and smart clipboard history tool designed for macOS. | 50% OFF Lifetime Unlock, No code needed (Nov 27 – Nov 30, 2026) |
+| 📸 | [Clipture](https://apps.apple.com/app/id6787685075) | Clipture is a lightweight screenshot tool built for macOS. |  50% OFF Lifetime Unlock, No code needed (Nov 27 – Nov 30, 2026) |
+| 🖊️ | [TeachingInk](https://apps.apple.com/app/id6761326660) | Screen annotation & whiteboard for Mac | 50% OFF Lifetime Unlock, No code needed (Nov 27 – Nov 30, 2026) |
+| ⌨️ | [EchoKeys](https://apps.apple.com/app/id6764276614) | Make every shortcut visible | 50% OFF Lifetime Unlock, No code needed (Nov 27 – Nov 30, 2026) |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -206,6 +210,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✂️ | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase: ~~$149~~ **$99**, no code needed. Nov 12 – Dec 4, 2026 |
 | ⭐ | [EagleFiler](https://c-command.com/store/sale/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2026** (~~$69.99~~ $52.49) Nov 20 - Nov 30 |
 | 🔗 | [OpenIn](https://loshadki.app/openin4/) | Choose the browser, profile or app each link opens in on your Mac, by rules or with a quick picker. | **60% OFF**, one-time purchase: Mac App Store ~~$11.99~~ **$4.79**, no code needed; or ~~$11.99~~ **$4.80** on loshadki.app with code **BLACKFRIDAY26**. Nov 14 - Dec 1, 2026 |
+| 🔖 | [LociMark](https://apps.apple.com/app/id6808972699) | LociMark is a local-first bookmark manager for Mac. | 50% OFF Lifetime Unlock, No code needed (Nov 27 – Nov 30, 2026) |
+| 🏷️ | [Tagnivo](https://apps.apple.com/app/id6804351905) | Manage assets, employee assignments, supplies and inventory audits in one Mac app. | 50% OFF Lifetime Unlock, No code needed (Nov 27 – Nov 30, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
