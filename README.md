@@ -79,6 +79,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧰 | [DevWorkspace Pro](https://devworkspacepro.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Keep each project's files, terminals, services and logs together in one desktop workspace, and send failed CI runs and GitHub issues to Claude Code, Codex or OpenCode. macOS, Windows and Linux. | **40% OFF** all plans with code **BLACKFRIDAY40OFF**, **Nov 10 - Dec 10, 2026** (new purchases; first month on the monthly plan) |
 | 🍎 | [MacVisor](https://scaleninja.com/macvisor/) | Mac Virtualization Platform: run macOS, Windows, Linux & FreeBSD VMs setup automatically with account, SSH keys and guest tools. | **15% off with BLACKFRIDAY15**, **Nov 12 – Dec 1, 2026** |
 | 🛠️ | [Stratos](https://stratosapp.dev/buy/) | Native Swift macOS local dev stack for PHP 8.1–8.5, Laravel & Node (Visual Tinker, ER Diagrams, Cloudflare Tunnels, v1.7.1 MCP bridge for Cursor/Claude Code). Zero Docker VM. | **20% OFF** all plans with code `BFCM20` — Founder Lifetime $89 → $71.20 (3 Macs), Pro Annual $39/yr → $31.20/yr, Team $129/yr → $103.20/yr (Nov 15 – Nov 30, 2026) |
+| 🛎️ | [SupaYatta](https://supayatta.com?ref=td) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) · code `YATTADEAL` |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
