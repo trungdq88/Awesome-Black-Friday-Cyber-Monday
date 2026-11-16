@@ -336,7 +336,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖼️ | [RenderPixels](https://renderpixels.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Lets Claude, ChatGPT or other assistants that support remote MCP and OAuth make your marketing images: Open Graph images, social posts, banners, favicons and logos, in your saved brand colors and logo. 50 free renders every month. | **20% OFF** any credit pack with code **BF2026** (e.g. 6,000 credits ~~$25~~ **$20**). Credits never expire. Until Nov 30, 2026 |
 | 📡 | [Radar Lab](https://partnershipintel.com/?utm_source=awesome-bfcm#pricing) | Find newsletters to sponsor that reach your buyers. Ranks 4,700+ newsletters by fit, shows which ones your competitors already sponsor (with the real ads), and works inside ChatGPT and Claude (MCP). | **67% OFF Pro yearly**: ~~$299~~ **$99/year**, locked at $99 for as long as you stay. No code needed (until Nov 30) |
 | 🗺️ | [Scrap.io](https://scrap.io/pricing) | Extract businesses from Google Maps with their emails, phone numbers, websites and social media profiles, for a single city or a whole country. | **50% OFF** all annual plans, no code needed (applied on the pricing page): Basic ~~$708~~ **$354/year**, Professional ~~$1,428~~ **$714/year**, Agency ~~$2,868~~ **$1,434/year**, Company ~~$7,188~~ **$3,594/year**. Unused credits roll over month to month, and the price stays the same at renewal. |
-
+🎁 | [Gleam.io](https://gleam.io/) | Run giveaways, contests, rewards and email capture campaigns to grow your audience. | 70% OFF the first month on monthly plans or 50% OFF the first year on annual plans with code `BLACKFRIDAY`. Black Friday 2026.
 
 ⬆️ | [Go to Top](#table-of-contents)
 
