@@ -172,6 +172,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🏝️ | [Argon](https://argonmac.com/?ref=awesome-bfcm) | Notch app for Mac: music with live lyrics on the lock screen, a file tray, quick notes (Markdown and LaTeX), AirPods battery, calls, calendar, weather and face unlock. Floats as an island on Macs without a notch. Apple Silicon, macOS 14+. | **27% OFF**: ~~€14.99~~ **€10.99** one-time, no code needed. 48-hour free trial, 2 Macs per license. Until Nov 30, 2026. |
 | 💻 | [LidAwake Pro](https://erstgebaut.de/lidawake/?utm_source=awesomebf) | Close the lid, your Mac keeps working. Menu bar app with overheat, low-battery and charger-only safeguards. Pro adds Movie on a TV and waits for downloads and video exports to finish. Free open-source version on GitHub. | **20% OFF** (€9.99 → €7.99, one-time) with code **AWESOMEBF20**, Nov 16 - Dec 3 |
 | 🧹 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192?pt=128744286&ct=bf-tdinh&mt=8) | Duplicate file finder for Mac and external drives. Counts only the space you'll really get back, keeps one copy of every file, Trash with undo. No subscription, no account. | **50% OFF** ($14.99 → $7.49) on the one-time Unlock in-app purchase, applied automatically in the App Store, Nov 24 - Dec 1 |
+| 🐎 | [Paddock](https://loshadki.app/paddock/) | Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs. | **60% OFF** Paddock Pro: ~~$9.99~~ **$4.00** with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs. Nov 14 - Dec 1, 2026 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -198,6 +199,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✍️ | [Cloister Ink](https://cloisterink.com/) | Markdown writing app for Mac, iPad and iPhone. Plain markdown files in iCloud, no account, no subscription. | **33% OFF** one-time unlock: ~~$59.99~~ **$39.99**, no code needed, 7-day free trial. Nov 27 - Dec 7, 2026. Back to $59.99 Dec 8. |
 | ✂️ | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase: ~~$149~~ **$99**, no code needed. Nov 12 – Dec 4, 2026 |
 | ⭐ | [EagleFiler](https://c-command.com/store/sale/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2026** (~~$69.99~~ $52.49) Nov 20 - Nov 30 |
+| 🔗 | [OpenIn](https://loshadki.app/openin4/) | Choose the browser, profile or app each link opens in on your Mac, by rules or with a quick picker. | **60% OFF**, one-time purchase: Mac App Store ~~$11.99~~ **$4.79**, no code needed; or ~~$11.99~~ **$4.80** on loshadki.app with code **BLACKFRIDAY26**. Nov 14 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
