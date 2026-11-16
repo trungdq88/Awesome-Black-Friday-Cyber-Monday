@@ -106,6 +106,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🕷️ | [Piloterr](https://www.piloterr.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Web scraping API that handles headless browsers and rotates proxies for you. | **50% OFF** for 3 months with code **BLACKFRIDAY50**, until Nov 30 |
 | 🔍 | [Autom](https://www.autom.dev/?ref=Awesome-Black-Friday-Cyber-Monday) | The cheapest Google Search API: fast, affordable SERP results across multiple search engines. | **50% OFF** one time on the Starter plan with code **BLACKFRIDAY50**, until Nov 30 |
 | 🌍 | [Babelize](https://www.babelize.co/?ref=Awesome-Black-Friday-Cyber-Monday#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | **50% OFF the first year** of Pro yearly with code **BLACKFRIDAY26**: ~~$84~~ **$42**/year. Until Dec 1, 2026 |
+| 📸 | [Captureze](https://captureze.com/?utm_source=github&utm_medium=awesome-bfcm&utm_campaign=bfcm2026) | Scheduled website screenshots with visual diffs and cryptographic capture certificates — proof of what a page showed, for compliance, legal and ad monitoring. API + MCP. | **Up to 50%** OFF annual plans, no code needed (Starter $190  -> **$95**/yr, Pro $490 -> **$245**/yr, Business $1490 -> **$1043**/yr) until Dec 1 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
