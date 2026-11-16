@@ -173,6 +173,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💻 | [LidAwake Pro](https://erstgebaut.de/lidawake/?utm_source=awesomebf) | Close the lid, your Mac keeps working. Menu bar app with overheat, low-battery and charger-only safeguards. Pro adds Movie on a TV and waits for downloads and video exports to finish. Free open-source version on GitHub. | **20% OFF** (€9.99 → €7.99, one-time) with code **AWESOMEBF20**, Nov 16 - Dec 3 |
 | 🧹 | [Unduped](https://apps.apple.com/app/apple-store/id6819014192?pt=128744286&ct=bf-tdinh&mt=8) | Duplicate file finder for Mac and external drives. Counts only the space you'll really get back, keeps one copy of every file, Trash with undo. No subscription, no account. | **50% OFF** ($14.99 → $7.49) on the one-time Unlock in-app purchase, applied automatically in the App Store, Nov 24 - Dec 1 |
 | 🐎 | [Paddock](https://loshadki.app/paddock/) | Everything about your Mac in the menu bar. Paddock is free; Pro adds a year of history, app alerts and your other Macs. | **60% OFF** Paddock Pro: ~~$9.99~~ **$4.00** with code **BLACKFRIDAY26**, one-time purchase for up to 5 Macs. Nov 14 - Dec 1, 2026 |
+|  | [Tangrid](https://tangrid.app/pricing?code=BLACK5D) | Native macOS window manager that automatically tiles windows and organizes them into tabbed groups. | **20% OFF** lifetime licenses with code **BLACK5D**: 1 Mac ~~$22.99~~ **$18.39 USD**. One-time purchase, lifetime updates. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
