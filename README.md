@@ -84,6 +84,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📈 | [Toplify](https://toplify.app) | App Store chart tracker for iOS and macOS. Multi-cloud infrastructure scans charts 24/7 and tracks your app's positions in 175 countries. | **Lifetime: $89.99 → $49.99 USD** with code **BLKFR2026** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026)). **Nov 15 - Dec 1, 2026**. |
 | 🗼 | [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows. | **Up to 50% OFF**: Pro $129 → $64.50/yr, Basic $69 → $48.30/yr, first year for new customers. No code needed. **Nov 23 - Dec 6, 2026**. |
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ### 💻 Tools & Services
