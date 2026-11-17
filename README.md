@@ -374,6 +374,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗂️ | [Row.so](https://row.so/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | AI directory website builder that turns a niche prompt or Google Sheet into a live, SEO-ready directory you can monetize with paid listings — no code required. Customize design, fields, filters and Map Locator store maps, and accept payments via Stripe, Lemon Squeezy, Polar or PayPal with 0% platform fee. | **30% OFF** all plans with code **BF2026**: Yearly Launch ~~$288~~ **$201.60/yr**, Growth ~~$468~~ **$327.60/yr**, Scale ~~$948~~ **$663.60/yr**; Lifetime Growth ~~$599~~ **$419.30**, Scale ~~$1,099~~ **$769.30** (until Dec 2, 2026) |
 | 📅 | [Accurate Scheduler](https://accuratescheduler.com/pricing/) | Online appointment booking, staff calendars, and payment collection for service businesses. | **50% OFF** paid monthly and yearly plans with code **FSBFCM2026** at checkout. Starter: ~~$3~~ $1.50 monthly or ~~$30~~ $15 yearly. |
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🌏 Social Media Tools
