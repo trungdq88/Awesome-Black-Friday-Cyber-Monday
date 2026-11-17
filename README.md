@@ -215,6 +215,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✂️ | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | **$50 OFF**, one-time purchase: ~~$149~~ **$99**, no code needed. Nov 12 – Dec 4, 2026 |
 | ⭐ | [EagleFiler](https://c-command.com/store/sale/) | Organize files on your Mac, archive e-mails, save Web pages and notes, search everything. | 25% off with code **BLACKFRIDAY2026** (~~$69.99~~ $52.49) Nov 20 - Nov 30 |
 | 🔗 | [OpenIn](https://loshadki.app/openin4/) | Choose the browser, profile or app each link opens in on your Mac, by rules or with a quick picker. | **60% OFF**, one-time purchase: Mac App Store ~~$11.99~~ **$4.79**, no code needed; or ~~$11.99~~ **$4.80** on loshadki.app with code **BLACKFRIDAY26**. Nov 14 - Dec 1, 2026 |
+| ✉️ | [bytemail](https://bytemailapp.com/black-friday?ref=awesome-bf) | Fast, native email app for Mac: unified inbox, smart search, snooze, rules, an AI assistant and MCP support so Claude, ChatGPT and other AI apps can work with your mail. | **30% OFF** lifetime licence: ~~$99~~ **$69**, one payment, up to 5 devices, no code needed. Nov 17 - Dec 7, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
