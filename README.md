@@ -82,6 +82,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛎️ | [SupaYatta](https://supayatta.com?ref=td) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | **65% OFF** Lifetime ($19.99 → $6.99) · code `YATTADEAL` |
 | 🔍 | [Diffacto](https://diffacto.com/#pricing) | Compare two versions of any file or folder on your Mac: code, data, documents, images, audio, video and more. | **40% OFF** Pro, no code needed: one-time license $149 → $89.40, yearly $96 → $57.60 for the first year (Nov 23 – Dec 1, 2026) |
 | 📈 | [Toplify](https://toplify.app) | App Store chart tracker for iOS and macOS. Multi-cloud infrastructure scans charts 24/7 and tracks your app's positions in 175 countries. | **Lifetime: $89.99 → $49.99 USD** with code **BLKFR2026** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026)). **Nov 15 - Dec 1, 2026**. |
+| 🗼 | [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows. | **Up to 50% OFF**: Pro $129 → $64.50/yr, Basic $69 → $48.30/yr, first year for new customers. No code needed. **Nov 23 - Dec 6, 2026**. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
