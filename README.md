@@ -109,6 +109,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌍 | [Babelize](https://www.babelize.co/?ref=Awesome-Black-Friday-Cyber-Monday#pricing) | Turns the hardcoded text in a React or Next.js app into a reviewed i18n pull request in 90+ languages, then translates every new push. | **50% OFF the first year** of Pro yearly with code **BLACKFRIDAY26**: ~~$84~~ **$42**/year. Until Dec 1, 2026 |
 | 📸 | [Captureze](https://captureze.com/?utm_source=github&utm_medium=awesome-bfcm&utm_campaign=bfcm2026) | Scheduled website screenshots with visual diffs and cryptographic capture certificates — proof of what a page showed, for compliance, legal and ad monitoring. API + MCP. | **Up to 50%** OFF annual plans, no code needed (Starter $190  -> **$95**/yr, Pro $490 -> **$245**/yr, Business $1490 -> **$1043**/yr) until Dec 1 |
 | 🔍 | [Akev](https://akev.dev/pricing) | Open-source HTTP(S) debugging proxy: inspect, mock and rewrite traffic from browsers, apps, terminals, phones and containers. Mac, Windows, Linux. | **30% OFF** the Pro licence, one-time ($49 → $34.30) with code **BLACKFRIDAY**, Nov 15, 2026 - Dec 6, 2026 |
+| 📊 | [TelemetryDeck](https://telemetrydeck.com/?utm_source=tonybf&utm_medium=deal-list&utm_campaign=black-week-2026) | Privacy-first app analytics for iOS, macOS, Android, Flutter, React Native and web apps. Anonymized and private by design, hosted in Europe. | **30% OFF** for 12 months with code **WEEK26**, no minimum order. Nov 23 - Dec 1, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
