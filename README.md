@@ -263,7 +263,6 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📖 | [Whio](https://nilcoalescing.com/apps/whio/) | An EPUB and PDF reader for technical books on iPhone and iPad, with a focus on readability and accessibility. | **30% OFF** Yearly ~~$24.99~~ **$17.49/yr** with code **BF2026YEARLY** and Lifetime ~~$49.99~~ **$34.99** with code **BF2026LIFETIME**. Enter the code under More Options on the in-app purchase page, **Nov 18 - Dec 2, 2026** |
 | 📦 | [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad. Track what you own by location, room and container, with photos, values and search across every field. | **50% OFF lifetime PRO**: ~~$59.99~~ **$29.99**, Nov 18 to Dec 4, 2026. No code needed |
 | 🔳 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | **50% OFF lifetime**: ~~$19.99~~ **$9.99**, Nov 18 to Dec 4, 2026. No code needed |
-| 🏷️ | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG. | **50% OFF lifetime**: ~~$9.99~~ **$4.99**, Nov 18 to Dec 4, 2026. No code needed |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
