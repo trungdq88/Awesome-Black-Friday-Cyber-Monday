@@ -207,6 +207,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪟 | [Spencer](https://macspencer.app/?utm_source=awesome-bfcm&utm_campaign=awesome-bfcm) | Restore your entire macOS workspace across displays and Spaces — including native Full Screen. | **40% OFF** lifetime license (~~$25~~ **$15**) with code **BLACK26**, ends **Dec 1, 2026** |
 | 🌇 | [Rapidemo](https://getrapidemo.com/pricing?utm_source=tonybf) | Screen recorder for Windows with auto-zoom, smooth cursor, studio voice and MP4 and GIF exports. | **30% OFF** the first year of the yearly plan with code **BLACKFRIDAY26**: ~~$108~~ **$75.60**, then $108/year. Nov 19 - Dec 2, 2026. |
 | ✏️ | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us. Smultron is a powerful text editor that is easy to use. It is fast, elegant, and comfortable for everyday writing or serious code. Works just as well for small and large projects. | **20% OFF** ~~$9.99~~ **$7.99** (automatically applied) Nov 23 - Nov 30, 2026|
+| 🛞 | [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=awesome-bfcm) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. One-time purchase. | **30% OFF** ~~$9~~ **$6.30** one-time for 2 Macs with code **BLACKFRIDAY30**. 7-day free trial. **Nov 20 - Dec 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
