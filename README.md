@@ -213,6 +213,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌇 | [Rapidemo](https://getrapidemo.com/pricing?utm_source=tonybf) | Screen recorder for Windows with auto-zoom, smooth cursor, studio voice and MP4 and GIF exports. | **30% OFF** the first year of the yearly plan with code **BLACKFRIDAY26**: ~~$108~~ **$75.60**, then $108/year. Nov 19 - Dec 2, 2026. |
 | ✏️ | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us. Smultron is a powerful text editor that is easy to use. It is fast, elegant, and comfortable for everyday writing or serious code. Works just as well for small and large projects. | **20% OFF** ~~$9.99~~ **$7.99** (automatically applied) Nov 23 - Nov 30, 2026|
 | 🛞 | [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=awesome-bfcm) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. One-time purchase. | **30% OFF** ~~$9~~ **$6.30** one-time for 2 Macs with code **BLACKFRIDAY30**. 7-day free trial. **Nov 20 - Dec 1, 2026** |
+| ☁️ | [Dropshare](https://dropshare.app?utm_source=github&utm_campaign=awesome-bfcm) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | **$29** instead of $39 (**$10 off**) one-time for 3 Macs, deal on the website. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
