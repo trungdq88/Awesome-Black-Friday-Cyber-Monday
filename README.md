@@ -209,6 +209,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌇 | [Rapidemo](https://getrapidemo.com/pricing?utm_source=tonybf) | Screen recorder for Windows with auto-zoom, smooth cursor, studio voice and MP4 and GIF exports. | **30% OFF** the first year of the yearly plan with code **BLACKFRIDAY26**: ~~$108~~ **$75.60**, then $108/year. Nov 19 - Dec 2, 2026. |
 | ✏️ | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us. Smultron is a powerful text editor that is easy to use. It is fast, elegant, and comfortable for everyday writing or serious code. Works just as well for small and large projects. | **20% OFF** ~~$9.99~~ **$7.99** (automatically applied) Nov 23 - Nov 30, 2026|
 | 🛞 | [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=awesome-bfcm) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. One-time purchase. | **30% OFF** ~~$9~~ **$6.30** one-time for 2 Macs with code **BLACKFRIDAY30**. 7-day free trial. **Nov 20 - Dec 1, 2026** |
+| 🖥️ | [LaunchOS](https://launchosapp.com/?utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf2026) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | Save **55%–62.5%**, plus an additional **8% off the discounted price** with code **BLACKFRIDAY2026**. Valid **November 23 – December 2, 2026**. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
