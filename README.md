@@ -218,6 +218,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ☁️ | [Dropshare](https://dropshare.app?utm_source=github&utm_campaign=awesome-bfcm) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | **$29** instead of $39 (**$10 off**) one-time for 3 Macs, deal on the website. |
 | 🖥️ | [LaunchOS](https://launchosapp.com/?utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf2026) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | Black Friday prices: **$5.40** (1 Mac), **$8.10** (2 Macs), **$13.50** (5 Macs), plus an extra **8% OFF** with code **BLACKFRIDAY2026**. Current prices → final prices with code: 1 Mac **$6.60 → $4.97**, 2 Macs **$9.90 → $7.45**, 5 Macs **$16.60 → $12.42**. Valid **November 23 – December 2, 2026**. |
 | 🖥️ | [Trickster](https://tricksterapp.com) | Your recently used files and links, at your fingertips | **50% OFF** (~~$30~~ $15) until Nov 30 |
+| 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Arrange apps in folders and pages, move several at once, and save or restore your layout. | **50% off lifetime Direct Pro** for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout, November 20–30, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
