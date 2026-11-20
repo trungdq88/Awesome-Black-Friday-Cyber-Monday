@@ -89,6 +89,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📬 | [Mailflare](https://mailflare.co/macos#black-friday) | Self-hosted email, calendar, booking and Drive workspace on Cloudflare or Docker, with a native Mac mail app (Mailflare for macOS) that also works with Gmail, Outlook and iCloud. One-time perpetual licenses. | **40% OFF** Pro and Team licenses with code **TONYBF2026**, **November 20 – December 1, 2026**. Pro $29 → **$17.40**, Team $249 → **$149.40**. |
 | 🖍️ | [Chalk](https://getchalk.dev/#pricing) | A whiteboard beside your terminal for Claude Code on macOS. Claude puts its plan on the board as cards and arrows; cross out, circle or reorder a step and it fixes the plan before it writes code. Boards stay on your Mac. | **50% OFF**, no code needed: one-time ~~$24~~ **$12**, applied automatically at checkout. **Nov 20 - Dec 1, 2026**. 7-day free trial, no card or account. |
 | 🔄 | [Synclet](https://synclet.dev/) | End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, using Synclet Cloud or your own Dropbox. | **50% OFF** one-time license (~~$14.99~~ **$7.49**), applied automatically at checkout, no code needed. **Nov 20 - Dec 1, 2026**. |
+| 🌀 | [Warplet](https://warplet.app/) | Native macOS app that connects hosted AI clients like ChatGPT, Claude, Perplexity, and Grok to your local MCP servers with one click. | **40% OFF** first year of Annual (~~$14.99~~ **$8.99**, renews at $14.99/yr) with code **BLACKFRIDAY2026**. **Nov 20 - Dec 1, 2026**. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
