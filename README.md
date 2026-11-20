@@ -224,7 +224,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Arrange apps in folders and pages, move several at once, and save or restore your layout. | **50% off lifetime Direct Pro** for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout, November 20–30, 2026. |
 | 📋 | [Paste](https://pasteapp.io/black-friday-2026?ref=trungdq88) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | **50% OFF** the first year of Annual (~~$29.99~~ **$14.99**) with code **BLACKFRIDAY2026**. **Nov 20 – Dec 1, 2026** |
 | ⌨️ | [AppBrisk](https://appbrisk.candyyue.com/en/pricing/) | Launch apps, switch to their windows, or toggle them with one keyboard shortcut per app on Windows 10/11. | **50% OFF** Pro lifetime: US$2.99 (normally US$5.99), tax included, up to 3 devices. Automatically applied at checkout; no code needed. November 19 through November 30, 2026 at 11:59:59 p.m. PT. |
-| 📸 | [Snapperon](https://checkout.snapperon.com/?discount=BLACKFRIDAY26) | Annotate screenshots, redact private details, and copy text from images on your Mac. | **50% off** Pro with code `BLACKFRIDAY26`. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD). Nov 20, 2026 - Dec 1, 2026. |
+| 📸 | [Snapperon](https://snapperon.com/#pricing) | Annotate screenshots, redact private details, and copy text from images on your Mac. | **50% off** Pro with code `BLACKFRIDAY26`. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD). Nov 20, 2026 - Dec 1, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
