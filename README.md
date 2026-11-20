@@ -485,7 +485,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💰 | [MoneyWiz](https://www.wiz.money/black-friday) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, 30+ reports, investments and optional bank sync. Apple-only. | **20% OFF** the first year of Standard and Premium on the website with code **BFCM26**: Standard **$29.99 → $23.99**, Premium **$59.99 → $47.99**, Premium monthly first month **$5.99 → $4.79**. US reference prices; local prices vary. New website purchases only; no App Store discount; renews at regular price. **Nov 13 – Dec 1, 2026** |
 | 📈 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan, no code needed: first year on annual (~~$100~~ $50 / ~~$300~~ $150 / ~~$500~~ $250) or first 3 months on monthly. **Nov 23 – Nov 30, 2026** |
 | 🪙 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went | **50% OFF** (~~$130~~ $65) Lifetime until Nov 30th |
-
+| 📈 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | **40% OFF** ChartScout Pro for 3 months. Discount automatically applied; no coupon code needed. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
