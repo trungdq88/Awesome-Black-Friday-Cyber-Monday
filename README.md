@@ -285,6 +285,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📺 | [RSSTube](https://apps.apple.com/app/apple-store/id6828141995?pt=119343303&ct=bf26-trungdq88&mt=8) | Follow YouTube channels by RSS on iPhone and iPad: only the channels you chose, newest first, with no algorithm, no account and no tracking. | **64% OFF Premium Lifetime** (one-time purchase), **November 27 – December 1, 2026**. US pricing: **$24.99 → $8.99 USD**; local prices vary. The App Store price drops automatically, no code needed. Free with up to five channels. |
 | 📝 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps. | **50% OFF Lifetime** (one-time purchase), **November 23–30, 2026**. US pricing: **$19.99 → $9.99 USD**; local prices vary. No code needed. |
 | 🛡️ | [Kipzy](https://kipzy.app/?ref=Awesome-Black-Friday-Cyber-Monday) | Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker, private tabs and offline video saving. | **50% OFF Pro Lifetime** (one-time purchase), **November 13–30, 2026**. US pricing: **$49.99 → $24.99 USD**; local prices vary. Applied automatically in the App Store, no code needed. |
+| 🧹 | [Deletti](https://deletti.app/#black-friday) | A not-boring way to free up space on your iPhone. Start with your biggest videos and photos, then swipe to keep or trash them. | **Deletti Single Lifetime:** $8.99 USD with code (regular $17.99 without code). Use code **BFCM26**. Valid through December 1, 2026 (Pacific Time), while redemptions last. US prices shown; local prices and availability may vary. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
@@ -486,6 +487,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💰 | [MoneyWiz](https://www.wiz.money/black-friday) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, 30+ reports, investments and optional bank sync. Apple-only. | **20% OFF** the first year of Standard and Premium on the website with code **BFCM26**: Standard **$29.99 → $23.99**, Premium **$59.99 → $47.99**, Premium monthly first month **$5.99 → $4.79**. US reference prices; local prices vary. New website purchases only; no App Store discount; renews at regular price. **Nov 13 – Dec 1, 2026** |
 | 📈 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan, no code needed: first year on annual (~~$100~~ $50 / ~~$300~~ $150 / ~~$500~~ $250) or first 3 months on monthly. **Nov 23 – Nov 30, 2026** |
 | 🪙 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went | **50% OFF** (~~$130~~ $65) Lifetime until Nov 30th |
+| 📈 | [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders. | **40% OFF** ChartScout Pro for 3 months. Discount automatically applied; no coupon code needed. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
