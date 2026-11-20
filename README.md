@@ -361,6 +361,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎥 | [Shot Video](https://shot.video/black-friday) | Turns the laptop and phones you already own into a multi-camera studio. Phones join by QR code with no app to install, you press record once, and AI makes the first edit. | **80% OFF** the first year on annual billing, no code needed: Creator ~~$190~~ **$39**, Pro ~~$390~~ **$79**, Studio ~~$790~~ **$159**. New paying customers only, first 100 buyers. Nov 20 - Dec 1, 2026 (UK time). |
 | 💬 | [TranslateManga](https://translatemanga.net/?pricing_mode=annual#pricing) | Read raw manga, manhwa and webtoons in your language. Upload a page and AI translates the text right inside the original speech bubbles, with the art untouched. 50+ languages, web app + Chrome extension. Free plan included. | **40% OFF**: plans from ~~$10~~ **$6**/mo. Our lowest price ever, no code needed. Standard & Pro, billed yearly, first year. Nov 20 – Dec 1, 2026. |
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 
