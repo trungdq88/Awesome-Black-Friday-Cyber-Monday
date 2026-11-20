@@ -217,7 +217,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✏️ | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us. Smultron is a powerful text editor that is easy to use. It is fast, elegant, and comfortable for everyday writing or serious code. Works just as well for small and large projects. | **20% OFF** ~~$9.99~~ **$7.99** (automatically applied) Nov 23 - Nov 30, 2026|
 | 🛞 | [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=awesome-bfcm) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. One-time purchase. | **30% OFF** ~~$9~~ **$6.30** one-time for 2 Macs with code **BLACKFRIDAY30**. 7-day free trial. **Nov 20 - Dec 1, 2026** |
 | ☁️ | [Dropshare](https://dropshare.app?utm_source=github&utm_campaign=awesome-bfcm) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | **$29** instead of $39 (**$10 off**) one-time for 3 Macs, deal on the website. |
-
+| 🖥️ | [Trickster](https://tricksterapp.com) | Your recently used files and links, at your fingertips | **50% OFF** until Nov 30 |
 ⬆️ | [Go to Top](#table-of-contents)
 
 #### Time, Distraction, Focus
@@ -378,6 +378,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎨 | [AppScreenPro](https://appscreenpro.com/?utm_source=awesome-bf-2026) | Make App Store & Google Play screenshots in minutes, right in your browser. Pay once, own it forever. | **30% OFF** lifetime license with **30BF2026**: ~~$29~~ → **$20.3** : Nov 12 - Dec 1, 2026. |
 | ⛶ | [QRat](https://apps.apple.com/us/app/qrat-qr-code-generator/id1497158638?platform=mac) | Make attractive QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable, macOS & iOS app available | **50% OFF** lifetime license: ~~$10~~ $4.99. Code **BLACKFRIDAY2026**. Redeem it via [this link](https://apps.apple.com/redeem/?code=BLACKFRIDAY2026&ctx=offercodes&id=1497158638), Nov 16 - Dec 1, 2026 |
 | 🖌️ | [1DesignTool](https://1designtool.com/?utm_source=tonybf#pricing) | Local design studio that your coding agents (Claude Code, Codex and 14 more) drive: slides, app screens, 3D and brand kits with a live preview and real files on disk. macOS and Windows. | **50% OFF** the one-time Pro licence with code **BFDEALS50**: ~~$29~~ **$14.50** for 1 device, ~~$59~~ **$29.50** for 3, ~~$89~~ **$44.50** for 5. Nov 19 - Nov 29, 2026, first 100 orders. |
+| 🖼️ | [ImageFramer](https://imageframer.net) | Easily add frames, mats and borders to your photos and art | **50% OFF** Lifetime until Nov 30th |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
@@ -481,7 +482,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧸 | [Toffee](https://www.toffeefinance.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Debt payoff planner for iPhone and Android: add your debts, pick snowball or avalanche, and see your debt-free date. | **50% OFF** Pro Lifetime, one-time purchase: ~~$59.99~~ **$29.99 USD**. Auto-applied in the app, no code needed. **Nov 19 – Dec 1, 2026** |
 | 💰 | [MoneyWiz](https://www.wiz.money/black-friday) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, 30+ reports, investments and optional bank sync. Apple-only. | **20% OFF** the first year of Standard and Premium on the website with code **BFCM26**: Standard **$29.99 → $23.99**, Premium **$59.99 → $47.99**, Premium monthly first month **$5.99 → $4.79**. US reference prices; local prices vary. New website purchases only; no App Store discount; renews at regular price. **Nov 13 – Dec 1, 2026** |
 | 📈 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan, no code needed: first year on annual (~~$100~~ $50 / ~~$300~~ $150 / ~~$500~~ $250) or first 3 months on monthly. **Nov 23 – Nov 30, 2026** |
-
+| 🪙 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went | **50% OFF** Lifetime until Nov 30th |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -567,5 +568,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💌 | [Long Distance: Your Couple App](https://apps.apple.com/app/id6757593531) | Couples app for iPhone: photos and doodles you send appear on your partner's Home Screen widget, plus a Shared Note, countdowns and couple quizzes you each answer on your own phone. | **50% OFF the first year of Shared Premium Yearly** (one plan covers both of you) with code **BLACKFRIDAY** ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6757593531&code=BLACKFRIDAY)), **until December 31, 2026**. US pricing: **$49.99 → $24.99 USD** for the first year; local prices vary. For new or returning subscribers. |
 | 🎙️ | [Roads Audio](https://roadsaudio.com) | Voice conversations with the people you love: record when you have something to say, and everyone listens and replies when they have time. iPhone and Android. | **Roads Audio Plus Lifetime for $49.99** (one-time purchase; Increases to $99.99 on December 2, 2026). **November 26 – December 1, 2026**. Applied in the app, no code needed. US pricing; local prices vary. |
 | 🗺️ | [Treader](https://www.treader.ca/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Trip planner where friends vote on dates and plan together on one live map, with day-by-day itineraries and free road trip tools. | **30% OFF** the first year of Pro annual: ~~$49.99~~ **$34.99 CAD**, then renews at $49.99 CAD a year, code **BFRIDAY30**, Nov 20 - Dec 1, 2026 |
+| 🐕 | [Calm My Dog](https://calmmydog.app/) | Ease your dog's separation anxiety with daily exercises that focus on desensitization | **50% OFF** Lifetime until Nov 30th |
+| 📻 | [Eter](https://eter.apparentsoft.com/) | Play internet radio on any Apple or Android device and in CarPlay | **50% OFF** until Nov 30th |
 
 ⬆️ | [Go to Top](#table-of-contents)
