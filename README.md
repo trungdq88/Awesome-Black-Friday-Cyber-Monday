@@ -221,6 +221,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖥️ | [LaunchOS](https://launchosapp.com/?utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf2026) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | Black Friday prices: **$5.40** (1 Mac), **$8.10** (2 Macs), **$13.50** (5 Macs), plus an extra **8% OFF** with code **BLACKFRIDAY2026**. Current prices → final prices with code: 1 Mac **$6.60 → $4.97**, 2 Macs **$9.90 → $7.45**, 5 Macs **$16.60 → $12.42**. Valid **November 23 – December 2, 2026**. |
 | 🖥️ | [Trickster](https://tricksterapp.com) | Your recently used files and links, at your fingertips | **50% OFF** (~~$30~~ $15) until Nov 30 |
 | 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Arrange apps in folders and pages, move several at once, and save or restore your layout. | **50% off lifetime Direct Pro** for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout, November 20–30, 2026. |
+| 📋 | [Paste](https://pasteapp.io/black-friday-2026?ref=trungdq88) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | **50% OFF** the first year of Annual (~~$29.99~~ **$14.99**) with code **BLACKFRIDAY2026**. **Nov 20 – Dec 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -390,6 +391,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖌️ | [1DesignTool](https://1designtool.com/?utm_source=tonybf#pricing) | Local design studio that your coding agents (Claude Code, Codex and 14 more) drive: slides, app screens, 3D and brand kits with a live preview and real files on disk. macOS and Windows. | **50% OFF** the one-time Pro licence with code **BFDEALS50**: ~~$29~~ **$14.50** for 1 device, ~~$59~~ **$29.50** for 3, ~~$89~~ **$44.50** for 5. Nov 19 - Nov 29, 2026, first 100 orders. |
 | 🎨 | [Krumzi](https://www.krumzi.com/pricing) | Web app that designs editable flyers, social posts, carousels and video from a one-line description. Every text, image and shape layer stays editable, and your brand kit applies automatically. | **60% OFF** the first year of yearly plans: Starter ~~$190~~ $76, Pro ~~$390~~ $156, Studio ~~$890~~ $356. No code needed, new customers and monthly users switching, Nov 20 - Dec 1, 2026 |
 | 🔬 | [SciFig](https://scifig.ai/black-friday) | Web app for creating editable scientific figures and diagrams for papers and presentations. | **Extra 20% off** the first billing period of new subscriptions, eligible upgrades and credit packs. Auto-applied. Starter annual: $100 → $80 the first year, then $100/year. Ends Dec 1, 2026 at 23:59 PT. |
+| 🌊 | [Wavedance](https://wave.dance/?utm_source=awesome-black-friday) | Animated dot-grid live wallpapers for Mac. Ten generative animations that run on the desktop, with custom palettes. Native Mac app, no subscription. | **30% OFF** the one-time purchase with code **BLACKFRIDAY30**, Nov 19 - Dec 1, 2026. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
