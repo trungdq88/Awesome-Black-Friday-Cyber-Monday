@@ -88,6 +88,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📧 | [MailScope](https://mailscope.app/blackfriday/) | Native email debugging for Mac. Catch, preview and check development emails locally before they reach your users. | **$19 USD** one-time (regular $29, save $10). Code **bf2026** is prefilled on the checkout link. Up to two Macs (macOS 14+), with 12 months of updates. **Nov 18–30, 2026 (US Pacific)**. |
 | 📬 | [Mailflare](https://mailflare.co/macos#black-friday) | Self-hosted email, calendar, booking and Drive workspace on Cloudflare or Docker, with a native Mac mail app (Mailflare for macOS) that also works with Gmail, Outlook and iCloud. One-time perpetual licenses. | **40% OFF** Pro and Team licenses with code **TONYBF2026**, **November 20 – December 1, 2026**. Pro $29 → **$17.40**, Team $249 → **$149.40**. |
 | 🖍️ | [Chalk](https://getchalk.dev/#pricing) | A whiteboard beside your terminal for Claude Code on macOS. Claude puts its plan on the board as cards and arrows; cross out, circle or reorder a step and it fixes the plan before it writes code. Boards stay on your Mac. | **50% OFF**, no code needed: one-time ~~$24~~ **$12**, applied automatically at checkout. **Nov 20 - Dec 1, 2026**. 7-day free trial, no card or account. |
+| 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF wifth code **BLACKFRIDAY2026** |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
