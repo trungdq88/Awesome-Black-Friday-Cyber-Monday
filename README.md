@@ -222,6 +222,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖥️ | [Trickster](https://tricksterapp.com) | Your recently used files and links, at your fingertips | **50% OFF** (~~$30~~ $15) until Nov 30 |
 | 🗂️ | [AppGrid](https://appgridmac.com/pricing/) | A Launchpad replacement for Mac. Arrange apps in folders and pages, move several at once, and save or restore your layout. | **50% off lifetime Direct Pro** for up to five Macs ($25 → $12.50 USD before tax). Code **BF2026** is applied at checkout, November 20–30, 2026. |
 | 📋 | [Paste](https://pasteapp.io/black-friday-2026?ref=trungdq88) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | **50% OFF** the first year of Annual (~~$29.99~~ **$14.99**) with code **BLACKFRIDAY2026**. **Nov 20 – Dec 1, 2026** |
+| 📸 | [Sightline](https://sightlinemac.com/black-friday/) | Mac screenshot and screen-recording app with an image and video editor, Show Differences design-diff, and an MCP server and CLI for Claude Code and Codex. | **First 3 months free** on the yearly plan, then $24.99/year, with App Store offer code **SIGHTLINEEARLY** ([redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=6812521593&code=SIGHTLINEEARLY)). Monthly and lifetime not included. Until Jan 7, 2027 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
