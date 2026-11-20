@@ -217,7 +217,9 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ✏️ | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us. Smultron is a powerful text editor that is easy to use. It is fast, elegant, and comfortable for everyday writing or serious code. Works just as well for small and large projects. | **20% OFF** ~~$9.99~~ **$7.99** (automatically applied) Nov 23 - Nov 30, 2026|
 | 🛞 | [Helix](https://tryhelix.app/?utm_source=github&utm_campaign=awesome-bfcm) | Radial menu for Mac. Hold Option + Space and your tools pop up in a circle: clipboard history, screenshots, media controls, window snapping, timers and Ask AI. One-time purchase. | **30% OFF** ~~$9~~ **$6.30** one-time for 2 Macs with code **BLACKFRIDAY30**. 7-day free trial. **Nov 20 - Dec 1, 2026** |
 | ☁️ | [Dropshare](https://dropshare.app?utm_source=github&utm_campaign=awesome-bfcm) | Upload File, Share Link, Done. Upload screen shots, screen recordings and any files to your trusted storage provider and share them immediately with just a link. | **$29** instead of $39 (**$10 off**) one-time for 3 Macs, deal on the website. |
+| 🖥️ | [LaunchOS](https://launchosapp.com/?utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf2026) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful. | Black Friday prices: **$5.40** (1 Mac), **$8.10** (2 Macs), **$13.50** (5 Macs), plus an extra **8% OFF** with code **BLACKFRIDAY2026**. Current prices → final prices with code: 1 Mac **$6.60 → $4.97**, 2 Macs **$9.90 → $7.45**, 5 Macs **$16.60 → $12.42**. Valid **November 23 – December 2, 2026**. |
 | 🖥️ | [Trickster](https://tricksterapp.com) | Your recently used files and links, at your fingertips | **50% OFF** (~~$30~~ $15) until Nov 30 |
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 #### Time, Distraction, Focus
@@ -482,6 +484,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💰 | [MoneyWiz](https://www.wiz.money/black-friday) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, 30+ reports, investments and optional bank sync. Apple-only. | **20% OFF** the first year of Standard and Premium on the website with code **BFCM26**: Standard **$29.99 → $23.99**, Premium **$59.99 → $47.99**, Premium monthly first month **$5.99 → $4.79**. US reference prices; local prices vary. New website purchases only; no App Store discount; renews at regular price. **Nov 13 – Dec 1, 2026** |
 | 📈 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | **50% OFF** every plan, no code needed: first year on annual (~~$100~~ $50 / ~~$300~~ $150 / ~~$500~~ $250) or first 3 months on monthly. **Nov 23 – Nov 30, 2026** |
 | 🪙 | [Cashculator](https://cashculator.app) | See where your money is going — not just where it went | **50% OFF** (~~$130~~ $65) Lifetime until Nov 30th |
+
 
 ⬆️ | [Go to Top](#table-of-contents)
 
