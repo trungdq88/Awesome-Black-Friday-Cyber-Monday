@@ -59,6 +59,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 ### 💻 Developer macOS Apps
 
 |  | Name | Description | Discount Code & Terms |
+| 🎬 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon (macOS 15+) screen recorder & video editor with click auto-zoom, local on-device Whisper transcript cutting, and a built-in CLI + Agent Skill for Claude Code / Codex. One-time purchase for 2 Macs, no subscription. | **20% OFF** one-time license (~~$39~~ **$31.20**) with code **BFCM2026**. Nov 20 – Dec 2, 2026 |
 | -- | ---| ------ | ------ |
 |  ⭐ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 60% OFF with code **BLACKFRIDAY2026** |
 |  ⭐ | [Compresto](https://compresto.app/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | Video, Image & PDF Compression for macOS. | 40% OFF with code **BFCM26** |
