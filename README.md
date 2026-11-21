@@ -91,6 +91,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | **30% OFF** with code **BLACKFRIDAY2026** ~~$30~~ **$21**. (Nov 20 - Dec 1, 2026) |
 | 🌐 | [LocalCan](https://www.localcan.com/?utm_source=awesome-bf&utm_campaign=bf2026) | Ngrok alternative for Mac, Windows and Linux: stable Public URLs, .local domains with HTTPS, traffic inspector, MCP server for AI agents | **50% OFF** the first year of Solo or Pro yearly with code **BF50** ($96 → $48, $144 → $72) and Lifetime License $99 → $69 with code **LIFETIME69** (until Dec 1, 2026) |
 | ☁️ | [KloudUtils](https://kloudutils.com/?utm_source=trungdq88-blackfriday) | Your toolbox for daily work and your AI agents. 55+ tools for code, systems, diagrams, big files, cloud storage, APIs, notes, secrets. One-time purchase. | **$30 OFF** with code `BFCM2026_PRO` for Pro license: ~~$79.00~~ $49.00 (3 devices - Macs, Windows or Linux) - **$10 OFF** with code BFCM2026_STD for Standard license (1 device), **Nov 16 to Dec 6, 2026**. |
+| 👥 | [Doubles](https://doubles.dev/pricing) | A remote pair programming app for Mac: share your screen sharp enough to read code, let your pair drive when you allow it, and talk and draw together. Guests join from a browser. One-time purchase. | **50% OFF** with code **DOUBLES50**: ~~$169~~ **$84.50** (Nov 20 - Dec 1, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
