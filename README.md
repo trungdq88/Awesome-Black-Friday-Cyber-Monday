@@ -416,6 +416,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌊 | [Wavedance](https://wave.dance/?utm_source=awesome-black-friday) | Animated dot-grid live wallpapers for Mac. Ten generative animations that run on the desktop, with custom palettes. Native Mac app, no subscription. | **30% OFF** the one-time purchase with code **BLACKFRIDAY30**, Nov 19 - Dec 1, 2026. |
 | 📱 | [Sleek](https://sleek.design/?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026&utm_content=awesome-bfcm-list) | AI design tool for mobile apps. Describe your app and get screen designs in minutes, then export to Figma or code. | **48% OFF** Pro yearly: ~~$360~~ $189, Nov 20 - Dec 1, 2026. No code needed. |
 | 🎨 | [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed (Nov 19 – Dec 1, 2026, 23:59 PST) |
+| 🧊 | [Liniqo](https://liniqo.com/?utm_source=awesome-bf-2026) | 5,000+ hairline isometric illustrations and 680+ interactive figures for SaaS sites, apps and landing pages. SVG, PNG or React, restyle with Build your style, or pull them into AI coding tools via MCP and npm. | **38% OFF** Lifetime: ~~$79~~ $49 with code `BLACKFRIDAY`. Nov 27 - Dec 1, 2026. |
+
 
  ⬆️ | [Go to Top](#table-of-contents)
 
