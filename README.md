@@ -243,6 +243,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | ☕ | [DeskRest](https://deskrest.com/offers) | Break reminder for Mac. Reminds you to take regular breaks, rest your eyes and stay healthy while you work. | **80% OFF** lifetime licenses with code **BLACKFRIDAY80**. Nov 9 - Dec 10, 2026. |
 | ⏳ | [Timemator](https://timemator.com) | Automatic time tracking for Mac. Records working time by tracking your project files, apps and websites, and creates timesheets. | **50% OFF** the lifetime license (~~$39~~ $19.50), one-time purchase, with code **TM-BLACKFRIDAY26** (applied automatically on the website). Nov 21 - Dec 5, 2026. |
 | 🕛 | [Cadran](https://cadranapp.com/en?via=awesomebf#pricing) | A live clock drawn on your Mac's desktop wallpaper, behind your icons, on every Space and display. 25 faces, including an airport split-flap board with Liquid Glass flaps, and it doubles as a screen saver. Free app, no account. | **50% OFF** Cadran Pro, one-time purchase for up to 3 Macs: ~~$9.99~~ $4.99 with code **BF50**, Nov 20 - Dec 1, 2026. The free version stays free. |
+| ⏱️ | [Timeless](https://timeless-app.github.io/#pricing) | Stage timer for Windows: a big countdown on the TV or projector, run-of-show schedules with ahead/behind tracking, speaker messages and a phone remote. Works offline; free version available. | **30% OFF** one-time license with code **BLACKFRIDAY26**: Individual **$29 → $20.30**, Team (3 computers) **$79 → $55.30**. Nov 19 – Nov 30, 2026. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
