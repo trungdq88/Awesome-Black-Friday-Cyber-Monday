@@ -229,6 +229,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📋 | [Paste](https://pasteapp.io/black-friday-2026?ref=trungdq88) | Paste is a productivity app for Mac, iPhone, and iPad that remembers everything you copy. | **50% OFF** the first year of Annual (~~$29.99~~ **$14.99**) with code **BLACKFRIDAY2026**. **Nov 20 – Dec 1, 2026** |
 | ⌨️ | [AppBrisk](https://appbrisk.candyyue.com/en/pricing/) | Launch apps, switch to their windows, or toggle them with one keyboard shortcut per app on Windows 10/11. | **50% OFF** Pro lifetime: US$2.99 (normally US$5.99), tax included, up to 3 devices. Automatically applied at checkout; no code needed. November 19 through November 30, 2026 at 11:59:59 p.m. PT. |
 | 📸 | [Snapperon](https://snapperon.com/#pricing) | Annotate screenshots, redact private details, and copy text from images on your Mac. | **50% off** Pro with code `BLACKFRIDAY26`. Monthly $2 → $1/month for 12 months, annual $19.99 → $10 for the first year, or lifetime $38.99 → $19.50 once (USD). Nov 20, 2026 - Dec 1, 2026. |
+| 🪟 | [Findow](https://findowmac.com/) | Scrolling window manager for Mac, with tiling, a window switcher and saved workspaces. One-time purchase with a free trial. | **75% OFF** ($19.99 → $5), applied automatically at checkout, no code needed, until **December 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
@@ -567,6 +568,8 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🛜 | [Ping](https://ping.neat.software/?ref=trungdq) | Native macOS uptime monitor for websites, APIs, servers and LAN devices. Live status in the menu bar, with alerts and webhooks when something goes down or gets slow. No third-party servers. | **40% OFF** Ping Pro Lifetime with code **NEATBF26**: ~~$14.99~~ **$8.99**. Nov 20 - Dec 2, 2026 |
 | 💞 | [Relationship tracker: Duo](https://apps.apple.com/us/app/relationship-tracker-duo/id6759326768) | A private space for couples to save memories and milestones, track time together, and use widgets on iPhone. | Scheduled Black Friday lifetime **US$7.49** (US); normally from US$14.99. **November 23, 00:00 UTC–December 1, 00:00 UTC, 2026 (end exclusive)**. One-time purchase in-app; no code. Local prices vary. |
 | 🔊 | [Tutti](https://tutti.barrybarrywu.com/#pricing) | Control multiple audio outputs, per-app volume, and display brightness from the macOS menu bar. Pro adds per-output EQ, Audio Units, and Input Mix. | **US$12.99 → US$8.99** for one Mac, one-time, tax included. No code needed. November 20–30, 2026. Ends November 30 at 11:59 p.m. PST. |
+| 🧹 | [ByteSweep](https://bytesweep.app/) | Disk cleaner for Mac, Windows and Linux. Shows what fills your disk, removes only what you pick, and every clean can be undone for 7 days. One-time purchase with a free trial. | **50% OFF** ($29.99 → $15), applied automatically at checkout, no code needed, until **December 31, 2026** |
+| 🎚️ | [Earmix](https://earmix.app/) | Volume mixer for the Mac menu bar. Set the volume for each app and each browser tab, send each app to its own output, and add EQ. One-time purchase with a free trial. | **50% OFF** ($12.99 → $6.50) with code **BLACKFRIDAY50**, until **December 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
