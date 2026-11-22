@@ -95,6 +95,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪣 | [Blob0](https://blob0.com/) | macOS desktop client for browsing, transferring, previewing and sharing files in Cloudflare R2, Amazon S3 and other S3-compatible storage. | **20% OFF** one-time Personal ($16.90 → $13.52 USD) and Team licenses with **BLACKFRIDAY20**, Nov 14–30, 2026 (ends 15:59 UTC). |
 | 🔄 | [Synclet](https://synclet.dev/) | End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, using Synclet Cloud or your own Dropbox. | **50% OFF** one-time license (~~$14.99~~ **$7.49**), applied automatically at checkout, no code needed. **Nov 20 - Dec 1, 2026**. |
 | 🌀 | [Warplet](https://warplet.app/) | Native macOS app that connects hosted AI clients like ChatGPT, Claude, Perplexity, and Grok to your local MCP servers with one click. | **40% OFF** first year of Annual (~~$14.99~~ **$8.99**, renews at $14.99/yr) with code **BLACKFRIDAY2026**. **Nov 20 - Dec 1, 2026**. |
+| 🐼 | [BabaPic](https://www.babapic.cc/) | Batch image compression and format conversion for Mac — compress, convert, resize and rename in one pass, fully local. | 50% OFF Pro with code **BABAPIC2026**: one-time $19 → $9.50 (Nov 22 - Dec 31, 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
