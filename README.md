@@ -99,6 +99,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📡 | [LLM Radar](https://llm-radar-eta.vercel.app/?utm_source=awesome-black-friday&utm_medium=deal-list&utm_campaign=bf2026) | Activity Monitor for local AI on the Mac. Shows which models Ollama, LM Studio, MLX and llama.cpp hold in RAM, which app loaded them, and how much disk your model files use. Monitoring is free. | **40% OFF** Pro with code **BF2026**, one-time: 1 Mac ~~$9.99~~ **$5.99**, 3 Macs ~~$14.99~~ **$8.99**. Until Dec 1, 2026 (11:59 pm PT) |
 | 🌐 | [Polypane](https://polypane.app) | The browser for web developers | **25%** off yearly business plans, **22% off** yearly individual plans. (Nov 23 to Dec 1 2026) |
 | 🔑 | [ASO Atlas](https://asoatlas.com/?ref=Awesome-Black-Friday-Cyber-Monday) | App Store keyword research and rank tracking for iOS, Mac and Google Play apps: popularity, difficulty, competitors and daily ranks. Web app, native Mac app and MCP for AI agents. | **30% OFF** the first year of the Yearly plan (~~$100~~ **$70**), applied automatically at checkout or with code **BLACKWEEK30**. Unlimited apps and keywords. **Until Nov 30, 2026** |
+| 🔀 | [Twofold](https://twofolddiagrams.com/?ref=Awesome-Black-Friday-Cyber-Monday) | Native Mac editor for Mermaid ER diagrams: edit the text or drag on the canvas and both stay in sync, in .mmd files or inside Markdown docs. | **50% OFF** with code **LAUNCHWEEK**: ~~$39~~ **$19.50** one-time, after a 14-day free trial. Until Nov 30, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
