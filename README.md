@@ -462,6 +462,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎨 | [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed (Nov 19 – Dec 1, 2026, 23:59 PST) |
 | 🖼️ | [Wallper](https://www.wallper.app/pricing) | Moving 4K wallpapers for your Mac desktop and Lock Screen. Pick from more than 3,200 scenes or use a video of your own. Play a song and the desktop plays along, with the cover, its colors or the lyrics line by line. Native Mac app, 140,000+ installs, no subscription. | **50% OFF** the one-time license: Pro (3 Macs) ~~$14.99~~ $7.49, Pro+ (5 Macs) ~~$24.99~~ $12.49. No code needed, applied at checkout. 7-day free trial. Nov 23 - Nov 30, 2026. |
 | 🎬 | [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone | **20% OFF** Studio, first year: ~~$49~~ $39.20/yr, Nov 23 - Dec 1, 2026. No code needed. |
+| 🧶 | [Knitting Chart](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time). |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
