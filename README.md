@@ -97,6 +97,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌀 | [Warplet](https://warplet.app/) | Native macOS app that connects hosted AI clients like ChatGPT, Claude, Perplexity, and Grok to your local MCP servers with one click. | **40% OFF** first year of Annual (~~$14.99~~ **$8.99**, renews at $14.99/yr) with code **BLACKFRIDAY2026**. **Nov 20 - Dec 1, 2026**. |
 | 🐼 | [BabaPic](https://www.babapic.cc/) | Batch image compression and format conversion for Mac — compress, convert, resize and rename in one pass, fully local. | 50% OFF Pro with code **BABAPIC2026**: one-time $19 → $9.50 (Nov 22 - Dec 31, 2026) |
 | 📡 | [LLM Radar](https://llm-radar-eta.vercel.app/?utm_source=awesome-black-friday&utm_medium=deal-list&utm_campaign=bf2026) | Activity Monitor for local AI on the Mac. Shows which models Ollama, LM Studio, MLX and llama.cpp hold in RAM, which app loaded them, and how much disk your model files use. Monitoring is free. | **40% OFF** Pro with code **BF2026**, one-time: 1 Mac ~~$9.99~~ **$5.99**, 3 Macs ~~$14.99~~ **$8.99**. Until Dec 1, 2026 (11:59 pm PT) |
+| 🌐 | [Polypane](https://polypane.app) | The browser for web developers | **25%** off yearly business plans, **22% off** yearly individual plans. (Nov 23 to Dec 1 2026) |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
