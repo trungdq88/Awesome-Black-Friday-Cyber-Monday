@@ -364,11 +364,11 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🍳 | [Gratly](https://gratly.app/pricing) | Recipe saver: save recipes from any website in one click and cook from a clean page, without the life story. Chrome extension, web and Android. | **40% OFF Lifetime** (one-time purchase): ~~$99~~ **$59**, applied at checkout, no code needed. **November 27 to December 1, 2026** |
 | 🔍 | [DataCheck](https://datacheck.cc/en/pricing) | Rule-driven duplicate, shift & numerical anomaly checks for research tables across 56 versioned non-AI rules, with exact source-cell evidence on Web and Windows. One-time purchase, no subscription. | **30% OFF** all standard one-time packs (Single ~~HK$116~~ **HK$81.20** / ~$10.35, 5-check ~~HK$469~~ **HK$328.30** / ~$41.85, 30-check ~~HK$1,175~~ **HK$822.50** / ~$104.85) & perpetual Windows desktop licenses (~~HK$15,288~~ **HK$10,701.60** / ~$1,364.18, offline ~~HK$19,992~~ **HK$13,994.40** / ~$1,783.93). Applied automatically at checkout, no code needed (excludes HK$35 first trial). **Nov 23 – Dec 5, 2026** |
 | 📋 | [Clappia](https://www.clappia.com/black-friday-offer?utm_source=github-tonybf&utm_medium=deal-listing&utm_campaign=bf26) | Replace multiple SaaS tools with Clappia: AI-powered no-code platform to build unlimited web, Android & iOS apps for GPS attendance, field teams, inspections, inventory and approval workflows, with offline sync. Free plan available. | **50% OFF** all annual plans with code **BLACKFRD** for new customers (Nov 1 - Dec 31, 2026) |
+| 🔔 | [DueHush](https://duehush.useglowlink.com/?utm_source=github&utm_medium=listing&utm_campaign=bf2026) | Subscription & free trial reminders — never miss a renewal, no bank linking. | **25% off** with code `DUEHUSH-BF25` through Nov 30 (normally $29). No subscription. |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
 ## 🤖 AI Tools
-
 ### 💬 AI Chat UI
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
