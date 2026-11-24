@@ -406,6 +406,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📝 | [MeetingDebrief](https://meetingdebrief.com/pricing?ref=abfcm) | Record, transcribe and summarize meetings on your own computer. No bot joins the call and nothing is uploaded. Works with Zoom, Teams, Google Meet or in person. macOS and Windows. | **35% OFF** lifetime license with code **BFCM2026**: ~~$18~~ **$11.70** for 1 device, one-time purchase. Nov 22 - Dec 5, 2026 |
 | 🎙️ | [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows. Open-source models, on-device or zero-retention cloud, never used to train AI. | **25% OFF** every plan (Dictation and Work, monthly, annual and lifetime) with code **BFCM26**. Monthly keeps 25% off every month. Dictation lifetime ~~$199~~ **$149.25**, Work lifetime ~~$399~~ **$299.25**. Until 30 Nov 2026. |
 
+| 🎙️ | [FlowSpeak](https://smolkapps.com/flowspeak/?utm_source=github-trungdq88&utm_medium=deal-list&utm_campaign=bf2026#pricing) | Local Hold-Ctrl push-to-talk dictation for Mac (Apple Silicon Metal & Intel, macOS 12+) and Linux x86_64. Runs whisper.cpp in-process (~35 ms on M-series), strips um/uh stutters, preserves your clipboard, and lets Ctrl+C / Ctrl+Click cancel cleanly. 25 free dictations included, offline Ed25519 license. | **34% OFF** Lifetime Pro (~~$29~~ **$19** one-time, up to 3 personal computers, no code needed). **Nov 24 – Dec 1, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
