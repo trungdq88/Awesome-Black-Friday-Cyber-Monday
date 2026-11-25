@@ -660,6 +660,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🧾 | [Paperkeep](https://paperkeep.be/pro.html) | Free browser extension for Chrome, Edge and Firefox that downloads and renames your SaaS invoices (ChatGPT, Canva, Meta Ads, Google Workspace…) in one click, ready for your accountant. Runs locally, no account. | **30% OFF** the first year of Pro with code **PAPERKEEP30**: ~~€39~~ **€27.30**/year (VAT included). New subscribers, enter the code on the payment page. Nov 24 – Dec 1, 2026 |
 | 💸 | [Capitally](https://www.mycapitally.com/?ref=bf-trung&discount=BLACK26) | End-to-end encrypted portfolio tracker for advanced DIY investors: stocks, ETFs, options, margin and private equity in one place. | **30% OFF** yearly and 5-year Navigator and Captain plans with code **BLACK26**: Navigator ~~€150~~ **€105**/year, Captain ~~€300~~ **€210**/year. 14-day free trial, no credit card. **Nov 24 - Dec 7, 2026** |
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🎛 Utility Tools
