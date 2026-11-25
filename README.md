@@ -154,6 +154,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🕸️ | [pline.ai](https://www.pline.ai/pricing?utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf2026) | Web scraping API that turns any website into clean data. | **30% OFF** first 3 months (monthly $14=> $9.80) or first year (yearly $144=>100.80) no code required· 25–30 Nov · new & existing users |
 | 📍 | [GridPin](https://gridpin.dev/buy#snapshot) | Offline geocoder for 13 countries: one file per country, no API key, addresses never leave your machine. CLI, Python, DuckDB and MCP. Open-source engine. | **40% OFF** the one-time Snapshot, the November 2026 build of all 13 countries: ~~$199~~ **$119**, paid in USDC, applied automatically, no code needed. Until Dec 1, 2026 |
 | 🪄 | [Apper - AI App & Website Builder](https://apper.io/black-friday) | Build, manage and publish production-ready apps and websites directly from ChatGPT or Claude, with enterprise-level security, database, authentication, permissions, hosting and payments built in. | **50% OFF** Team and Company plans for one year, automatically applied, no code needed. Annual: Team ~~$15.99~~ **$8**/mo; Company ~~$39~~ **$19.50**/mo. Monthly: Team ~~$19.99~~ **$10**/mo; Company ~~$49~~ **$24.50**/mo. Nov 23 - Dec 31, 2026 |
+| 🌐 | [surl.li](https://apper.io/black-friday) | Fast URL shortener with custom domains, QR codes, click analytics, REST API, and an MCP server for AI agents. | **60% OFF**  all plans (automatically applied, valid until Dec 1, 2026). |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
