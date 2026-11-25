@@ -388,6 +388,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📅 | [ShiftApp](https://shiftapp.com/black-friday) | Employee scheduling on web, iOS and Android. Plan shifts, manage time off and share updates with staff. | **88% OFF** the first 8 months on new Essential monthly orders. Essential E10: ~~$24~~ **$2.88 USD/month** for 8 months, then $24/month before tax. Code **BLACKFRIDAY2026** auto-applied. Nov 23 – Dec 12, 2026. |
 | 📠 | [Faxio](https://faxio.app/pricing?utm_source=awesome_bfcm_trungdq88&utm_medium=deal_listing&utm_campaign=black_friday_2026) | Send a fax from your browser or Android phone. Pay per fax, no subscription. Your first one-page fax is free. | **10% OFF** every web purchase: ~~$2.99~~ **$2.69** per fax (up to 10 pages), ~~$9.99~~ **$8.99** for 5 faxes. Applied automatically at checkout, no code needed. Web purchases only, not Android in-app. **Nov 24 – Dec 1, 2026** |
 | 🔁 | [Recurrr](https://recurrr.com/pricing?utm_source=tonybf) | Send recurring emails from your own Gmail or Outlook: write it once, pick a schedule, and it goes out every week, month or quarter. Never reads your inbox or contacts. | **58% OFF the yearly plan** ($108 → $45/year), kept on every renewal. Applied automatically, no code needed. 14-day free trial. Until Dec 31, 2026 |
+| 🗑️ | [InboxPurge](https://www.inboxpurge.com/pricing/?utm_source=tonybf) | Clean up your Gmail in minutes. Unsubscribe, delete junk, and reclaim your sanity. | 30% OFF all plans with code **BF2026** |
 ⬆️ | [Go to Top](#table-of-contents)
 
 
