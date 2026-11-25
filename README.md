@@ -500,7 +500,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖼️ | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | **30% OFF** Lifetime ~~$29.99~~ **$20.99** one-time, no code needed, Nov 24 - Dec 1, 2026 |
 
  ⬆️ | [Go to Top](#table-of-contents)
-
+| 🔔 | [Jiggicons](https://jiggicons.com/?utm_source=bf26-trungdq88#pricing) | 24,040 animated SVG icons (6,010 unique in outline, duotone, solid and glass) with spring physics and spatial audio for React, React Native, Vue, JS, Flutter, SwiftUI and Jetpack Compose, plus CLI, shadcn registry and MCP server. 80 icons free to try. | **Up to 40% OFF** one-time lifetime licences: Personal ~~$79~~ **$49**, Team (10 seats) ~~$199~~ **$129**, Business (unlimited + contractors) ~~$499~~ **$299**. Lifetime updates included, no code needed. Nov 23 - Dec 7, 2026. |
 
 ## 🌈 Marketing Tools
 
