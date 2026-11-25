@@ -156,6 +156,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🪄 | [Apper - AI App & Website Builder](https://apper.io/black-friday) | Build, manage and publish production-ready apps and websites directly from ChatGPT or Claude, with enterprise-level security, database, authentication, permissions, hosting and payments built in. | **50% OFF** Team and Company plans for one year, automatically applied, no code needed. Annual: Team ~~$15.99~~ **$8**/mo; Company ~~$39~~ **$19.50**/mo. Monthly: Team ~~$19.99~~ **$10**/mo; Company ~~$49~~ **$24.50**/mo. Nov 23 - Dec 31, 2026 |
 | ⌨️ | [VimNinja](https://www.vimninja.com/upgrade?ref=Awesome-Black-Friday-Cyber-Monday) | Interactive Vim trainer: practise every motion and operator in a real Vim editor right in your browser, with daily drills and Vim golf. First 13 chapters free, no sign-up. | **34% OFF** lifetime Pro: ~~$29~~ **$19**, one payment, no code needed (applied automatically). Nov 25 - Nov 30, 2026 |
 
+| ☁️ | [Cloudways](https://www.cloudways.com/en/promo-code.php?id=948626&data1=Community&data2=deallisting) | Managed cloud hosting for WordPress, WooCommerce, Laravel and PHP apps on top cloud providers like DigitalOcean, AWS and Google Cloud. | **80% OFF** for 2 months with code **BFCM802**, plus unlimited migrations. Applies to all products: Flexible, Autonomous, Velocity, AI Builder, AI Agents and Copilot. **Nov 5 – Dec 4, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
