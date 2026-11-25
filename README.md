@@ -329,6 +329,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 💙 | [Beamly](https://beamly.com) | Beamly is the platform for your podcast - and everything around it. From hosting and analytics, to podcast websites, private podcasts and memberships. | **30% OFF** on new annual plans. Starter ~~$216~~ $151/year, Creator ~~$360~~ $252/year, Business ~~$768~~ $537. Valid through Dec 1, 2026. |
 | 🎙️ | [shepetal](https://shepetal.app/pricing?ref=awesome-bf) | Dictation and meeting notes for the Mac that run on your Mac. Speech recognition works offline. Apple silicon, macOS 14.4 or later. | **80% OFF** the lifetime license with code **BLACKFRIDAY**: ~~€24~~ **€4.80**, one-time purchase. 30 days free trial. Until Nov 30, 2026. |
 | 🐦 | [Suzume Mail](https://www.yuzool.com/apps/suzume/) | Email for Mac, iPhone and iPad that reads like a chat, with on-device summaries and reply help. Works with your existing accounts over IMAP; your mail stays with your provider. | **50% OFF** the one-time unlock for all devices: ~~$19.99~~ **$9.99** US, no code (App Store price). **Nov 25 – Dec 2, 2026**. Free download with a 14-day trial. |
+| 🛡️ | [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html) | Cyber threat intelligence platform for security analysts: investigate threats, monitor SaaS uptime and track malicious infrastructure and actors. | **100% OFF** the Basic plan for 5 months - code `CyberMonday2026` auto-applied **Nov 24 - Jan 30, 2027**. |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
