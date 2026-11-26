@@ -516,6 +516,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone | **20% OFF** Studio, first year: ~~$49~~ $39.20/yr, Nov 23 - Dec 1, 2026. No code needed. |
 | 🧶 | [Knitting Chart](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time). |
 | 🖼️ | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | **30% OFF** Lifetime ~~$29.99~~ **$20.99** one-time, no code needed, Nov 24 - Dec 1, 2026 |
+| 🖼️ | [PicWish](https://picwish.com/) | All-in-one AI photo editor for instant background removal, photo enhancement, image upscaling, and studio-quality product visuals | **52% OFF** 10,000 Credits ($199.99 → $99.99) + 1,500 bonus credits & 300 bonus images, Nov 26 - Dec 15 |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
