@@ -525,6 +525,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone | **20% OFF** Studio, first year: ~~$49~~ $39.20/yr, Nov 23 - Dec 1, 2026. No code needed. |
 | 🧶 | [Knitting Chart](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time). |
 | 🖼️ | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | **30% OFF** Lifetime ~~$29.99~~ **$20.99** one-time, no code needed, Nov 24 - Dec 1, 2026 |
+| 🌐 | [TOWeb 15](https://www.lauyan.com/en/pricing/?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=black-friday-2026) | Desktop website builder for Mac and Windows: write directly on the page, add an online store and bookings, then publish by FTP/SFTP to any web host. Works offline. Free Standard edition. | **30% OFF** every paid edition with code **BLACKFRIDAY30**: Premium ~~€99~~ €69.30, e-Commerce ~~€199~~ €139.30, Studio ~~€399~~ €279.30, one-time purchase, upgrades from TOWeb 14 included. Nov 26 - 30, 2026. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
