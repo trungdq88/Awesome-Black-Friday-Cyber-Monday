@@ -161,6 +161,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🖥️ | [Local Commander](https://localcmd.app/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) | Connect ChatGPT, Claude, Gemini CLI or your own agent to every computer you own: Windows 11, macOS and Linux. Ask in chat; the task runs on that computer and tells you how it ended. Free for up to 5 computers. | **60% OFF** the first month of a pack of 10 extra computers (~~$8~~ **$3.20**) or **75% OFF** the first year (~~$67.20~~ **$16.80**). No code needed. New subscriptions until Dec 1, 2026, 23:59 UTC |
 | 🔌 | [NewKwLab API Bundle](https://bundle.newkwlab.com/?utm_source=github-trungdq88&utm_medium=referral&utm_campaign=bfcm2026) | One API key for 60+ production APIs — email verification, data enrichment, weather, finance, flight and AI tools — with unified credits and one bill. | **Black Friday founding sale**: Annual plan **$249/yr** (regular $290) with the price locked for life, limited to 100 seats; never-expiring credit packs $79 / $199. No code needed. Nov 24 - Nov 30, 2026 |
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔥 Productivity
