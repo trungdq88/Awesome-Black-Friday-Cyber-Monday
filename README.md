@@ -334,6 +334,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎙️ | [shepetal](https://shepetal.app/pricing?ref=awesome-bf) | Dictation and meeting notes for the Mac that run on your Mac. Speech recognition works offline. Apple silicon, macOS 14.4 or later. | **80% OFF** the lifetime license with code **BLACKFRIDAY**: ~~€24~~ **€4.80**, one-time purchase. 30 days free trial. Until Nov 30, 2026. |
 | 🐦 | [Suzume Mail](https://www.yuzool.com/apps/suzume/) | Email for Mac, iPhone and iPad that reads like a chat, with on-device summaries and reply help. Works with your existing accounts over IMAP; your mail stays with your provider. | **50% OFF** the one-time unlock for all devices: ~~$19.99~~ **$9.99** US, no code (App Store price). **Nov 25 – Dec 2, 2026**. Free download with a 14-day trial. |
 | ✉️ | [Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026) | Back up Gmail, Outlook, and IMAP mail on your Mac, search saved messages offline, and restore them to another mailbox. | **30% OFF** the Horcrux 5 one-time purchase (US $49.99 → $34.99) with code `BLACKFRIDAY2026`, direct or on the Mac App Store. Nov 25 - Dec 1, 2026. |
+| 🔥 | [Fileside](https://fileside.app/?ref=abfcm) | A slick file manager for Mac and Windows with unlimited panes. Create workspaces for your projects. Build layouts of your folders. | 50% OFF at ~~$33~~ $16.50 between 23 and 30 Nov. One lifetime license, all your machines, both platforms. Code: BLKFRD26 |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
