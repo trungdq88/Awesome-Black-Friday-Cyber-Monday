@@ -335,6 +335,7 @@ Total deals: 648
 | 🔲 | [QR Factory 3](https://www.tunabellysoftware.com/qrfactory) | Create professional, high-quality QR codes with batch generation and web/print-ready export options. | 50% off Lifetime Access (automatically applied) |
 | 🎨  | [A1D AI](https://a1d.ai) | Create stunning whiteboard and hand-drawn animation videos in one click with A1D.ai! Many more AI design tools included. | 50% OFF with code **BLACKFRIDAY** |     
 | 🤯 | [HookAds](https://hookads.ai) | Hand Picked Creatives that makes your Ads go Viral | 70$ off on lifetime deal with code **BLACKFRIDAY** |
+| 🧩 | [AllSVGIcons MCP Pro](https://allsvgicons.com/mcp/?utm_source=bf26-trungdq88) | MCP server that gives Claude, Cursor and other AI agents 554,000+ free SVG icons and 3,000+ brand logos, with search and ready-to-paste SVG. | **Founding lifetime $29** instead of $79/yr, first 50 seats only, Nov 26 - Nov 30, 2026. No code needed. |
 
 [⬆️ Go to Top](#table-of-contents)
 
