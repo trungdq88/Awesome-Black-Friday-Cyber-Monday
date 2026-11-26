@@ -342,6 +342,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🔥 | [Fileside](https://fileside.app/?ref=abfcm) | A slick file manager for Mac and Windows with unlimited panes. Create workspaces for your projects. Build layouts of your folders. | 50% OFF at ~~$33~~ $16.50 between 23 and 30 Nov. One lifetime license, all your machines, both platforms. Code: BLKFRD26 |
 
 ⬆️ | [Go to Top](#table-of-contents)
+| 🎙️ | [Speakmac](https://www.speakmac.app/buy?utm_source=github_trungdq88&utm_medium=deal_list&utm_campaign=bf2026) | Private, offline voice dictation in any Mac app and bot-free meeting notes. On-device speech recognition & local cleanup; audio never leaves your Mac. | **35% OFF** one-time licenses: ~~$29~~ **$18.85** (1 Mac) / ~~$39~~ **$25.35** (2 Macs), code **BF2026** (auto-applied at checkout). Nov 26 - Dec 7, 2026 |
 
 ### 📱 Productivity Mobile Apps
 
