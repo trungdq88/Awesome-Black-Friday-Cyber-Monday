@@ -516,6 +516,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎬 | [Mockvid](https://mockvid.com/?utm_source=bf26-trungdq88) | Paste a URL, get a 3D animated mockup video of your website on laptop and phone | **20% OFF** Studio, first year: ~~$49~~ $39.20/yr, Nov 23 - Dec 1, 2026. No code needed. |
 | 🧶 | [Knitting Chart](https://knittingchart.com/pricing) | Draw knitting charts for colorwork, lace, and cable patterns, turn photos into charts, and export PDFs in your browser. | **32% OFF** Lifetime Pro: $40.12 once (was $59). No code needed (Nov 23–30, 2026, Pacific time). |
 | 🖼️ | [Backdrop](https://cindori.com/backdrop) | Interactive live wallpapers for your Mac's Lock Screen and desktop | **30% OFF** Lifetime ~~$29.99~~ **$20.99** one-time, no code needed, Nov 24 - Dec 1, 2026 |
+| 🧵 | [EmbroidKit](https://embroidkit.com/pricing?utm_source=awesome-bf-2026) | Online embroidery digitizer: upload a logo or artwork, preview stitches free, then download PES, DST, EXP, JEF, VP3, PEC or PEN with a one-time Gift, Studio or Shop pass. | **30% OFF** all passes with code **BFCM2026**: Gift ~~$9.99~~ **$6.99**, Studio ~~$29.99~~ **$20.99**, Shop ~~$179~~ **$125.30**. Nov 27–Dec 1, 2026. |
 
  ⬆️ | [Go to Top](#table-of-contents)
 
