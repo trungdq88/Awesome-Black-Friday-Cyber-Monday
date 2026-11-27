@@ -289,6 +289,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 📸 | [Melt](https://apps.apple.com/app/apple-store/id6816598058?pt=117978951&ct=bf-tonydinh&mt=8) | Native Mac menu bar tray for your recent screenshots and screen recordings: drag, copy or pin them, and let old ones move to the Trash on a schedule. One-time purchase, no subscription. | **40% OFF** ($4.99 → $2.99) on the Mac App Store, no code needed, **November 26 – 30, 2026** |
 
 ⬆️ | [Go to Top](#table-of-contents)
+| 🖥️ | [ProMax Display](https://promaxdisplay.com/?utm_source=tonybf) | Makes full-screen apps on notched MacBooks use the whole screen, including the strip beside the notch. Plus the Dynamic Island on your notch, Control Center gestures and Window Corners. | **30% OFF** ($9.99 → $6.99), applied automatically at checkout, no code needed. One-time purchase, 7-day free trial. Until **November 30, 2026**, then $14.99 |
 
 #### Time, Distraction, Focus
 
