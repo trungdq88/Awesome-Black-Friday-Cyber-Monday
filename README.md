@@ -543,6 +543,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🌱 | [Spring Prompt](https://springprompt.com/plans?ref=Awesome-Black-Friday-Cyber-Monday) | Two lines of code that test every LLM prompt in your app on other models and better wordings, and tell you when a cheaper model or a prompt fix would do the job, with the evidence. Python and Node. | **40% OFF** the first 3 months of either monthly plan with code **BF2026**: Basic ~~$49~~ **$29.40**/mo, Pro ~~$200~~ **$120**/mo. New subscriptions; USD, excluding tax. Nov 25 - Dec 1, 2026 |
 | 🔌 | [Elaichi](https://elaichi.ai/pricing/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) | Connect ChatGPT, Claude, Cursor and other AI apps to 1000+ work apps through one MCP endpoint, with per-person permissions and an audit log. Free plan available. | **50% OFF** the first year of any yearly plan with code **BLACKFRIDAY**: Gold ~~$120~~ **$60**/user/yr, Black ~~$216~~ **$108**/user/yr. New customers, Nov 25 - Dec 7, 2026 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=tonybf) | Create stunning faceless videos in minutes, not days! Grow your TikTok, YouTube, or Instagram faster with stunning AI-powered video creation. No skills needed - set and forget! We handle the rest.  | 40% OFF first month with code **BF2026** |
+| 🎬 | [seedance 3.0](https://seedance3ai.ai/) | Generate AI videos from text prompts or images. | **50% off** annual subscriptions. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
