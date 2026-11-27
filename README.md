@@ -170,6 +170,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🐑 | [RepoFlock](https://repoflock.com/?utm_source=github&utm_medium=organic&utm_campaign=black-friday-2026#pricing) | Desktop Git client for people with many repos and submodules: see which repo is behind or dirty, fetch, pull and push them all in one click, search across every repo. Windows, macOS, Linux; Free version for personal and commercial use. | **$10 OFF** Pro: one-time ~~$39~~ **$29**, no code needed, Nov 27 - Dec 1 08:00 UTC. Pro now includes RepoFlock Bot (Windows preview). |
 | 🛠️ | [JetBrains IDEs](https://blog.jetbrains.com/blog/2026/11/25/black-friday-2026/) | Professional IDEs with smart coding assistance, refactoring, debugging, and integrated AI tools. IntelliJ IDEA, PyCharm, WebStorm, PhpStorm, Rider, and more (macOS, Windows, Linux). | **40% OFF** with code **BF2026**, Nov 25 – Dec 2, 2026 |
 
+
 ⬆️ | [Go to Top](#table-of-contents)
 
 ## 🔥 Productivity
