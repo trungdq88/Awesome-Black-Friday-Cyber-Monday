@@ -571,6 +571,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 
 
 ⬆️ | [Go to Top](#table-of-contents)
+| 🎬 | [PromptToVisual](https://prompttovisual.com/black-friday?utm_source=awesomebfcm&utm_medium=github&utm_campaign=bfcm_2026) | 7-model AI video & 10-model AI image studio (Veo 3.1 Fast, MAGI-2 1080p+Audio, Kling 4.0, Seedance 2.5, Kling 2.6 Pro, Wan 3.0, MiniMax H3) on one private credit balance with 100% automatic failure refunds. | **62% OFF** one-time Never-Expire Pack: ~~$259.90~~ **$99** for 9,600 never-expiring credits (full SOTA unlocked, no code needed, applied at checkout). Also $4.99 Starter Video Pass (400 cr). Valid through Dec 31, 2026. |
 
 
 ## 🌅 Design Tools
