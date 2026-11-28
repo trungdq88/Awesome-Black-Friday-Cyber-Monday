@@ -732,7 +732,7 @@ Hi there! ❤️ I built multiple profitable products in public and also maintai
 | 🎫 | [Ticketdesk AI](https://ticketdesk.ai/?ref=Awesome-Black-Friday-Cyber-Monday) | AI-powered help desk and customer support ticketing. Manage email, chat and support tickets in one inbox with AI replies. | **30% OFF** with code **BF2026**, until Dec 1, 2026: Basic ~~$29~~ $20.3, Pro ~~$79~~ $55.3, Business ~~$249~~ $174.3 |
 | 🔔 | [Super Monitoring](https://www.supermonitoring.com/) | Website and web app monitoring for uptime, speed, and proper functioning. | **50% OFF**, one-time, only for new customers. Coupon code: **SUPERBLACK26**. Deal valid: from November 27 to December 15, 2026. |
 | 📊 | [Chartbrew](https://chartbrew.com) | Connect databases and APIs to build charts, dashboards, and reports with AI. Use MCP to explore your data with your AI assistant. | **20% OFF** for one year with code **CB6BFCM**, **Nov 2 – Dec 1, 2026**. Yearly billing (USD): Starter ~~$490~~ **$392**, Growth ~~$1,290~~ **$1,032**, Professional ~~$3,990~~ **$3,192** for the first year |
-
+| 🛡️ | [DarkWebSonar](https://darkwebsonar.io/pricing?utm_source=github&utm_campaign=bfcm26) | Dark web monitoring & threat intel: get alerted when your company, domains or emails show up in breaches, stealer logs or ransomware leak sites | **12 months for the price of 9** (3 months FREE vs monthly billing) on any yearly plan with code **CYBERSALE26**, until **Dec 1, 2026 (23:59 UTC)**. Yearly billing (USD): Starter ~~$490~~ **$441**, Growth ~~$990~~ **$891**, Pro ~~$1,990~~ **$1,791** for the first year |
 
 ⬆️ | [Go to Top](#table-of-contents)
 
